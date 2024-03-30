@@ -43,4 +43,4 @@ jobs:
         uses: devops-infra/action-pull-request@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: ${{year}}-${{mouth}}-${{day}} updated
+          commit_message: ${{`date "+%Y+%m+%d"`}} updated
