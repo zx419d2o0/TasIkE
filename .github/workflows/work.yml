@@ -37,10 +37,4 @@ jobs:
         uses: devops-infra/action-commit-push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_prefix: "123"
-
-      - name: Create pull request
-        uses: devops-infra/action-pull-request@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: ${{`date "+%Y+%m+%d"`}} updated
