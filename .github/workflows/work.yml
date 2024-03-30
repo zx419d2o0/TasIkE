@@ -32,10 +32,15 @@ jobs:
           mouth=`date "+%m"`
           day=`date "+%d"`
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
-
-      # Runs a set of commands using the runners shell
+          
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: $year-$mouth-$day updated
+          commit_prefix: "123"
+
+      - name: Create pull request
+        uses: devops-infra/action-pull-request@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: ${{year}}-${{mouth}}-${{day}} updated
