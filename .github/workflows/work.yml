@@ -27,7 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: download yaml latest
-        run: year=`date "+%Y"`
+        run: |
+          year=`date "+%Y"`
           mouth=`date "+%m"`
           day=`date "+%d"`
           echo $year-$mouth-$day
