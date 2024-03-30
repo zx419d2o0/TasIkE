@@ -31,8 +31,7 @@ jobs:
           mouth=`date "+%m"`
           day=`date "+%d"`
           # Other steps that change files in the repository
-          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
-          sed -i '1d' nodefree.yaml
+          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.txt
           # sed -i '/^\s*#/d' nodefree.yaml
 
       # Commit all changed files back to the repository
