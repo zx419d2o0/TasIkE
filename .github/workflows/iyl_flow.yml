@@ -27,7 +27,8 @@ jobs:
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           mkdir -p live
           git clone https://github.com/abskmj/iptv-youtube-live.git
-          mv live/channels.csv iptv-youtube-live/channels.csv
+          cp live/channels.csv iptv-youtube-live/channels.csv
+          cd iptv-youtube-live && npm i
           node iptv-youtube-live/src/m3u8.js
           ls /iptv-youtube-live
           rm -rf iptv-youtube-live
