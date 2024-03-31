@@ -51,25 +51,22 @@ jobs:
       - name: download json and default first
         id: step2
         run: |
-          mkdir -p json
+          clock=`date "+%Y%m%d%H%M%S"`
           arr=(
             http://xhww.fun/小米/DEMO.json
             http://www.饭太硬.top/tv
             http://我不是.肥猫.live/接口禁止贩卖
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
           )
-          curl -o dancang.json ${arr[i]}
+          mkdir -p json
+          curl -o json/dancang.json ${arr[0]}
+          echo "$i   ${arr[0]}">json/$clock.log
           for i in "${!arr[@]}";
           do
-            echo ${arr[i]};
             curl -o json/$i.json ${arr[i]}
-            # echo "${a[$i]}"
+            echo "$i   ${arr[i]}">json/$clock.log
           done
-          # for(( i=1;i<${#arr[@]};i++)) do
-          #   echo ${arr[i]};
-          #   curl -O ${arr[i]}
-          # done;
-          echo "clock=`date "+%Y%m%d%H%M%S"`" >> $GITHUB_OUTPUT
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
