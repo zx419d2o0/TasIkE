@@ -59,10 +59,16 @@ jobs:
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
           )
           curl -o dancang.json ${arr[i]}
-          for(( i=1;i<${#arr[@]};i++)) do
+          for i in "${!arr[@]}";
+          do
             echo ${arr[i]};
-            curl -O ${arr[i]}
-          done;
+            curl -o json/$i.json ${arr[i]}
+            # echo "${a[$i]}"
+          done
+          # for(( i=1;i<${#arr[@]};i++)) do
+          #   echo ${arr[i]};
+          #   curl -O ${arr[i]}
+          # done;
           echo "clock=`date "+%Y%m%d%H%M%S"`" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
