@@ -16,7 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  get_tv_interface_job:
+  parse_youtube_channel:
     runs-on: ubuntu-latest    
     steps:
       - uses: actions/checkout@v4
@@ -24,10 +24,12 @@ jobs:
         id: step2
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           mkdir -p live
           git clone https://github.com/abskmj/iptv-youtube-live.git
           cat iptv-youtube-live/channels.csv
-          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          echo "$clock">live/1.txt
+          rm -rf iptv-youtube-live
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
