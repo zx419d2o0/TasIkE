@@ -25,26 +25,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      # Runs a set of commands using the runners shell
       - name: download yaml latest
         id: step1
+      # Runs a set of commands using the runners shell
         run: |
           year=`date "+%Y"`
           mouth=`date "+%m"`
           day=`date "+%d"`
           # Other steps that change files in the repository
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
-          echo "test=1" > "$GITHUB_OUTPUT"
           # sed -i '/^\s*#/d' nodefree.yaml
-
-
+          echo "test=$nodefree.yaml" > "$GITHUB_OUTPUT"
 
   job_push:
     runs-on: ubuntu-latest
     needs: [job_update_nf, ]
     
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
       
       - name: add file
