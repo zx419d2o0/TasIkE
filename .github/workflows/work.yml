@@ -35,6 +35,7 @@ jobs:
           clock=`date "+%Y%m%d%H%M%S"`
           # Other steps that change files in the repository
           mkdir -p node
+          echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml"
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           sed -i '/^\s*#/d' nodefree.yaml
@@ -59,8 +60,8 @@ jobs:
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
           )
           mkdir -p json
+          rm json/*.log
           curl -o json/dancang.json ${arr[0]}
-          echo "$i   ${arr[0]}">json/$clock.log
           for i in "${!arr[@]}";
           do
             curl -o json/$i.json ${arr[i]}
