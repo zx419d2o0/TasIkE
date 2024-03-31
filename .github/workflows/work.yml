@@ -58,8 +58,8 @@ jobs:
             http://肥猫.live
           )
           for(( i=1;i<${#arr[@]};i++)) do
-            echo ${array[i]};
-            curl -O ${array[i]}
+            echo ${arr[i]};
+            curl -O ${arr[i]}
           done;
           echo "clock=`date "+%Y%m%d%H%M%S"`" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
