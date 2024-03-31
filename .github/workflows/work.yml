@@ -55,8 +55,10 @@ jobs:
           arr=(
             http://xhww.fun/小米/DEMO.json
             http://www.饭太硬.top/tv
-            http://肥猫.live
+            http://我不是.肥猫.live/接口禁止贩卖
+            https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
           )
+          curl -o dancang.json ${arr[i]}
           for(( i=1;i<${#arr[@]};i++)) do
             echo ${arr[i]};
             curl -O ${arr[i]}
