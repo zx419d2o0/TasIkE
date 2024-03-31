@@ -32,7 +32,7 @@ jobs:
           day=`date "+%d"`
           # Other steps that change files in the repository
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > "$GITHUB_OUTPUT"
-          sed -i '/^\s*#/d' nodefree.yaml
+          # sed -i '/^\s*#/d' nodefree.yaml
     outputs:
       output1: ${{ steps.dl_yaml_latest.outputs.test }}
 
