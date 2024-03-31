@@ -38,7 +38,7 @@ jobs:
           echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml"
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          sed -i '/^\s*#/d' nodefree.yaml
+          sed -i '/^\s*#/d' node/nodefree.yaml
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
