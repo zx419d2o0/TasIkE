@@ -44,6 +44,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'
 
   get_tv_interface_job:
     runs-on: ubuntu-latest    
@@ -71,4 +72,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'
 
