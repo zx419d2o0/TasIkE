@@ -26,9 +26,9 @@ jobs:
           clock=`date "+%Y%m%d%H%M%S"`
           mkdir -p live
           git clone https://github.com/abskmj/iptv-youtube-live.git
-          ls iptv-youtube-live
+          cat iptv-youtube-live/channels.csv
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-      # - uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message:  ${{ steps.step2.outputs.clock }} updated
-      #     push_options: '--force'
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'
