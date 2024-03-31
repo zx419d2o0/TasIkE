@@ -37,20 +37,23 @@ jobs:
           mkdir node
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          # sed -i '/^\s*#/d' nodefree.yaml
+          sed -i '/^\s*#/d' nodefree.yaml
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
 
-  # job2:
-  #   runs-on: ubuntu-latest    
-  #   steps:
-
-      
-  #     - name: add file
-  #       run:
-  #         echo 12345 ${{needs.job_update_nf.outputs.nodeyaml}}
-          
+  get_tv_interface_job:
+    runs-on: ubuntu-latest    
+    steps:
+      - uses: actions/checkout@v4
+      - name: download json and default first
+        id: step2
+        run: |
+          mkdir json
+          echo "clock=`date "+%Y%m%d%H%M%S"`" >> $GITHUB_OUTPUT
+      - name: test
+        run:
+          echo ${{ steps.step2.outputs.clock }}
 
