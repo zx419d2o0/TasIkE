@@ -24,8 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       # Runs a set of commands using the runners shell
-      - name: download yaml latest
-      - id: step1
+      # - name: download yaml latest
+      - id: dl_yaml_latest
         run: |
           year=`date "+%Y"`
           mouth=`date "+%m"`
@@ -34,7 +34,7 @@ jobs:
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > "$GITHUB_OUTPUT"
           sed -i '/^\s*#/d' nodefree.yaml
     outputs:
-      output1: ${{ steps.step1.outputs.test }}
+      output1: ${{ steps.dl_yaml_latest.outputs.test }}
 
 
   job_push:
