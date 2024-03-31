@@ -5,6 +5,8 @@ name: cat vod tv
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -31,11 +33,16 @@ jobs:
           mkdir -p json
           rm json/*.log
           curl -o json/dancang.json ${arr[0]}
-          for i in "${!arr[@]}";
-          do
-            curl -o json/$i.json ${arr[i]}
+          echo "current   ${arr[0]}">json/$clock.log
+          for(( i=1;i<${#arr[@]};i++)) do
             echo "$i   ${arr[i]}">>json/$clock.log
+            curl -O ${arr[i]}
           done
+          # for i in "${!arr[@]}";
+          # do
+          #   curl -o json/$i.json ${arr[i]}
+          #   echo "$i   ${arr[i]}">>json/$clock.log
+          # done
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
