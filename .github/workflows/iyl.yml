@@ -1,0 +1,34 @@
+# This is a basic workflow to help you get started with Actions
+
+name: iptv youtube live
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  # schedule:
+  #   - cron: '0 23 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  get_tv_interface_job:
+    runs-on: ubuntu-latest    
+    steps:
+      - uses: actions/checkout@v4
+      - name: clone abskmj repo
+        id: step2
+        run: |
+          clock=`date "+%Y%m%d%H%M%S"`
+          mkdir -p live
+          git clone https://github.com/abskmj/iptv-youtube-live.git
+          ls iptv-youtube-live
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+      # - uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message:  ${{ steps.step2.outputs.clock }} updated
+      #     push_options: '--force'
