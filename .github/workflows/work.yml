@@ -64,7 +64,7 @@ jobs:
           for i in "${!arr[@]}";
           do
             curl -o json/$i.json ${arr[i]}
-            echo "$i   ${arr[i]}">json/$clock.log
+            echo "$i   ${arr[i]}">>json/$clock.log
           done
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
