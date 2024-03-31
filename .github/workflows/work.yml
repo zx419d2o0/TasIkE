@@ -7,6 +7,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -16,34 +18,29 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  job_build:
-    name: download rss
+  job_update_nf:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/setup-node@v4
-      - name: xian sui bian xie 
-        run: |
-          `ls -la`
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      # - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # # Runs a set of commands using the runners shell
-      # - name: download yaml latest
-      #   run: |
-      #     year=`date "+%Y"`
-      #     mouth=`date "+%m"`
-      #     day=`date "+%d"`
-      #     # Other steps that change files in the repository
-      #     curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
-      #     # sed -i '/^\s*#/d' nodefree.yaml
+      # Runs a set of commands using the runners shell
+      - name: download yaml latest
+        run: |
+          year=`date "+%Y"`
+          mouth=`date "+%m"`
+          day=`date "+%d"`
+          # Other steps that change files in the repository
+          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
+          sed -i '/^\s*#/d' nodefree.yaml
 
-  job_commit:
+  job_push:
     runs-on: ubuntu-latest
-      # Commit all changed files back to the repository
     steps:
+      # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: nodefree updated
