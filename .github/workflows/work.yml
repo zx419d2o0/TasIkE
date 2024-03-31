@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -25,21 +23,27 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
       # Runs a set of commands using the runners shell
       - name: download yaml latest
+      - id: step1
         run: |
           year=`date "+%Y"`
           mouth=`date "+%m"`
           day=`date "+%d"`
           # Other steps that change files in the repository
-          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > nodefree.yaml
+          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > "$GITHUB_OUTPUT"
           sed -i '/^\s*#/d' nodefree.yaml
+    outputs:
+      output1: ${{ steps.step1.outputs.test }}
+
 
   job_push:
     runs-on: ubuntu-latest
-    steps:      
+    steps:
+      - uses: actions/checkout@v4
+      - name: add file
+        run:
+          echo ${{needs.job_update_nf.outputs.output1}}
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
