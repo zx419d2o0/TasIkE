@@ -34,7 +34,7 @@ jobs:
           day=`date "+%d"`
           clock=`date "+%Y%m%d%H%M%S"`
           # Other steps that change files in the repository
-          mkdir node
+          mkdir -p node
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           sed -i '/^\s*#/d' nodefree.yaml
@@ -51,9 +51,18 @@ jobs:
       - name: download json and default first
         id: step2
         run: |
-          mkdir json
+          mkdir -p json
+          arr=(
+            http://xhww.fun/小米/DEMO.json
+            http://www.饭太硬.top/tv
+            http://肥猫.live
+          )
+          for(( i=1;i<${#arr[@]};i++)) do
+            echo ${array[i]};
+            curl -O ${array[i]}
+          done;
           echo "clock=`date "+%Y%m%d%H%M%S"`" >> $GITHUB_OUTPUT
-      - name: test
-        run:
-          echo ${{ steps.step2.outputs.clock }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${{ steps.step2.outputs.clock }} updated
 
