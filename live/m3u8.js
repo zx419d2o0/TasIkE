@@ -9,7 +9,7 @@ const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
 ]
 
-const show_groups = ['央视','卫视','数字','地区','咪咕','YouTube','港澳台','广播','国际','韩国','日本','体育直播']
+const show_groups = ['央视','咪咕','体育直播','数字','卫视','地区','港澳台','YouTube','广播','国际','韩国','日本']
 
 const get_m3u_list = async (url) => {
 	const result = await fetch(url)
@@ -89,6 +89,12 @@ const filter_channel = (channel) =>{
     }
   })
   console.log('写入', channels.length)
+
+  channels.sort((a, b) => {
+    if (show_groups.indexOf(a.group.title) > show_groups.indexOf(b.group.title)) return 1
+    if (show_groups.indexOf(a.group.title) < show_groups.indexOf(b.group.title)) return -1
+    return 0
+  })
 
   for (let channel of channels) {
     playlist.write(`
