@@ -30,12 +30,20 @@ const filter_channel = (channel) =>{
     channel.name = channel.name.replace(item,'')
   })
   arr_cut_head.forEach(item => {
-    channel.name = channel.name.substring(channel.name.indexOf(item)+1)
-    channel.group.title = channel.group.title.substring(channel.group.title.indexOf(item)+1)
+    if (channel.name.includes(item)){
+      channel.name = channel.name.substring(channel.name.indexOf(item)+1)
+    }
+    if (channel.group.title.includes(item)){
+      channel.group.title = channel.group.title.substring(channel.group.title.indexOf(item)+1)
+    }
   })
   arr_cut_foot.forEach(item => {
-    channel.name = channel.name.substring(0, channel.name.indexOf(item))
-    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf(item))
+    if (channel.name.includes(item)){
+      channel.name = channel.name.substring(0, channel.name.indexOf(item))
+    }
+    if (channel.group.title.includes(item)){
+      channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf(item))
+    }
   })
 
   const arr_spec = ['5+', '4K', '8K']
