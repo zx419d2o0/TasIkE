@@ -5,8 +5,8 @@ name: iptv youtube live
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
+  # push:
+  #   branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -32,8 +32,7 @@ jobs:
           cd iptv-youtube-live && npm i && npm i iptv-playlist-parser
           node src/m3u8.js
           node src/sync.js
-          cd .. && mv iptv-youtube-live/dist/index.m3u8 live/youtube.m3u8
-          mv iptv-youtube-live/dist/tv.m3u8 live/tv.m3u8
+          cd .. && mv iptv-youtube-live/dist/tv.m3u8 live/tv.m3u8
           rm -rf iptv-youtube-live
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
