@@ -27,6 +27,7 @@ const filter_channel = (channel) =>{
   arr_filter.forEach(item => {
     channel.name = channel.name.replace(item,'')
   })
+  channel.group.title = channel.group.title.replace(' ', '')
   if (channel.group.title.includes('•')){
     channel.group.title = channel.group.title.substring(channel.group.title.indexOf('•')+1)
   } 
