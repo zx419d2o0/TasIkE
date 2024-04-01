@@ -28,6 +28,7 @@ const filter_channel = (channel) =>{
   const arr_cut_foot = ["「","(","频道"]
   arr_filter.forEach(item => {
     channel.name = channel.name.replace(item,'')
+    channel.group.title = channel.group.title.replace('item, '')
   })
   arr_cut_head.forEach(item => {
     if (channel.name.includes(item)){
