@@ -25,7 +25,7 @@ const get_m3u_list = async (url) => {
 const filter_channel = (channel) =>{
   const arr_filter = [" ", "-", "*"]
   const arr_cut_head = ["•"]
-  const arr_cut_foot = ["「","频道"]
+  const arr_cut_foot = ["「","(","频道"]
   arr_filter.forEach(item => {
     channel.name = channel.name.replace(item,'')
   })
