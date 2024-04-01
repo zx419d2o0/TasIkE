@@ -33,6 +33,9 @@ const filter_channel = (channel) =>{
   if(channel.group.title.includes('「')){
     channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('「'))
   }
+  if(channel.group.title.includes('(')){
+    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('('))
+  }
   if(channel.group.title.includes('频道')){
     channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('频道'))
   }
