@@ -28,7 +28,7 @@ jobs:
           mkdir -p live
           git clone https://github.com/abskmj/iptv-youtube-live.git
           cp live/channels_grab.csv iptv-youtube-live/channels.csv
-          cp live/m3u8.js src/sync.js
+          cp live/m3u8.js iptv-youtube-live/src/sync.js
           cd iptv-youtube-live && npm i && npm i iptv-playlist-parser
           node src/m3u8.js
           node src/sync.js
