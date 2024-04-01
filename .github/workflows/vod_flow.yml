@@ -32,17 +32,17 @@ jobs:
           )
           mkdir -p json
           rm json/*.log
-          curl -o json/dancang.json ${arr[0]}
-          echo "current   ${arr[0]}">json/$clock.log
-          for(( i=1;i<${#arr[@]};i++)) do
-            echo "$i   ${arr[i]}">>json/$clock.log
-            curl -o json/R{i}.json ${arr[i]}
-          done
-          # for i in "${!arr[@]}";
-          # do
-          #   curl -o json/$i.json ${arr[i]}
+          # curl -o json/dancang.json ${arr[0]}
+          # echo "current   ${arr[0]}">json/$clock.log
+          # for(( i=1;i<${#arr[@]};i++)) do
           #   echo "$i   ${arr[i]}">>json/$clock.log
+          #   curl -o json/${i}.json ${arr[i]}
           # done
+          for i in "${!arr[@]}";
+          do
+            curl -o json/$i.json ${arr[i]}
+            echo "$i   ${arr[i]}">>json/$clock.log
+          done
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
