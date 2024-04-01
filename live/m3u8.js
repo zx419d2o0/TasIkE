@@ -24,22 +24,19 @@ const get_m3u_list = async (url) => {
 
 const filter_channel = (channel) =>{
   const arr_filter = [" ", "-", "*"]
+  const arr_cut_head = ["•"]
+  const arr_cut_foot = ["「","频道"]
   arr_filter.forEach(item => {
     channel.name = channel.name.replace(item,'')
   })
-  channel.group.title = channel.group.title.replace(' ', '')
-  if (channel.group.title.includes('•')){
-    channel.group.title = channel.group.title.substring(channel.group.title.indexOf('•')+1)
-  } 
-  if(channel.group.title.includes('「')){
-    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('「'))
-  }
-  if(channel.group.title.includes('(')){
-    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('('))
-  }
-  if(channel.group.title.includes('频道')){
-    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf('频道'))
-  }
+  arr_cut_head.forEach(item => {
+    channel.name = channel.name.substring(channel.name.indexOf(item)+1)
+    channel.group.title = channel.group.title.substring(channel.group.title.indexOf(item)+1)
+  })
+  arr_cut_foot.forEach(item => {
+    channel.name = channel.name.substring(0, channel.name.indexOf(item))
+    channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf(item))
+  })
 
   const arr_spec = ['5+', '4K', '8K']
   for (let i=17;i>0;i--){
