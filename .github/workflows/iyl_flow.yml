@@ -28,21 +28,14 @@ jobs:
           mkdir -p live
           git clone https://github.com/abskmj/iptv-youtube-live.git
           cp live/channels_grab.csv iptv-youtube-live/channels.csv
-          cd iptv-youtube-live && npm i
+          cp live/m3u8.js src/sync.js
+          cd iptv-youtube-live && npm i && npm i iptv-playlist-parser
           node src/m3u8.js
+          node src/sync.js
           cd .. && mv iptv-youtube-live/dist/index.m3u8 live/youtube.m3u8
+          mv iptv-youtube-live/dist/tv.m3u8 live/tv.m3u8
           rm -rf iptv-youtube-live
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
           push_options: '--force'
-  job2:
-    runs-on: ubuntu-latest
-    steps:
-      - name: merge m3u8 file
-        id: step2
-        run:
-          clock=`date "+%Y%m%d%H%M%S"`
-          echo $clock
-    needs:
-      parse_youtube_channel
