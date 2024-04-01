@@ -93,7 +93,7 @@ const filter_channel = (channel) =>{
   for (let channel of channels) {
     playlist.write(`
 
-#EXTINF:-1 group-title="${channel.group.title}" tvg-logo="${channel.tvg.logo}", ${channel.name}
+#EXTINF:-1 group-title="${channel.group.title}" tvg-logo="${channel.tvg.logo}",${channel.name}
 ${channel.url}`)
   }
 
