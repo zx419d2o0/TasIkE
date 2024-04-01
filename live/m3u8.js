@@ -23,7 +23,7 @@ const get_m3u_list = async (url) => {
 }
 
 const filter_channel = (channel) =>{
-  const arr_filter = [" ", "-", "*"]
+  const arr_filter = [" ", "-"]
   const arr_cut_head = ["•"]
   const arr_cut_foot = ["「","(","频道"]
   arr_filter.forEach(item => {
@@ -31,18 +31,18 @@ const filter_channel = (channel) =>{
     channel.group.title = channel.group.title.replace(item, '')
   })
   arr_cut_head.forEach(item => {
-    if (channel.name.includes(item)){
+    if (channel.name.includes(item) && channel.name.indexOf(item)<2){
       channel.name = channel.name.substring(channel.name.indexOf(item)+1)
     }
-    if (channel.group.title.includes(item)){
+    if (channel.group.title.includes(item) && channel.group.title.indexOf(item)<2){
       channel.group.title = channel.group.title.substring(channel.group.title.indexOf(item)+1)
     }
   })
   arr_cut_foot.forEach(item => {
-    if (channel.name.includes(item)){
+    if (channel.name.includes(item) && channel.name.indexOf(item)>1){
       channel.name = channel.name.substring(0, channel.name.indexOf(item))
     }
-    if (channel.group.title.includes(item)){
+    if (channel.group.title.includes(item) && channel.group.title.indexOf(item)>1){
       channel.group.title = channel.group.title.substring(0, channel.group.title.indexOf(item))
     }
   })
