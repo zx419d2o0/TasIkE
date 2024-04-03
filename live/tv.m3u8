@@ -430,13 +430,13 @@ http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
-http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
-http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
