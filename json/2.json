@@ -193,10 +193,7 @@
       "name": "🌅┃白嫖┃影视",
       "type": 3,
       "api": "csp_BaiPiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.baipiaoys.com:9092"
+      "playerType": "2"
     },
     {
       "key": "saohuo",
