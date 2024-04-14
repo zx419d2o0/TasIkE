@@ -1,5 +1,5 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240414.jar;md5;a04dbe1aab6e31e03da7aee83b754c8b",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
@@ -30,7 +30,7 @@
       "name": "🐦┃视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
@@ -92,7 +92,8 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://www.czys03.com/"
     },
     {
       "key": "csp_AppRZ",
@@ -101,13 +102,6 @@
       "playerType": "2",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
-    },
-    {
-      "key": "攻阁",
-      "name": "🏮┃攻阁┃影视",
-      "type": 3,
-      "api": "csp_Lggys",
-      "playerType": 2
     },
     {
       "key": "csp_Freeok",
@@ -210,13 +204,6 @@
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/爱看.js"
-    },
-    {
-      "key": "外剧影视",
-      "name": "🙋┃外剧┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_KmeiJu"
     },
     {
       "key": "云播影视",
