@@ -93,8 +93,8 @@ const filter_channel = (channel) =>{
   channels.sort((a, b) => {
     if (show_groups.indexOf(a.group.title) > show_groups.indexOf(b.group.title)) return 1
     if (show_groups.indexOf(a.group.title) < show_groups.indexOf(b.group.title)) return -1
-    if (a.name.search(/\d+/g) == -1) return 1
-    if (b.name.search(/\d+/g) == -1) return -1
+    if (a.name.search(/\d+/g) == -1 && b.name.search(/\d+/g) != -1) return 1
+    if (b.name.search(/\d+/g) == -1 && a.name.search(/\d+/g) != -1) return -1
     return a.name.match(/\d+/g) - b.name.match(/\d+/g)
   })
 
