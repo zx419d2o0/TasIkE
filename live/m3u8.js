@@ -4,7 +4,8 @@ const fs = require('fs')
 
 const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/anguszh/Meroser-IPTV/main/IPTV.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
 ]
