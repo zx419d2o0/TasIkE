@@ -24,12 +24,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link rel="stylesheet" id="core-css" href="https://nodefree.org/wp-content/plugins/fb-reply/css/fbao_reply.css?ver=6.5.2" type="text/css" media="all" />
-<script type="75f13ea1f0969684131c6761-text/javascript" src="https://nodefree.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="75f13ea1f0969684131c6761-text/javascript" src="https://nodefree.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="105dbd3e79038301ae583b40-text/javascript" src="https://nodefree.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="105dbd3e79038301ae583b40-text/javascript" src="https://nodefree.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nodefree.org/xmlrpc.php?rsd" />
 <meta name="cdp-version" content="1.4.6" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T90KBG7F1F" type="75f13ea1f0969684131c6761-text/javascript"></script>
-<script type="75f13ea1f0969684131c6761-text/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T90KBG7F1F" type="105dbd3e79038301ae583b40-text/javascript"></script>
+<script type="105dbd3e79038301ae583b40-text/javascript">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -103,18 +103,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="action-item gotop j-top">
 <i class="wpcom-icon wi action-item-icon"><svg aria-hidden="true"><use xlink:href="#wi-arrow-up-2"></use></svg></i> </div>
 </div>
-<script type="75f13ea1f0969684131c6761-text/javascript">
+<script type="105dbd3e79038301ae583b40-text/javascript">
 var _paq = window._paq = window._paq || [];
 _paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/nodefree.org\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 g.type='text/javascript'; g.async=true; g.src="\/\/nodefree.org\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
 </script>
-<script type="75f13ea1f0969684131c6761-text/javascript" id="main-js-extra">
+<script type="105dbd3e79038301ae583b40-text/javascript" id="main-js-extra">
 /* <![CDATA[ */
 var _wpcom_js = {"webp":"","ajaxurl":"https:\/\/nodefree.org\/wp-admin\/admin-ajax.php","theme_url":"https:\/\/nodefree.org\/wp-content\/themes\/v1","slide_speed":"5000","is_admin":"0","js_lang":{"copy_done":"\u590d\u5236\u6210\u529f\uff01","copy_fail":"\u6d4f\u89c8\u5668\u6682\u4e0d\u652f\u6301\u62f7\u8d1d\u529f\u80fd","confirm":"\u786e\u5b9a","qrcode":"\u4e8c\u7ef4\u7801","page_loaded":"\u5df2\u7ecf\u5230\u5e95\u4e86","no_content":"\u6682\u65e0\u5185\u5bb9","load_failed":"\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u7a0d\u540e\u518d\u8bd5\uff01","expand_more":"\u9605\u8bfb\u5269\u4f59 %s"},"poster":{"notice":"\u8bf7\u957f\u6309\u4fdd\u5b58\u56fe\u7247\uff0c\u5c06\u5185\u5bb9\u5206\u4eab\u7ed9\u66f4\u591a\u597d\u53cb","generating":"\u6b63\u5728\u751f\u6210\u6d77\u62a5\u56fe\u7247...","failed":"\u6d77\u62a5\u56fe\u7247\u751f\u6210\u5931\u8d25"},"video_height":"482","fixed_sidebar":"1","dark_style":"0","font_url":"\/\/googlefonts.wp-china-yes.net\/css2?family=Noto+Sans+SC:wght@400;500&display=swap"};
 /* ]]> */
 </script>
-<script type="75f13ea1f0969684131c6761-text/javascript" src="https://nodefree.org/wp-content/themes/v1/js/main.js?ver=6.14.1" id="main-js"></script>
-<script type="75f13ea1f0969684131c6761-text/javascript" src="https://nodefree.org/wp-content/themes/v1/themer/assets/js/icons-2.7.7.js?ver=6.14.1" id="wpcom-icons-js"></script>
-<script type="75f13ea1f0969684131c6761-text/javascript">jQuery(function ($) { setup_share(1); });</script>
-<foreignObject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="75f13ea1f0969684131c6761-|49" defer></script></foreignObject></body>
+<script type="105dbd3e79038301ae583b40-text/javascript" src="https://nodefree.org/wp-content/themes/v1/js/main.js?ver=6.14.1" id="main-js"></script>
+<script type="105dbd3e79038301ae583b40-text/javascript" src="https://nodefree.org/wp-content/themes/v1/themer/assets/js/icons-2.7.7.js?ver=6.14.1" id="wpcom-icons-js"></script>
+<script type="105dbd3e79038301ae583b40-text/javascript">jQuery(function ($) { setup_share(1); });</script>
+<foreignObject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="105dbd3e79038301ae583b40-|49" defer></script></foreignObject></body>
 </html>
