@@ -1,5 +1,5 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240414.jar;md5;a04dbe1aab6e31e03da7aee83b754c8b",
+  "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
@@ -40,8 +40,28 @@
       "name": "🏔┃耐看┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Nkdy",
-      "searchable": 0
+      "api": "csp_Nkdy"
+    },
+    {
+      "key": "csp_NfApp",
+      "name": "🔷┃南坊┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_NfApp"
+    },
+    {
+      "key": "csp_Czys",
+      "name": "🍊┃橙汁┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czys"
+    },
+    {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
     },
     {
       "key": "csp_LiteApple",
