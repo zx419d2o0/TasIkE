@@ -6,7 +6,9 @@ const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
+  // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
 ]
@@ -74,10 +76,10 @@ const filter_channel = (channel) =>{
   let channels = parser.parse(diy_play).items
   for (let url of urls){
     try{ 
-    	let data = await get_m3u_list(url)
-	channels = [...channels, ...data.items]
-     } catch (err){ 
-    	console.log(err, url); 
+      let data = await get_m3u_list(url)
+        channels = [...channels, ...data.items]
+      } catch (err){ 
+        console.error(err, url); 
     } 
   }
   console.log('更新', channels.length)
@@ -85,6 +87,10 @@ const filter_channel = (channel) =>{
   const playlist = fs.createWriteStream('dist/tv.m3u8', { flags: 'w' })
 
   playlist.write('#EXTM3U x-tvg-url="https://hub.gitmirror.com/https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+
+  channels = channels.filter((channel, index, self) => {
+    return self.findIndex(item => item.url === channel.url) === index;
+});
 
   channels = channels.filter(channel => {
     const new_ch = filter_channel(channel)
