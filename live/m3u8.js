@@ -1,5 +1,6 @@
 const parser = require('iptv-playlist-parser');
-const fs = require('fs')
+const fs = require('fs');
+const { channel } = require('diagnostics_channel');
 
 
 const urls = [
@@ -20,6 +21,13 @@ const get_m3u_list = async (url) => {
   .then(async response => {
     const playlist = await response.text()
     const result = parser.parse(playlist)
+    const regex = /CCTV[^0-9]*5(?!\+)/i;
+    console.log(url.split("/").slice(-4).join('/'), '\u21B4')
+    result.items.forEach(channel => {
+      if (regex.test(channel.name)){
+        console.log(channel.url)
+      }
+    })
     return result
   })
   
