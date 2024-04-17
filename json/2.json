@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://www.czys03.com/"
+      "ext":"https://www.cz233.com/"
     },
     {
       "key": "csp_AppRZ",
@@ -232,6 +232,13 @@
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
+    },
+    {
+         "key": "小蚂蚁",
+         "name": "🐜┃蚂蚁┃影视",
+         "type": 3,
+         "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+         "ext": "http://dt.xn--yety82d.love/js/小蚂蚁2.js"
     },
     {
       "key": "csp_Xb6v",
