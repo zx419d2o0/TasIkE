@@ -73,8 +73,12 @@ const filter_channel = (channel) =>{
   const diy_play = fs.readFileSync('dist/index.m3u8', 'utf8')
   let channels = parser.parse(diy_play).items
   for (let url of urls){
-    let data = await get_m3u_list(url)
-    channels = [...channels, ...data.items]
+    try{ 
+    	let data = await get_m3u_list(url)
+	channels = [...channels, ...data.items]
+     } catch (err){ 
+    	console.log(err, url); 
+    } 
   }
   console.log('更新', channels.length)
 
