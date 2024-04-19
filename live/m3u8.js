@@ -103,6 +103,7 @@ const filter_channel = (channel) =>{
     const new_ch = filter_channel(channel)
     for (const group of show_groups){
       if (new_ch.group.title.includes(group)){
+	new_ch.group.title = group
         return new_ch
       }
     }
