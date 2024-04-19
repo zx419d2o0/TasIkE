@@ -1,6 +1,5 @@
 const parser = require('iptv-playlist-parser');
 const fs = require('fs');
-const { channel } = require('diagnostics_channel');
 
 
 const urls = [
@@ -110,13 +109,13 @@ const filter_channel = (channel) =>{
   })
   console.log('写入', channels.length)
 
-  channels.sort((a, b) => {
-    if (show_groups.indexOf(a.group.title) > show_groups.indexOf(b.group.title)) return 1
-    if (show_groups.indexOf(a.group.title) < show_groups.indexOf(b.group.title)) return -1
-    if (a.name.search(/\d+/g) == -1 && b.name.search(/\d+/g) != -1) return 1
-    if (b.name.search(/\d+/g) == -1 && a.name.search(/\d+/g) != -1) return -1
-    return a.name.match(/\d+/g) - b.name.match(/\d+/g)
-  })
+  // channels.sort((a, b) => {
+  //   if (show_groups.indexOf(a.group.title) > show_groups.indexOf(b.group.title)) return 1
+  //   if (show_groups.indexOf(a.group.title) < show_groups.indexOf(b.group.title)) return -1
+  //   if (a.name.search(/\d+/g) == -1 && b.name.search(/\d+/g) != -1) return 1
+  //   if (b.name.search(/\d+/g) == -1 && a.name.search(/\d+/g) != -1) return -1
+  //   return a.name.match(/\d+/g) - b.name.match(/\d+/g)
+  // })
 
   for (let channel of channels) {
     playlist.write(`
