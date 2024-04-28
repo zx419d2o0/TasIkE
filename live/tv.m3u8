@@ -6727,16 +6727,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8
-https://tv.cry33.com/ys4k.php?id=8k
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
-http://113.64.145.91:8081/hls/38/index.m3u8
+https://pi.0472.org/live/cctv8k.m3u8?token=241703
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
@@ -6861,14 +6852,8 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",CETV3
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
