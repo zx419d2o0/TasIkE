@@ -1,5 +1,5 @@
 {
-  "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
+  "spider": "https://cloud.lxweb.cn/f/kJJVip/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
@@ -41,13 +41,6 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy"
-    },
-    {
-      "key": "csp_NfApp",
-      "name": "🔷┃南坊┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_NfApp"
     },
     {
       "key": "csp_Czys",
@@ -160,14 +153,6 @@
       "filterable": 1
     },
     {
-      "key": "Libvio",
-      "name": "💐┃Lib┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/LIBVIO.js"
-    },
-    {
       "key": "FreeOK",
       "name": "️️👌┃Fre┃影视",
       "type": 3,
@@ -202,6 +187,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+            "key": "csp_GanFan",
+            "name": "🍙┃干饭┃影视",
+            "type": 3,
+            "api": "csp_GanFan",
+            "playerType": 2
+        },
     {
       "key": "白嫖",
       "name": "🌅┃白嫖┃影视",
@@ -339,6 +331,32 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
+ {
+            "key": "csp_SC1080",
+            "name": "🏰┃圣城┃影视",
+            "type": 3,
+            "api":"csp_XBPQ",
+            "ext":{
+                "线路数组":"data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
+                "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+                "播放数组":"sort-item\"&&</div>",
+                "嗅探词":".m3u8#.mp4#olemovienews.com",
+                "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;aAcCrRm0u0",
+                "分类":"电影$1#连续剧$2#综艺$3#动漫$4#记录片$5#Netflix$20"
+            }
+        },
+        {
+            "key":"csp_LIBVIO",
+            "name":"🍒┃荔波┃影视",
+            "type":3,
+            "api":"csp_XBPQ",
+            "playerType": 2,
+            "ext":{
+                "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
+                "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "线路数组": "<h3 class=\"iconfont&&</div>[不包含:视频下载#网盘]"
+            }
+        },
     {
       "key": "csp_SP360",
       "name": "📺┃360┃官源",
@@ -387,6 +405,18 @@
       "api": "csp_BookTing",
       "searchable": 0,
       "ext": "https://m.ting275.com",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "csp_YouShengBook",
+      "name": "📚┃有声┃小说",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_YouShengBook",
+      "searchable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -510,13 +540,12 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
-      "key": "csp_XiaoZhiTiao",
-      "name": "📜┃纸条┃网盘",
+      "key": "csp_aisou",
+      "name": "🔭┃爱搜┃夸克",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_AiPanSo",
+      "timeout": 30,
+      "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
