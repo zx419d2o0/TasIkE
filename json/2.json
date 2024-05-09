@@ -1,6 +1,7 @@
 {
-  "spider": "https://cloud.lxweb.cn/f/kJJVip/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3",
+  "spider": "https://cloud.lxweb.cn/f/qDZmfe/PandaQ240509.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+  "logo":"http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -34,6 +35,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "胖虎",
+      "name": "🐯┃胖虎┃影视",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Nkdy",
@@ -117,13 +127,6 @@
       "ext": "http://rzys.xyz/"
     },
     {
-      "key": "csp_Freeok",
-      "name": "️️👌┃FreeOK┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok"
-    },
-    {
       "key": "csp_Nmys",
       "name": "🌾┃农民┃影视",
       "type": 3,
@@ -187,13 +190,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-            "key": "csp_GanFan",
-            "name": "🍙┃干饭┃影视",
-            "type": 3,
-            "api": "csp_GanFan",
-            "playerType": 2
-        },
     {
       "key": "白嫖",
       "name": "🌅┃白嫖┃影视",
@@ -370,22 +366,6 @@
       "api": "csp_Voflix",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
-    },
-    {
-      "key": "csp_Duanju",
-      "name": "🎭┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Duanju",
-      "playerType": "2",
-      "searchable": 0
-    },
-    {
-      "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-      "playerType": 2
     },
     {
       "key": "alist",
