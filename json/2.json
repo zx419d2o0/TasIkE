@@ -53,13 +53,6 @@
       "api": "csp_Nkdy"
     },
     {
-      "key": "csp_Czys",
-      "name": "🍊┃橙汁┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czys"
-    },
-    {
       "key": "csp_Juqq",
       "name": "⭕┃剧圈┃影视",
       "type": 3,
@@ -71,7 +64,10 @@
       "name": "🍎┃苹果┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_LiteApple"
+      "api": "csp_LiteApple",
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Panda_玩偶哥哥",
@@ -189,13 +185,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "白嫖",
-      "name": "🌅┃白嫖┃影视",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": "2"
     },
     {
       "key": "saohuo",
