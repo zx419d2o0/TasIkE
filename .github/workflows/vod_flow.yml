@@ -25,8 +25,9 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           arr=(
+            http://ok321.top/tv
+            http://ok321.top/ok
             http://xhww.fun/小米/DEMO.json
-            http://www.饭太硬.top/tv
             http://我不是.肥猫.live/接口禁止贩卖
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
           )
