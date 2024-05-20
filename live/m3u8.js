@@ -8,6 +8,9 @@ const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
+  'https://盒子迷.top/ZB',
+  'https://4K.tvbox.中国,
   // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
