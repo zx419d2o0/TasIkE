@@ -642,285 +642,6 @@ http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 group-title="影视" tvg-logo="https://yang-1989.eu.org/logo/虎牙.png",中华小当家
 http://live.iill.top/huya.php?id=11342413
 
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",tvgidtvg-name tvg-logo group-title,CCTV-4K
-https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",tvgidtvg-name tvg-logo group-title,欢笑剧场4k
-https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
-
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg",4K60PSDRH264-AAC测试
-http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg",4K60PHLGHEVC-EAC3测试
-http://159.75.85.63:5680/d/ad/playad.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",tvgidtvg-name tvg-logo group-title,江苏卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",tvgidtvg-name tvg-logo group-title,广西卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",tvgidtvg-name tvg-logo group-title,四川卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",tvgidtvg-name tvg-logo group-title,湖南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",tvgidtvg-name tvg-logo group-title,浙江卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",tvgidtvg-name tvg-logo group-title,东方卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",tvgidtvg-name tvg-logo group-title,北京卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",tvgidtvg-name tvg-logo group-title,天津卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",tvgidtvg-name tvg-logo group-title,辽宁卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",tvgidtvg-name tvg-logo group-title,安徽卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",tvgidtvg-name tvg-logo group-title,黑龙江卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",tvgidtvg-name tvg-logo group-title,广东卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",tvgidtvg-name tvg-logo group-title,深圳卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",tvgidtvg-name tvg-logo group-title,湖北卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",tvgidtvg-name tvg-logo group-title,吉林卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",tvgidtvg-name tvg-logo group-title,山东卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",tvgidtvg-name tvg-logo group-title,江西卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",tvgidtvg-name tvg-logo group-title,河南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",tvgidtvg-name tvg-logo group-title,河北卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",tvgidtvg-name tvg-logo group-title,甘肃卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",tvgidtvg-name tvg-logo group-title,重庆卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",tvgidtvg-name tvg-logo group-title,东南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",tvgidtvg-name tvg-logo group-title,云南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",tvgidtvg-name tvg-logo group-title,贵州卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",tvgidtvg-name tvg-logo group-title,海南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",tvgidtvg-name tvg-logo group-title,欢笑剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",tvgidtvg-name tvg-logo group-title,劲爆体育 8M
-https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",tvgidtvg-name tvg-logo group-title,快乐垂钓 8M
-https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",tvgidtvg-name tvg-logo group-title,金鹰纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png",tvgidtvg-name tvg-logo group-title,戏曲精选 8M
-https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png",tvgidtvg-name tvg-logo group-title,上海第一财经 8M
-https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png",tvgidtvg-name tvg-logo group-title,上视新闻 8M
-https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海都市.png",tvgidtvg-name tvg-logo group-title,上海都市 8M
-https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",tvgidtvg-name tvg-logo group-title,上海纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png",tvgidtvg-name tvg-logo group-title,东方影视 8M
-https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/五星体育.png",tvgidtvg-name tvg-logo group-title,五星体育 8M
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视外语.png",tvgidtvg-name tvg-logo group-title,上视外语 8M
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png",tvgidtvg-name tvg-logo group-title,七彩戏剧 8M
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png",tvgidtvg-name tvg-logo group-title,上海教育 8M
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/全纪实.png",tvgidtvg-name tvg-logo group-title,全纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",tvgidtvg-name tvg-logo group-title,生活时尚 8M
-https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",tvgidtvg-name tvg-logo group-title,新视觉 8M
-https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",tvgidtvg-name tvg-logo group-title,游戏风云 8M
-https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png",tvgidtvg-name tvg-logo group-title,热门综艺 8M
-https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png",tvgidtvg-name tvg-logo group-title,超级体育 8M
-https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/健康养生.png",tvgidtvg-name tvg-logo group-title,健康养生 8M
-https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png",tvgidtvg-name tvg-logo group-title,百变课堂 8M
-https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png",tvgidtvg-name tvg-logo group-title,看天下精选 8M
-https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/华语影院.png",tvgidtvg-name tvg-logo group-title,华语影院 8M
-https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png",tvgidtvg-name tvg-logo group-title,电竞天堂 8M
-https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",tvgidtvg-name tvg-logo group-title,青春动漫 8M
-https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",tvgidtvg-name tvg-logo group-title,宝宝动画 8M
-https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",tvgidtvg-name tvg-logo group-title,星光影院 8M
-https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png",tvgidtvg-name tvg-logo group-title,谍战剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/全球大片.png",tvgidtvg-name tvg-logo group-title,全球大片 8M
-https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png",tvgidtvg-name tvg-logo group-title,热门剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png",tvgidtvg-name tvg-logo group-title,陶瓷高清 8M
-https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png",tvgidtvg-name tvg-logo group-title,中国教育-1 8M
-https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png",tvgidtvg-name tvg-logo group-title,中国教育-4 8M
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png",tvgidtvg-name tvg-logo group-title,卡酷少儿 8M
-https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png",tvgidtvg-name tvg-logo group-title,纪实科教 8M
-https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/茶.png",tvgidtvg-name tvg-logo group-title,茶
-https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png",tvgidtvg-name tvg-logo group-title,足球高清 8M
-https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png",tvgidtvg-name tvg-logo group-title,炫动卡通 8M
-https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",tvgidtvg-name tvg-logo group-title,东方财经 8M
-https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png",tvgidtvg-name tvg-logo group-title,都市剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",tvgidtvg-name tvg-logo group-title,动漫秀场 8M
-https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/Z.png",tvgidtvg-name tvg-logo group-title,法治天地 8M
-https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png",tvgidtvg-name tvg-logo group-title,金色学堂 8M
-https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",tvgidtvg-name tvg-logo group-title,魅力足球 8M
-https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
@@ -7943,6 +7664,285 @@ https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.
 
 #EXTINF:-1 group-title="▶YOUTUBE直播【2】" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png",CCTV中文国际
 https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4
+https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",欢笑剧场4k
+https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg",4K60PSDRH264-AAC测试
+http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg",4K60PHLGHEVC-EAC3测试
+http://159.75.85.63:5680/d/ad/playad.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
+https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
+https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
+https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
+https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
+https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
+https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视8M
+https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视8M
+https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视8M
+https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视8M
+https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视8M
+https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视8M
+https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视8M
+https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视8M
+https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视8M
+https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视8M
+https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视8M
+https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视8M
+https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视8M
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视8M
+https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",甘肃卫视8M
+https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视8M
+https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视8M
+https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视8M
+https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视8M
+https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视8M
+https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",欢笑剧场8M
+https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",劲爆体育8M
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓8M
+https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",金鹰纪实8M
+https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png",戏曲精选8M
+https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+
+#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png",上海第一财经8M
+https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png",上视新闻8M
+https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+
+#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海都市.png",上海都市8M
+https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+
+#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海纪实8M
+https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png",东方影视8M
+https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/五星体育.png",五星体育8M
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/上视外语.png",上视外语8M
+https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png",七彩戏剧8M
+https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+
+#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png",上海教育8M
+https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/全纪实.png",全纪实8M
+https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚8M
+https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉8M
+https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云8M
+https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png",热门综艺8M
+https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png",超级体育8M
+https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/健康养生.png",健康养生8M
+https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png",百变课堂8M
+https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png",看天下精选8M
+https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/华语影院.png",华语影院8M
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png",电竞天堂8M
+https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",青春动漫8M
+https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画8M
+https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",星光影院8M
+https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png",谍战剧场8M
+https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/全球大片.png",全球大片8M
+https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png",热门剧场8M
+https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png",陶瓷高清8M
+https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png",中国教育18M
+https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png",中国教育48M
+https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png",卡酷少儿8M
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png",纪实科教8M
+https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道8M
+https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png",足球高清8M
+https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png",炫动卡通8M
+https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经8M
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png",都市剧场8M
+https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场8M
+https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/Z.png",法治天地8M
+https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png",金色学堂8M
+https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球8M
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
