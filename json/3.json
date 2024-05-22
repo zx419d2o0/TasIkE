@@ -1,5 +1,5 @@
 {
-  "spider": "https://www.cloudewl.cn/down.php/e19f1ec4e057b3d304348ba3cf2b7370.jar;md5;e19f1ec4e057b3d304348ba3cf2b7370",
+  "spider": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo":"http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
@@ -33,8 +33,7 @@
       "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.80yy3.com/"
+      "filterable": 1
     },
     {
       "key": "胖虎",
@@ -43,7 +42,9 @@
       "api": "csp_Panghu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "https://physvod.com"
     },
     {
       "key": "csp_Nkdy",
@@ -320,15 +321,10 @@
             "key": "csp_SC1080",
             "name": "🏰┃圣城┃影视",
             "type": 3,
-            "api":"csp_XBPQ",
-            "ext":{
-                "线路数组":"data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
-                "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
-                "播放数组":"sort-item\"&&</div>",
-                "嗅探词":".m3u8#.mp4#olemovienews.com",
-                "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;aAcCrRm0u0",
-                "分类":"电影$1#连续剧$2#综艺$3#动漫$4#记录片$5#Netflix$20"
-            }
+            "api":"csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key":"csp_LIBVIO",
