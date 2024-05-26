@@ -25,11 +25,12 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           arr=(
+            https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json
             https://gitee.com/okjack/okk/raw/master/ok.txt
-            https://gitee.com/okjack/okk/raw/master/op.txt
             http://xhww.fun/小米/DEMO.json
             http://我不是.肥猫.live/接口禁止贩卖
-            https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+            http://ygbhbox.3vfree.club/pg/jsm.json
+            https://szyyds.cn/tv/x.json
           )
           mkdir -p json
           rm json/*.log
