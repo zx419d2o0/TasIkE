@@ -30,6 +30,7 @@ jobs:
             http://xhww.fun/小米/DEMO.json
             http://我不是.肥猫.live/接口禁止贩卖
             http://ygbhbox.3vfree.club/pg/jsm.json
+            )
           mkdir -p json
           rm json/*.log
           # curl -o json/dancang.json ${arr[0]}
