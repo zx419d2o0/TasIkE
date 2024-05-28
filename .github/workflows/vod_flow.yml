@@ -24,8 +24,13 @@ jobs:
         id: step2
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
-          echo "$clock" > tv/json/README.md
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          mkdir -p tv/json
+          echo "$clock" > tv/json/README.md
+          git clone https://github.com/gaotianliuyun/gao
+          mv gao/jar/pg.jar tv/json/
+          mv gao/js tv/json/json/
+          mv gao/lib tv/json/lib/
           arr=(
             http://xhww.fun/小米/DEMO.json
             https://gitee.com/okjack/okk/raw/master/ok.txt
@@ -33,11 +38,6 @@ jobs:
             http://ygbhbox.3vfree.club/pg/jsm.json
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
             )
-          mkdir -p tv/json
-          git clone https://github.com/gaotianliuyun/gao
-          mv gao/jar/pg.jar tv/json/
-          mv gao/js tv/json/json/
-          mv gao/lib tv/json/lib/
           # curl -o json/dancang.json ${arr[0]}
           # echo "current   ${arr[0]}">json/$clock.log
           # for(( i=1;i<${#arr[@]};i++)) do
