@@ -28,9 +28,9 @@ jobs:
           mkdir -p tv/vod
           echo "$clock" > tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
-          mv gao/jar/pg.jar tv/vod/
-          mv gao/js tv/vod/json/
-          mv gao/lib tv/vod/lib/
+          mv gao/jar/pg.jar tv/vod
+          mv gao/js tv/vod/json
+          mv gao/lib tv/vod/lib
           arr=(
             http://xhww.fun/小米/DEMO.json
             https://gitee.com/okjack/okk/raw/master/ok.txt
