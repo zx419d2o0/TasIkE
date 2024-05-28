@@ -36,6 +36,7 @@ const get_youtube_m3u8 = async (channel, playlist) => {
         columns: true,
         skip_empty_lines: true
     })
+    console.log(channels)	
     const playlist = fs.createWriteStream('dist/youtube.m3u8', { flags: 'w' })
     playlist.write('#EXTM3U x-tvg-url="https://hub.gitmirror.com/https://github.com/botallen/epg/releases/download/latest/epg.xml"')
     playlist.write_channel = (channel) => {
