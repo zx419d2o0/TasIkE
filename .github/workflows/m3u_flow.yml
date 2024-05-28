@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: iptv youtube live
+name: tv/live/tv.m3u
 
 # Controls when the workflow will run
 on:
@@ -16,20 +16,23 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  parse_youtube_channel:
+  iptv_youtube_live:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: clone abskmj repo
+      - name: parse youtube channel
         id: step2
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           mkdir -p temp_tv_live
+          ls -l
           cp tv/live/* temp_tv_live
+          ls temp_tv_live
           cd temp_tv_live && npm i iptv-playlist-parser csv-parse
           node generate.js
           node merge.js
+          ls
           cd .. && mv temp_tv_live/tv.m3u8 tv/live/tv.m3u8
           rm -rf temp_tv_live
       - uses: stefanzweifel/git-auto-commit-action@v5
