@@ -26,13 +26,10 @@ jobs:
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           mkdir -p temp_tv_live
-          ls -l
           cp tv/live/* temp_tv_live
-          ls temp_tv_live
           cd temp_tv_live && npm i iptv-playlist-parser csv-parse
           node generate.js
           node merge.js
-          ls
           cd .. && mv temp_tv_live/tv.m3u8 tv/live/tv.m3u8
           rm -rf temp_tv_live
       - uses: stefanzweifel/git-auto-commit-action@v5
