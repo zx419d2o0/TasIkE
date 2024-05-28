@@ -41,7 +41,7 @@ const get_youtube_m3u8 = async (channel, playlist) => {
     playlist.write_channel = (channel) => {
         playlist.write(`
 
-#EXTINF:-1 group-title="${channel.name}" tvg-logo="${channel.logo}", ${channel.name}
+#EXTINF:-1 group-title="${channel.group}" tvg-logo="${channel.logo}", ${channel.name}
 ${channel.url}`)
     }
 
