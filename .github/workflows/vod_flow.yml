@@ -28,6 +28,7 @@ jobs:
           mkdir -p tv/vod/json
           mkdir -p tv/vod/lib
           echo "https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/jsm.json  " > tv/vod/README.md
+          echo "" > tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/pg.jar tv/vod/
           mv gao/js/* tv/vod/json/
