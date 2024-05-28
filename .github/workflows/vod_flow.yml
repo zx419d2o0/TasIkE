@@ -47,7 +47,7 @@ jobs:
           for i in "${!arr[@]}";
           do
             curl -o json/$i.json ${arr[i]}
-            echo "$i   ${arr[i]}">>tv/vod/README.md
+            echo "$i. ${arr[i]}。">>tv/vod/README.md
           done
           rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
