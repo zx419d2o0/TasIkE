@@ -25,12 +25,12 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          rm -rf tv/vod/json
-          rm -rf tv/vod/lib
+          # rm -rf tv/vod/json
+          # rm -rf tv/vod/lib
           mkdir -p tv/vod/json
           mkdir -p tv/vod/lib
-          echo "https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/jsm.json  " > tv/vod/README.md
-          echo "" >> tv/vod/README.md
+          echo "||https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/jsm.json|" > tv/vod/README.md
+          echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/pg.jar tv/vod/
           mv gao/json/* tv/vod/json/
@@ -51,7 +51,7 @@ jobs:
           for i in "${!arr[@]}";
           do
             curl -o tv/vod/$i.json ${arr[i]}
-            echo "[$i.](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)    ${arr[i]}  ">>tv/vod/README.md
+            echo "|[$i](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|${arr[i]}|">>tv/vod/README.md
           done
           rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
