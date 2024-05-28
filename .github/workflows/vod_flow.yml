@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: cat vod tv
+name: tv/json
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  # push:
-    # branches: [ "main" ]
+  push:
+    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -24,6 +24,8 @@ jobs:
         id: step2
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
+          echo "$clock" > tv/json/README.md
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           arr=(
             http://xhww.fun/小米/DEMO.json
             https://gitee.com/okjack/okk/raw/master/ok.txt
@@ -31,20 +33,23 @@ jobs:
             http://ygbhbox.3vfree.club/pg/jsm.json
             https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
             )
-          mkdir -p json
-          rm json/*.log
+          mkdir -p tv/json
+          git clone https://github.com/gaotianliuyun/gao
+          mv gao/jar/pg.jar tv/json/
+          mv gao/js tv/json/json/
+          mv gao/lib tv/json/lib/
           # curl -o json/dancang.json ${arr[0]}
           # echo "current   ${arr[0]}">json/$clock.log
           # for(( i=1;i<${#arr[@]};i++)) do
-          #   echo "$i   ${arr[i]}">>json/$clock.log
+          #   echo "$i   ${arr[i]}">>json/README.md
           #   curl -o json/${i}.json ${arr[i]}
           # done
           for i in "${!arr[@]}";
           do
             curl -o json/$i.json ${arr[i]}
-            echo "$i   ${arr[i]}">>json/$clock.log
+            echo "$i   ${arr[i]}">>tv/json/$clock.log
           done
-          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
