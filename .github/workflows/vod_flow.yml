@@ -25,9 +25,11 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          rm -rf tv/vod/json
+          rm -rf tv/vod/lib
           mkdir -p tv/vod/json
           mkdir -p tv/vod/lib
-          echo "$clock" > tv/vod/README.md
+          echo "$clock  " > tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/pg.jar tv/vod/
           mv gao/js/* tv/vod/json/
@@ -47,7 +49,7 @@ jobs:
           # done
           for i in "${!arr[@]}";
           do
-            curl -o json/$i.json ${arr[i]}
+            curl -o tv/vod/$i.json ${arr[i]}
             echo "$i.    ${arr[i]}  ">>tv/vod/README.md
           done
           rm -rf gao
