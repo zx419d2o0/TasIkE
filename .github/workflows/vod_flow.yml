@@ -25,9 +25,9 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          # rm -rf tv/vod/json
+          rm -rf tv/vod/json
           # rm -rf tv/vod/lib
-          mkdir -p tv/vod/json
+          mkdir -p tv/vod/js
           mkdir -p tv/vod/lib
           echo "||https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/jsm.json|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
@@ -36,7 +36,7 @@ jobs:
           md5sum tv/vod/pg.jar | cut -d ' ' -f 1 > tv/vod/pg.jar.md5
           mv gao/0825.json tv/vod/pg.json
           sed -i 's#"spider":"./jar/pg.jar.*"#"spider":"./pg.jar;"#' tv/vod/pg.json
-          mv gao/json/* tv/vod/json/
+          mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
             http://xhww.fun/小米/DEMO.json
