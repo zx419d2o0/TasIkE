@@ -36,7 +36,7 @@ jobs:
           md5sum tv/vod/pg.jar | cut -d ' ' -f 1 > tv/vod/pg.jar.md5
           mv gao/js.json tv/vod/
           sed -i 's#"spider":"./jar/pg.jar.*"#"spider":"./pg.jar;"#' tv/vod/js.json
-          sed -i '/^{.*\.\/json\/.*}$/d' tv/vod/js.json
+          sed -i '/^{.*\.\/json\/.*},$/d' tv/vod/js.json
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
