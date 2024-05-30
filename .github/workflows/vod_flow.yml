@@ -33,7 +33,9 @@ jobs:
           echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/pg.jar tv/vod/
-          echo $(md5sum file.txt) > tv/vod/pg.jar.md5
+          echo $(md5sum tv/vod/pg.jar) > tv/vod/pg.jar.md5
+          mv gao/0825.json tv/vod
+          sed -i 's#"spider":"./jar/pg.jar.*"#"spider":"./pg.jar;"#' tv/vod/pg.json
           mv gao/json/* tv/vod/json/
           mv gao/lib/* tv/vod/lib/
           arr=(
