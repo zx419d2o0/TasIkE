@@ -41,22 +41,28 @@ jobs:
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
-            http://xhww.fun/小米/DEMO.json
-            https://gitee.com/okjack/okk/raw/master/ok.txt
-            http://我不是.肥猫.live/接口禁止贩卖
-            http://ygbhbox.3vfree.club/pg/jsm.json
-            https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-            )
+            "http://www.饭太硬.com/tv,true"
+            "http://xhww.fun/小米/DEMO.json,false"
+            "https://gitee.com/okjack/okk/raw/master/ok.txt,true"
+            "http://我不是.肥猫.live/接口禁止贩卖,false"
+            "http://ygbhbox.3vfree.club/pg/jsm.json,false"
+            "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
+          )
           # curl -o json/dancang.json ${arr[0]}
           # echo "current   ${arr[0]}">json/$clock.log
           # for(( i=1;i<${#arr[@]};i++)) do
           #   echo "$i   ${arr[i]}">>json/README.md
           #   curl -o json/${i}.json ${arr[i]}
           # done
-          for i in "${!arr[@]}";
-          do
-            curl -o tv/vod/$i.json ${arr[i]}
-            echo "|[$i](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|${arr[i]}|">>tv/vod/README.md
+          for i in "${!arr[@]}"; do
+            IFS=',' read -r url flag <<< "${arr[i]}"
+            
+            if [[ "$flag" == "true" ]]; then
+              curl -o "tv/vod/$i.json" "https://www.饭太硬.com/jm/jiemi.php?url=$url"
+            else
+              curl -o "tv/vod/$i.json" "$url"
+            fi
+            echo "|[$i](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
           rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
