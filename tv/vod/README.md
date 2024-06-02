@@ -1,4 +1,4 @@
-||https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/jsm.json|
+||https://https://github.moeyy.xyz/raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/js.json|
 |---|---|
 |[0](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/0.json)|http://www.饭太硬.com/tv|
 |[1](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/1.json)|http://xhww.fun/小米/DEMO.json|
