@@ -1,5 +1,5 @@
 {
-  "spider": "https://mpimg.cn/down.php/62c64a48bd009f9391e7dcd6bd3cf989.jar;md5;62c64a48bd009f9391e7dcd6bd3cf989",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo":"http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
@@ -19,12 +19,20 @@
       "searchable": 0
     },
     {
+            "key": "csp_Duopan",
+            "name": "🖍︎┃蜡笔┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://duopan.fun/"
+        },
+    {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
+      "api": "http://dt.xn--yety82d.love/js/ng_open.js"
     },
     {
       "key": "新视觉",
@@ -164,8 +172,7 @@
       "name": " 👗┃骚火┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/骚火.js"
+      "api": "csp_SaoHuo"
     },
     {
       "key": "云播影视",
