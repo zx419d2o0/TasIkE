@@ -35,9 +35,9 @@ jobs:
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/pg.jar tv/vod/jar
           md5sum tv/vod/jar/pg.jar | cut -d ' ' -f 1 > tv/vod/jar/pg.jar.md5
-          mv gao/js.json tv/vod/
+          mv gao/0825.json tv/vod/js.json
           # sed -i 's#"spider":"./jar/pg.jar.*"#"spider":"./pg.jar;"#' tv/vod/js.json
-          sed -i '/^{.*\.\/json\/.*},/d' tv/vod/js.json
+          # sed -i '/^{.*\.\/json\/.*},/d' tv/vod/js.json
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
