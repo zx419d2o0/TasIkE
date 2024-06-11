@@ -13,11 +13,13 @@ const urls = [
   // 'https://4K.tvbox.中国',
   // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
+
+  'https://raw.gitmirror.com/cysk003/ygbh66_test/ff58ef1b599d9c9bebffc4a3a3427e1164ab5163/tw.txt'
 ]
 
 const get_m3u_list = async (url) => {
-	const result = await fetch(url)
+  const result = await fetch(url)
   .then(async response => {
     const lines = await response.text()
     const arr_line = lines.split('\n')
@@ -32,6 +34,40 @@ const get_m3u_list = async (url) => {
       }
     })
     return result
+  })
+  
+  return result
+}
+
+const get_txt_list = async (url) => {
+  const result = await fetch(url)
+  .then(async response => {
+    const content = await response.text()
+    const lines = content.split('\n')
+    let group_title = ''
+    let channels = []
+    for (const line of lines){
+      arr_line = line.split(',')
+      if (arr_line.length == 2){
+        if (arr_line[1] === '#genre#'){
+          group_title = arr_line[0]
+        } else if (arr_line[1].includes('://')){
+          channels.push({
+            'group': {'title': group_title},
+            'tvg': {'logo': ''},
+            'name': arr_line[0],
+            'url': arr_line[1],
+          })
+        }
+      }
+    }
+    const regex = /CCTV[^0-9]*5(?!\+)/i;
+    channels.forEach(channel => {
+      if (regex.test(channel.name)){
+        console.log(channel.url)
+      }
+    })
+    return channels
   })
   
   return result
@@ -88,8 +124,13 @@ const filter_channel = (channel) =>{
   let channels = []
   for (let url of urls){
     try{ 
-      let data = await get_m3u_list(url)
-        channels = [...channels, ...data.items]
+      let data = []
+      if (url.endsWith('.m3u') || url.endsWith('.m3u8')){
+        data = await get_m3u_list(url)
+      } else if (url.endsWith('.txt')){
+        data = await get_txt_list(url)
+      }
+        channels = [...channels, ...data]
       } catch (err){ 
         console.error(err, url); 
     } 
@@ -105,8 +146,7 @@ const filter_channel = (channel) =>{
 });
 
   channels = channels.filter(channel => {
-    const new_ch = filter_channel(channel)
-    return new_ch
+    return filter_channel(channel)
   })
   console.log('写入', channels.length)
 
