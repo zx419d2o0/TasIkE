@@ -7,7 +7,7 @@ const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/880824/TV/main/live-online.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
+  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv4gg.m3u',
   // 'https://4K.tvbox.中国',
