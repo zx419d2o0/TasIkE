@@ -2,7 +2,7 @@ const fs = require('fs');
 const { parse } = require('csv-parse/sync');
 
 
-const get_youtube_m3u8 = async (channel, playlist) => {
+const parse_youtube_m3u8 = async (channel, playlist) => {
 	await fetch(channel.url).then(async response => {
         const text = await response.text()
         let end = text.indexOf('.m3u8') + 5;
@@ -37,22 +37,22 @@ const get_youtube_m3u8 = async (channel, playlist) => {
         skip_empty_lines: true
     })
     const playlist = fs.createWriteStream('youtube.m3u8', { flags: 'w' })
-    playlist.write('#EXTM3U x-tvg-url="https://hub.gitmirror.com/https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-    playlist.write_channel = (channel) => {
-        playlist.write(`
+    playlist.write('#EXTM3U')
+//     playlist.write_channel = (channel) => {
+//         playlist.write(`
 
-#EXTINF:-1 group-title="${channel.group}" tvg-logo="${channel.logo}", ${channel.name}
-${channel.url}`)
-    }
+// #EXTINF:-1 group-title="${channel.group}" tvg-logo="${channel.logo}", ${channel.name}
+// ${channel.url}`)
+//     }
 
     const promises = [];
     for (const channel of channels) {
-        if (channel.type === 'youtube') {
-            const promise = get_youtube_m3u8(channel, playlist)
-            promises.push(promise)
-        } else {
-            playlist.write_channel(channel)
-        }
+        // if (channel.type === 'youtube') {
+            const promise = parse_youtube_m3u8(channel, playlist)
+        //     promises.push(promise)
+        // } else {
+        //     playlist.write_channel(channel)
+        // }
     }
     await Promise.all(promises)
     playlist.end()
