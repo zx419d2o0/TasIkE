@@ -15,7 +15,7 @@ const urls = [
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
 
-  'https://raw.gitmirror.com/cysk003/ygbh66_test/ff58ef1b599d9c9bebffc4a3a3427e1164ab5163/tw.txt'
+  'https://raw.githubusercontent.com/cysk003/ygbh66_test/master/tw.txt'
 ]
 
 const get_m3u_list = async (url) => {
