@@ -36,7 +36,7 @@ const get_m3u_list = async (url) => {
     return result
   })
   
-  return result
+  return result.items
 }
 
 const get_txt_list = async (url) => {
@@ -62,6 +62,7 @@ const get_txt_list = async (url) => {
       }
     }
     const regex = /CCTV[^0-9]*5(?!\+)/i;
+    console.log(url.split("/").slice(-4).join('/'), '\u21B4')
     channels.forEach(channel => {
       if (regex.test(channel.name)){
         console.log(channel.url)
