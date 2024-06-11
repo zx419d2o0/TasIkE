@@ -7,17 +7,17 @@ const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/880824/TV/main/live-online.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
-  // 'https://盒子迷.top/ZB',
-  'https://4K.tvbox.中国',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv6.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv4gg.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv61.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv61gg.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv6gg.m3u',
+  // 'https://4K.tvbox.中国',
   // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u'
 ]
-
-// const show_groups = ['央视','咪咕','体育直播','数字','卫视','地区','港澳台','YouTube','广播','国际','韩国','日本']
 
 const get_m3u_list = async (url) => {
 	const result = await fetch(url)
@@ -67,7 +67,7 @@ const filter_channel = (channel) =>{
 
   const arr_spec = ['5+', '4K', '8K']
   for (let i=17;i>0;i--){
-    if (channel.name.includes('CCTV'+i)){
+    if (channel.name.replaceAll(' ','').includes('CCTV'+i)){
       for (const item of arr_spec){
         if (channel.name.includes(item)){
           channel.name = 'CCTV'+item
@@ -86,8 +86,9 @@ const filter_channel = (channel) =>{
 }
 
 ( async ()=>{
-  const diy_play = fs.readFileSync('youtube.m3u8', 'utf8')
-  let channels = parser.parse(diy_play).items
+  // const diy_play = fs.readFileSync('youtube.m3u8', 'utf8')
+  // let channels = parser.parse(diy_play).items
+  let channels = []
   for (let url of urls){
     try{ 
       let data = await get_m3u_list(url)
@@ -100,7 +101,7 @@ const filter_channel = (channel) =>{
 
   const playlist = fs.createWriteStream('tv.m3u8', { flags: 'w' })
 
-  playlist.write('#EXTM3U x-tvg-url="https://hub.gitmirror.com/https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+  playlist.write('#EXTM3U')
 
   channels = channels.filter((channel, index, self) => {
     return self.findIndex(item => item.url === channel.url) === index;
@@ -109,22 +110,8 @@ const filter_channel = (channel) =>{
   channels = channels.filter(channel => {
     const new_ch = filter_channel(channel)
     return new_ch
- //    for (const group of show_groups){
- //      if (new_ch.group.title.includes(group)){
-	// new_ch.group.title = group
- //        return new_ch
- //      }
- //    }
   })
   console.log('写入', channels.length)
-
-  // channels.sort((a, b) => {
-  //   if (show_groups.indexOf(a.group.title) > show_groups.indexOf(b.group.title)) return 1
-  //   if (show_groups.indexOf(a.group.title) < show_groups.indexOf(b.group.title)) return -1
-  //   if (a.name.search(/\d+/g) == -1 && b.name.search(/\d+/g) != -1) return 1
-  //   if (b.name.search(/\d+/g) == -1 && a.name.search(/\d+/g) != -1) return -1
-  //   return a.name.match(/\d+/g) - b.name.match(/\d+/g)
-  // })
 
   for (let channel of channels) {
     playlist.write(`
