@@ -78,179 +78,151 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇮🇪_IE_爱尔兰_1","type":"trojan","server":"34.251.156.68","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":false,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国_1","type":"trojan","server":"172.67.215.180","port":443,"udp":true,"password":"f91f38bb-72d5-4f3e-8311-1788986293f5","sni":"iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"2pxF1YL0obWgOVYsTfLJX3ihXJUp"}}
-  - {"name":"🇺🇸_US_美国_2","type":"trojan","server":"172.233.146.107","port":23333,"udp":true,"password":"450524c4-86ee-4a97-ac7f-888942039bcd","sni":"test.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰","type":"vmess","server":"5.182.86.28","port":12307,"cipher":"auto","uuid":"9ad4e318-03fc-4e3b-e0ab-d86d2017de71","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_1","type":"trojan","server":"104.21.72.61","port":8443,"udp":true,"password":"Jncm1NRGbZ","sni":"frankfoortvip.followprovider.ir","skip-cert-verify":false,"network":"grpc","grpc-opts":{"grpc-service-name":"frankfoortvip.followprovider.ir"}}
-  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"64.176.15.74","port":3389,"cipher":"auto","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}
-  - {"name":"🇺🇸_US_美国->🇵🇹_PT_葡萄牙","type":"vmess","server":"104.26.3.120","port":80,"cipher":"auto","uuid":"f94c274d-f9c5-4c47-a3f5-fa839d80bfb1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/etc","headers":{"host":"dl3.mrarsha.邁達安.iron.鐵面具.dog垃圾場狗.巴黎之下.suonycars.buzz."}}}
+  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_1","type":"trojan","server":"104.21.34.77","port":2096,"udp":true,"password":"A9l6_eMgylRZu0YiSqunsQ","sni":"usa.iwontletgo.cloud","skip-cert-verify":false,"network":"grpc","grpc-opts":{"grpc-service-name":"trojan"}}
+  - {"name":"🇺🇸_US_美国_1","type":"trojan","server":"104.21.20.148","port":2087,"udp":true,"password":"f85e2ad7-3e26-4589-b478-b0b15b9b5907","sni":"us1.trojanvpn.de","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"grpc"}}
   - {"name":"🇸🇪_SE_瑞典->🇩🇪_DE_德国","type":"trojan","server":"185.146.173.29","port":443,"udp":true,"password":"f91f38bb-72d5-4f3e-8311-1788986293f5","sni":"iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"2pxF1YL0obWgOVYsTfLJX3ihXJUp"}}
-  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"104.19.38.28","port":8880,"cipher":"auto","uuid":"028c8131-9e3e-4836-94ac-ea7f24d4d05a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm","headers":{"host":"funk-england-indirect-gospel.trycloudflare.com"}}}
-  - {"name":"🇮🇪_IE_爱尔兰_2","type":"trojan","server":"54.154.236.98","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":false,"network":"tcp"}
-  - {"name":"🇳🇴_NO_挪威","type":"vmess","server":"46.29.219.44","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/191019072927"}}
-  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_2","type":"trojan","server":"172.67.175.243","port":8443,"udp":true,"password":"Jncm1NRGbZ","sni":"frankfoortvip.followprovider.ir","skip-cert-verify":false,"network":"grpc","grpc-opts":{"grpc-service-name":"frankfoortvip.followprovider.ir"}}
-  - {"name":"🇷🇺_RU_俄罗斯联邦","type":"vmess","server":"46.17.41.197","port":55983,"cipher":"auto","uuid":"034449ce-f7ad-4a51-8044-d677e80b2613","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_3","type":"trojan","server":"104.21.43.13","port":443,"udp":true,"password":"f91f38bb-72d5-4f3e-8311-1788986293f5","sni":"iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"2pxF1YL0obWgOVYsTfLJX3ihXJUp"}}
-  - {"name":"🇨🇦_CA_加拿大_1","type":"trojan","server":"15.157.124.7","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":false,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国","type":"vmess","server":"104.21.8.157","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
-  - {"name":"🇺🇸_US_美国_5","type":"trojan","server":"104.16.1.10","port":443,"udp":true,"password":"qj1Dz1CJmFQRhWr1SP80aA","sni":"cdn-21.gsmxreality.com","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"443trojan"}}
-  - {"name":"🇨🇦_CA_加拿大_2","type":"trojan","server":"3.99.22.75","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":false,"network":"tcp"}
-  - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"trojan","server":"223.113.54.160","port":23223,"udp":true,"password":"gkviEOYc","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇷_IR_伊朗","type":"vmess","server":"188.212.96.59","port":1000,"cipher":"auto","uuid":"7926eb47-8a42-45f8-abb4-cc4d756bf4c0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧_GB_英国_1","type":"vmess","server":"uk2-full.privateip.net","port":443,"cipher":"auto","uuid":"bbec8d43-e507-4587-a1eb-5528600ea07f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/RACEVPN"}}
+  - {"name":"🇬🇧_GB_英国_2","type":"trojan","server":"178.79.139.233","port":443,"udp":true,"password":"1ccce299-713e-466a-ba1e-0f2cef5ae0da","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_2","type":"trojan","server":"104.21.43.13","port":443,"udp":true,"password":"f91f38bb-72d5-4f3e-8311-1788986293f5","sni":"iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"2pxF1YL0obWgOVYsTfLJX3ihXJUp"}}
+  - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国_1","type":"vmess","server":"104.21.8.157","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
+  - {"name":"🇬🇧_GB_英国_3","type":"trojan","server":"uk2-full.privateip.net","port":443,"udp":true,"password":"1ccce299-713e-466a-ba1e-0f2cef5ae0da","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱_NL_荷兰","type":"vmess","server":"188.114.96.3","port":8880,"cipher":"auto","uuid":"e8ef1f51-3985-4d9b-bf29-46d26da65a4b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,telegram-Lookivpn,Mmdv2rayng-V2rayngmmd-telegram-mehran-v2ray?ed=2056","headers":{"host":"SvnProBotV2rayNethOne6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gm.ayfadesigns.com."}}}
+  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"kz-v2ray.ipracevpn.com","port":2083,"cipher":"auto","uuid":"b32504f9-c51c-4aa0-b1ff-1316ce82033b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国->🇦🇹_AT_奥地利","type":"vmess","server":"172.67.193.67","port":80,"cipher":"auto","uuid":"408438b0-fe40-44de-af19-0e5e6bb750ce","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"gulasch.online"}}}
+  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"104.26.9.22","port":8080,"cipher":"auto","uuid":"ef8c954e-014f-4b36-8273-9b5086afab34","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"ef8c954e-014f-4b36-8273-9b5086afab34-vm","headers":{"host":"dual-nothing-prep-exit.trycloudflare.com"}}}
+  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_2","type":"trojan","server":"172.67.215.180","port":443,"udp":true,"password":"f91f38bb-72d5-4f3e-8311-1788986293f5","sni":"iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"2pxF1YL0obWgOVYsTfLJX3ihXJUp"}}
+  - {"name":"🇺🇸_US_美国_5","type":"vmess","server":"104.19.21.24","port":8880,"cipher":"auto","uuid":"028c8131-9e3e-4836-94ac-ea7f24d4d05a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm","headers":{"host":"funk-england-indirect-gospel.trycloudflare.com"}}}
+  - {"name":"🇺🇸_US_美国_6","type":"trojan","server":"104.16.1.10","port":443,"udp":true,"password":"qj1Dz1CJmFQRhWr1SP80aA","sni":"cdn-21.gsmxreality.com","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"443trojan"}}
+  - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国_2","type":"vmess","server":"172.67.130.140","port":2082,"cipher":"auto","uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -273,26 +245,22 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇮🇪_IE_爱尔兰_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇷🇺_RU_俄罗斯联邦->🇳🇱_NL_荷兰
       - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇵🇹_PT_葡萄牙
+      - 🇺🇸_US_美国_1
       - 🇸🇪_SE_瑞典->🇩🇪_DE_德国
+      - 🇬🇧_GB_英国_1
+      - 🇬🇧_GB_英国_2
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
+      - 🇬🇧_GB_英国_3
+      - 🇳🇱_NL_荷兰
+      - 🇺🇸_US_美国_3
+      - 🇺🇸_US_美国->🇦🇹_AT_奥地利
       - 🇺🇸_US_美国_4
-      - 🇮🇪_IE_爱尔兰_2
-      - 🇳🇴_NO_挪威
       - 🇺🇸_US_美国->🇩🇪_DE_德国_2
-      - 🇷🇺_RU_俄罗斯联邦
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
-      - 🇨🇦_CA_加拿大_1
-      - 🇺🇸_US_美国->🇫🇷_FR_法国
       - 🇺🇸_US_美国_5
-      - 🇨🇦_CA_加拿大_2
-      - 🇨🇳_CN_中国->🇺🇸_US_美国
-      - 🇮🇷_IR_伊朗
+      - 🇺🇸_US_美国_6
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
 
 rules:
 # 本地/局域网地址
