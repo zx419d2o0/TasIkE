@@ -21,7 +21,7 @@ const m3us = [
 
 const txts = [
   'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C',
-  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF'
+  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF',
   'https://fm1077.serv00.net/litv.txt',
 ]
 
