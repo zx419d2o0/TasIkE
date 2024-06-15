@@ -3,20 +3,23 @@ const fs = require('fs');
 
 
 const urls = [
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv6.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv4gg.m3u',
+  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/m3u/ipv4gg.m3u',
   // 'https://github.moeyy.xyz/https://raw.githubusercontent.com/longzhi456/tvlist/main/iptv6.m3u8',
   // 'https://4K.tvbox.中国',
   // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
-  'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
+  // 'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
+  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C',
+  'https://fm1077.serv00.net/litv.txt',
 
-  'https://raw.gitmirror.com/Fairy8o/IPTV/main/PDX-V6.txt',
-  'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
+
+  // 'https://raw.gitmirror.com/Fairy8o/IPTV/main/PDX-V6.txt',
+  // 'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
 ]
 
 const get_m3u_list = async (url) => {
