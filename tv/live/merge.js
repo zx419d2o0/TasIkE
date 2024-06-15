@@ -50,8 +50,8 @@ const get_txt_list = async (url) => {
     for (const line of lines){
       arr_line = line.split(',')
       if (arr_line.length == 2){
-        if (arr_line[1] === '#genre#'){
-          group_title = arr_line[0]
+        if (arr_line[1].trim() === '#genre#'){
+          group_title = arr_line[0].trim()
         } else if (arr_line[1].includes('://')){
           channels.push({
             'group': {'title': group_title},
