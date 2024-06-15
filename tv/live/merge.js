@@ -2,8 +2,8 @@ const parser = require('iptv-playlist-parser');
 const fs = require('fs');
 
 
-const urls = [
-  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+const m3us = [
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
@@ -12,14 +12,17 @@ const urls = [
   // 'https://github.moeyy.xyz/https://raw.githubusercontent.com/longzhi456/tvlist/main/iptv6.m3u8',
   // 'https://4K.tvbox.中国',
   // 'https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u',
-  // 'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
-  // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
-  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C',
-  'https://fm1077.serv00.net/litv.txt',
-
+  'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+  'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
 
   // 'https://raw.gitmirror.com/Fairy8o/IPTV/main/PDX-V6.txt',
   // 'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
+]
+
+const txts = [
+  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C',
+  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF'
+  'https://fm1077.serv00.net/litv.txt',
 ]
 
 const get_m3u_list = async (url) => {
@@ -131,14 +134,17 @@ const filter_channel = (channel) =>{
   // const diy_play = fs.readFileSync('youtube.m3u8', 'utf8')
   // let channels = parser.parse(diy_play).items
   let channels = []
-  for (let url of urls){
+  for (const url of m3us){
+      try{ 
+          let data = await get_m3u_list(url)
+          channels = [...channels, ...data]
+        } catch (err){ 
+          console.error(err, url); 
+      } 
+  }
+  for (const url of txts){
     try{ 
-      let data = []
-      if (url.endsWith('.m3u') || url.endsWith('.m3u8')){
-        data = await get_m3u_list(url)
-      } else if (url.endsWith('.txt')){
-        data = await get_txt_list(url)
-      }
+        let data = await get_txt_list(url)
         channels = [...channels, ...data]
       } catch (err){ 
         console.error(err, url); 
