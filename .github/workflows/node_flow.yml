@@ -39,6 +39,9 @@ jobs:
           echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml"
           curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
           echo `du -h node/nodefree.yaml`
+          echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.txt"
+          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.txt > node/nodefree.txt
+          echo `du -h node/nodefree.txt`
           # sed -i '/^\s*#/d' node/nodefree.yaml
 
       # Commit all changed files back to the repository
