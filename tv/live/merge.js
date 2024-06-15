@@ -4,7 +4,6 @@ const fs = require('fs');
 
 const urls = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/880824/TV/main/live-online.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u',
   // 'https://hub.gitmirror.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u',
@@ -16,6 +15,7 @@ const urls = [
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
 
+  'https://raw.gitmirror.com/Fairy8o/IPTV/main/PDX-V6.txt',
   'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
 ]
 
