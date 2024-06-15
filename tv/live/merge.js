@@ -23,7 +23,9 @@ const urls = [
 ]
 
 const get_m3u_list = async (url) => {
-  const result = await fetch(url)
+  const result = await fetch(url, {
+    headers: {'User-Agent': 'okhttp/4.1.9'}
+  })
   .then(async response => {
     const lines = await response.text()
     const arr_line = lines.split('\n')
@@ -44,7 +46,9 @@ const get_m3u_list = async (url) => {
 }
 
 const get_txt_list = async (url) => {
-  const result = await fetch(url)
+  const result = await fetch(url, {
+    headers: {'User-Agent': 'okhttp/4.1.9'}
+  })
   .then(async response => {
     const content = await response.text()
     const lines = content.split('\n')
