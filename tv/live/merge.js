@@ -6,6 +6,7 @@ const m3us = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
+  'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
   // 'https://4K.tvbox.中国',
 ]
 
@@ -13,7 +14,6 @@ const txts = [
   'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C',
   'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF',
   'https://fm1077.serv00.net/litv.txt',
-  'https://raw.gitmirror.com/Fairy8o/IPTV/main/PDX-V6.txt',
   'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
 ]
 
