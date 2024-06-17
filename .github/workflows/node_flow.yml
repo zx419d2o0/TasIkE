@@ -38,7 +38,7 @@ jobs:
           # Other steps that change files in the repository
           mkdir -p node
           arr=(
-            "https://nodefree.org/dy/$year/$month/$year$month$day.yaml,nodefree.yam"
+            "https://nodefree.org/dy/$year/$month/$year$month$day.yaml,nodefree.yaml"
             "https://nodefree.org/dy/$year/$month/$year$month$day.txt,nodefree.txt"
             "https://clashfreenodes.github.io/uploads/$year/$month/0-$year$month$day.yaml,clashfreenodes_0.yaml"
             "https://clashfreenodes.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashfreenodes_1.yaml"
@@ -51,12 +51,12 @@ jobs:
             "https://clashfreenodes.github.io/uploads/$year/$month/3-$year$month$day.txt,clashfreenodes_3.txt"
             "https://clashfreenodes.github.io/uploads/$year/$month/4-$year$month$day.txt,clashfreenodes_4.txt"
           )
-          echo "||||" > node/README.md
-          echo "|-|-|-|" >> node/README.md
+          echo "|||" > node/README.md
+          echo "|-|-|" >> node/README.md
           for i in "${!arr[@]}"; do
             IFS=',' read -r url name <<< "${arr[i]}"
             curl -o "node/$name" "$url"
-            echo "|[$name](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$name)|$url|`du -h node/$name`|">>node/README.md
+            echo "|$url|[`du -h node/$name`](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$name)|">>node/README.md
           done
           # sed -i '/^\s*#/d' node/nodefree.yaml
 
