@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: rss clash
+name: node
 
 # Controls when the workflow will run
 on:
@@ -32,7 +32,6 @@ jobs:
           year=`date "+%Y"`
           month=`date "+%m"`
           day=`date "+%d"`
-          day=16
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           # Other steps that change files in the repository
@@ -44,7 +43,7 @@ jobs:
             "https://clashfreenodes.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashfreenodes_1.yaml"
             "https://clashfreenodes.github.io/uploads/$year/$month/2-$year$month$day.yaml,clashfreenodes_2.yaml"
             "https://clashfreenodes.github.io/uploads/$year/$month/3-$year$month$day.yaml,clashfreenodes_3.yaml"
-            "https://clashfreenodes.github.io/uploads/$year/$month/4-$year$month$day.yaml,clashfreenodes_4.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/4-$year$month$day.yml,clashfreenodes_4.yaml"
             "https://clashfreenodes.github.io/uploads/$year/$month/0-$year$month$day.txt,clashfreenodes_0.txt"
             "https://clashfreenodes.github.io/uploads/$year/$month/1-$year$month$day.txt,clashfreenodes_1.txt"
             "https://clashfreenodes.github.io/uploads/$year/$month/2-$year$month$day.txt,clashfreenodes_2.txt"
