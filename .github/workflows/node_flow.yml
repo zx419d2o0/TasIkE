@@ -55,7 +55,7 @@ jobs:
           for i in "${!arr[@]}"; do
             IFS=',' read -r url name <<< "${arr[i]}"
             curl -o "node/$name" "$url"
-            echo "|[$filename](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$filename)|$url|`du -h node/$filename`|">>node/README.md
+            echo "|[$name](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$name)|$url|`du -h node/$name`|">>node/README.md
           done
           # sed -i '/^\s*#/d' node/nodefree.yaml
 
