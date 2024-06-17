@@ -11,7 +11,7 @@ const m3us = [
 ]
 
 const txts = [
-  'https://histar.zapi.us.kg/?list',
+  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C&t=' + Math.floor(Date.now()/1000 + 24*60*60),  // 'https://histar.zapi.us.kg/?list'
   'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=' + Math.floor(Date.now()/1000 + 24*60*60),
   'https://fm1077.serv00.net/litv.txt',
   'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
