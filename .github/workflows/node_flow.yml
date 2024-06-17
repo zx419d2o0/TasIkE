@@ -30,18 +30,33 @@ jobs:
         id: step2
         run: |
           year=`date "+%Y"`
-          mouth=`date "+%m"`
+          month=`date "+%m"`
           day=`date "+%d"`
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           # Other steps that change files in the repository
           mkdir -p node
-          echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml"
-          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.yaml > node/nodefree.yaml
-          echo `du -h node/nodefree.yaml`
-          echo "https://nodefree.org/dy/$year/$mouth/$year$mouth$day.txt"
-          curl https://nodefree.org/dy/$year/$mouth/$year$mouth$day.txt > node/nodefree.txt
-          echo `du -h node/nodefree.txt`
+          arr=(
+            "https://nodefree.org/dy/$year/$month/$year$month$day.yaml,nodefree.yam"
+            "https://nodefree.org/dy/$year/$month/$year$month$day.txt,nodefree.txt"
+            "https://clashfreenodes.github.io/uploads/$year/$month/0-$year$month$day.yaml,clashfreenodes_0.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashfreenodes_1.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/2-$year$month$day.yaml,clashfreenodes_2.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/3-$year$month$day.yaml,clashfreenodes_3.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/4-$year$month$day.yaml,clashfreenodes_4.yaml"
+            "https://clashfreenodes.github.io/uploads/$year/$month/0-$year$month$day.txt,clashfreenodes_0.txt"
+            "https://clashfreenodes.github.io/uploads/$year/$month/1-$year$month$day.txt,clashfreenodes_1.txt"
+            "https://clashfreenodes.github.io/uploads/$year/$month/2-$year$month$day.txt,clashfreenodes_2.txt"
+            "https://clashfreenodes.github.io/uploads/$year/$month/3-$year$month$day.txt,clashfreenodes_3.txt"
+            "https://clashfreenodes.github.io/uploads/$year/$month/4-$year$month$day.txt,clashfreenodes_4.txt"
+          )
+          echo "||||" > node/README.md
+          echo "|-|-|-|" >> node/README.md
+          for i in "${!arr[@]}"; do
+            IFS=',' read -r url name <<< "${arr[i]}"
+            curl -o "node/$name" "$url"
+            echo "|[$filename](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$filename)|$url|`du -h node/$filename`|">>node/README.md
+          done
           # sed -i '/^\s*#/d' node/nodefree.yaml
 
       # Commit all changed files back to the repository
