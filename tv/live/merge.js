@@ -11,11 +11,36 @@ const m3us = [
 ]
 
 const txts = [
-  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C&t=' + Math.floor(Date.now()/1000 + 24*60*60),  // 'https://histar.zapi.us.kg/?list'
-  'http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=' + Math.floor(Date.now()/1000 + 24*60*60),
   'https://fm1077.serv00.net/litv.txt',
   'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
 ]
+
+const dynamic_url = async () => {
+  let result = []
+  try{
+    let data = new FormData()
+    data.append('fileName', '星视界')
+    data.append('uuid', 'abcdefgh-abcd-abcdefg12345')
+    const xsj_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
+        .then(async response => {return await response.json()})
+    data.set('fileName', '星视界2线')
+    const xsj2_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
+      .then(async response => {return await response.json()}) // 'https://histar.zapi.us.kg/?list'
+    result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url)]
+
+    result.forEach(channel => {
+      if (channel.url.includes('https://histar.zapi.us.kg/')){
+        let new_channel = {...channel}
+        new_channel.url = channel.url.replace('https://histar.zapi.us.kg/','http://cdn.1678520.xyz/xsj.php')
+        result.push(new_channel)
+      }
+    })
+  } catch(err) {
+    console.error('fetch dynaimc datas error', err)
+  }
+
+  return result
+}
 
 const get_m3u_list = async (url) => {
   const result = await fetch(url, {
@@ -125,7 +150,7 @@ const filter_channel = (channel) =>{
 ( async ()=>{
   // const diy_play = fs.readFileSync('youtube.m3u8', 'utf8')
   // let channels = parser.parse(diy_play).items
-  let channels = []
+  let channels = await dynamic_url()
   for (const url of m3us){
       try{ 
           let data = await get_m3u_list(url)
