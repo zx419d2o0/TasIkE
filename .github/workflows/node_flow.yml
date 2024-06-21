@@ -32,6 +32,7 @@ jobs:
           year=`date "+%Y"`
           month=`date "+%m"`
           day=`date "+%d"`
+          month2=`date "+%-m"`
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           # Other steps that change files in the repository
@@ -51,6 +52,8 @@ jobs:
             "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.txt,clashnode_4.txt"
             "https://freenode.openrunner.net/uploads/$year$month$day-clash.yaml,freenode.yaml"
             "https://freenode.openrunner.net/uploads/$year$month$day-v2ray.txt,freenode.txt"
+            "https://tglaoshiji.github.io/nodeshare/$year/$month2/$year$month$day.yaml,nodeshare.yaml"
+            "https://tglaoshiji.github.io/nodeshare/$year/$month2/$year$month$day.txt,nodeshare.txt"
           )
           echo "|||" > node/README.md
           echo "|-|-|" >> node/README.md
