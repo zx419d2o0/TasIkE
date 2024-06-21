@@ -7,6 +7,8 @@ const m3us = [
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
+  'http://gcp4.5201972.xyz:56789/tptv.m3u?cdn=tptv1',
+  'http://95.179.139.113:5566/4gtv.m3u',
   // 'https://4K.tvbox.中国',
 ]
 
