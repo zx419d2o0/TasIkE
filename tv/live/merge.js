@@ -28,7 +28,7 @@ const dynamic_url = async () => {
     data.set('fileName', '星视界2线')
     const xsj2_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
       .then(async response => {return await response.json()}) // 'https://histar.zapi.us.kg/?list'
-    result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url), ...await get_txt_list('https://fm1077.serv00.net/litv.txt')]
+    result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url)]
 
     result.forEach(channel => {
       if (channel.url.includes('https://histar.zapi.us.kg/')){
