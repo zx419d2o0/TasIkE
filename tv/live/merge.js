@@ -14,7 +14,6 @@ const m3us = [
 
 const txts = [
   'https://fm1077.serv00.net/litv.txt',
-  'https://raw.gitmirror.com/cysk003/ygbh66_test/master/tw.txt'
 ]
 
 const dynamic_url = async () => {
