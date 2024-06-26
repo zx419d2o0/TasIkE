@@ -3,7 +3,7 @@ const fs = require('fs');
 
 
 const m3us = [
-  'https://hub.gitmirror.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+  ‘https://yang-1989.eu.org/m3u/Gather’，
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
@@ -28,8 +28,7 @@ const dynamic_url = async () => {
     data.set('fileName', '星视界2线')
     const xsj2_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
       .then(async response => {return await response.json()}) // 'https://histar.zapi.us.kg/?list'
-    const litv_52sw = await get_txt_list('https://fm1077.serv00.net/litv.txt')
-    result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url)]
+    result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url), ...await get_txt_list('https://fm1077.serv00.net/litv.txt')]
 
     result.forEach(channel => {
       if (channel.url.includes('https://histar.zapi.us.kg/')){
@@ -37,14 +36,6 @@ const dynamic_url = async () => {
         new_channel.url = channel.url.replace('https://histar.zapi.us.kg/','http://cdn.1678520.xyz/xsj.php')
         result.push(new_channel)
       }
-    })
-
-    litv_52sw.forEach(channel => {
-        let new_channel = {...channel}
-        new_channel.url = channel.url.replace('https://fm1077.serv00.net/litv.php?id=','https://tv.iill.top/litv/')
-        let new_channel2 = {...channel}
-        new_channel2.url = channel.url.replace('https://fm1077.serv00.net/litv.php?id=','https://yang-1989.eu.org/litv/')
-        result.push(...[new_channel, new_channel2])
     })
   } catch(err) {
     console.error('fetch dynaimc datas error', err)
