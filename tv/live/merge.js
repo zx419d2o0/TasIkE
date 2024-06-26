@@ -9,11 +9,13 @@ const m3us = [
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
   'http://gcp4.5201972.xyz:56789/tptv.m3u?cdn=tptv1',
   'http://95.179.139.113:5566/4gtv.m3u',
+  'http://106.107.242.158:5000/4gtv.m3u',
+  'https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u',
   // 'https://4K.tvbox.中国',
 ]
 
 const txts = [
-  'https://fm1077.serv00.net/litv.txt',
+  'https://histar.zapi.us.kg/?list',
 ]
 
 const dynamic_url = async () => {
