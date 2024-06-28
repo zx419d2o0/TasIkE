@@ -14,7 +14,7 @@ const m3us = [
 ]
 
 const txts = [
-  'https://histar.zapi.us.kg/?list',
+  // 'https://histar.zapi.us.kg/?list',
 ]
 
 const dynamic_url = async () => {
