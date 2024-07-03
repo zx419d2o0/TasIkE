@@ -882,44 +882,23 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」11:00 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 曼谷球星挑战赛：单打1/32决赛、双打1/8决赛 午间场1号桌解说
 https://yang-1989.eu.org/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」11:00 2号桌
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 曼谷球星挑战赛：单打1/32决赛、双打1/8决赛 晚间场1号桌解说
 https://yang-1989.eu.org/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」11:00 3号桌
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 1号桌
 https://yang-1989.eu.org/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」11:00 4号桌
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 2号桌
 https://yang-1989.eu.org/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 3号桌
 https://yang-1989.eu.org/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「WTT」14:00 4号桌
 https://yang-1989.eu.org/Migu/6
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
-https://yang-1989.eu.org/Migu/7
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」23:30 清流播出1
-https://yang-1989.eu.org/Migu/8
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 AVS3
-https://yang-1989.eu.org/Migu/9
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」02:30 1/8决赛 奥地利vs土耳其 解说
-https://yang-1989.eu.org/Migu/10
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」02:30 清流播出2
-https://yang-1989.eu.org/Migu/11
-
-#EXTINF:-1 group-title="咪咕" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",「欧洲杯」02:30 1/8决赛 奥地利vs土耳其 AVS3
-https://yang-1989.eu.org/Migu/12
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png",CCTV5
-https://yang-1989.eu.org/Migu/13
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png",CCTV1
 https://yang-1989.eu.org/migu/cctv1
@@ -11796,7 +11775,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-logo="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-logo="",202407-02
+#EXTINF:-1 group-title="UpdateTime" tvg-logo="",202407-03
 url
 
 #EXTINF:-1 group-title="綜合" tvg-logo="https://assets.livednow.com/logo/民視.png",民視
