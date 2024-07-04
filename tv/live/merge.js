@@ -135,9 +135,12 @@ const filter_channel = (channel) =>{
       for (const item of arr_spec){
         if (channel.name.includes(item)){
           channel.name = 'CCTV'+item
+          channel.tvg.name = 'CCTV' + ' ' + item
           break
         }else{
           channel.name = 'CCTV'+i
+          channel.tvg.id = 'CCTV'+i
+          channel.tvg.name = 'CCTV'+i
           break
         }
       }
