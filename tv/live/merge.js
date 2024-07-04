@@ -140,7 +140,7 @@ const filter_channel = (channel) =>{
         }else{
           channel.name = 'CCTV'+i
           channel.tvg.id = 'CCTV'+i
-          channel.tvg.name = 'CCTV'+i
+          channel.tvg.name = 'CCTV'+ ' ' + i
           break
         }
       }
