@@ -14,6 +14,7 @@ const m3us = [
 ]
 
 const txts = [
+  'http://149.88.65.214/iptv/litv-mtz.txt',
   // 'https://histar.zapi.us.kg/?list',
 ]
 
@@ -187,7 +188,7 @@ const filter_channel = (channel) =>{
   for (let channel of channels) {
     playlist.write(`
 
-#EXTINF:-1 group-title="${channel.group.title}" tvg-logo="${channel.tvg.logo}",${channel.name}
+#EXTINF:-1 group-title="${channel.group.title}" tvg-id="${channel.tvg.id} tvg-logo="${channel.tvg.logo}" tvg-name="${channel.tvg.name}",${channel.name}
 ${channel.url}`)
   }
 
