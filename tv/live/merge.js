@@ -7,7 +7,6 @@ const m3us = [
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
-  'http://gcp4.5201972.xyz:56789/tptv.m3u?cdn=tptv1',
   'http://95.179.139.113:5566/4gtv.m3u',
   'http://106.107.242.158:5000/4gtv.m3u',
   // 'https://4K.tvbox.中国',
@@ -188,7 +187,7 @@ const filter_channel = (channel) =>{
   for (let channel of channels) {
     playlist.write(`
 
-#EXTINF:-1 group-title="${channel.group.title}" tvg-id="${channel.tvg.id} tvg-logo="${channel.tvg.logo}" tvg-name="${channel.tvg.name}",${channel.name}
+#EXTINF:-1 group-title="${channel.group.title}" tvg-id="${channel.tvg.id}" tvg-logo="${channel.tvg.logo}" tvg-name="${channel.tvg.name}",${channel.name}
 ${channel.url}`)
   }
 
