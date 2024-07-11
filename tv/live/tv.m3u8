@@ -882,17 +882,44 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「欧洲杯」02:15 半决赛 荷兰vs英格兰 詹俊、张路、林梦鸽
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」18:30 联赛 青岛西海岸vs浙江俱乐部 解说
 https://yang-1989.eu.org/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「欧洲杯」02:15 半决赛 荷兰vs英格兰 黄健翔、徐阳、刘畅
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」18:30 联赛 青岛西海岸vs浙江俱乐部 赛场原声
 https://yang-1989.eu.org/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「欧洲杯」02:15 半决赛 荷兰vs英格兰 赛场原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」18:30 联赛 青岛西海岸vs浙江俱乐部 “茵”乐现场
 https://yang-1989.eu.org/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「欧洲杯」02:15 半决赛 荷兰vs英格兰 AVS3
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:00 联赛 上海海港vs北京国安 解说
 https://yang-1989.eu.org/Migu/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:00 联赛 上海海港vs北京国安 沪语解说
+https://yang-1989.eu.org/Migu/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:00 联赛 上海海港vs北京国安 赛场原声
+https://yang-1989.eu.org/Migu/6
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:20 联赛 沧州雄狮vs武汉三镇 解说
+https://yang-1989.eu.org/Migu/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:20 联赛 沧州雄狮vs武汉三镇 赛场原声
+https://yang-1989.eu.org/Migu/8
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:20 联赛 沧州雄狮vs武汉三镇 “茵”乐现场
+https://yang-1989.eu.org/Migu/9
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:30 联赛 成都蓉城vs天津津门虎 解说
+https://yang-1989.eu.org/Migu/10
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:30 联赛 成都蓉城vs天津津门虎 竖屏解说
+https://yang-1989.eu.org/Migu/11
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:30 联赛 成都蓉城vs天津津门虎 赛场原声
+https://yang-1989.eu.org/Migu/12
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" tvg-name="",「中超」19:30 联赛 成都蓉城vs天津津门虎 “茵”乐现场
+https://yang-1989.eu.org/Migu/13
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://yang-1989.eu.org/migu/cctv1
@@ -9960,7 +9987,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="浙江" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" tvg-name="浙江教科影视",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
-#EXTINF:-1 group-title="浙江" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" tvg-name="之江纪录",之江纪录
+#EXTINF:-1 group-title="浙江" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" tvg-name="之江纪录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #EXTINF:-1 group-title="浙江" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" tvg-name="浙江民生休闲",浙江民生
@@ -11739,7 +11766,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-10
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-11
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
