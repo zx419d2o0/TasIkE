@@ -14,6 +14,7 @@ const m3us = [
 
 const txts = [
   'http://149.88.65.214/iptv/litv-mtz.txt',
+  'https://raw.gitmirror.com/kan31467/1/main/tv/NOW.txt',
   // 'https://histar.zapi.us.kg/?list',
 ]
 
