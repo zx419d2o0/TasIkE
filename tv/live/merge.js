@@ -8,7 +8,7 @@ const m3us = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
   'http://95.179.139.113:5566/4gtv.m3u',
-  'http://106.107.242.158:5000/4gtv.m3u',
+  'https://tv.aiace.top',
   // 'https://4K.tvbox.中国',
 ]
 
