@@ -873,12 +873,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中超」19:20 联赛 沧州雄狮vs上海申花 解说
-https://tv.iill.top/Migu/1
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中超」19:20 联赛 沧州雄狮vs上海申花 赛场原声
-https://tv.iill.top/Migu/2
-
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
 
@@ -9619,7 +9613,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" tvg-name="CCTV 4",CCTV4
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" tvg-name="凤凰中文",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -11337,7 +11331,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-21
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-22
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
@@ -12829,43 +12823,43 @@ http://154.9.254.15:5000/sxg/zzzh
 http://154.9.254.15:5000/sxg/sypd
 
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=6da4ff1775be59350159a21309456c9f&ext_start_limit=1721687403&int_start_limit=1721687403&ts=1721687403&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=b3545dd4278962e3d4c84887f30332df&ext_start_limit=1721773804&int_start_limit=1721773804&ts=1721773804&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台 4K",翡翠台 4K
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=dfedff96219084c06fe06dde8329e413&ext_start_limit=1721687404&int_start_limit=1721687404&ts=1721687404&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=01810c067fc514a679cc38cc1a7ae6dc&ext_start_limit=1721773804&int_start_limit=1721773804&ts=1721773804&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="TVB-Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" tvg-name="TVB Plus",TVB Plus
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=7fc86f146a68d36294f739382e7e7e90&ext_start_limit=1721687404&int_start_limit=1721687404&ts=1721687404&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=2daae79674e66a5ddc360fcf20867a1a&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" tvg-name="無線新聞台",無線新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=bd38404d3ea578ee02e554388414426d&ext_start_limit=1721687404&int_start_limit=1721687404&ts=1721687404&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=31348911f441e1cf1c5134cc7f60d1af&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" tvg-name="明珠台",明珠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=fbc12b755a2a6906a90a52968390c1bd&ext_start_limit=1721687404&int_start_limit=1721687404&ts=1721687404&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=f2f2cf11d737faff4ac642d885613db8&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="MytvSuper" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="myTV SUPER FREE",myTV SUPER FREE
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=c70fed57d8cad2c349a8f0f332f80ab9&ext_start_limit=1721687405&int_start_limit=1721687405&ts=1721687405&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=f115c1aa83a905352e00d7c25ae271d8&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" tvg-name="黃金翡翠台",黃金翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=7e9dca1827eda5610b3fe5bed49249f8&ext_start_limit=1721687407&int_start_limit=1721687407&ts=1721687407&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=8534fb4573fb58e9e0569fe8e51d1a3b&ext_start_limit=1721773808&int_start_limit=1721773808&ts=1721773808&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" tvg-name="娛樂新聞台",娛樂新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=438c828454d0ba45f22396d674f797e5&ext_start_limit=1721687419&int_start_limit=1721687419&ts=1721687419&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=3ba9914f7d463122b92c1ff692952afc&ext_start_limit=1721773820&int_start_limit=1721773820&ts=1721773820&c=255090352
 
 #EXTINF:-1 group-title="其他" tvg-id="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" tvg-name="創世電視",創世電視
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=7b609f8f39698597b42fd03ec5723344&ext_start_limit=1721687463&int_start_limit=1721687463&ts=1721687463&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=c75fb3482ac747ace694d640aa18a033&ext_start_limit=1721773864&int_start_limit=1721773864&ts=1721773864&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視中文台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=56b17d699499ce443a31beb8875ceb69&ext_start_limit=1721687470&int_start_limit=1721687470&ts=1721687470&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=022ffb9bf7d60f864ad03b47e5103132&ext_start_limit=1721773871&int_start_limit=1721773871&ts=1721773871&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" tvg-name="鳳凰衛視資訊台",鳳凰衛視資訊台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=d690e73e4cca1aab8014bb1ce776ee7d&ext_start_limit=1721687470&int_start_limit=1721687470&ts=1721687470&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=eb0459a35665011e4b7d0d98da7b7c49&ext_start_limit=1721773871&int_start_limit=1721773871&ts=1721773871&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" tvg-name="鳳凰衛視香港台",鳳凰衛視香港台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=1f6f61a87fc2336bdb343fb750da35c1&ext_start_limit=1721687471&int_start_limit=1721687471&ts=1721687471&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=117442f09e6dbf7ae828d9b92767862d&ext_start_limit=1721773872&int_start_limit=1721773872&ts=1721773872&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="中央電視台綜合頻道-港澳版" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" tvg-name="中央電視台綜合頻道 (港澳版)",中央電視台綜合頻道 
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=2c34fe2277bf22ae9c8ddbc09a438fca&ext_start_limit=1721687473&int_start_limit=1721687473&ts=1721687473&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=fc16a130fc0c790e50218eecfffd3358&ext_start_limit=1721773874&int_start_limit=1721773874&ts=1721773874&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
 https://tv.aiace.top/proxy/http://154.9.254.15:5000/litv/4gtv-4gtv155
