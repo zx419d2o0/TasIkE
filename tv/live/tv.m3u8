@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="温馨提示" tvg-id="" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202406-14#佛系维护...
+#EXTINF:-1 group-title="温馨提示" tvg-id="" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202407-24#佛系维护...
 https://github.com/YanG-1989
 
 #EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="Love Nature 4K",LoveNature 4K
@@ -872,6 +872,42 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子B组：阿根廷 VS 摩洛哥 张昊泽
+https://tv.iill.top/OG/1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子B组：阿根廷 VS 摩洛哥 赛场原声
+https://tv.iill.top/OG/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇
+https://tv.iill.top/OG/3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 赛场原声
+https://tv.iill.top/OG/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇 AVS3
+https://tv.iill.top/OG/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」21:20 男子第1比赛日 李书峰 邢天宇
+https://tv.iill.top/OG/6
+
+#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="CCTV 16",CCTV16
+https://tv.iill.top/OG/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」21:20 男子第1比赛日 清流DX42
+https://tv.iill.top/OG/8
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 男子A组：几内亚 VS 新西兰 徐邦琼
+https://tv.iill.top/OG/9
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 男子A组：几内亚 VS 新西兰 赛场原声
+https://tv.iill.top/OG/10
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 程门立雪
+https://tv.iill.top/OG/11
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 赛场原声
+https://tv.iill.top/OG/12
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -11331,7 +11367,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-22
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-23
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
@@ -12261,605 +12297,44 @@ http://154.9.254.15:5000/tptv/GITV-JS-49?type=origin
 #EXTINF:-1 group-title="特色" tvg-id="请回答1988" tvg-logo="https://assets.livednow.com/logo/GITV.png" tvg-name="请回答1988",请回答1988
 http://154.9.254.15:5000/tptv/GITV-JS-50?type=origin
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
-http://154.9.254.15:5000/sxg/CCTV-1H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" tvg-name="CCTV 2",CCTV2
-http://154.9.254.15:5000/sxg/CCTV-2H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" tvg-name="CCTV 3",CCTV3
-http://154.9.254.15:5000/sxg/CCTV-3H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" tvg-name="CCTV 4",CCTV4
-http://154.9.254.15:5000/sxg/CCTV-4H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" tvg-name="CCTV 5",CCTV5
-http://154.9.254.15:5000/sxg/CCTV-5H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV5-plus" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" tvg-name="CCTV 5+",CCTV5+
-http://154.9.254.15:5000/sxg/CCTV-5plusH265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
-http://154.9.254.15:5000/sxg/CCTV-6H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" tvg-name="CCTV 7",CCTV7
-http://154.9.254.15:5000/sxg/CCTV-7H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" tvg-name="CCTV 8",CCTV8
-http://154.9.254.15:5000/sxg/CCTV-8H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" tvg-name="CCTV 9",CCTV9
-http://154.9.254.15:5000/sxg/CCTV-9H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" tvg-name="CCTV 10",CCTV10
-http://154.9.254.15:5000/sxg/CCTV-10H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" tvg-name="CCTV 11",CCTV11
-http://154.9.254.15:5000/sxg/CCTV-11-H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" tvg-name="CCTV 12",CCTV12
-http://154.9.254.15:5000/sxg/CCTV-12H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" tvg-name="CCTV 13",CCTV13
-http://154.9.254.15:5000/sxg/CCTV-xw
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" tvg-name="CCTV 14",CCTV14
-http://154.9.254.15:5000/sxg/CCTV-14H265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" tvg-name="CCTV 15",CCTV15
-http://154.9.254.15:5000/sxg/CCTV-15-yyH265
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" tvg-name="CCTV 16",CCTV16
-http://154.9.254.15:5000/sxg/CCTV-16
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" tvg-name="CCTV 16",CCTV16
-http://154.9.254.15:5000/sxg/CCTV-16-4K
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" tvg-name="CCTV 17",CCTV17
-http://154.9.254.15:5000/sxg/CCTV-17
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" tvg-name="CCTV 4",CCTV4
-http://154.9.254.15:5000/sxg/ys4Kcq
-
-#EXTINF:-1 group-title="央视" tvg-id="中国教育电视台-1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" tvg-name="CETV-1",CETV1
-http://154.9.254.15:5000/sxg/CETV-1H264
-
-#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" tvg-name="安徽卫视",安徽卫视
-http://154.9.254.15:5000/sxg/ahwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" tvg-name="北京卫视",北京卫视
-http://154.9.254.15:5000/sxg/bjwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" tvg-name="重庆卫视",重庆卫视
-http://154.9.254.15:5000/sxg/cqwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" tvg-name="东方卫视",东方卫视
-http://154.9.254.15:5000/sxg/dfwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" tvg-name="东南卫视",东南卫视
-http://154.9.254.15:5000/sxg/dnwsfjwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" tvg-name="甘肃卫视",甘肃卫视
-http://154.9.254.15:5000/sxg/gsws
-
-#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" tvg-name="广东卫视",广东卫视
-http://154.9.254.15:5000/sxg/gdwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" tvg-name="贵州卫视",贵州卫视
-http://154.9.254.15:5000/sxg/gzwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" tvg-name="河南卫视",河南卫视
-http://154.9.254.15:5000/sxg/hnws35
-
-#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" tvg-name="黑龙江卫视",黑龙江卫视
-http://154.9.254.15:5000/sxg/hljwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" tvg-name="湖北卫视",湖北卫视
-http://154.9.254.15:5000/sxg/hbwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" tvg-name="湖南卫视",湖南卫视
-http://154.9.254.15:5000/sxg/hnwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" tvg-name="吉林卫视",吉林卫视
-http://154.9.254.15:5000/sxg/jlwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" tvg-name="江苏卫视",江苏卫视
-http://154.9.254.15:5000/sxg/jswsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" tvg-name="江西卫视",江西卫视
-http://154.9.254.15:5000/sxg/jxwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" tvg-name="辽宁卫视",辽宁卫视
-http://154.9.254.15:5000/sxg/lnwsHDH264
-
-#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" tvg-name="山东卫视",山东卫视
-http://154.9.254.15:5000/sxg/sdwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" tvg-name="陕西卫视",陕西卫视
-http://154.9.254.15:5000/sxg/sxws
-
-#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" tvg-name="深圳卫视",深圳卫视
-http://154.9.254.15:5000/sxg/szwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" tvg-name="四川卫视",四川卫视
-http://154.9.254.15:5000/sxg/scwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" tvg-name="天津卫视",天津卫视
-http://154.9.254.15:5000/sxg/tjwsH265
-
-#EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" tvg-name="云南卫视",云南卫视
-http://154.9.254.15:5000/sxg/ynws
-
-#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
-http://154.9.254.15:5000/sxg/zjwsH265
-
-#EXTINF:-1 group-title="其他" tvg-id="湖南金鹰纪实" tvg-logo="https://assets.livednow.com/logo/湖南金鹰纪实.png" tvg-name="湖南金鹰纪实",湖南金鹰纪实
-http://154.9.254.15:5000/sxg/jyjsHDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="湖南金鹰卡通" tvg-logo="https://assets.livednow.com/logo/湖南金鹰卡通.png" tvg-name="湖南金鹰卡通",湖南金鹰卡通
-http://154.9.254.15:5000/sxg/jykt
-
-#EXTINF:-1 group-title="其他" tvg-id="湖南快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" tvg-name="湖南快乐垂钓",湖南快乐垂钓
-http://154.9.254.15:5000/sxg/fyzqklcdHDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="CHC-动作电影" tvg-logo="https://assets.livednow.com/logo/CHC-动作电影.png" tvg-name="CHC 动作电影",CHC 动作电影
-http://154.9.254.15:5000/sxg/wqCHCdzdyH265
-
-#EXTINF:-1 group-title="其他" tvg-id="CHC-高清电影" tvg-logo="https://assets.livednow.com/logo/CHC-高清电影.png" tvg-name="CHC 高清电影",CHC 高清电影
-http://154.9.254.15:5000/sxg/lnwsCHC-HDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="CHC-家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" tvg-name="CHC 家庭影院",CHC 家庭影院
-http://154.9.254.15:5000/sxg/jbtygqCHCjtyyH265
-
-#EXTINF:-1 group-title="其他" tvg-id="欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/欢笑剧场-4K.png" tvg-name="SiTV 欢笑剧场 4K",SiTV 欢笑剧场 4K
-http://154.9.254.15:5000/sxg/hxjc-4k
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" tvg-name="SiTV 劲爆体育",SiTV 劲爆体育
-http://154.9.254.15:5000/sxg/lqhxjcHDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" tvg-name="SiTV 动漫秀场",SiTV 动漫秀场
-http://154.9.254.15:5000/sxg/yybb-dmxc-H265
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" tvg-name="SiTV 都市剧场",SiTV 都市剧场
-http://154.9.254.15:5000/sxg/yxfydsjcHDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" tvg-name="SiTV 法治天地",SiTV 法治天地
-http://154.9.254.15:5000/sxg/fztx
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" tvg-name="SiTV 乐游",SiTV 乐游
-http://154.9.254.15:5000/sxg/qjs-HDH265
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" tvg-name="SiTV 魅力足球",SiTV 魅力足球
-http://154.9.254.15:5000/sxg/mlyy
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" tvg-name="SiTV 生活时尚",SiTV 生活时尚
-http://154.9.254.15:5000/sxg/shssH265
-
-#EXTINF:-1 group-title="其他" tvg-id="SiTV-新视觉" tvg-logo="https://assets.livednow.com/logo/SiTV-新视觉.png" tvg-name="SiTV 新视觉",SiTV 新视觉
-http://154.9.254.15:5000/sxg/ycxsjH265
-
-#EXTINF:-1 group-title="其他" tvg-id="重温经典" tvg-logo="https://assets.livednow.com/logo/重温经典.png" tvg-name="重温经典",重温经典
-http://154.9.254.15:5000/sxg/CWJD_4000
-
-#EXTINF:-1 group-title="其他" tvg-id="梨园频道" tvg-logo="https://assets.livednow.com/logo/梨园频道.png" tvg-name="梨园频道",梨园
-http://154.9.254.15:5000/sxg/ly
-
-#EXTINF:-1 group-title="其他" tvg-id="武术世界" tvg-logo="https://assets.livednow.com/logo/武术世界.png" tvg-name="武术世界",武术世界
-http://154.9.254.15:5000/sxg/wssj
-
-#EXTINF:-1 group-title="其他" tvg-id="天元围棋" tvg-logo="https://assets.livednow.com/logo/天元围棋.png" tvg-name="天元围棋",天元围棋
-http://154.9.254.15:5000/sxg/tywq
-
-#EXTINF:-1 group-title="其他" tvg-id="SCN-四川广电网络" tvg-logo="https://assets.livednow.com/logo/SCN-四川广电网络.png" tvg-name="川网导视",川网导视
-http://154.9.254.15:5000/sxg/cwdsHDH264
-
-#EXTINF:-1 group-title="其他" tvg-id="四川精品导视" tvg-logo="https://assets.livednow.com/logo/四川精品导视.png" tvg-name="精品导视",精品导视
-http://154.9.254.15:5000/sxg/jpdsH265
-
-#EXTINF:-1 group-title="四川" tvg-id="四川经济频道" tvg-logo="https://assets.livednow.com/logo/四川经济频道.png" tvg-name="四川经济频道",四川经济
-http://154.9.254.15:5000/sxg/SCTV-2-H265
-
-#EXTINF:-1 group-title="四川" tvg-id="四川文化旅游频道" tvg-logo="https://assets.livednow.com/logo/四川文化旅游频道.png" tvg-name="四川文化旅游频道",四川文化旅游
-http://154.9.254.15:5000/sxg/SCTV-3-H265
-
-#EXTINF:-1 group-title="四川" tvg-id="四川新闻频道" tvg-logo="https://assets.livednow.com/logo/四川新闻频道.png" tvg-name="四川新闻频道",四川新闻
-http://154.9.254.15:5000/sxg/SCTV-4H265
-
-#EXTINF:-1 group-title="四川" tvg-id="四川影视文艺频道" tvg-logo="https://assets.livednow.com/logo/四川影视文艺频道.png" tvg-name="四川影视文艺频道",四川影视文艺
-http://154.9.254.15:5000/sxg/SCTV-5-scysH265
-
-#EXTINF:-1 group-title="四川" tvg-id="四川妇女儿童频道" tvg-logo="https://assets.livednow.com/logo/四川妇女儿童频道.png" tvg-name="四川妇女儿童频道",四川妇女儿童
-http://154.9.254.15:5000/sxg/SCTV-7-
-
-#EXTINF:-1 group-title="四川" tvg-id="四川科教频道" tvg-logo="https://assets.livednow.com/logo/四川科教频道.png" tvg-name="四川科教频道",四川科教
-http://154.9.254.15:5000/sxg/SCTV-ggSCTV-8
-
-#EXTINF:-1 group-title="四川" tvg-id="四川乡村频道" tvg-logo="https://assets.livednow.com/logo/四川乡村频道.png" tvg-name="四川乡村频道",四川乡村
-http://154.9.254.15:5000/sxg/SCTV-kjSCTV-9-
-
-#EXTINF:-1 group-title="四川" tvg-id="峨眉电影" tvg-logo="https://assets.livednow.com/logo/峨眉电影.png" tvg-name="四川峨眉电影",四川峨眉电影
-http://154.9.254.15:5000/sxg/emdygqH265
-
-#EXTINF:-1 group-title="四川" tvg-id="峨眉电影-4K" tvg-logo="https://assets.livednow.com/logo/峨眉电影-4K.png" tvg-name="四川峨眉电影 4K",四川峨眉电影 4K
-http://154.9.254.15:5000/sxg/emdy4k
-
-#EXTINF:-1 group-title="地方" tvg-id="成都新闻综合" tvg-logo="https://assets.livednow.com/logo/成都新闻综合.png" tvg-name="成都新闻综合",成都新闻综合
-http://154.9.254.15:5000/sxg/CDTV-1
-
-#EXTINF:-1 group-title="地方" tvg-id="成都公共频道" tvg-logo="https://assets.livednow.com/logo/成都公共频道.png" tvg-name="成都公共频道",成都公共
-http://154.9.254.15:5000/sxg/CDTV-5
-
-#EXTINF:-1 group-title="地方" tvg-id="成都高新电视台" tvg-logo="https://assets.livednow.com/logo/成都高新电视台.png" tvg-name="成都高新电视台",成都高新电视台
-http://154.9.254.15:5000/sxg/cdgxdstgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川沙湾融媒体" tvg-logo="https://assets.livednow.com/logo/四川沙湾融媒体.png" tvg-name="沙湾融媒",沙湾融媒
-http://154.9.254.15:5000/sxg/swxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川阿坝州电视台" tvg-logo="https://assets.livednow.com/logo/四川阿坝州电视台.png" tvg-name="阿坝州 TV",阿坝州 TV
-http://154.9.254.15:5000/sxg/abxwzhpdgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川阿坝州电视台" tvg-logo="https://assets.livednow.com/logo/四川阿坝州电视台.png" tvg-name="阿坝州 TV 藏语",阿坝州 TV 藏语
-http://154.9.254.15:5000/sxg/wypdgqH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川安岳综合频道" tvg-logo="https://assets.livednow.com/logo/四川安岳综合频道.png" tvg-name="安岳综合频道",安岳综合
-http://154.9.254.15:5000/sxg/ayxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川安州综合频道" tvg-logo="https://assets.livednow.com/logo/四川安州综合频道.png" tvg-name="安州综合频道",安州综合
-http://154.9.254.15:5000/sxg/azgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川巴中电视台" tvg-logo="https://assets.livednow.com/logo/四川巴中电视台.png" tvg-name="巴中综合",巴中综合
-http://154.9.254.15:5000/sxg/bzytH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川巴中电视台" tvg-logo="https://assets.livednow.com/logo/四川巴中电视台.png" tvg-name="巴中文旅生活",巴中文旅生活
-http://154.9.254.15:5000/sxg/bzetH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川巴州电视台" tvg-logo="https://assets.livednow.com/logo/四川巴州电视台.png" tvg-name="巴州电视",巴州电视
-http://154.9.254.15:5000/sxg/bzxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川宝兴电视台" tvg-logo="https://assets.livednow.com/logo/四川宝兴电视台.png" tvg-name="宝兴综合",宝兴综合
-http://154.9.254.15:5000/sxg/bxdst
-
-#EXTINF:-1 group-title="地方" tvg-id="四川北川电视台" tvg-logo="https://assets.livednow.com/logo/四川北川电视台.png" tvg-name="北川综合",北川综合
-http://154.9.254.15:5000/sxg/bcxwHD
-
-#EXTINF:-1 group-title="地方" tvg-id="四川苍溪电视台" tvg-logo="https://assets.livednow.com/logo/四川苍溪电视台.png" tvg-name="苍溪综合",苍溪综合
-http://154.9.254.15:5000/sxg/cxxwgqH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川长宁电视台" tvg-logo="https://assets.livednow.com/logo/四川长宁电视台.png" tvg-name="长宁综合",长宁综合
-http://154.9.254.15:5000/sxg/znzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川朝天电视台" tvg-logo="https://assets.livednow.com/logo/四川朝天电视台.png" tvg-name="朝天综合",朝天综合
-http://154.9.254.15:5000/sxg/ctxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川崇州电视台" tvg-logo="https://assets.livednow.com/logo/四川崇州电视台.png" tvg-name="崇州综合",崇州综合
-http://154.9.254.15:5000/sxg/czyt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川达川电视台" tvg-logo="https://assets.livednow.com/logo/四川达川电视台.png" tvg-name="达川新闻综合",达川新闻综合
-http://154.9.254.15:5000/sxg/dcxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川达州电视台" tvg-logo="https://assets.livednow.com/logo/四川达州电视台.png" tvg-name="达州新闻综合",达州新闻综合
-http://154.9.254.15:5000/sxg/dzxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川达州电视台" tvg-logo="https://assets.livednow.com/logo/四川达州电视台.png" tvg-name="达州文化生活",达州文化生活
-http://154.9.254.15:5000/sxg/dzgg
-
-#EXTINF:-1 group-title="地方" tvg-id="四川达州电视台" tvg-logo="https://assets.livednow.com/logo/四川达州电视台.png" tvg-name="达州导视",达州导视
-http://154.9.254.15:5000/sxg/dzds
-
-#EXTINF:-1 group-title="地方" tvg-id="四川大邑电视台" tvg-logo="https://assets.livednow.com/logo/四川大邑电视台.png" tvg-name="大邑电视台",大邑电视台
-http://154.9.254.15:5000/sxg/dyytH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川大英电视台" tvg-logo="https://assets.livednow.com/logo/四川大英电视台.png" tvg-name="大英新闻综合",大英新闻综合
-http://154.9.254.15:5000/sxg/dyxwzhH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川德阳电视台" tvg-logo="https://assets.livednow.com/logo/四川德阳电视台.png" tvg-name="德阳新闻综合",德阳新闻综合
-http://154.9.254.15:5000/sxg/dyxwgq-HD-
-
-#EXTINF:-1 group-title="地方" tvg-id="四川德阳电视台" tvg-logo="https://assets.livednow.com/logo/四川德阳电视台.png" tvg-name="德阳文旅科教",德阳文旅科教
-http://154.9.254.15:5000/sxg/dygggq-HD-
-
-#EXTINF:-1 group-title="地方" tvg-id="四川峨边电视台" tvg-logo="https://assets.livednow.com/logo/四川峨边电视台.png" tvg-name="峨边电视台",峨边电视台
-http://154.9.254.15:5000/sxg/ebdst
-
-#EXTINF:-1 group-title="地方" tvg-id="四川峨眉电视台" tvg-logo="https://assets.livednow.com/logo/四川峨眉电视台.png" tvg-name="峨眉综合",峨眉综合
-http://154.9.254.15:5000/sxg/emsxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川恩阳电视台" tvg-logo="https://assets.livednow.com/logo/四川恩阳电视台.png" tvg-name="恩阳新闻",恩阳新闻
-http://154.9.254.15:5000/sxg/eyxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川古蔺电视台" tvg-logo="https://assets.livednow.com/logo/四川古蔺电视台.png" tvg-name="古蔺新闻综合",古蔺新闻综合
-http://154.9.254.15:5000/sxg/glxwzhgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川高县电视台" tvg-logo="https://assets.livednow.com/logo/四川高县电视台.png" tvg-name="高县-1",高县1
-http://154.9.254.15:5000/sxg/gxt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川珙县电视台" tvg-logo="https://assets.livednow.com/logo/四川珙县电视台.png" tvg-name="珙县新闻",珙县新闻
-http://154.9.254.15:5000/sxg/gxzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川广元电视台" tvg-logo="https://assets.livednow.com/logo/四川广元电视台.png" tvg-name="广元综合",广元综合
-http://154.9.254.15:5000/sxg/gyzhH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川广元电视台" tvg-logo="https://assets.livednow.com/logo/四川广元电视台.png" tvg-name="广元文化生活",广元文化生活
-http://154.9.254.15:5000/sxg/gyggH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川甘孜电视台" tvg-logo="https://assets.livednow.com/logo/四川甘孜电视台.png" tvg-name="甘孜综合",甘孜综合
-http://154.9.254.15:5000/sxg/gzxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川洪雅电视台" tvg-logo="https://assets.livednow.com/logo/四川洪雅电视台.png" tvg-name="洪雅综合",洪雅综合
-http://154.9.254.15:5000/sxg/hyzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川夹江电视台" tvg-logo="https://assets.livednow.com/logo/四川夹江电视台.png" tvg-name="夹江新闻综合",夹江新闻综合
-http://154.9.254.15:5000/sxg/jjxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川剑阁电视台" tvg-logo="https://assets.livednow.com/logo/四川剑阁电视台.png" tvg-name="剑阁综合",剑阁综合
-http://154.9.254.15:5000/sxg/jgxwzhH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" tvg-name="金口河综合",金口河综合
-http://154.9.254.15:5000/sxg/jkhdst
-
-#EXTINF:-1 group-title="地方" tvg-id="四川金堂电视台" tvg-logo="https://assets.livednow.com/logo/四川金堂电视台.png" tvg-name="金堂电视台",金堂电视台
-http://154.9.254.15:5000/sxg/jtzhpd
-
-#EXTINF:-1 group-title="地方" tvg-id="四川旌阳电视台" tvg-logo="https://assets.livednow.com/logo/四川旌阳电视台.png" tvg-name="旌阳综合",旌阳综合
-http://154.9.254.15:5000/sxg/jyxwgq-HD-
-
-#EXTINF:-1 group-title="地方" tvg-id="四川开江电视台" tvg-logo="https://assets.livednow.com/logo/四川开江电视台.png" tvg-name="开江新闻综合",开江新闻综合
-http://154.9.254.15:5000/sxg/kjxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川泸定电视台" tvg-logo="https://assets.livednow.com/logo/四川泸定电视台.png" tvg-name="泸定综合频道",泸定综合
-http://154.9.254.15:5000/sxg/ldxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川乐山电视台" tvg-logo="https://assets.livednow.com/logo/四川乐山电视台.png" tvg-name="乐山新闻综合",乐山新闻综合
-http://154.9.254.15:5000/sxg/lsxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川乐山电视台" tvg-logo="https://assets.livednow.com/logo/四川乐山电视台.png" tvg-name="乐山文旅生活",乐山文旅生活
-http://154.9.254.15:5000/sxg/lsggpd
-
-#EXTINF:-1 group-title="地方" tvg-id="四川乐至电视台" tvg-logo="https://assets.livednow.com/logo/四川乐至电视台.png" tvg-name="乐至综合",乐至综合
-http://154.9.254.15:5000/sxg/lezhixwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川利州电视台" tvg-logo="https://assets.livednow.com/logo/四川利州电视台.png" tvg-name="利州综合",利州综合
-http://154.9.254.15:5000/sxg/lzxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川凉山电视台" tvg-logo="https://assets.livednow.com/logo/四川凉山电视台.png" tvg-name="凉山新闻综合",凉山新闻综合
-http://154.9.254.15:5000/sxg/lsxwHDH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川凉山电视台" tvg-logo="https://assets.livednow.com/logo/四川凉山电视台.png" tvg-name="凉山彝语综合",凉山彝语综合
-http://154.9.254.15:5000/sxg/yyzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川阆中电视台" tvg-logo="https://assets.livednow.com/logo/四川阆中电视台.png" tvg-name="阆中综合",阆中综合
-http://154.9.254.15:5000/sxg/lzxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川隆昌电视台" tvg-logo="https://assets.livednow.com/logo/四川隆昌电视台.png" tvg-name="隆昌综合",隆昌综合
-http://154.9.254.15:5000/sxg/lcxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川芦山电视台" tvg-logo="https://assets.livednow.com/logo/四川芦山电视台.png" tvg-name="芦山综合频道",芦山综合
-http://154.9.254.15:5000/sxg/lszh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川马边电视台" tvg-logo="https://assets.livednow.com/logo/四川马边电视台.png" tvg-name="马边综合",马边综合
-http://154.9.254.15:5000/sxg/mbxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川沐川电视台" tvg-logo="https://assets.livednow.com/logo/四川沐川电视台.png" tvg-name="沐川综合",沐川综合
-http://154.9.254.15:5000/sxg/mcxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川眉山电视台" tvg-logo="https://assets.livednow.com/logo/四川眉山电视台.png" tvg-name="眉山综合",眉山综合
-http://154.9.254.15:5000/sxg/msxwzhgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川米易电视台" tvg-logo="https://assets.livednow.com/logo/四川米易电视台.png" tvg-name="米易综合",米易综合
-http://154.9.254.15:5000/sxg/myxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川绵阳电视台" tvg-logo="https://assets.livednow.com/logo/四川绵阳电视台.png" tvg-name="绵阳新闻综合",绵阳新闻综合
-http://154.9.254.15:5000/sxg/myytH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川绵阳电视台" tvg-logo="https://assets.livednow.com/logo/四川绵阳电视台.png" tvg-name="绵阳科教生活",绵阳科教生活
-http://154.9.254.15:5000/sxg/myetH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川名山电视台" tvg-logo="https://assets.livednow.com/logo/四川名山电视台.png" tvg-name="名山电视台",名山电视台
-http://154.9.254.15:5000/sxg/msdstH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川木里电视台" tvg-logo="https://assets.livednow.com/logo/四川木里电视台.png" tvg-name="木里",木里
-http://154.9.254.15:5000/sxg/mltHD
-
-#EXTINF:-1 group-title="地方" tvg-id="四川南充电视台" tvg-logo="https://assets.livednow.com/logo/四川南充电视台.png" tvg-name="南充综合",南充综合
-http://154.9.254.15:5000/sxg/ncxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川南江电视台" tvg-logo="https://assets.livednow.com/logo/四川南江电视台.png" tvg-name="南江电视台",南江电视台
-http://154.9.254.15:5000/sxg/njxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川南溪电视台" tvg-logo="https://assets.livednow.com/logo/四川南溪电视台.png" tvg-name="南溪综合",南溪综合
-http://154.9.254.15:5000/sxg/nxt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川攀钢新闻频道" tvg-logo="https://assets.livednow.com/logo/四川攀钢新闻频道.png" tvg-name="攀钢新闻综合",攀钢新闻综合
-http://154.9.254.15:5000/sxg/pgxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川攀枝花电视台" tvg-logo="https://assets.livednow.com/logo/四川攀枝花电视台.png" tvg-name="攀枝花新闻综合",攀枝花新闻综合
-http://154.9.254.15:5000/sxg/pzhytH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川彭山电视台" tvg-logo="https://assets.livednow.com/logo/四川彭山电视台.png" tvg-name="彭山综合",彭山综合
-http://154.9.254.15:5000/sxg/pszh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川彭州电视台" tvg-logo="https://assets.livednow.com/logo/四川彭州电视台.png" tvg-name="彭州综合",彭州综合
-http://154.9.254.15:5000/sxg/pzxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川蓬溪电视台" tvg-logo="https://assets.livednow.com/logo/四川蓬溪电视台.png" tvg-name="蓬溪新闻综合",蓬溪新闻综合
-http://154.9.254.15:5000/sxg/pxxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川平昌电视台" tvg-logo="https://assets.livednow.com/logo/四川平昌电视台.png" tvg-name="平昌综合",平昌综合
-http://154.9.254.15:5000/sxg/pcxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川平武电视台" tvg-logo="https://assets.livednow.com/logo/四川平武电视台.png" tvg-name="平武综合",平武综合
-http://154.9.254.15:5000/sxg/pwgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川屏山电视台" tvg-logo="https://assets.livednow.com/logo/四川屏山电视台.png" tvg-name="屏山综合",屏山综合
-http://154.9.254.15:5000/sxg/psxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川蒲江电视台" tvg-logo="https://assets.livednow.com/logo/四川蒲江电视台.png" tvg-name="蒲江综合",蒲江综合
-http://154.9.254.15:5000/sxg/pjxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川郫县电视台" tvg-logo="https://assets.livednow.com/logo/四川郫县电视台.png" tvg-name="郫县新闻综合",郫县新闻综合
-http://154.9.254.15:5000/sxg/pxds1
-
-#EXTINF:-1 group-title="地方" tvg-id="四川青白江电视台" tvg-logo="https://assets.livednow.com/logo/四川青白江电视台.png" tvg-name="青白江综合",青白江综合
-http://154.9.254.15:5000/sxg/qbjxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川青神电视台" tvg-logo="https://assets.livednow.com/logo/四川青神电视台.png" tvg-name="青神综合",青神综合
-http://154.9.254.15:5000/sxg/qszh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川渠县电视台" tvg-logo="https://assets.livednow.com/logo/四川渠县电视台.png" tvg-name="渠县新闻综合",渠县新闻综合
-http://154.9.254.15:5000/sxg/qxxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川仁和电视台" tvg-logo="https://assets.livednow.com/logo/四川仁和电视台.png" tvg-name="仁和新闻",仁和新闻
-http://154.9.254.15:5000/sxg/rhxwH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川荣县电视台" tvg-logo="https://assets.livednow.com/logo/四川荣县电视台.png" tvg-name="荣县综合",荣县综合
-http://154.9.254.15:5000/sxg/rxzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川三台电视台" tvg-logo="https://assets.livednow.com/logo/四川三台电视台.png" tvg-name="三台TV",三台TV
-http://154.9.254.15:5000/sxg/stxwHD
-
-#EXTINF:-1 group-title="地方" tvg-id="四川松潘电视台" tvg-logo="https://assets.livednow.com/logo/四川松潘电视台.png" tvg-name="松潘新闻综合",松潘新闻综合
-http://154.9.254.15:5000/sxg/spxwzhpdH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川遂宁电视台" tvg-logo="https://assets.livednow.com/logo/四川遂宁电视台.png" tvg-name="遂宁综合",遂宁综合
-http://154.9.254.15:5000/sxg/snxwzhHDH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川天全电视台" tvg-logo="https://assets.livednow.com/logo/四川天全电视台.png" tvg-name="天全新闻",天全新闻
-http://154.9.254.15:5000/sxg/tqzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川达州电视台" tvg-logo="https://assets.livednow.com/logo/四川达州电视台.png" tvg-name="通川区新闻综合",通川区新闻综合
-http://154.9.254.15:5000/sxg/xcxwzhH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川通江电视台" tvg-logo="https://assets.livednow.com/logo/四川通江电视台.png" tvg-name="通江综合",通江综合
-http://154.9.254.15:5000/sxg/tjxwH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川万源电视台" tvg-logo="https://assets.livednow.com/logo/四川万源电视台.png" tvg-name="万源新闻综合",万源新闻综合
-http://154.9.254.15:5000/sxg/wyxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川旺苍电视台" tvg-logo="https://assets.livednow.com/logo/四川旺苍电视台.png" tvg-name="旺苍新闻综合",旺苍新闻综合
-http://154.9.254.15:5000/sxg/wcxwzhH265
-
-#EXTINF:-1 group-title="地方" tvg-id="四川温江电视台" tvg-logo="https://assets.livednow.com/logo/四川温江电视台.png" tvg-name="温江综合频道",温江综合
-http://154.9.254.15:5000/sxg/wjytH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川五通桥电视台" tvg-logo="https://assets.livednow.com/logo/四川五通桥电视台.png" tvg-name="五通桥",五通桥
-http://154.9.254.15:5000/sxg/wtqxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川西昌电视台" tvg-logo="https://assets.livednow.com/logo/四川西昌电视台.png" tvg-name="西昌",西昌
-http://154.9.254.15:5000/sxg/xctHD
-
-#EXTINF:-1 group-title="地方" tvg-id="四川西充电视台" tvg-logo="https://assets.livednow.com/logo/四川西充电视台.png" tvg-name="西充综合",西充综合
-http://154.9.254.15:5000/sxg/xczh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川新都电视台" tvg-logo="https://assets.livednow.com/logo/四川新都电视台.png" tvg-name="新都综合",新都综合
-http://154.9.254.15:5000/sxg/xdzhpd
-
-#EXTINF:-1 group-title="地方" tvg-id="四川荥经电视台" tvg-logo="https://assets.livednow.com/logo/四川荥经电视台.png" tvg-name="荥经电视台",荥经电视台
-http://154.9.254.15:5000/sxg/xjdst
-
-#EXTINF:-1 group-title="地方" tvg-id="四川新津电视台" tvg-logo="https://assets.livednow.com/logo/四川新津电视台.png" tvg-name="新津",新津
-http://154.9.254.15:5000/sxg/xjzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川兴文电视台" tvg-logo="https://assets.livednow.com/logo/四川兴文电视台.png" tvg-name="兴文电视台",兴文电视台
-http://154.9.254.15:5000/sxg/xwt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川叙州电视台" tvg-logo="https://assets.livednow.com/logo/四川叙州电视台.png" tvg-name="叙州新闻综合",叙州新闻综合
-http://154.9.254.15:5000/sxg/ybx
-
-#EXTINF:-1 group-title="地方" tvg-id="四川宣汉电视台" tvg-logo="https://assets.livednow.com/logo/四川宣汉电视台.png" tvg-name="宣汉综合",宣汉综合
-http://154.9.254.15:5000/sxg/xhxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川雅安电视台" tvg-logo="https://assets.livednow.com/logo/四川雅安电视台.png" tvg-name="雅安新闻综合",雅安新闻综合
-http://154.9.254.15:5000/sxg/yazh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川雅安电视台" tvg-logo="https://assets.livednow.com/logo/四川雅安电视台.png" tvg-name="雅安公共",雅安公共
-http://154.9.254.15:5000/sxg/yagg
-
-#EXTINF:-1 group-title="地方" tvg-id="四川盐边电视台" tvg-logo="https://assets.livednow.com/logo/四川盐边电视台.png" tvg-name="盐边电视台",盐边电视台
-http://154.9.254.15:5000/sxg/ybtgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川雁江电视台" tvg-logo="https://assets.livednow.com/logo/四川雁江电视台.png" tvg-name="雁江",雁江
-http://154.9.254.15:5000/sxg/yjxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川仪陇电视台" tvg-logo="https://assets.livednow.com/logo/四川仪陇电视台.png" tvg-name="仪陇新闻综合",仪陇新闻综合
-http://154.9.254.15:5000/sxg/ylxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川宜宾电视台" tvg-logo="https://assets.livednow.com/logo/四川宜宾电视台.png" tvg-name="宜宾新闻综合",宜宾新闻综合
-http://154.9.254.15:5000/sxg/ybytH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川宜宾电视台" tvg-logo="https://assets.livednow.com/logo/四川宜宾电视台.png" tvg-name="宜宾公共",宜宾公共
-http://154.9.254.15:5000/sxg/ybetH264
-
-#EXTINF:-1 group-title="地方" tvg-id="四川筠连电视台" tvg-logo="https://assets.livednow.com/logo/四川筠连电视台.png" tvg-name="筠连",筠连
-http://154.9.254.15:5000/sxg/ylyt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川营山电视台" tvg-logo="https://assets.livednow.com/logo/四川营山电视台.png" tvg-name="营山",营山
-http://154.9.254.15:5000/sxg/ysxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川越西电视台" tvg-logo="https://assets.livednow.com/logo/四川越西电视台.png" tvg-name="越西综合",越西综合
-http://154.9.254.15:5000/sxg/yxt
-
-#EXTINF:-1 group-title="地方" tvg-id="四川岳池电视台" tvg-logo="https://assets.livednow.com/logo/四川岳池电视台.png" tvg-name="岳池",岳池
-http://154.9.254.15:5000/sxg/ycxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川自贡电视台" tvg-logo="https://assets.livednow.com/logo/四川自贡电视台.png" tvg-name="自贡综合",自贡综合
-http://154.9.254.15:5000/sxg/zgxw
-
-#EXTINF:-1 group-title="地方" tvg-id="四川自贡电视台" tvg-logo="https://assets.livednow.com/logo/四川自贡电视台.png" tvg-name="自贡文化生活",自贡文化生活
-http://154.9.254.15:5000/sxg/zggg
-
-#EXTINF:-1 group-title="地方" tvg-id="四川昭化电视台" tvg-logo="https://assets.livednow.com/logo/四川昭化电视台.png" tvg-name="昭化综合",昭化综合
-http://154.9.254.15:5000/sxg/zhxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川梓潼电视台" tvg-logo="https://assets.livednow.com/logo/四川梓潼电视台.png" tvg-name="梓潼综合",梓潼综合
-http://154.9.254.15:5000/sxg/ztgq
-
-#EXTINF:-1 group-title="地方" tvg-id="四川资阳电视台" tvg-logo="https://assets.livednow.com/logo/四川资阳电视台.png" tvg-name="资阳新闻综合",资阳新闻综合
-http://154.9.254.15:5000/sxg/zyxwzh
-
-#EXTINF:-1 group-title="地方" tvg-id="四川资中电视台" tvg-logo="https://assets.livednow.com/logo/四川资中电视台.png" tvg-name="资中综合",资中综合
-http://154.9.254.15:5000/sxg/zzzh
-
-#EXTINF:-1 group-title="地方" tvg-id="石油频道" tvg-logo="https://assets.livednow.com/logo/石油频道.png" tvg-name="石油频道",石油
-http://154.9.254.15:5000/sxg/sypd
-
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=b3545dd4278962e3d4c84887f30332df&ext_start_limit=1721773804&int_start_limit=1721773804&ts=1721773804&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=73c5a5997d2f87781639a0634ed8a450&ext_start_limit=1721860204&int_start_limit=1721860204&ts=1721860204&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台 4K",翡翠台 4K
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=01810c067fc514a679cc38cc1a7ae6dc&ext_start_limit=1721773804&int_start_limit=1721773804&ts=1721773804&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=1d27ea519a344f4b0e4c0cb8938bc5c0&ext_start_limit=1721860204&int_start_limit=1721860204&ts=1721860204&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="TVB-Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" tvg-name="TVB Plus",TVB Plus
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=2daae79674e66a5ddc360fcf20867a1a&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=2105dcc36219a54aab7c5916c3ebfbd0&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" tvg-name="無線新聞台",無線新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=31348911f441e1cf1c5134cc7f60d1af&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=f845f352f968dc0502dea6a0dbeef2d1&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" tvg-name="明珠台",明珠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=f2f2cf11d737faff4ac642d885613db8&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=997d74d1614b38e942f02ec599b83f4d&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="MytvSuper" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="myTV SUPER FREE",myTV SUPER FREE
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=f115c1aa83a905352e00d7c25ae271d8&ext_start_limit=1721773805&int_start_limit=1721773805&ts=1721773805&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=2cc32b6362c390fb26c0cf5cfba6e71c&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" tvg-name="黃金翡翠台",黃金翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=8534fb4573fb58e9e0569fe8e51d1a3b&ext_start_limit=1721773808&int_start_limit=1721773808&ts=1721773808&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=0a70f9c2dba1c25c56326601519e9b5e&ext_start_limit=1721860208&int_start_limit=1721860208&ts=1721860208&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" tvg-name="娛樂新聞台",娛樂新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=3ba9914f7d463122b92c1ff692952afc&ext_start_limit=1721773820&int_start_limit=1721773820&ts=1721773820&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=12a41f47f4f5cc898c5816a7d7620b72&ext_start_limit=1721860220&int_start_limit=1721860220&ts=1721860220&c=255090352
 
 #EXTINF:-1 group-title="其他" tvg-id="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" tvg-name="創世電視",創世電視
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=c75fb3482ac747ace694d640aa18a033&ext_start_limit=1721773864&int_start_limit=1721773864&ts=1721773864&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=2b89465b12ad9af2867a4eb24a1687bd&ext_start_limit=1721860264&int_start_limit=1721860264&ts=1721860264&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視中文台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=022ffb9bf7d60f864ad03b47e5103132&ext_start_limit=1721773871&int_start_limit=1721773871&ts=1721773871&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=60202bd73fbe66fee30510e99f614c6d&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" tvg-name="鳳凰衛視資訊台",鳳凰衛視資訊台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=eb0459a35665011e4b7d0d98da7b7c49&ext_start_limit=1721773871&int_start_limit=1721773871&ts=1721773871&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=7994f1a4427e51950580fa8b064776cb&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" tvg-name="鳳凰衛視香港台",鳳凰衛視香港台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=117442f09e6dbf7ae828d9b92767862d&ext_start_limit=1721773872&int_start_limit=1721773872&ts=1721773872&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=af6e7547fc1c6c419bef540dc332779a&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="中央電視台綜合頻道-港澳版" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" tvg-name="中央電視台綜合頻道 (港澳版)",中央電視台綜合頻道 
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=fc16a130fc0c790e50218eecfffd3358&ext_start_limit=1721773874&int_start_limit=1721773874&ts=1721773874&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=277c10dfaf58d895d7e35c1029a25da2&ext_start_limit=1721860275&int_start_limit=1721860275&ts=1721860275&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
 https://tv.aiace.top/proxy/http://154.9.254.15:5000/litv/4gtv-4gtv155
