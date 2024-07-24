@@ -873,41 +873,86 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子B组：阿根廷 VS 摩洛哥 张昊泽
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」00:50 男子B组：伊拉克 VS 乌克兰 涂远
 https://tv.iill.top/OG/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子B组：阿根廷 VS 摩洛哥 赛场原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」00:50 男子B组：伊拉克 VS 乌克兰 赛场原声
 https://tv.iill.top/OG/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」00:50 男子D组：日本 VS 巴拉圭 鹿中原
 https://tv.iill.top/OG/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 赛场原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」00:50 男子D组：日本 VS 巴拉圭 赛场原声
 https://tv.iill.top/OG/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇 AVS3
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="CCTV 5",CCTV5
 https://tv.iill.top/OG/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」21:20 男子第1比赛日 李书峰 邢天宇
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」02:50 男子A组：法国 VS 美国 王多多
 https://tv.iill.top/OG/6
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="CCTV 16",CCTV16
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」02:50 男子A组：法国 VS 美国 王多多 AVS3
 https://tv.iill.top/OG/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」21:20 男子第1比赛日 清流DX42
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」02:50 男子A组：法国 VS 美国 赛场原声
 https://tv.iill.top/OG/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 男子A组：几内亚 VS 新西兰 徐邦琼
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="CCTV 5",CCTV5
 https://tv.iill.top/OG/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 男子A组：几内亚 VS 新西兰 赛场原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」02:50 男子D组：马里 VS 以色列 张学洋
 https://tv.iill.top/OG/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 程门立雪
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」02:50 男子D组：马里 VS 以色列 赛场原声
 https://tv.iill.top/OG/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 赛场原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」14:50 女子预赛A组：斯洛文尼亚 VS 丹麦
 https://tv.iill.top/OG/12
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」14:50 女子预赛A组：斯洛文尼亚 VS 丹麦 清流DX39
+https://tv.iill.top/OG/13
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」16:55 女子预赛B组：荷兰 VS 安哥拉
+https://tv.iill.top/OG/14
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」16:55 女子预赛B组：荷兰 VS 安哥拉 清流DX39
+https://tv.iill.top/OG/15
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」19:50 女子预赛B组：西班牙 VS 巴西
+https://tv.iill.top/OG/16
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」19:50 女子预赛B组：西班牙 VS 巴西 赛场原声
+https://tv.iill.top/OG/17
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」19:50 男子第2比赛日 李书峰
+https://tv.iill.top/OG/18
+
+#EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="CCTV 5+",CCTV5+
+https://tv.iill.top/OG/19
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「七人制橄榄球」19:50 男子第2比赛日 清流DX42
+https://tv.iill.top/OG/20
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」21:55 女子预赛A组：德国 VS 韩国
+https://tv.iill.top/OG/21
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「手球」21:55 女子预赛A组：德国 VS 韩国 赛场原声
+https://tv.iill.top/OG/22
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 女子A组：加拿大 VS 新西兰 孙宁智
+https://tv.iill.top/OG/23
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 女子A组：加拿大 VS 新西兰 赛场原声
+https://tv.iill.top/OG/24
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 女子C组：西班牙 VS 日本 张学洋
+https://tv.iill.top/OG/25
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 女子C组：西班牙 VS 日本 张学洋 AVS3
+https://tv.iill.top/OG/26
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/OG2024.png" tvg-name="",「足球」22:50 女子C组：西班牙 VS 日本 赛场原声
+https://tv.iill.top/OG/27
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -11367,7 +11412,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-23
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202407-24
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
@@ -12298,43 +12343,43 @@ http://154.9.254.15:5000/tptv/GITV-JS-49?type=origin
 http://154.9.254.15:5000/tptv/GITV-JS-50?type=origin
 
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=73c5a5997d2f87781639a0634ed8a450&ext_start_limit=1721860204&int_start_limit=1721860204&ts=1721860204&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=b87a1d8d8dd0dea828364450121cd52f&ext_start_limit=1721946604&int_start_limit=1721946604&ts=1721946604&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" tvg-name="翡翠台 4K",翡翠台 4K
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=1d27ea519a344f4b0e4c0cb8938bc5c0&ext_start_limit=1721860204&int_start_limit=1721860204&ts=1721860204&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=99333525bde55281fb7b8e1bd18c7cb6&ext_start_limit=1721946604&int_start_limit=1721946604&ts=1721946604&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="TVB-Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" tvg-name="TVB Plus",TVB Plus
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=2105dcc36219a54aab7c5916c3ebfbd0&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=506086ea22eafc14e4c3f9aa2e528772&ext_start_limit=1721946604&int_start_limit=1721946604&ts=1721946604&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" tvg-name="無線新聞台",無線新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=f845f352f968dc0502dea6a0dbeef2d1&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=c28437c93422b163cd2cf1267c9ef269&ext_start_limit=1721946604&int_start_limit=1721946604&ts=1721946604&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" tvg-name="明珠台",明珠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=997d74d1614b38e942f02ec599b83f4d&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=71480ebd7db6096603e417e4aea58ada&ext_start_limit=1721946605&int_start_limit=1721946605&ts=1721946605&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="MytvSuper" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="myTV SUPER FREE",myTV SUPER FREE
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=2cc32b6362c390fb26c0cf5cfba6e71c&ext_start_limit=1721860205&int_start_limit=1721860205&ts=1721860205&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=e9b3878ed64ea18fc2edc6537e598985&ext_start_limit=1721946605&int_start_limit=1721946605&ts=1721946605&c=255090352
 
 #EXTINF:-1 group-title="戲劇電影" tvg-id="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" tvg-name="黃金翡翠台",黃金翡翠台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=0a70f9c2dba1c25c56326601519e9b5e&ext_start_limit=1721860208&int_start_limit=1721860208&ts=1721860208&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=97a3e6c58c1463f6e2175ea291d9748d&ext_start_limit=1721946608&int_start_limit=1721946608&ts=1721946608&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" tvg-name="娛樂新聞台",娛樂新聞台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=12a41f47f4f5cc898c5816a7d7620b72&ext_start_limit=1721860220&int_start_limit=1721860220&ts=1721860220&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=fcd7446f31e34b980c6a7549fe04e3e2&ext_start_limit=1721946620&int_start_limit=1721946620&ts=1721946620&c=255090352
 
 #EXTINF:-1 group-title="其他" tvg-id="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" tvg-name="創世電視",創世電視
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=2b89465b12ad9af2867a4eb24a1687bd&ext_start_limit=1721860264&int_start_limit=1721860264&ts=1721860264&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=83ae5921d3207f7eaa95244bc5ef3775&ext_start_limit=1721946665&int_start_limit=1721946665&ts=1721946665&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視中文台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=60202bd73fbe66fee30510e99f614c6d&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=0cf0a5aed7c973031a9575e78cfad1d9&ext_start_limit=1721946672&int_start_limit=1721946672&ts=1721946672&c=255090352
 
 #EXTINF:-1 group-title="新聞財經" tvg-id="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" tvg-name="鳳凰衛視資訊台",鳳凰衛視資訊台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=7994f1a4427e51950580fa8b064776cb&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=85c73b7b8de0365e512574f3d457e320&ext_start_limit=1721946672&int_start_limit=1721946672&ts=1721946672&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" tvg-name="鳳凰衛視香港台",鳳凰衛視香港台
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=af6e7547fc1c6c419bef540dc332779a&ext_start_limit=1721860272&int_start_limit=1721860272&ts=1721860272&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=107cf70ad13ed027121034a3c141775c&ext_start_limit=1721946673&int_start_limit=1721946673&ts=1721946673&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="中央電視台綜合頻道-港澳版" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" tvg-name="中央電視台綜合頻道 (港澳版)",中央電視台綜合頻道 
-https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=277c10dfaf58d895d7e35c1029a25da2&ext_start_limit=1721860275&int_start_limit=1721860275&ts=1721860275&c=255090352
+https://tv.aiace.top/proxy/http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=bb84a479e27f7c3e76672c77277d13c6&ext_start_limit=1721946675&int_start_limit=1721946675&ts=1721946675&c=255090352
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
 https://tv.aiace.top/proxy/http://154.9.254.15:5000/litv/4gtv-4gtv155
