@@ -43,7 +43,7 @@ jobs:
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
-            "http://www.饭太硬.com/tv,false"
+            "http://www.饭太硬.com/tv,true"
             # "http://xhww.fun/小米/DEMO.json,false"
             "https://gitee.com/okjack/okk/raw/master/ok.txt,true"
             "http://like.肥猫.com/你好,true"
@@ -60,7 +60,7 @@ jobs:
             IFS=',' read -r url flag <<< "${arr[i]}"
             
             if [[ "$flag" == "true" ]]; then
-              curl -v -o "tv/vod/$i.json" "https://www.饭太硬.com/jm/jiemi.php?url=$url"
+              curl -o "tv/vod/$i.json" "https://www.饭太硬.com/jm/jiemi.php?url=$url"
             else
               curl -o "tv/vod/$i.json" "$url"
             fi
