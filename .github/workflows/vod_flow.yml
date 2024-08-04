@@ -43,7 +43,7 @@ jobs:
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
-            "http://www.饭太硬.com/tv,true"
+            "http://www.饭太硬.com/tv,false"
             # "http://xhww.fun/小米/DEMO.json,false"
             "https://gitee.com/okjack/okk/raw/master/ok.txt,true"
             "http://like.肥猫.com/你好,true"
