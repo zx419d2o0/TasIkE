@@ -8,14 +8,13 @@ const m3us = [
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
   'http://95.179.139.113:5566/4gtv.m3u',
-  'https://tv.aiace.top',
   'https://www.dussl.icu/itv_dussl.m3u',
   'https://www.dussl.icu/4gtv_dussl.m3u',
   // 'https://4K.tvbox.中国',
 ]
 
 const txts = [
-  'https://raw.gitmirror.com/kan31467/1/main/tv/NOW.txt',
+  // 'https://raw.gitmirror.com/kan31467/1/main/tv/NOW.txt',
   // 'https://histar.zapi.us.kg/?list',
 ]
 
