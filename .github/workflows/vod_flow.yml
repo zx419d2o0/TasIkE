@@ -35,6 +35,7 @@ jobs:
           git clone https://github.com/gaotianliuyun/gao.git
           # mv gao/jar/pg.jar tv/vod/jar
           mv gao/jar/XBPQ.jar tv/vod/jar
+          mv gao/jar/fan.txt tv/vod/jar
           # md5sum tv/vod/jar/pg.jar | cut -d ' ' -f 1 > tv/vod/jar/pg.jar.md5
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
           mv gao/0825.json tv/vod/js.json
