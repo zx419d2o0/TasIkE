@@ -759,6 +759,30 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:00 《白大拿挑战者系列赛》第八季第1周：丁猛冲击合同 中文解说
+https://tv.iill.top/Migu/1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:00 《白大拿挑战者系列赛》第八季第1周：丁猛冲击合同 英文原声
+https://tv.iill.top/Migu/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 石家庄翔蓝vs江西赣驰 现场解说
+https://tv.iill.top/Migu/3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 石家庄翔蓝vs江西赣驰 原声
+https://tv.iill.top/Migu/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 长沙湾田勇胜vs河南赊店老酒 现场解说
+https://tv.iill.top/Migu/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 长沙湾田勇胜vs河南赊店老酒 原声
+https://tv.iill.top/Migu/6
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 广西威壮vs武汉锟鹏 现场解说
+https://tv.iill.top/Migu/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 广西威壮vs武汉锟鹏 原声
+https://tv.iill.top/Migu/8
+
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
 
@@ -10068,11 +10092,44 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
 #EXTINF:-1 group-title="👉扫码添加此微信👈" tvg-id="" tvg-logo="" tvg-name="",👉扫码添加此微信👈
 https://7692.kstore.space/6H.mp4
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="" tvg-name="CCTV 16",CCTV16
-https://livednow.com/migu/926881814?sign=gAAAAABmuEjVm67pAllKj_PQsEMSTacOwhnQLS4SV81_sWXZwBUChCGWbzSxX7eSZ0Krp4riZNjbuermFhwyvcmUUpOkzUhog2isXhWw9gBxLrVWb36jbyXIPfQbM86vMubYmN6qWyNskBhv7sFnd4TMmchjER4Oqiu5DLFG4Qbc5u1y9wCpDp4CoUbU3cR9LzK7ZnsWD27OUrtyFO2pkOXyYbxmNpYTuA%3D%3D
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Plus 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="" tvg-name="CCTV 16",CCTV16
-https://tv.iill.top/OG/12
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 1 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 2 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 3 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 4 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 5 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 6 
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",足球互動窗1 
+https://docker.mytvsuper.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",足球互動窗2 
+https://docker.mytvsuper.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 足球3 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 足球4 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 足球5 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 足球6 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports F1
 http://iptv.darktv.eu:80/volkanduman/gwCRM7cj/38395
@@ -11376,7 +11433,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-12
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-13
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
