@@ -759,20 +759,11 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「意甲」00:20 联赛 莱切vs亚特兰大 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」06:55 《白大拿挑战者系列赛》第八季第2周 解说
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 巴拉多利德vs西班牙人 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」06:55 《白大拿挑战者系列赛》第八季第2周 解说
 https://tv.iill.top/Migu/2
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「意甲」02:30 联赛 尤文图斯vs科莫 解说
-https://tv.iill.top/Migu/3
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」02:45 联赛 莱斯特城vs托特纳姆热刺 解说
-https://tv.iill.top/Migu/4
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」03:15 联赛 比利亚雷亚尔vs马德里竞技 解说
-https://tv.iill.top/Migu/5
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -9901,25 +9892,25 @@ https://livednow.com/migu/928110330?sign=gAAAAABmw3Sb-F9L5nd8MglzA_fbn38qFCeW7Xw
 https://livednow.com/migu/928111339?sign=gAAAAABmw3SbKcQ-t_64ZQtZgUm9_U7BKjaGbV8rRCgb0Axv2oD5E2kycMpI8hdr6ONyHwYvC2OVB-ad-EkunPLUPdGorj8k-q8asvJmol6sRv4LW2nLZPBLcFyGbEpyzqhqRRQrYLXUPnkyo89R4DpBi-zQH029E0qceEDke9fhsVj9yIlaBvOu5msmSZ3LnULhgEiGILnlC_v1SO4NyoeGbdPDk8VzFw%3D%3D
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Plus
-https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
+https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 1
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 2
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league2
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 3
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league3
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 4
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league4
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 5
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league5
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 6
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league6
 
 #EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports  4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
@@ -11316,7 +11307,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-19
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-20
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
