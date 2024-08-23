@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="温馨提示" tvg-id="" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202407-24#佛系维护...
+#EXTINF:-1 group-title="温馨提示" tvg-id="" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202408-23#佛系维护...
 https://github.com/YanG-1989
 
 #EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="LOVE NATURE 4K",LoveNature 4K
@@ -759,59 +759,116 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：男女单打1/16决赛 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:24 经典赛事 解说
+https://tv.iill.top/NBA/1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」14:50 3X天津站 解说
+https://tv.iill.top/NBA/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」18:24 经典赛事 解说
+https://tv.iill.top/NBA/3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」20:24 经典赛事 解说
+https://tv.iill.top/NBA/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 塞尔塔vs瓦伦西亚 解说
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：男女单打1/16决赛 2号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「法甲」02:30 联赛 巴黎圣日耳曼vs蒙彼利埃 解说
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：男女单打1/16决赛 3号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」03:20 联赛 塞维利亚vs比利亚雷亚尔 解说
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：男女单打1/16决赛 英文解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 1号桌
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」14:50 夏季联赛 九台农商银行vs福建浔兴股份 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 2号桌
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」14:50 清流播出
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」05:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 英文解说
 https://tv.iill.top/Migu/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」15:20 夏季联赛 浙江稠州金租vs深圳马可波罗 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」08:55 精英之路第3季半决赛 解说
 https://tv.iill.top/Migu/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」15:20 清流播出
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」08:55 精英之路第3季半决赛 4K
 https://tv.iill.top/Migu/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」17:50 夏季联赛 新疆伊力特vs江苏肯帝亚 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」08:55 精英之路第3季半决赛 高清赛场原声
 https://tv.iill.top/Migu/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」17:50 清流播出
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」14:50 夏季联赛 福建浔兴股份vs四川金强 解说
 https://tv.iill.top/Migu/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 夏季联赛 四川金强vs山东高速 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」14:50 清流播出
 https://tv.iill.top/Migu/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 清流播出
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」15:20 夏季联赛 天津先行者vs深圳马可波罗 解说
 https://tv.iill.top/Migu/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」20:20 夏季联赛 南京头排苏酒vs天津先行者 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」15:20 清流播出
 https://tv.iill.top/Migu/13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」20:20 清流播出
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」17:50 夏季联赛 南京头排苏酒vs新疆伊力特 解说
 https://tv.iill.top/Migu/14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」17:50 清流播出
 https://tv.iill.top/Migu/15
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 2号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」19:15 联赛 布莱顿vs曼联 解说
 https://tv.iill.top/Migu/16
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 3号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」19:15 联赛 布莱顿vs曼联 粤语AI字幕
 https://tv.iill.top/Migu/17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双1/4决赛、半决赛、男女双打1/4决赛、男女单打1/8决赛 英文解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」19:15 联赛 布莱顿vs曼联 闽南语AI字幕
 https://tv.iill.top/Migu/18
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」19:15 联赛 布莱顿vs曼联 沪语
+https://tv.iill.top/Migu/19
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 夏季联赛 山东高速vs九台农商银行 解说
+https://tv.iill.top/Migu/20
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 清流播出
+https://tv.iill.top/Migu/21
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」20:20 夏季联赛 江苏肯帝亚vs浙江稠州金租 解说
+https://tv.iill.top/Migu/22
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」20:20 清流播出
+https://tv.iill.top/Migu/23
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」21:45 联赛 曼城vs伊普斯维奇 解说
+https://tv.iill.top/Migu/24
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」21:50 联赛 富勒姆vs莱斯特城 解说
+https://tv.iill.top/Migu/25
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」21:50 联赛 南安普顿vs诺丁汉森林 解说
+https://tv.iill.top/Migu/26
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」21:50 联赛 托特纳姆热刺vs埃弗顿 解说
+https://tv.iill.top/Migu/27
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英超」21:50 联赛 水晶宫vs西汉姆联 解说
+https://tv.iill.top/Migu/28
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」22:50 联赛 奥萨苏纳vs马略卡 解说
+https://tv.iill.top/Migu/29
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「法甲」22:50 联赛 里昂vs摩纳哥 解说
+https://tv.iill.top/Migu/30
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛半决赛、男女双打半决赛 1号桌
+https://tv.iill.top/Migu/31
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛半决赛、男女双打半决赛 2号桌
+https://tv.iill.top/Migu/32
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛半决赛、男女双打半决赛 英文解说
+https://tv.iill.top/Migu/33
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -1398,6 +1455,15 @@ https://tv.iill.top/tv/bjws
 #EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" tvg-name="湖北卫视",湖北卫视
 https://tv.iill.top/tv/hbws
 
+#EXTINF:-1 group-title="港澳台" tvg-id="" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="鳳凰中文",鳳凰衛視·中文
+https://tv.iill.top/phenix/fhzw
+
+#EXTINF:-1 group-title="港澳台" tvg-id="" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" tvg-name="鳳凰資訊",鳳凰衛視·資訊
+https://tv.iill.top/phenix/fhzx
+
+#EXTINF:-1 group-title="港澳台" tvg-id="" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" tvg-name="鳳凰香港",鳳凰衛視·香港
+https://tv.iill.top/phenix/fhhk
+
 #EXTINF:-1 group-title="港澳台" tvg-id="TVB Xing He (HD)" tvg-logo="https://epg.iill.top/logo/星河台.png" tvg-name="星河台",星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
@@ -1444,7 +1510,7 @@ https://tv.iill.top/tv/fhzw
 https://tv.iill.top/tv/fhzx
 
 #EXTINF:-1 group-title="港台马" tvg-id="" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" tvg-name="鳳凰香港",鳳凰衛視·香港
-https://tv.iill.top/tv/fhxg
+https://tv.iill.top/tv/fhhk
 
 #EXTINF:-1 group-title="港台马" tvg-id="无线新闻" tvg-logo="https://epg.iill.top/logo/无线新闻.png" tvg-name="無綫新聞台",無綫新聞台
 https://tv.iill.top/tv/wxxw
@@ -9516,21 +9582,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="央视" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" tvg-name="CCTV 17",CCTV17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" tvg-name="CCTV 4",CCTV4
-https://pi.0472.org/livetv/cctv4k.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" tvg-name="重温经典",重温经典
-https://pi.0472.org/livetv/cwjd.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" tvg-name="CHC影迷电影",CHC影迷电影
-https://pi.0472.org/livetv/chcym.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" tvg-name="CHC动作电影",CHC动作电影
-https://pi.0472.org/livetv/chcdz.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" tvg-name="CHC家庭影院",CHC家庭影院
-https://pi.0472.org/livetv/chcjt.m3u8
-
 #EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" tvg-name="北京卫视",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 
@@ -9909,1432 +9960,7 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
 #EXTINF:-1 group-title="🎊ForeignSports🎊" tvg-id="" tvg-logo="" tvg-name="",NBALeague Pass18
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
 
-#EXTINF:-1 group-title="👉扫码添加此微信👈" tvg-id="" tvg-logo="" tvg-name="",👉扫码添加此微信👈
-https://7692.kstore.space/6H.mp4
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",08/2223:00 网球 2024美网资格赛第4日国际信号 官方解说
-https://livednow.com/iqiyi/live/5334102075355223?sign=gAAAAABmx1K6z4vbTrhtvlWUUzLYI5sD_D6nuVYGQrv8pg6GQ6aY8kL-okiuA006DiLhCC4ZDSmLhvFSeZs5IgdJyEdIPkqfBSHXSS20d4WIKAb5nbtz1qx5_3Hlbb16NVN4nKH7Un8VsErpeHr6aLgTIB8xqizPIZUg1WFw0gC6srXhr9aC_PYpHeNKPPRO5n8KcomN2MT5MxKNj9nrbynK_0oxB0Yhb3ff5HAy-Nw-XeM_ocUcT4FeJEzB9OunmIH_fGYQ2uXeoVGMDKhM7ix-k_Q2JqzM-jwHY1zrl_4hVkeRokFo-XZfG6DuGrwZTQsThaoc1B-es99OugF4cF8nILodeFsEs0JZFWEdcjqXWQW8A8Vp3dE%3D
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Plus
-https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 1
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 2
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league2
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 3
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league3
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 4
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league4
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 5
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league5
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports Premier 6
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league6
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports  4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 1
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-1/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 2
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-2/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 3
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-3/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 4
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-4/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 5
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-5/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 6
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-6/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NowSports 7
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-7/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 直播足球3
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 直播足球4
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 直播足球5
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",myTVSUPER 直播足球6
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",UK:Sky Sports Premier League FHD 1
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",UK:Sky Sports Premier League FHD 2
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NO:VIASAT SPORTS 1 FHD
-http://extraott.com//7795309038/1092686646/63953
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",NO:VIASAT SPORTS 2 FHD
-http://extraott.com//7795309038/1092686646/63951
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",PPV|HUB PREMIER 2 FHD
-http://extraott.com//7795309038/1092686646/9060
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",HubPremier 2 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 1 4K
-https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",AstroSuperSport 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",BeINSport Arabic 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
-
-#EXTINF:-1 group-title="🦁欧洲五大联赛🦁" tvg-id="" tvg-logo="" tvg-name="",UK:Sky Sports Main Event 4K
-http://doubleclicktv.live/70376812/52663544/620667
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",天空Sport4K 
-https://live.9528.eu.org/a1e47204bb4070bfc7a79c10d3c64611.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports F1
-http://iptv.darktv.eu:80/volkanduman/gwCRM7cj/38395
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports F1 HD
-http://live.lordstreams.co:8080//832396166/1982148236/2189
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS F1 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366421.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",DE| SKY SPORT F1 HD
-http://elit64.xyz:80/hdiptv9153/LuLdqQaSy3/251067
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",DE| SKY SPORT F1
-http://xtream.eshost.xyz//Lbs0U2/tFMZlx/1017
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",DE| SKY SPORT F1
-http://glass-iptv.one:8080/RamizPepic/CbnKSMGvB8mW/425
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",DE| SKY SPORT F1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/135125.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",IT| Sky Sport F1
-http://elit64.xyz:80/hdiptv9153/LuLdqQaSy3/240027
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",IT| SKY SPORT F1
-http://xtream.eshost.xyz//Lbs0U2/tFMZlx/73292
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",ES| DAZN F1 FHD
-http://xtream.eshost.xyz//Lbs0U2/tFMZlx/8088
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",NL| SKY SPORTS F1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104192.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| VIAPLAY FORMULE 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/219885.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",✦车手视角✦
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/181542.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Main Event 
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426317.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Pit Lane Channel 
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426318.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Driver Tracker Channel 
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426316.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Data Channel 
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426315.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Max Verstappen | Red Bull Racing
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426307.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Sergio Perez | Red Bull Racing
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426312.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Charles Leclerc | Ferrari
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426298.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Carlos Sainz | Ferrari
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426297.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Lewis Hamilton | Mercedes
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426306.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams George Russell | Mercedes
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426301.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Lando Norris | McLaren
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426305.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Sebastian Vettel | Aston Martin
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426311.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Lance Stroll | Aston Martin
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426304.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Fernando Alonso | Alpine
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426300.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Valtteri Bottas | Alfa Romeo
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426313.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Guanyu Zhou | Alfa Romeo
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426302.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Yuki Tsunoda | AlphaTauri
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426314.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Pierre Gasly | AlphaTauri
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426310.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Nicholas Latifi | Williams
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426309.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Alexander Albon | Williams
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426296.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Mick Schumacher | Haas F1 Team
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426308.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Kevin Magnussen | Haas F1 Team
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426303.m3u8
-
-#EXTINF:-1 group-title="🏎🏁🚦F1Event🚦🏁🏎" tvg-id="" tvg-logo="" tvg-name="",F1| F1 TV Cams Esteban Ocon | Alpine
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426299.m3u8
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",BossGolf 1
-http://209.146.124.22:8891/litv/litv-longturn05
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",BossGolf 2
-http://209.146.124.22:8891/litv/litv-longturn06
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|GOLF CHANNEL
-http://ftflivetv.xyz:83/7402751496/yEtCyURYPO/336
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|GOLF CHANNEL 60fps
-http://doubleclicktv.live/70376812/52663544/897
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|GOLF CHANNEL
-http://vipatdom.top:8080//VIP0181714999118007/c8cfd9f1874c/6276
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|Golf Channel UHD
-http://live.lordstreams.co:8080//832396166/1982148236/3651
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|Golf Channel LHD
-http://live.lordstreams.co:8080//832396166/1982148236/3738
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",US|Golf Channel SHD
-http://live.lordstreams.co:8080//832396166/1982148236/2385
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",UK|Sky Sports Golf
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339643.m3u8
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS GOLF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201126.m3u8
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT GOLF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201159.m3u8
-
-#EXTINF:-1 group-title="⛳️GolfTournament⛳️" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS GOLF FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366415.m3u8
-
-#EXTINF:-1 group-title="🎾🥎TennisEvents🥎🎾" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT TENNIS ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461993.m3u8
-
-#EXTINF:-1 group-title="🎾🥎TennisEvents🥎🎾" tvg-id="" tvg-logo="" tvg-name="",NL| ZIGGO SPORT TENNISʳᵉᶜ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/89.m3u8
-
-#EXTINF:-1 group-title="🎾🥎TennisEvents🥎🎾" tvg-id="" tvg-logo="" tvg-name="",4K| ZIGGO SPORT TENNIS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/3070.m3u8
-
-#EXTINF:-1 group-title="🎾🥎TennisEvents🥎🎾" tvg-id="" tvg-logo="" tvg-name="",UK| THE TENNIS CHANNEL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187191.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",👉Livebroadcast will only be shown when there is a game👈
-https://7692.kstore.space/3.mp4
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive1
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch1
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive2
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive3
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive4
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive5
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive6
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive7
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive8
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive9
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SportsLive10
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",8K| NBA TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/145714.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",TR| NBA TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2043.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",TR| NBA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2071.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SKYSPORT NBA
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19134/index.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",NBATV TR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6838/index.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",NBATV HD US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7226/index.m3u8
-
-#EXTINF:-1 group-title="🏅🏀NBAEvents🏀🏅" tvg-id="" tvg-logo="" tvg-name="",SKYHIGH VHS UHD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/17058/index.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",线路1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419537.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032487&extension=ts&play_token=Rx6nFRdBc3
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032486&extension=ts&play_token=EJzjvUqZyt
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  3
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032485&extension=ts&play_token=LBv0p8nQul
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  4
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032484&extension=ts&play_token=0UbzWv4LKO
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032483&extension=ts&play_token=vFf9lcNExR
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  6
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032482&extension=ts&play_token=udUfsTu1Xy
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  7
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032481&extension=ts&play_token=AHm3M4qJTd
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032480&extension=ts&play_token=W7cnjxq1Wm
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  4K 616
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032489&extension=ts&play_token=MqXK0d9peI
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  4K 617
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032488&extension=ts&play_token=IACiy5uppT
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032479&extension=ts&play_token=IpRU8B807s
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032478&extension=ts&play_token=EN3ModHoOo
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 3
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032477&extension=ts&play_token=0Zmo3kf5nQ
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 4
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032476&extension=ts&play_token=JeL664cEZc
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032475&extension=ts&play_token=Q41nJQn6hR
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 6
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032474&extension=ts&play_token=Q7LoQPFPhf
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 7
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032473&extension=ts&play_token=TZmKFnaAi2
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419538.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419539.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419540.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419541.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419542.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 6
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419543.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSport 7
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419544.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419552.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419551.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419550.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419549.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419548.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  6
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419547.m3u8
-
-#EXTINF:-1 group-title="🏵港澳Sport🏵" tvg-id="" tvg-logo="" tvg-name="",NOWSports Premier League  7
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419546.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",4K| PPV 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/182683.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",4K| PPV 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/182684.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| SPFL 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223148.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| SPFL 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223149.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| SPFL 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223150.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| SPFL 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223151.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| SPFL 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223152.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",✦ BBC RED BUTTON  ✦
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223160.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| BBC RED BUTTON 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223161.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| BBC RED BUTTON 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223162.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| BBC RED BUTTON 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223163.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| BBC RED BUTTON 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223164.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| BBC RED BUTTON 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/223165.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",✦ UK VIAPLAY  ✦
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220840.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY NFL 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220830.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220831.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220832.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220833.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220834.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 6
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220835.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 7
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220836.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 8
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220837.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 9
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220838.m3u8
-
-#EXTINF:-1 group-title="💰💲PPVPayPer-View Event💲💰" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORT 10
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220839.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK|Sky Sports Premier League
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339640.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK|Sky Sports Premier League
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/492996.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS PREMIER LEAGUE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104175.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT PREMIER LEAGUE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201144.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS PREMIER LEAGUE FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366436.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT PREMIER LEAGUE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493013.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 1 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443022.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 2 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443021.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 3 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443020.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443019.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 5 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443018.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 6 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443017.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 7 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443016.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 8 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443015.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 9 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443014.m3u8
-
-#EXTINF:-1 group-title="⚽️🦁🇬🇧PremierLeague🇬🇧🦁⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:PREMIER LEAGUE REPLAY 10 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443013.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT LALIGA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201142.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT LALIGA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493016.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA HIGHLIGHTS HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443033.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 1 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443032.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 2 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443031.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 3 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443030.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443029.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 5 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443028.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 6 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443027.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 7 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443026.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 8 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443025.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 9 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443024.m3u8
-
-#EXTINF:-1 group-title="⚽️🇪🇸LaLiga🇪🇸⚽️" tvg-id="" tvg-logo="" tvg-name="",UK:LALIGA REPLAY 10 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443023.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/222287.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/209831.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/265216.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/265217.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/265218.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 6
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/490050.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 7
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/490051.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 8
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/490052.m3u8
-
-#EXTINF:-1 group-title="⚽️🍺🇩🇪GermanBundesliga🇩🇪🍺⚽️" tvg-id="" tvg-logo="" tvg-name="",4K| VIAPLAY BUNDESLIGA 9
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/490053.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE HIGHLIGHTS HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443012.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 1 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443011.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 2 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443010.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 3 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443009.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443008.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 5 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443007.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 6 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443006.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 7 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443005.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 8 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/443004.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 9 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442999.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 10 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442998.m3u8
-
-#EXTINF:-1 group-title="🐉欧洲联盟杯🐉" tvg-id="" tvg-logo="" tvg-name="",UK:EUROPA LEAGUE REPLAY 11 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442997.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS NEWS FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366442.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS ARENA FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366439.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS MAIN EVENT FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366433.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS FOOTBALL FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366430.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS MIX FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366427.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS NFL FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366424.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS RACING FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366418.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK:SKY SPORTS CRICKET FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366412.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Main Event
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339639.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Football
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339641.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Cricket
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339642.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports F1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339644.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Action
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339645.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Arena
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339646.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Racing
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339647.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ①🪂" tvg-id="" tvg-logo="" tvg-name="",UK| Sky Sports Mix
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339648.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports F1
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Main Event
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Football
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Arena
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Comprehensive
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Action
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7340/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Racing
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Cricket
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ②🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Golf
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7344/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports F1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Comprehensive
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Football
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Fighting
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Bundesliga
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Football
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Football
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Football
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports News
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Cricket
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySport Premier League
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Australia
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
-
-#EXTINF:-1 group-title="🪂SkySports ③🪂" tvg-id="" tvg-logo="" tvg-name="",SkySports Golf
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 4K
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 1 HD PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2531/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 2 HD PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2532/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 3 PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7062/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 4 PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2534/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 5 PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2535/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 6 PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2536/index.m3u8
-
-#EXTINF:-1 group-title="🛡ELEVENSPORT🛡" tvg-id="" tvg-logo="" tvg-name="",ElevenSports 6 PT
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7064/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 1 EN FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493043.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 2 EN FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493042.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 1 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493041.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 2 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493040.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 3 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493039.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 4 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493038.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 5 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493037.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 6 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493036.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|beIN SPORTS 7 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493035.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|BEIN SPORTS MAX 1ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639048.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|BEIN SPORTS MAX 1 HEVC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639049.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|BEIN SPORTS MAX 2ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/646552.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",阿根廷|BEIN SPORTS MAX 3ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/646553.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6123/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 3 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6124/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 4 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6125/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 5 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6126/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 6 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6127/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 7 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6128/index.m3u8
-
-#EXTINF:-1 group-title="🔰beINSport🔰" tvg-id="" tvg-logo="" tvg-name="",Qatar|beIN Sports 1 Premium HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6131/index.m3u8
-
-#EXTINF:-1 group-title="🦉TNTSports🦉" tvg-id="" tvg-logo="" tvg-name="",TNTSPORT 1 50 FPSᶠ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300445.m3u8
-
-#EXTINF:-1 group-title="🦉TNTSports🦉" tvg-id="" tvg-logo="" tvg-name="",TNTSPORT 2 50 FPSᶠ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300449.m3u8
-
-#EXTINF:-1 group-title="🦉TNTSports🦉" tvg-id="" tvg-logo="" tvg-name="",TNTSPORT 3 50 FPSᶠ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300453.m3u8
-
-#EXTINF:-1 group-title="🦉TNTSports🦉" tvg-id="" tvg-logo="" tvg-name="",TNTSPORT 4 50 FPSᶠ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300457.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339614.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339615.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339616.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339617.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 5
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339618.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 6
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339619.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 7
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339620.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 8
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339621.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 9
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339622.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 10
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339623.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 11
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339624.m3u8
-
-#EXTINF:-1 group-title="🐍DAZNSports🐍" tvg-id="" tvg-logo="" tvg-name="",U.K.|DAZN  Event 12
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339625.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 1ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301371.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 2ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301372.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 3ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301373.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 4ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301374.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN WATCHᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323002.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 1 ULTRAᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323003.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN ULTRA 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/212390.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 1 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/147676.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 2 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/147677.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 3 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/169253.m3u8
-
-#EXTINF:-1 group-title="🦅ESPNSports🦅" tvg-id="" tvg-logo="" tvg-name="",美国|ESPN 4 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/147678.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS 1 US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7322/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS 2 US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7323/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS ARIZONA HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19139/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS FLORIDA HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19140/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS HOUSTON HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19141/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS PRIME TICKET HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19142/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS SOUTHWEST PLUS HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19143/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS SPORTSTIME OHIO HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19144/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",FOXSPORTS OKLAHOMA HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19146/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",CNBC
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/962/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",NHLNetwork US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7225/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",CBSSPORTS NETWORK US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7324/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",NBCSPORTS NETWORK US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7327/index.m3u8
-
-#EXTINF:-1 group-title="⛄️🦊FOXSports🦊⛄️" tvg-id="" tvg-logo="" tvg-name="",NHLNETWORK US
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7328/index.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NPO1 EK ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639058.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NPO1ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301360.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NPO2ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301361.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NPO3ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301362.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FUSSBALL.TV1ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639320.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FUSSBALL.TV2ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FUSSBALL.TV3ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RTL4ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301363.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RTL5ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301364.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",SBS6ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301365.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RTL7ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301366.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RTL8ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301367.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",VIAPLAYTVᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301368.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NET5ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301369.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",VERONICADISNEY XDᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301370.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",DISCOVERYᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323576.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ANIMALPLANETᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323575.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NATIONALGEOGRAPHICᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",NATGEO WILDᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323574.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",HISTORYᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323572.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT ULTRA +ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/318127.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT SELECTᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/423593.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT VOETBALᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/423594.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT RACINGᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461991.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",ZIGGOSPORT GOLF ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461992.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FILM1PREMIEREᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323577.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FILM1ACTIONᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323578.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FILM1FAMILYᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323579.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",FILM1DRAMAᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323580.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENSTORIES
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391605.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENFAMILY
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391604.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENDRAMA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391603.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENCOMEDY
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391602.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENACTION
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391601.m3u8
-
-#EXTINF:-1 group-title="4️⃣🇰🇺 🇭 🇩" tvg-id="" tvg-logo="" tvg-name="",RAKUTENROMANTIEK
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/391600.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",AnimalPlanet HD
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/218/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",AnimalPlanet
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/137/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",beINBox Office 3 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6743/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",beINBox Office 1 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6744/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",beINBox Office 2 HD TR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6745/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 1 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7263/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 2 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7264/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 3 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7265/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 4 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7266/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 5 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7267/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",ArenaSport 6 FHD HR
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7268/index.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| A SPOR
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2090.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| TRT SPOR
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2083.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| TRT SPOR 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/101944.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| TRT SPOR YILDIZ HD+
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/267259.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| TRT SPOR YILDIZ HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/267260.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR|  FB TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2089.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",TR| GS TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/2092.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| TG4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190862.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK|ID HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339634.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK|QUEST RED HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339635.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK|TLC HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339636.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK|GOLD HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339654.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| WWE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113828.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| CBBC HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/63065.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| CNN HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113741.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| BLOOMBERG
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300429.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| FOX NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300430.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| CNBC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300431.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| EURONEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300432.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| AL JAZEERA NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300427.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| AL JAZEERA EN
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113742.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| BBC NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/63049.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| BLOOMBERG
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113740.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| FRANCE 24
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113744.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| GB NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300434.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| NHK WORLD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300435.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| SKY NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113749.m3u8
-
-#EXTINF:-1 group-title="☀️OtherSports☀️" tvg-id="" tvg-logo="" tvg-name="",UK| TRT WORLD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300428.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",●✦SP⚽RT ✦●
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/215607.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/415996.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV +1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/416003.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/416001.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 2 +1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/416002.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/415999.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 3 +1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/416000.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/415997.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV 4 +1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/415998.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITVBE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/415995.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC 1 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12374.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC 2 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12420.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC 3/CBBC HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12376.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC 4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12377.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC SCOTLAND HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197549.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC WORLD NEWS HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197552.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC ALBA HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/225556.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC ONE SCOT HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113767.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC ONE WALES HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197557.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC ONE LONDON HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197555.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC ONE NORTHERN IRELAND HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197556.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC TWO HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197561.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC BRIT HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197558.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC EARTH HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197560.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC LIFESTYLE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197559.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BBC PARLIAMENT HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197551.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| ITV BE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113732.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EURONEWS HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113750.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| FOX NEWS HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197553.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK|SKY NEWS LIVE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339663.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK|NBC NEWS NOW HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339664.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY NEWS EXTRA HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187174.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CBS DRAMA HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197568.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CBS JUSTICE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113853.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CBS REALITY HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197567.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CHALLENGE HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/113859.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CHANNEL 4 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12386.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BRISTOL CITY
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419444.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| Sky  Sports News HQ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339638.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS RACING 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187171.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS F1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190839.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS BOX OFFICE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/286173.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS MIX
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190843.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS MIX
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104181.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS ACTION
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201118.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS NFL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190844.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS ARENA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190837.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS CRICKET
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201112.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS FOOTBALL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104189.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS MAIN EVENT
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/220719.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SKY SPORTS NEWS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104178.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BT SPORT 1 50 FPS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/402191.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BT SPORT 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/402190.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EUROSPORT 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201089.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EUROSPORT 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/217052.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| LFC TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201166.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| MUTV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300426.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| RACING TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190835.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SPORTY STUFF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300433.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT VARIETY 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201147.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT VARIETY 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201148.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT VARIETY 3
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201149.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT VARIETY 4
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201150.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT GRANDSTAND
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201145.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT MOTORSPORT
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201146.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT PSL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201143.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT ACTION
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201151.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT RUGBY
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201153.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT CRICKET
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201154.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT BLITZ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201156.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT PLAY 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201160.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT FOOTBALL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201152.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| SUPERSPORT MAXIMO 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201157.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORTS 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104172.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY SPORTS 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201095.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| VIAPLAY EXTRA SPORTS
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/197596.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EIR SPORT 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190846.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EIR SPORT 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190847.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| RED BULL TV
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187164.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| EDGE SPORT
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187115.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BEIN SPORTS 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190196.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BEIN SPORTS 2
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/190197.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| BEIN SPORTS USA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201088.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| CELTIC FC TV 
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/267873.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 1 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397049.m3u8
-
-#EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK| PREMIER SPORTS 2 FHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/397046.m3u8
-
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-22
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-23
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
