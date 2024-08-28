@@ -759,23 +759,29 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 马略卡vs塞维利亚 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 毕尔巴鄂竞技vs瓦伦西亚 解说
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」03:15 联赛 巴列卡诺vs巴塞罗那 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 巴拉多利德vs莱加内斯 解说
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:55 《白大拿挑战者系列赛》第八季第3周 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」01:00 美网第3比赛日：郑钦文领衔中国军团出战
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:55 《白大拿挑战者系列赛》第八季第3周 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」01:00 美网女单第二轮 郑钦文vs安德烈耶娃 大看台球场解说
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」14:30 体育远程制播45
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」03:15 联赛 马德里竞技vs西班牙人 解说
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」20:00 早安美网第2期
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」03:20 联赛 皇家社会vs阿拉维斯 解说
 https://tv.iill.top/Migu/6
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」08:30 美网男单第二轮：杰雷VS德约科维奇 杰雷vs德约科维奇 阿瑟阿什球场解说
+https://tv.iill.top/Migu/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」20:00 早安美网第3期
+https://tv.iill.top/Migu/8
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -11466,7 +11472,7 @@ http://mohdtv.com:8880//voby3837/28337929/28767
 #EXTINF:-1 group-title="🇬🇧💂UKSports💂🇬🇧" tvg-id="" tvg-logo="" tvg-name="",UK318:SkySports Racing FHD
 http://mohdtv.com:8880//voby3837/28337929/28741
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-27
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202408-28
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
