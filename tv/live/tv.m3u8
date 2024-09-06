@@ -18,7 +18,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/纯享4K.png" tvg-name="纯享4K",4K·UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
-#EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/华数4K.png" tvg-name="华数4K",4K影视
+#EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/华数4K.png" tvg-name="4K综艺",4K影视
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
@@ -255,91 +255,91 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?
 #EXTINF:-1 group-title="iHOT" tvg-id="" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" tvg-name="爱体育",iHOT爱体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" tvg-name="哒啵电竞",NewTV哒啵电竞
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" tvg-name="哒啵电竞",NewTV哒啵电竞
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" tvg-name="哒啵赛事",NewTV哒啵赛事
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" tvg-name="哒啵赛事",NewTV哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" tvg-name="黑莓动画",NewTV黑莓动画
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" tvg-name="黑莓动画",NewTV黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV黑莓电影" tvg-logo="https://epg.iill.top/logo/NewTV黑莓电影.png" tvg-name="黑莓电影",NewTV黑莓电影
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV黑莓电影" tvg-logo="https://epg.iill.top/logo/NewTV黑莓电影.png" tvg-name="黑莓电影",NewTV黑莓电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" tvg-name="超级电影",NewTV超级电影
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" tvg-name="超级电影",NewTV超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" tvg-name="超级电视剧",NewTV超级电视剧
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" tvg-name="超级电视剧",NewTV超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" tvg-name="超级体育",NewTV超级体育
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" tvg-name="超级体育",NewTV超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV超级综艺" tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" tvg-name="超级综艺",NewTV超级综艺
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV超级综艺" tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" tvg-name="超级综艺",NewTV超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" tvg-name="魅力潇湘",NewTV魅力潇湘
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" tvg-name="魅力潇湘",NewTV魅力潇湘
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" tvg-name="金牌综艺",NewTV金牌综艺
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" tvg-name="金牌综艺",NewTV金牌综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" tvg-name="东北热剧",NewTV东北热剧
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" tvg-name="东北热剧",NewTV东北热剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" tvg-name="古装剧场",NewTV古装剧场
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" tvg-name="古装剧场",NewTV古装剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" tvg-name="欢乐剧场",NewTV欢乐剧场
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" tvg-name="欢乐剧场",NewTV欢乐剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" tvg-name="怡伴健康",NewTV怡伴健康
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" tvg-name="怡伴健康",NewTV怡伴健康
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" tvg-name="潮妈辣婆",NewTV潮妈辣婆
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" tvg-name="潮妈辣婆",NewTV潮妈辣婆
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" tvg-name="",NewTV军旅剧场
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" tvg-name="",NewTV军旅剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" tvg-name="军事评论",NewTV军事评论
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" tvg-name="军事评论",NewTV军事评论
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" tvg-name="中国功夫",NewTV中国功夫
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" tvg-name="中国功夫",NewTV中国功夫
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" tvg-name="农业致富",NewTV农业致富
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" tvg-name="农业致富",NewTV农业致富
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" tvg-name="动作电影",NewTV动作电影
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" tvg-name="动作电影",NewTV动作电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" tvg-name="家庭剧场",NewTV家庭剧场
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" tvg-name="家庭剧场",NewTV家庭剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" tvg-name="惊悚悬疑",NewTV惊悚悬疑
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" tvg-name="惊悚悬疑",NewTV惊悚悬疑
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV武博世界" tvg-logo="https://epg.iill.top/logo/NewTV武博世界.png" tvg-name="武博世界",NewTV武博世界
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV武博世界" tvg-logo="https://epg.iill.top/logo/NewTV武博世界.png" tvg-name="武博世界",NewTV武博世界
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" tvg-name="炫舞未来",NewTV炫舞未来
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" tvg-name="炫舞未来",NewTV炫舞未来
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" tvg-name="爱情喜剧",NewTV爱情喜剧
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" tvg-name="爱情喜剧",NewTV爱情喜剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" tvg-name="精品萌宠",NewTV精品萌宠
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" tvg-name="精品萌宠",NewTV精品萌宠
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" tvg-name="精品体育",NewTV精品体育
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" tvg-name="精品体育",NewTV精品体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" tvg-name="精品大剧",NewTV精品大剧
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" tvg-name="精品大剧",NewTV精品大剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 
-#EXTINF:-1 group-title="NewTV" tvg-id="NEWTV精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" tvg-name="精品记录",NewTV精品记录
+#EXTINF:-1 group-title="NewTV" tvg-id="NewTV精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" tvg-name="精品记录",NewTV精品记录
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
 #EXTINF:-1 group-title="地区" tvg-id="" tvg-logo="https://epg.iill.top/logo/广东珠江.png" tvg-name="广东珠江",「广东」广东珠江「IPV6」
@@ -375,7 +375,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="地区" tvg-id="" tvg-logo="https://epg.iill.top/logo/黑龙江文体.png" tvg-name="黑龙江文体",「黑龙江」黑龙江文体「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 
-#EXTINF:-1 group-title="地区" tvg-id="" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" tvg-name="黑龙江新闻法治",「黑龙江」黑龙江新闻法治「IPV6」
+#EXTINF:-1 group-title="地区" tvg-id="" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" tvg-name="黑龙江新闻",「黑龙江」黑龙江新闻法治「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 
 #EXTINF:-1 group-title="地区" tvg-id="" tvg-logo="https://epg.iill.top/logo/黑龙江影视.png" tvg-name="黑龙江影视",「黑龙江」黑龙江影视「IPV6」
@@ -759,47 +759,41 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」03:00 阿姆斯特朗球场
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」14:00 3X广州站 解说
+https://tv.iill.top/NBA/1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」02:50 美网男单半决赛：辛纳vs德雷珀 辛纳vs德雷珀 阿瑟阿什球场解说
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」03:00 美网第11日：意大利组合混双夺冠 7时萨巴伦卡迎战纳瓦罗 阿瑟阿什球场解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」02:50 2024美国公开赛Day12赛场原声（阿瑟阿什球场）
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」03:00 阿瑟阿什球场
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」06:50 美网男单半决赛：弗里茨vs蒂亚福 弗里茨vs蒂亚福 阿瑟阿什球场解说
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」03:00 美网第11日：意大利组合混双夺冠 7时萨巴伦卡迎战纳瓦罗 阿瑟阿什球场解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」06:50 阿瑟阿什球场
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 阿拉木图常规挑战赛：向鹏迎战周启豪 林诗栋组合冲击四强 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 阿拉木图常规挑战赛：单打1/4决赛及半决赛、男女双半决赛、混双决赛 1号桌
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 阿拉木图常规挑战赛：向鹏迎战周启豪 林诗栋组合冲击四强 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 阿拉木图常规挑战赛：单打1/4决赛及半决赛、男女双半决赛、混双决赛 2号桌
 https://tv.iill.top/Migu/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 阿拉木图常规挑战赛：单打1/4决赛及半决赛、男女双半决赛、混双决赛 1号桌
 https://tv.iill.top/Migu/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 2号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 1号桌
 https://tv.iill.top/Migu/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 3号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 2号桌
 https://tv.iill.top/Migu/9
 
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」16:00 英文解说
 https://tv.iill.top/Migu/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 半决赛 长沙湾田勇胜vs香港金牛 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」20:00 早安美网第12期
 https://tv.iill.top/Migu/11
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 原声
-https://tv.iill.top/Migu/12
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:20 半决赛 长沙湾田勇胜vs香港金牛 如有
-https://tv.iill.top/Migu/13
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」20:00 早安美网第11期
-https://tv.iill.top/Migu/14
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -9753,7 +9747,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼FranceSports🗼🥖🇫🇷" tvg-id="" tvg-logo="" tvg-name="",FR:RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-05
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-06
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
