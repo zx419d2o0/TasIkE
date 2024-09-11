@@ -570,10 +570,10 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:55 《白大拿挑战者系列赛》第八季第5周 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 澳门冠军赛：男女单打1/8决赛 解说
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」07:55 《白大拿挑战者系列赛》第八季第5周 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 澳门冠军赛：男女单打1/8决赛 解说
 https://tv.iill.top/Migu/2
 
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 赛场原声
@@ -581,12 +581,6 @@ https://tv.iill.top/Migu/3
 
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 英文解说
 https://tv.iill.top/Migu/4
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 澳门冠军赛：男女单打1/16决赛及1/8决赛 解说
-https://tv.iill.top/Migu/5
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」12:30 澳门冠军赛：男女单打1/16决赛及1/8决赛 解说
-https://tv.iill.top/Migu/6
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -9231,7 +9225,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼FranceSports🗼🥖🇫🇷" tvg-id="" tvg-logo="" tvg-name="",FR:RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-10
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-11
 url
 
 #EXTINF:-1 group-title="綜合" tvg-id="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民視",民視
