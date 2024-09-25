@@ -33,7 +33,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" tvg-name="CCTV 5",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
@@ -300,7 +300,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?
 #EXTINF:-1 group-title="限制" tvg-id="" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" tvg-name="七彩戏剧",SiTV七彩戏剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="限制" tvg-id="" tvg-logo="https://epg.iill.top/logo/乐游.png" tvg-name="乐游",SiTV乐游
+#EXTINF:-1 group-title="限制" tvg-id="全纪实" tvg-logo="https://epg.iill.top/logo/乐游.png" tvg-name="乐游",SiTV乐游
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #EXTINF:-1 group-title="限制" tvg-id="" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" tvg-name="动漫秀场",SiTV动漫秀场
@@ -750,11 +750,86 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:10 总决赛 安徽文一vs香港金牛 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」00:50 联赛 吉罗纳 vs 巴列卡诺 李霄
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「NBL」19:10 原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「西甲」02:45 联赛 巴塞罗那 vs 赫塔菲 张昊泽 梁祥宇
 https://tv.iill.top/Migu/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 刘洪新 鸿昆
+https://tv.iill.top/Migu/3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 张文悦
+https://tv.iill.top/Migu/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 李宁 佟艺
+https://tv.iill.top/Migu/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 刘钟鸣
+https://tv.iill.top/Migu/6
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 乔迁
+https://tv.iill.top/Migu/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 钻石球场
+https://tv.iill.top/Migu/8
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 莲花球场
+https://tv.iill.top/Migu/9
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 映月球场
+https://tv.iill.top/Migu/10
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 布拉德球场
+https://tv.iill.top/Migu/11
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 3号球场
+https://tv.iill.top/Migu/12
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 5号球场
+https://tv.iill.top/Migu/13
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 奥索里奥vs汤姆贾诺维奇
+https://tv.iill.top/Migu/14
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「网球」11:00 2024中国公开赛第4日：男女单打第一轮 布林科娃vs穆霍娃
+https://tv.iill.top/Migu/15
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」11:00 中国大满贯：男女单打资格赛第一轮 小马哥 周冠达
+https://tv.iill.top/Migu/16
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」11:00 中国大满贯：男女单打资格赛第一轮 2号桌
+https://tv.iill.top/Migu/17
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」11:00 中国大满贯：男女单打资格赛第一轮 3号桌
+https://tv.iill.top/Migu/18
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」11:00 中国大满贯：男女单打资格赛第一轮 4号桌
+https://tv.iill.top/Migu/19
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」14:50 现场原声
+https://tv.iill.top/Migu/20
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」18:00 中国大满贯：男女单打资格赛第一轮 周冠达 李宏德
+https://tv.iill.top/Migu/21
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」18:00 中国大满贯：男女单打资格赛第一轮 2号桌
+https://tv.iill.top/Migu/22
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」18:00 中国大满贯：男女单打资格赛第一轮 3号桌
+https://tv.iill.top/Migu/23
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」18:00 中国大满贯：男女单打资格赛第一轮 4号桌
+https://tv.iill.top/Migu/24
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」18:00 中国大满贯：男女单打资格赛第一轮 狂欢Yeah
+https://tv.iill.top/Migu/25
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英雄联盟」19:30 全球总决赛 入围赛 GAM vs SHG 官方解说
+https://tv.iill.top/Migu/26
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「英雄联盟」22:50 全球总决赛 入围赛 100T vs R7 官方解说
+https://tv.iill.top/Migu/27
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -777,7 +852,7 @@ https://tv.iill.top/migu/cctv4o
 #EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" tvg-name="CCTV 5",CCTV5
 https://tv.iill.top/migu/cctv5
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV-5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
 https://tv.iill.top/migu/cctv5p
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
@@ -4929,7 +5004,7 @@ https://tv.iill.top/MyTV/JUHD
 #EXTINF:-1 group-title="myTVSUPER" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="",翡翠台
 https://tv.iill.top/MyTV/J
 
-#EXTINF:-1 group-title="myTVSUPER" tvg-id="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" tvg-name="",TVBPlus
+#EXTINF:-1 group-title="myTVSUPER" tvg-id="J2" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" tvg-name="",TVBPlus
 https://tv.iill.top/MyTV/B
 
 #EXTINF:-1 group-title="myTVSUPER" tvg-id="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" tvg-name="",明珠台
@@ -9405,5 +9480,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼FranceSports🗼🥖🇫🇷" tvg-id="" tvg-logo="" tvg-name="",FR:RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 
-#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-24
+#EXTINF:-1 group-title="UpdateTime" tvg-id="" tvg-logo="" tvg-name="",202409-25
 url
