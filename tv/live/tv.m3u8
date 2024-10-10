@@ -609,23 +609,38 @@ http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contenti
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 黄蜂 vs 热火 邢晨
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「世预」04:50 南美 委内瑞拉 vs 阿根廷 梁祥宇
+https://tv.iill.top/FB/1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「世预」07:50 南美 智利 vs 巴西 涂远
+https://tv.iill.top/FB/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 骑士 vs 步行者 邵化谦
 https://tv.iill.top/NBA/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 骑士 vs 公牛 邵化谦
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 雄鹿 vs 湖人 孙博
 https://tv.iill.top/NBA/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 活塞 vs 太阳 刘沛元
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 雷霆 vs 新西兰破坏者 王冠证
 https://tv.iill.top/NBA/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 季前赛 老鹰 vs 步行者 周赫
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 灰熊 vs 黄蜂 陈鑫隆
 https://tv.iill.top/NBA/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」16:30 济南RW侠 vs 杭州LGD.NBW 济南RW侠 vs LGD.NBW 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 独行侠 vs 爵士 姜帆
+https://tv.iill.top/NBA/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第4期 《体育日报》第四期
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」20:30 广州TTG vs 长沙TES.A 广州TTG vs 长沙TES.A 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」16:30 广州TTG vs 佛山DRG 广州TTG vs 佛山DRG 官方解说
 https://tv.iill.top/Migu/2
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」19:40 成都AG超玩会 vs 西安WE 成都AG超玩会 vs 西安WE 官方解说
+https://tv.iill.top/Migu/3
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「lol」19:40 英雄联盟S14瑞士轮Day7 官方解说
+https://tv.iill.top/Migu/4
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -774,20 +789,38 @@ https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a00
 #EXTINF:-1 group-title="TVB" tvg-id="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" tvg-name="美亚电影台",美亞電影台
 https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
-#EXTINF:-1 group-title="Astro" tvg-id="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" tvg-name="凤凰资讯",鳳凰衛視·資訊
-https://astro.ttvb.eu.org/stream/astro/fhzx/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" tvg-name="CCTV 4",CCTV4
+https://astro.ttvb.eu.org/stream/astro/lvw70ivs/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
-#EXTINF:-1 group-title="Astro" tvg-id="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="凤凰中文",鳳凰衛視·中文
-https://astro.ttvb.eu.org/stream/astro/fhzw/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-
-#EXTINF:-1 group-title="Astro" tvg-id="TVBJADE" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="TVBJADE",翡翠台
-https://astro.ttvb.eu.org/stream/astro/jade/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+#EXTINF:-1 group-title="Astro" tvg-id="TVBJADE" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="TVBJADE",TVB Jade
+https://astro.ttvb.eu.org/stream/astro/11ua4ver/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 #EXTINF:-1 group-title="Astro" tvg-id="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" tvg-name="星河台",星河台
-https://astro.ttvb.eu.org/stream/astro/xh/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+https://astro.ttvb.eu.org/stream/astro/ar00j253/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
-#EXTINF:-1 group-title="Astro" tvg-id="天映频道" tvg-logo="https://epg.iill.top/logo/天映频道.png" tvg-name="天映频道",天映頻道
-https://astro.ttvb.eu.org/stream/astro/tyjd/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+#EXTINF:-1 group-title="Astro" tvg-id="千禧经典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" tvg-name="千禧经典台",千禧經典台
+https://astro.ttvb.eu.org/stream/astro/3220s6lw/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="娱乐新闻台" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" tvg-name="娱乐新闻台",娛樂新聞台
+https://astro.ttvb.eu.org/stream/astro/4cfg3zhu/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="天映新加坡" tvg-logo="https://epg.iill.top/logo/天映频道.png" tvg-name="天映新加坡",天映頻道
+https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="天映经典频道" tvg-logo="https://epg.iill.top/logo/天映经典.png" tvg-name="天映经典频道",天映經典
+https://astro.ttvb.eu.org/stream/astro/iejgl7gb/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="ASTROHUAHEEDAIHD" tvg-logo="https://epg.iill.top/logo/欢喜台.png" tvg-name="ASTROHUAHEEDAIHD",Astro 歡喜台
+https://astro.ttvb.eu.org/stream/astro/wnn1r6fs/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" tvg-name="ASTROAECHD",AstroAEC
+https://astro.ttvb.eu.org/stream/astro/a73zujyn/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="ASTROAOD311" tvg-logo="https://epg.iill.top/logo/AOD.png" tvg-name="ASTROAOD311",AstroAOD
+https://astro.ttvb.eu.org/stream/astro/x2zlpdt2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+#EXTINF:-1 group-title="Astro" tvg-id="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" tvg-name="IQIYIHD",iQIYI
+https://astro.ttvb.eu.org/stream/astro/pc1ipfmh/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 #EXTINF:-1 group-title="港澳" tvg-id="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="凤凰中文",鳳凰衛視·中文
 https://tv.iill.top/phenix/fhzw
@@ -7671,6 +7704,18 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47787.ts
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://assets.livednow.com/logo/ITV-4.png" tvg-name="",ITV 4 
 http://kstv.us:8080/live/tH300gvHff/8606073792/47785.ts
 
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZa28rF-VZVU5fsn8mFiDacWCfihYTOe4zGg&s" tvg-name="",ITV 1 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/261122
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZa28rF-VZVU5fsn8mFiDacWCfihYTOe4zGg&s" tvg-name="",ITV 2 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/261123
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZa28rF-VZVU5fsn8mFiDacWCfihYTOe4zGg&s" tvg-name="",ITV 3 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/261124
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZa28rF-VZVU5fsn8mFiDacWCfihYTOe4zGg&s" tvg-name="",ITV 4 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/261125
+
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png" tvg-name="",BBC One 
 http://41.205.93.154/BBCONE/index.m3u8
 
@@ -7712,6 +7757,45 @@ http://103.97.89.234/viasatsport/index.m3u8
 
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq2A5GZfb-EJH1EANfiOqKA1INyD0Zoc79w&usqp=CAU" tvg-name="",Belarus 5
 http://103.97.89.234/belarus5/index.m3u8
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10" tvg-name="",Rai 1 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150251
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10" tvg-name="",Rai 2 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150252
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10" tvg-name="",Rai 3 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150253
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1a.png" tvg-name="",Polsat Sport Premium 1 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/263331
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2a.png" tvg-name="",Polsat Sport Premium 2 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/263332
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRLuphff5WFPH-s8XfwkqjPJVfdFZBn1IdoGKK7qnbJXJ57qVlEzFdbqI&s=10" tvg-name="",DiGi Sport 1 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/116834
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRLuphff5WFPH-s8XfwkqjPJVfdFZBn1IdoGKK7qnbJXJ57qVlEzFdbqI&s=10" tvg-name="",DiGi Sport 2 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/116835
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRLuphff5WFPH-s8XfwkqjPJVfdFZBn1IdoGKK7qnbJXJ57qVlEzFdbqI&s=10" tvg-name="",DiGi Sport 3 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/116836
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRLuphff5WFPH-s8XfwkqjPJVfdFZBn1IdoGKK7qnbJXJ57qVlEzFdbqI&s=10" tvg-name="",DiGi Sport 4 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/116837
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFihHX754oK9XfXxqcRD0eDD6SarbtT0uag&usqp=CAU" tvg-name="",Arena Sport 1 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/85125
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFihHX754oK9XfXxqcRD0eDD6SarbtT0uag&usqp=CAU" tvg-name="",Arena Sport 2 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/85126
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFihHX754oK9XfXxqcRD0eDD6SarbtT0uag&usqp=CAU" tvg-name="",Arena Sport 3 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/85127
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFihHX754oK9XfXxqcRD0eDD6SarbtT0uag&usqp=CAU" tvg-name="",Arena Sport 4 
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/85128
 
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-name="",Arena Sport 1 Premium 
 https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8
@@ -8421,6 +8505,9 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="http://guki.my.id/logo/sports/a6.png" tvg-name="",Arena Sport 6 
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycLUL499K29BdPEI_CN62_WkPbep3cbK0vA&usqp=CAU" tvg-name="",Sportdigital Fussball 
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W9Knw7c9-l4UMOfnFGQIBCcmgbNKz1no2pxMJ7urd0tqqMU4EUKAnca&s=10" tvg-name="",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 
@@ -8478,26 +8565,53 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png" tvg-name="",SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IWXIcKjEC5w_PVu6QS7UpKKabrxSwvuGMw&usqp=CAU" tvg-name="",HBO 
-https://canale.mizhls.ru/lb/premium321/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO US 
+https://webhdrunns.mizhls.ru/lb/premium321/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-name="",HBO 2 
-https://canale.mizhls.ru/lb/premium689/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO 2 US 
+https://webhdrunns.mizhls.ru/lb/premium689/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" tvg-name="",HBO Comedy 
-https://canale.mizhls.ru/lb/premium690/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO Comedy US 
+https://webhdrunns.mizhls.ru/lb/premium690/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" tvg-name="",HBO Family 
-https://canale.mizhls.ru/lb/premium691/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO Family US 
+https://webhdrunns.mizhls.ru/lb/premium691/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" tvg-name="",HBO Signature 
-https://canale.mizhls.ru/lb/premium693/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO Signature US 
+https://webhdrunns.mizhls.ru/lb/premium693/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" tvg-name="",HBO Zone 
-https://canale.mizhls.ru/lb/premium694/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO Zone US 
+https://webhdrunns.mizhls.ru/lb/premium694/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="",Cinemax 
-https://canale.mizhls.ru/lb/premium374/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IWXIcKjEC5w_PVu6QS7UpKKabrxSwvuGMw&usqp=CAU" tvg-name="",HBO  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-name="",HBO Hits  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/11492
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" tvg-name="",HBO Family  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30184
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" tvg-name="",HBO Signature  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="",Cinemax  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30185
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="",Thrill  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/4
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7TojiVNcF_8OPYPfpsh71FZiAXSORSCFIA&s" tvg-name="",AXN  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/9
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDeod6leLZ3hKA2P0XsdjvPL1-fcIvm-YgNW2oS4-cqyjvnnmLQEKisVoc&s=10" tvg-name="",HITS  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/94
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMEaqGjqJRMnRPdRcqaJyPytDspIll53F1jtAvjuYoNXPjERHTHn8eIo&s=10" tvg-name="",HITS Movies  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/99
+
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyIGtb3QL4rcGcFlxV1qxqXB37hALtgcBm4BFwehGtcT5Gld2PEPDENk&s=10" tvg-name="",Warner TV  Vpn Sg 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
 
 #EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbo.png" tvg-name="",HBO  Vpn Sg 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
