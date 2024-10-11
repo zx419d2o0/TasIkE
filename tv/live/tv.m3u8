@@ -609,38 +609,44 @@ http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contenti
 #EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜𝟝
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「世预」04:50 南美 委内瑞拉 vs 阿根廷 梁祥宇
-https://tv.iill.top/FB/1
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「世预」07:50 南美 智利 vs 巴西 涂远
-https://tv.iill.top/FB/2
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 骑士 vs 步行者 邵化谦
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 季前赛 奇才 vs 猛龙 张浩岳
 https://tv.iill.top/NBA/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 雄鹿 vs 湖人 孙博
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 季前赛 勇士 vs 国王 姜帆
 https://tv.iill.top/NBA/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 雷霆 vs 新西兰破坏者 王冠证
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 季前赛 太阳 vs 活塞 庄宁宇
 https://tv.iill.top/NBA/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 灰熊 vs 黄蜂 陈鑫隆
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:25 季前赛 快船 vs 开拓者 陈鑫隆
 https://tv.iill.top/NBA/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 季前赛 独行侠 vs 爵士 姜帆
-https://tv.iill.top/NBA/5
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第4期 《体育日报》第四期
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第5期 《体育日报》第五期
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」16:30 广州TTG vs 佛山DRG 广州TTG vs 佛山DRG 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」13:30 苏州KSG vs 杭州LGD.NBW 苏州KSG vs LGD.NBW 官方解说
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」19:40 成都AG超玩会 vs 西安WE 成都AG超玩会 vs 西安WE 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」16:40 武汉eStarPro vs 上海EDG.M 武汉eStarPro vs 上海EDG.M 官方解说
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「lol」19:40 英雄联盟S14瑞士轮Day7 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第1轮 辽宁本钢 vs 浙江稠州金租 解说
 https://tv.iill.top/Migu/4
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第1轮 辽宁本钢 vs 浙江稠州金租 哈秋
+https://tv.iill.top/Migu/5
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第1轮 辽宁本钢 vs 浙江稠州金租 金哲豪
+https://tv.iill.top/Migu/6
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第1轮 辽宁本钢 vs 浙江稠州金租 清流播出
+https://tv.iill.top/Migu/7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」19:40 重庆狼队 vs 长沙TES.A 重庆狼队 vs 长沙TES.A 官方解说
+https://tv.iill.top/Migu/8
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「lol」19:40 英雄联盟S14瑞士轮Day8 官方解说
+https://tv.iill.top/Migu/9
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -7407,6 +7413,54 @@ https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?
 #EXTINF:-1 group-title="WebsiteLive Stream⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 10 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?
 
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 0
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255245
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 1
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255246
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 2
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255247
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 3
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255248
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 4
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255249
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 5
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255250
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 6
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255251
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 7
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255252
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 8
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255253
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 9
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255254
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 1
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461173&extension=ts
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 2
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461175&extension=ts
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 3
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461177&extension=ts
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 4
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461179&extension=ts
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 5
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461181&extension=ts
+
+#EXTINF:-1 group-title="NationsLeague⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Sport TV 6
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461183&extension=ts
+
 #EXTINF:-1 group-title="TNTSports" tvg-id="" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" tvg-name="",TNT Sports 1 
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 
@@ -7635,7 +7689,7 @@ https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://img.usanetwork.com/files/USA-Logo-Color-f83837_450x198.png" tvg-name="",USA Network 
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56182
 
-#EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png" tvg-name="",USA Network 
+#EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://img.usanetwork.com/files/USA-Logo-Color-f83837_450x198.png" tvg-name="",USA Network 
 http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
 
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png" tvg-name="",USA Network 
@@ -7644,11 +7698,20 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/251
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png" tvg-name="",USA Network 
 https://7pal.short.gy/usanetwork
 
+#EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://i.imgur.com/uo7pHjF.png" tvg-name="",CBS Sport Network 
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61352&extension=ts
+
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" tvg-name="",Fox Sport 1 
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" tvg-name="",Fox Sport 2 
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" tvg-name="",Fox Sport 1 
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61345&extension=ts
+
+#EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" tvg-name="",Fox Sport 2 
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61346&extension=ts
 
 #EXTINF:-1 group-title="USSports" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" tvg-name="",TUDN 
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/242045
@@ -8343,6 +8406,12 @@ https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png" tvg-name="",EuroSport 2 UK 
 https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8
 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png" tvg-name="",EuroSport 1 
+http://89.187.191.99:8080/eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png" tvg-name="",EuroSport 2 
+http://89.187.191.99:8080/eurosport2/index.m3u8
+
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10" tvg-name="",EuroSport 1 Spain 
 https://webhdrunns.mizhls.ru/lb/premium524/index.m3u8
 
@@ -8583,19 +8652,19 @@ https://webhdrunns.mizhls.ru/lb/premium693/index.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU" tvg-name="",HBO Zone US 
 https://webhdrunns.mizhls.ru/lb/premium694/index.m3u8
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IWXIcKjEC5w_PVu6QS7UpKKabrxSwvuGMw&usqp=CAU" tvg-name="",HBO  Vpn Sg 
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbo.png" tvg-name="",HBO  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-name="",HBO Hits  Vpn Sg 
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" tvg-name="",HBO Hits  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/11492
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" tvg-name="",HBO Family  Vpn Sg 
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" tvg-name="",HBO Family  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30184
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" tvg-name="",HBO Signature  Vpn Sg 
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" tvg-name="",HBO Signature  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
 
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="",Cinemax  Vpn Sg 
+#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" tvg-name="",Cinemax  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30185
 
 #EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="",Thrill  Vpn Sg 
@@ -8612,21 +8681,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/99
 
 #EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyIGtb3QL4rcGcFlxV1qxqXB37hALtgcBm4BFwehGtcT5Gld2PEPDENk&s=10" tvg-name="",Warner TV  Vpn Sg 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
-
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbo.png" tvg-name="",HBO  Vpn Sg 
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" tvg-name="",HBO Hits  Vpn Sg 
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" tvg-name="",HBO Family  Vpn Sg 
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" tvg-name="",HBO Signature  Vpn Sg 
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" tvg-name="",Cinemax  Vpn Sg 
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainnent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU" tvg-name="",MOVIE SPHERE UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
