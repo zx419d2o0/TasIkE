@@ -447,152 +447,95 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?
 #EXTINF:-1 group-title="数字" tvg-id="" tvg-logo="https://epg.iill.top/logo/百事通.png" tvg-name="",你叫啥都行𝟠
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」01:50 二级小组赛 巴格达空军 vs 永恒体育 鹿中原
-https://tv.iill.top/FB/1
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」01:50 二级小组赛 布赖代合作 vs 金色世纪 谭逸雄
-https://tv.iill.top/FB/2
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」17:50 二级小组赛 理文 vs 曼谷联 梁祥宇
-https://tv.iill.top/FB/3
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」19:45 二级小组赛 泰港 vs 浙江俱乐部 石庆圣 鲁靖明
-https://tv.iill.top/FB/4
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」19:50 二级小组赛 淡滨尼流浪者 vs 南定 盛斌
-https://tv.iill.top/FB/5
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」19:50 二级小组赛 万隆 vs 狮城水手 谭逸雄
-https://tv.iill.top/FB/6
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「亚冠」19:50 二级小组赛 卡雅 vs 东方 乔迁
-https://tv.iill.top/FB/7
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 活塞 vs 步行者 罗森
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 奇才 vs 凯尔特人 季孟年
 https://tv.iill.top/NBA/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 热火 vs 魔术 邵化谦
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:15 常规赛 独行侠 vs 马刺 王晓晨 孔德昕 秋童
 https://tv.iill.top/NBA/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 猛龙 vs 骑士 周赫
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 掘金 vs 雷霆 庄宁宇 陈正昊 许家玥
 https://tv.iill.top/NBA/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 老鹰 vs 篮网 孔德昕
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 掘金 vs 雷霆 英文原声
 https://tv.iill.top/NBA/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 76人 vs 雄鹿 连睿 闫宇峰
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 常规赛 国王 vs 森林狼 邢晨
 https://tv.iill.top/NBA/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 火箭 vs 黄蜂 周鹏
-https://tv.iill.top/NBA/6
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 鹈鹕 vs 公牛 吴博文
-https://tv.iill.top/NBA/7
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:55 常规赛 爵士 vs 灰熊 陈鑫隆
-https://tv.iill.top/NBA/8
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 快船 vs 太阳 王冠证 徐咏 张兆旭
-https://tv.iill.top/NBA/9
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 快船 vs 太阳 大史
-https://tv.iill.top/NBA/10
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 快船 vs 太阳 英文原声
-https://tv.iill.top/NBA/11
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 快船 vs 太阳 洪荒
-https://tv.iill.top/NBA/12
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 快船 vs 太阳 莫俊祺
-https://tv.iill.top/NBA/13
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 开拓者 vs 勇士 孙博 李根 小七
-https://tv.iill.top/NBA/14
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 开拓者 vs 勇士 董倡硕
-https://tv.iill.top/NBA/15
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」00:30 蒙彼利埃冠军赛：男女单打1/16决赛 周冠达 周雨
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 周泽昊
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」00:30 蒙彼利埃冠军赛：男女单打1/16决赛 清流
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 清流
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」00:30 蒙彼利埃冠军赛：男女单打1/16决赛 英文解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 英文解说
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第17期 《体育日报》第十七期
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第18期 《体育日报》第十八期
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」17:30 武汉eStarPro vs 长沙TES.A 武汉eStarPro vs 长沙TES.A 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」17:30 广州TTG vs 上海EDG.M 广州TTG vs 上海EDG.M 官方解说
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 辽宁vs山西赛前训练 赛前训练辽宁队
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 北京vs广东赛前训练 北京队（谭成国）
 https://tv.iill.top/Migu/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 辽宁vs山西赛前训练 赛前训练山西队
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 北京vs广东赛前训练 广东队（莫俊祺）
 https://tv.iill.top/Migu/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 四川丰谷酒业 vs 浙江稠州金租 徐秦威
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 天津先行者 vs 福建晋江文旅 邵化谦
 https://tv.iill.top/Migu/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 四川丰谷酒业 vs 浙江稠州金租 清流播出7
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 天津先行者 vs 福建晋江文旅 清流播出
 https://tv.iill.top/Migu/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 上海久事 vs 宁波町渥 蔡凯臣
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京控股 vs 浙江方兴渡 孔德昕
 https://tv.iill.top/Migu/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 上海久事 vs 宁波町渥 清流播出6
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京控股 vs 浙江方兴渡 周赫
 https://tv.iill.top/Migu/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 山东高速 vs 深圳马可波罗 庄宁宇 陈正昊 许家玥
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京控股 vs 浙江方兴渡 郭知昊
 https://tv.iill.top/Migu/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 山东高速 vs 深圳马可波罗 王新通
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京控股 vs 浙江方兴渡 清流播出
 https://tv.iill.top/Migu/13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 山东高速 vs 深圳马可波罗 李嘉伟
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 广州朗肽海本 vs 南京头排苏酒 解说
 https://tv.iill.top/Migu/14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 山东高速 vs 深圳马可波罗 清流播出4
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 广州朗肽海本 vs 南京头排苏酒 张泽欣
 https://tv.iill.top/Migu/15
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 辽宁本钢 vs 山西汾酒 连睿  丁伟 闫宇峰
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 广州朗肽海本 vs 南京头排苏酒 王港
 https://tv.iill.top/Migu/16
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 辽宁本钢 vs 山西汾酒 哈秋
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 广州朗肽海本 vs 南京头排苏酒 清流播出
 https://tv.iill.top/Migu/17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 辽宁本钢 vs 山西汾酒 石楷文
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京北汽 vs 广东东阳光 杨健 李根
 https://tv.iill.top/Migu/18
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 辽宁本钢 vs 山西汾酒 清流播出1
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京北汽 vs 广东东阳光 谭成国
 https://tv.iill.top/Migu/19
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 九台农商银行 vs 青岛国信制药 周鹏
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京北汽 vs 广东东阳光 翻译小余
 https://tv.iill.top/Migu/20
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 九台农商银行 vs 青岛国信制药 清流播出3
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第6轮 北京北汽 vs 广东东阳光 清流播出
 https://tv.iill.top/Migu/21
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第6轮 新疆伊力特 vs 江苏肯帝亚 季孟年
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/8决赛 周冠达 侯英超
 https://tv.iill.top/Migu/22
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第6轮 新疆伊力特 vs 江苏肯帝亚 清流播出2
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/8决赛 清流
 https://tv.iill.top/Migu/23
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 周冠达 周雨
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/8决赛 英文解说
 https://tv.iill.top/Migu/24
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 周泽昊
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」21:30 聚焦八角笼第12期：308特辑 王琰博 任中贤
 https://tv.iill.top/Migu/25
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 清流
-https://tv.iill.top/Migu/26
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/16决赛、1/8决赛 英文解说
-https://tv.iill.top/Migu/27
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -1231,40 +1174,40 @@ https://tv.iill.top/4gtv/287
 https://tv.iill.top/4gtv/286
 
 #EXTINF:-1 group-title="特色" tvg-id="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" tvg-name="广州综合台",广州综合
-http://59.172.167.91:10472/gztv/zhonghe
+http://dns.yiandrive.com:10472/gztv/zhonghe
 
 #EXTINF:-1 group-title="特色" tvg-id="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" tvg-name="广州新闻",广州新闻
-http://59.172.167.91:10472/gztv/xinwen
+http://dns.yiandrive.com:10472/gztv/xinwen
 
 #EXTINF:-1 group-title="特色" tvg-id="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" tvg-name="广州法治",广州法治
-http://59.172.167.91:10472/gztv/fazhi
+http://dns.yiandrive.com:10472/gztv/fazhi
 
 #EXTINF:-1 group-title="特色" tvg-id="广州竞赛" tvg-logo="https://epg.iill.top/logo/广州竞赛.png" tvg-name="广州竞赛",广州竞赛
-http://59.172.167.91:10472/gztv/jingsai
+http://dns.yiandrive.com:10472/gztv/jingsai
 
 #EXTINF:-1 group-title="特色" tvg-id="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" tvg-name="广州影视",广州影视
-http://59.172.167.91:10472/gztv/yingshi
+http://dns.yiandrive.com:10472/gztv/yingshi
 
 #EXTINF:-1 group-title="特色" tvg-id="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" tvg-name="广州南国",广州南国都市
-http://59.172.167.91:10472/gztv/shenghuo
+http://dns.yiandrive.com:10472/gztv/shenghuo
 
 #EXTINF:-1 group-title="特色" tvg-id="1905极限反转" tvg-logo="https://epg.iill.top/logo/1905.png" tvg-name="1905极限反转",1905极限反转
-http://59.172.167.91:10472/1905/1905a
+http://dns.yiandrive.com:10472/1905/1905a
 
 #EXTINF:-1 group-title="特色" tvg-id="1905环球经典" tvg-logo="https://epg.iill.top/logo/1905.png" tvg-name="1905环球经典",1905环球经典
-http://59.172.167.91:10472/1905/1905b
+http://dns.yiandrive.com:10472/1905/1905b
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
-http://59.172.167.91:10472/1905/cctv6
+http://dns.yiandrive.com:10472/1905/cctv6
 
 #EXTINF:-1 group-title="特色" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",斯诺克𝟙
-http://59.172.167.91:10472/huya/880214
+http://dns.yiandrive.com:10472/huya/880214
 
 #EXTINF:-1 group-title="特色" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",斯诺克𝟚
-http://59.172.167.91:10472/huya/880625
+http://dns.yiandrive.com:10472/huya/880625
 
 #EXTINF:-1 group-title="特色" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",UFC
-http://59.172.167.91:10472/huya/880223
+http://dns.yiandrive.com:10472/huya/880223
 
 #EXTINF:-1 group-title="特色" tvg-id="环球电视" tvg-logo="https://epg.iill.top/logo/环球电视.png" tvg-name="环球电视",環球電視
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1276,328 +1219,328 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「全球总决赛」英雄联盟4K
-http://59.172.167.91:10472/huya/18524915
+http://dns.yiandrive.com:10472/huya/18524915
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「全球总决赛」英雄联盟4K
-http://59.172.167.91:10472/bilibili/10
+http://dns.yiandrive.com:10472/bilibili/10
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」CS2
-http://59.172.167.91:10472/bilibili/21622811
+http://dns.yiandrive.com:10472/bilibili/21622811
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」CS2
-http://59.172.167.91:10472/huya/483917
+http://dns.yiandrive.com:10472/huya/483917
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」英雄联盟
-http://59.172.167.91:10472/bilibili/6
+http://dns.yiandrive.com:10472/bilibili/6
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」英雄联盟𝟙
-http://59.172.167.91:10472/huya/660000
+http://dns.yiandrive.com:10472/huya/660000
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」英雄联盟𝟚
-http://59.172.167.91:10472/huya/660001
+http://dns.yiandrive.com:10472/huya/660001
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」英雄联盟𝟙
-http://59.172.167.91:10472/douyu/288016
+http://dns.yiandrive.com:10472/douyu/288016
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」英雄联盟𝟚
-http://59.172.167.91:10472/douyu/424559
+http://dns.yiandrive.com:10472/douyu/424559
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」英雄联盟•手游
-http://59.172.167.91:10472/bilibili/23138275
+http://dns.yiandrive.com:10472/bilibili/23138275
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」王者荣耀𝟙
-http://59.172.167.91:10472/bilibili/55
+http://dns.yiandrive.com:10472/bilibili/55
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」王者荣耀𝟚
-http://59.172.167.91:10472/bilibili/21654762
+http://dns.yiandrive.com:10472/bilibili/21654762
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」王者荣耀𝟙
-http://59.172.167.91:10472/huya/660002
+http://dns.yiandrive.com:10472/huya/660002
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」王者荣耀𝟚
-http://59.172.167.91:10472/huya/660164
+http://dns.yiandrive.com:10472/huya/660164
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」王者荣耀𝟙
-http://59.172.167.91:10472/douyu/1863767
+http://dns.yiandrive.com:10472/douyu/1863767
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」王者荣耀𝟚
-http://59.172.167.91:10472/douyu/1984839
+http://dns.yiandrive.com:10472/douyu/1984839
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」绝地求生
-http://59.172.167.91:10472/bilibili/98
+http://dns.yiandrive.com:10472/bilibili/98
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」绝地求生𝟙
-http://59.172.167.91:10472/huya/660004
+http://dns.yiandrive.com:10472/huya/660004
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」绝地求生𝟚
-http://59.172.167.91:10472/huya/660005
+http://dns.yiandrive.com:10472/huya/660005
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」绝地求生
-http://59.172.167.91:10472/douyu/100
+http://dns.yiandrive.com:10472/douyu/100
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」和平精英
-http://59.172.167.91:10472/huya/660006
+http://dns.yiandrive.com:10472/huya/660006
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」和平精英
-http://59.172.167.91:10472/douyu/999
+http://dns.yiandrive.com:10472/douyu/999
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」金铲铲之战
-http://59.172.167.91:10472/huya/660579
+http://dns.yiandrive.com:10472/huya/660579
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」金铲铲之战
-http://59.172.167.91:10472/douyu/9715241
+http://dns.yiandrive.com:10472/douyu/9715241
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」DOTA2
-http://59.172.167.91:10472/huya/660118
+http://dns.yiandrive.com:10472/huya/660118
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」DOTA2
-http://59.172.167.91:10472/douyu/3811559
+http://dns.yiandrive.com:10472/douyu/3811559
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」云顶之弈
-http://59.172.167.91:10472/douyu/522423
+http://dns.yiandrive.com:10472/douyu/522423
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」永劫无间
-http://59.172.167.91:10472/huya/660115
+http://dns.yiandrive.com:10472/huya/660115
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」永劫无间
-http://59.172.167.91:10472/huya/9662891
+http://dns.yiandrive.com:10472/huya/9662891
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」使命召唤•手游
-http://59.172.167.91:10472/bilibili/22741849
+http://dns.yiandrive.com:10472/bilibili/22741849
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」使命召唤•手游
-http://59.172.167.91:10472/huya/11718629
+http://dns.yiandrive.com:10472/huya/11718629
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」使命召唤•手游
-http://59.172.167.91:10472/douyu/9223245
+http://dns.yiandrive.com:10472/douyu/9223245
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」穿越火线
-http://59.172.167.91:10472/huya/660101
+http://dns.yiandrive.com:10472/huya/660101
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」穿越火线𝟙
-http://59.172.167.91:10472/douyu/605964
+http://dns.yiandrive.com:10472/douyu/605964
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」穿越火线𝟚
-http://59.172.167.91:10472/douyu/5388537
+http://dns.yiandrive.com:10472/douyu/5388537
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」穿越火线•手游
-http://59.172.167.91:10472/huya/660102
+http://dns.yiandrive.com:10472/huya/660102
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」第五人格
-http://59.172.167.91:10472/bilibili/5555
+http://dns.yiandrive.com:10472/bilibili/5555
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」第五人格
-http://59.172.167.91:10472/huya/idvesports
+http://dns.yiandrive.com:10472/huya/idvesports
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」第五人格
-http://59.172.167.91:10472/douyu/3226194
+http://dns.yiandrive.com:10472/douyu/3226194
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」逆战
-http://59.172.167.91:10472/huya/nsl2021
+http://dns.yiandrive.com:10472/huya/nsl2021
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」无畏契约
-http://59.172.167.91:10472/bilibili/22908869
+http://dns.yiandrive.com:10472/bilibili/22908869
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",「虎牙」无畏契约
-http://59.172.167.91:10472/huya/660679
+http://dns.yiandrive.com:10472/huya/660679
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」无畏契约
-http://59.172.167.91:10472/douyu/4585645
+http://dns.yiandrive.com:10472/douyu/4585645
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」原神
-http://59.172.167.91:10472/douyu/10853239
+http://dns.yiandrive.com:10472/douyu/10853239
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」QQ飞车•手游
-http://59.172.167.91:10472/bilibili/21743919
+http://dns.yiandrive.com:10472/bilibili/21743919
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」QQ飞车•手游
-http://59.172.167.91:10472/douyu/5040227
+http://dns.yiandrive.com:10472/douyu/5040227
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」梦幻西游·手游
-http://59.172.167.91:10472/huya/9163712
+http://dns.yiandrive.com:10472/huya/9163712
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」街霸
-http://59.172.167.91:10472/huya/11437
+http://dns.yiandrive.com:10472/huya/11437
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」JJ斗地主
-http://59.172.167.91:10472/bilibili/22021983
+http://dns.yiandrive.com:10472/bilibili/22021983
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」JJ斗地主
-http://59.172.167.91:10472/douyu/488743
+http://dns.yiandrive.com:10472/douyu/488743
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」我的世界
-http://59.172.167.91:10472/douyu/738878
+http://dns.yiandrive.com:10472/douyu/738878
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」FIFA
-http://59.172.167.91:10472/douyu/7692166
+http://dns.yiandrive.com:10472/douyu/7692166
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」火影忍者
-http://59.172.167.91:10472/douyu/1997723
+http://dns.yiandrive.com:10472/douyu/1997723
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」跑跑卡丁车
-http://59.172.167.91:10472/douyu/7722576
+http://dns.yiandrive.com:10472/douyu/7722576
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="",「斗鱼」跑跑卡丁车•手游
-http://59.172.167.91:10472/douyu/6672862
+http://dns.yiandrive.com:10472/douyu/6672862
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙
-http://59.172.167.91:10472/huya/23740156
+http://dns.yiandrive.com:10472/huya/23740156
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚
-http://59.172.167.91:10472/huya/23749096
+http://dns.yiandrive.com:10472/huya/23749096
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟛
-http://59.172.167.91:10472/huya/23735126
+http://dns.yiandrive.com:10472/huya/23735126
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟜
-http://59.172.167.91:10472/huya/23903123
+http://dns.yiandrive.com:10472/huya/23903123
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟝
-http://59.172.167.91:10472/huya/23734169
+http://dns.yiandrive.com:10472/huya/23734169
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟞
-http://59.172.167.91:10472/huya/23863804
+http://dns.yiandrive.com:10472/huya/23863804
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟟
-http://59.172.167.91:10472/huya/23865080
+http://dns.yiandrive.com:10472/huya/23865080
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟠
-http://59.172.167.91:10472/huya/23864973
+http://dns.yiandrive.com:10472/huya/23864973
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟡
-http://59.172.167.91:10472/huya/23903130
+http://dns.yiandrive.com:10472/huya/23903130
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟘
-http://59.172.167.91:10472/huya/23860039
+http://dns.yiandrive.com:10472/huya/23860039
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟙
-http://59.172.167.91:10472/huya/23903183
+http://dns.yiandrive.com:10472/huya/23903183
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟚
-http://59.172.167.91:10472/huya/23903196
+http://dns.yiandrive.com:10472/huya/23903196
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟛
-http://59.172.167.91:10472/huya/23728674
+http://dns.yiandrive.com:10472/huya/23728674
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟜
-http://59.172.167.91:10472/huya/23865036
+http://dns.yiandrive.com:10472/huya/23865036
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟝
-http://59.172.167.91:10472/huya/23829543
+http://dns.yiandrive.com:10472/huya/23829543
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟞
-http://59.172.167.91:10472/huya/23865161
+http://dns.yiandrive.com:10472/huya/23865161
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟟
-http://59.172.167.91:10472/huya/23865058
+http://dns.yiandrive.com:10472/huya/23865058
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟠
-http://59.172.167.91:10472/huya/23824164
+http://dns.yiandrive.com:10472/huya/23824164
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟙𝟡
-http://59.172.167.91:10472/huya/23863796
+http://dns.yiandrive.com:10472/huya/23863796
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟘
-http://59.172.167.91:10472/huya/23734183
+http://dns.yiandrive.com:10472/huya/23734183
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟙
-http://59.172.167.91:10472/huya/23728660
+http://dns.yiandrive.com:10472/huya/23728660
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟚
-http://59.172.167.91:10472/huya/23865142
+http://dns.yiandrive.com:10472/huya/23865142
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟛
-http://59.172.167.91:10472/huya/23734246
+http://dns.yiandrive.com:10472/huya/23734246
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟜
-http://59.172.167.91:10472/huya/23865171
+http://dns.yiandrive.com:10472/huya/23865171
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟝
-http://59.172.167.91:10472/huya/23734256
+http://dns.yiandrive.com:10472/huya/23734256
 
 #EXTINF:-1 group-title="埋堆" tvg-id="" tvg-logo="https://epg.iill.top/logo/埋堆堆.png" tvg-name="",埋堆堆𝟚𝟞
-http://59.172.167.91:10472/huya/23749083
+http://dns.yiandrive.com:10472/huya/23749083
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",音乐石榴
-http://59.172.167.91:10472/huya/17091681
+http://dns.yiandrive.com:10472/huya/17091681
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",音乐速递
-http://59.172.167.91:10472/huya/19439762
+http://dns.yiandrive.com:10472/huya/19439762
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",治愈•放松
-http://59.172.167.91:10472/huya/21241811
+http://dns.yiandrive.com:10472/huya/21241811
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",阅读•学习
-http://59.172.167.91:10472/huya/21241813
+http://dns.yiandrive.com:10472/huya/21241813
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",电视剧•1
-http://59.172.167.91:10472/huya/21277391
+http://dns.yiandrive.com:10472/huya/21277391
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",电视剧•2
-http://59.172.167.91:10472/huya/25018873
+http://dns.yiandrive.com:10472/huya/25018873
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",电影•1
-http://59.172.167.91:10472/huya/20289754
+http://dns.yiandrive.com:10472/huya/20289754
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",电影•2
-http://59.172.167.91:10472/huya/24983280
+http://dns.yiandrive.com:10472/huya/24983280
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",电影•3
-http://59.172.167.91:10472/huya/24396428
+http://dns.yiandrive.com:10472/huya/24396428
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",动漫•1
-http://59.172.167.91:10472/huya/19757963
+http://dns.yiandrive.com:10472/huya/19757963
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",恐怖电影
-http://59.172.167.91:10472/huya/23419131
+http://dns.yiandrive.com:10472/huya/23419131
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",漫威
-http://59.172.167.91:10472/huya/17089779
+http://dns.yiandrive.com:10472/huya/17089779
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",美剧
-http://59.172.167.91:10472/huya/20488841
+http://dns.yiandrive.com:10472/huya/20488841
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",七龙珠
-http://59.172.167.91:10472/huya/25650806
+http://dns.yiandrive.com:10472/huya/25650806
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",止戈电影
-http://59.172.167.91:10472/huya/19863777
+http://dns.yiandrive.com:10472/huya/19863777
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",挨饿德•1
-http://59.172.167.91:10472/huya/20985858
+http://dns.yiandrive.com:10472/huya/20985858
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",挨饿德•2
-http://59.172.167.91:10472/huya/17693860
+http://dns.yiandrive.com:10472/huya/17693860
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",互扇巴掌大赛
-http://59.172.167.91:10472/huya/20072873
+http://dns.yiandrive.com:10472/huya/20072873
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",荒野求生
-http://59.172.167.91:10472/huya/593667
+http://dns.yiandrive.com:10472/huya/593667
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",野行者
-http://59.172.167.91:10472/huya/20072663
+http://dns.yiandrive.com:10472/huya/20072663
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",跳舞
-http://59.172.167.91:10472/huya/24634408
+http://dns.yiandrive.com:10472/huya/24634408
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",茶啊二中
-http://59.172.167.91:10472/huya/11213191
+http://dns.yiandrive.com:10472/huya/11213191
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",哆啦A梦
-http://59.172.167.91:10472/huya/11601963
+http://dns.yiandrive.com:10472/huya/11601963
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",航海王
-http://59.172.167.91:10472/huya/16913382
+http://dns.yiandrive.com:10472/huya/16913382
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",七龙珠
-http://59.172.167.91:10472/huya/11601966
+http://dns.yiandrive.com:10472/huya/11601966
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",猫和老鼠
-http://59.172.167.91:10472/huya/11352879
+http://dns.yiandrive.com:10472/huya/11352879
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",中华小当家
-http://59.172.167.91:10472/huya/11342413
+http://dns.yiandrive.com:10472/huya/11342413
 
 #EXTINF:-1 group-title="广播" tvg-id="" tvg-logo="https://live.fanmingming.com/radio/bbc1.png" tvg-name="",BBCRadio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
@@ -5289,6 +5232,9 @@ http://181.78.27.128:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DIGI SPORT 1 🇷🇴
 http://45.90.106.98/digisport1/index.m3u8
 
@@ -5364,11 +5310,38 @@ http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN PREMIUM 🇦🇷
 http://192.141.95.253:8000/play/a03f/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN PREMIUM 🇦🇷
+http://45.71.254.1:8000/play/a06m/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 🇨🇴
+http://45.71.254.1:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 🇨🇴
+http://192.141.99.3:8000/play/a05h
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 2 🇨🇴
+http://45.71.254.1:8000/play/a0ep/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 2 🇨🇴
+http://190.102.246.93:9005/play/a029
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 3 🇨🇴
+http://192.141.99.3:8000/play/a05q
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 4 🇨🇴
+http://190.102.246.93:9005/play/a019
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 6 🇨🇴
+http://190.102.246.93:9005/play/a02m
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",CBS SPORT 🇺🇸
 http://165.1.79.137:1235/stream/directv/cbssportsnetworkhd/master.m3u8
@@ -5636,6 +5609,12 @@ https://live2.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 6 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TNT SPORT 2 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
@@ -6162,307 +6141,394 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545#EXTM3U
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 1
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 1
 https://canale.mizhls.ru/lb/premium343/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 2
 https://canale.mizhls.ru/lb/premium130/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 3
 https://canale.mizhls.ru/lb/premium414/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 4
 https://canale.mizhls.ru/lb/premium461/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 5
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 5
 https://canale.mizhls.ru/lb/premium870/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 6
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 6
 https://crichd-live.top/live/daddy/m3u8.php?id=130?
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 7
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 7
 https://crichd-live.top/live/daddy/m3u8.php?id=35?
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 8
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 8
 https://crichd-live.top/live/daddy/m3u8.php?id=414?
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 9
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 9
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 10
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 10
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=45466&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 11
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 11
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep3.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 12
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 12
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz2.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 13
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 13
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 14
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 14
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep2.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 15
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 15
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 16
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 16
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 17
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 17
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=2804&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 18
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 18
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=418308&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 19
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 19
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=418307&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 20
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 20
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=42370&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 21
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 21
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59833&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 22
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 22
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59834&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 23
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 23
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228519&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 24
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 24
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228520&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 25
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 25
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228521&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 1
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 26
+https://canale.mizhls.ru/lb/premium130/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 27
+https://canale.mizhls.ru/lb/premium9/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 28
+https://canale.mizhls.ru/lb/premium8/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 29
+https://canale.mizhls.ru/lb/premium125/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 30
+https://canale.mizhls.ru/lb/premium400/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 31
+https://canale.mizhls.ru/lb/premium401/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 32
+https://canale.mizhls.ru/lb/premium572/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 33
+https://canale.mizhls.ru/lb/premium913/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 34
+https://canale.mizhls.ru/lb/premium59/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 35
+https://canale.mizhls.ru/lb/premium55/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 36
+https://canale.mizhls.ru/lb/premium599/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 37
+https://canale.mizhls.ru/lb/premium91/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 38
+https://canale.mizhls.ru/lb/premium24/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 39
+https://canale.mizhls.ru/lb/premium23/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 40
+https://canale.mizhls.ru/lb/premium25/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 41
+https://canale.mizhls.ru/lb/premium26/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 42
+https://canale.mizhls.ru/lb/premium27/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 43
+https://canale.mizhls.ru/lb/premium595/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 44
+https://canale.mizhls.ru/lb/premium594/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 45
+https://canale.mizhls.ru/lb/premium596/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 46
+https://canale.webhd.ru/lb/premium591/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 1
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70005
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 2
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70012
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 3
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70016
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 4
 http://s21tv.co:80/sports3456676654/146150109025/333823
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 5
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 5
 http://s21tv.co:80/sports3456676654/146150109025/333825
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 6
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 6
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2126&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 7
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 7
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2125&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 8
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 8
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2124&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 9
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 9
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2123&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 12
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 12
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175667
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 13
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 13
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175675
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 14
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 14
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175680
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 15
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 15
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175682
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 16
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 16
 http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/174474
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 17
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 17
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 18
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 18
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 19
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 19
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 20
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 20
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229591
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 21
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 21
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229592
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 22
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 22
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229593
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 24
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 24
 https://canale.mizhls.ru/lb/premium885/playlist.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 25
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 25
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 1
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 26
+https://canale.mizhls.ru/lb/premium432/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 27
+https://canale.mizhls.ru/lb/premium92/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 28
+https://canale.mizhls.ru/lb/premium473/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10" tvg-name="",UCL/UEL/Con 31
+https://canale.mizhls.ru/lb/premium435/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis1.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis2.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis3.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" tvg-name="",LaLiga 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis4.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 1
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri1.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri2.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri3.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" tvg-name="",Serie A 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri4.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 1
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 1
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216679&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 2
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216685&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 3
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216691&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 4
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216697&extension=m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 01
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 01
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1508
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 02
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 02
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1507
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 03
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 03
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1506
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 04
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 04
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1505
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 05
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 05
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1504
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 06
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" tvg-name="",Bundesliga 06
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1503
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 2
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/160px-EFL_Championship_Logo.svg.png" tvg-name="",EFL 1
+https://canale.mizhls.ru/lb/premium105/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/160px-EFL_Championship_Logo.svg.png" tvg-name="",EFL 2
+https://canale.mizhls.ru/lb/premium106/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/160px-EFL_Championship_Logo.svg.png" tvg-name="",EFL 3
+https://canale.mizhls.ru/lb/premium35/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/160px-EFL_Championship_Logo.svg.png" tvg-name="",EFL 4
+https://canale.mizhls.ru/lb/premium910/playlist.m3u8
+
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 2
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3886
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 3
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 3
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61345&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 4
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 4
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78969&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 5
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 5
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78970&extension=ts
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 6
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 6
 https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 7
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 7
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 8
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 8
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126059
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 9
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 9
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126060
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 10
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 10
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126082
 
-#EXTINF:-1 group-title="MainLeagues⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",NL 11
+#EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10" tvg-name="",Nations League 11
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126083
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 1 sn 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 1 sn 
 https://sportnext.online/hls/M1.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 3 sn 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 3 sn 
 https://sportnext.online/hls/M3.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 4 sn 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 4 sn 
 https://sportnext.online/hls/M4.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 5 sn 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 5 sn 
 https://sportnext.online/hls/M5.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 1 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 1 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 2 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 2 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 3 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 3 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 4 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 4 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/4.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 5 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 5 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/5.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 6 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 6 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/6.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 7 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 7 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/7.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 8 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 8 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 9 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 9 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 10 nf 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 10 nf 
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 1 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 2 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 2 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 3 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 3 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 4 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 4 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 5 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 5 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 6 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 7 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 7 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37395.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 8 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 8 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37394.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 9 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 9 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37393.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 10 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 10 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37392.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 11 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 11 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37391.m3u8
 
-#EXTINF:-1 group-title="LiveEvent⚽" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 12 Australia
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 12 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37390.m3u8
 
 #EXTINF:-1 group-title="TNTSports" tvg-id="" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" tvg-name="",TNT Sports 1 
@@ -7002,25 +7068,16 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59218
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-name="",Astro SuperSport 4 
 http://vo01.mohdtv.com:8880/voby5019/58746247/59217
 
-#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" tvg-name="",True Premier Football 1 
-https://playidtv24.vercel.app/stream/now/premier1.m3u8
-
-#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" tvg-name="",True Premier Football 2 
-https://playidtv24.vercel.app/stream/now/premier2.m3u8
-
-#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" tvg-name="",True Premier Football 3 
-https://playidtv24.vercel.app/stream/now/premier3.m3u8
-
-#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" tvg-name="",True Premier Football 4 
-https://playidtv24.vercel.app/stream/now/premier4.m3u8
-
-#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" tvg-name="",True Premier Football 5 
-https://playidtv24.vercel.app/stream/now/premier5.m3u8
-
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://i.imgur.com/RUuK4yQ.png" tvg-name="",True Premier Sport 1 
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+http://202.62.56.28:8080/nl.m3u8?id=1061
 
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://i.imgur.com/EGgbpmt.png" tvg-name="",True Premier Sport 2 
+http://202.62.56.28:8080/nl.m3u8?id=1065
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" tvg-name="",True Premier Sport 1 
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" tvg-name="",True Premier Sport 2 
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" tvg-name="",True Premier Sport 3 
@@ -7316,6 +7373,9 @@ https://webhdrunns.mizhls.ru/lb/premium879/index.m3u8
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png" tvg-name="",PPTV HD36 
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10" tvg-name="CCTV 5",CCTV5
+http://202.62.56.28:8080/nl.m3u8?id=1066
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" tvg-name="",MU TV 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
