@@ -447,182 +447,275 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?
 #EXTINF:-1 group-title="数字" tvg-id="" tvg-logo="https://epg.iill.top/logo/百事通.png" tvg-name="",你叫啥都行𝟠
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」00:20 联赛 乌迪内斯 vs 卡利亚里 张昊泽
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」00:20 联赛 埃弗顿 vs 富勒姆 黄航
 https://tv.iill.top/FB/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」02:20 联赛 美因茨 vs 门兴格拉德巴赫 吴子越
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」00:20 联赛 拉斯帕尔马斯 vs 吉罗纳 周楚雄
 https://tv.iill.top/FB/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」02:35 联赛 都灵 vs 科莫 涂远
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」00:20 联赛 云达不莱梅 vs 勒沃库森 涂远 马延峰
 https://tv.iill.top/FB/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」02:35 联赛 雷恩 vs 勒阿弗尔 邵煊
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」00:50 联赛 兰斯 vs 布雷斯特 盛斌
 https://tv.iill.top/FB/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」02:50 联赛 莱斯特城 vs 诺丁汉森林 刘焕
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」02:35 联赛 亚特兰大 vs 维罗纳 乔迁
 https://tv.iill.top/FB/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」02:50 联赛 西班牙人 vs 塞维利亚 李霄
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」02:45 联赛 皇家马德里 vs 巴塞罗那 刘畅 孙雷 魏欣怡
 https://tv.iill.top/FB/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」19:50 联赛 巴拉多利德 vs 比利亚雷亚尔 李霄
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」02:45 联赛 皇家马德里 vs 巴塞罗那 张昊泽 梁祥宇
 https://tv.iill.top/FB/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」20:50 联赛 那不勒斯 vs 莱切 张昊泽 鲁靖明
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」02:50 联赛 朗斯 vs 里尔 鹿中原
 https://tv.iill.top/FB/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」21:15 联赛 奥格斯堡 vs 多特蒙德 沈云怡 秦游夏
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」14:00 联赛 上海申花 vs 深圳新鹏城足球俱乐部 娄一晨 刘越 杨旭
 https://tv.iill.top/FB/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」21:20 联赛 圣保利 vs 沃尔夫斯堡 刘洪新
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」14:00 联赛 上海申花 vs 深圳新鹏城足球俱乐部 孙雨轩 贾天宁 李子琪
 https://tv.iill.top/FB/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」21:20 联赛 RB莱比锡 vs 弗赖堡 刘洋
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」14:00 联赛 上海申花 vs 深圳新鹏城足球俱乐部 现场原声
 https://tv.iill.top/FB/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」21:20 联赛 斯图加特 vs 荷尔斯泰因基尔 谭逸雄
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:00 联赛 南通支云 vs 北京国安 李欣 徐阳 林梦鸽
 https://tv.iill.top/FB/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:45 联赛 曼城 vs 南安普顿 苏东 徐阳
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:00 联赛 南通支云 vs 北京国安 现场原声
 https://tv.iill.top/FB/13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:50 联赛 阿斯顿维拉 vs 伯恩茅斯 林梦鸽
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:00 联赛 南通支云 vs 北京国安 2024赛季第29轮：南通支云VS北京国安（3D全真视频）
 https://tv.iill.top/FB/14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:50 联赛 布莱顿 vs 狼队 苗锟
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:00 联赛 沧州雄狮 vs 上海海港 梁祥宇 黄健翔
 https://tv.iill.top/FB/15
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:50 联赛 布伦特福德 vs 伊普斯维奇 郭灿亮
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:00 联赛 沧州雄狮 vs 上海海港 现场原声
 https://tv.iill.top/FB/16
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」22:05 联赛 巴列卡诺 vs 阿拉维斯 张天翼
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 青岛西海岸 vs 成都蓉城 刘腾 徐云龙
 https://tv.iill.top/FB/17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」22:50 联赛 昂热 vs 圣埃蒂安 乔迁
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 青岛西海岸 vs 成都蓉城 现场原声
 https://tv.iill.top/FB/18
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 猛龙 vs 76人 刘芳宇
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 梅州客家 vs 武汉三镇 涂远 冯潇霆
+https://tv.iill.top/FB/19
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 梅州客家 vs 武汉三镇 现场原声
+https://tv.iill.top/FB/20
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 河南俱乐部酒祖杜康 vs 长春亚泰 鹿中原 王伟
+https://tv.iill.top/FB/21
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 河南俱乐部酒祖杜康 vs 长春亚泰 现场原声
+https://tv.iill.top/FB/22
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 天津津门虎足球俱乐部 vs 青岛海牛 王宇 贺宇
+https://tv.iill.top/FB/23
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 天津津门虎足球俱乐部 vs 青岛海牛 现场原声
+https://tv.iill.top/FB/24
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 浙江职业足球俱乐部 vs 山东泰山足球俱乐部 石庆圣 于海
+https://tv.iill.top/FB/25
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「中超」15:15 联赛 浙江职业足球俱乐部 vs 山东泰山足球俱乐部 现场原声
+https://tv.iill.top/FB/26
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」19:20 联赛 帕尔马 vs 恩波利 谭逸雄
+https://tv.iill.top/FB/27
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」20:50 联赛 莱加内斯 vs 塞尔塔 周楚雄
+https://tv.iill.top/FB/28
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:45 联赛 西汉姆联 vs 曼联 詹俊 张路 李子琪
+https://tv.iill.top/FB/29
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:45 联赛 切尔西 vs 纽卡斯尔联 颜强 贺宇
+https://tv.iill.top/FB/30
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」21:45 联赛 水晶宫 vs 托特纳姆热刺 刘畅 马延峰
+https://tv.iill.top/FB/31
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」21:50 联赛 蒙扎 vs 威尼斯 刘焕
+https://tv.iill.top/FB/32
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」21:50 联赛 拉齐奥 vs 热那亚 鲁靖明
+https://tv.iill.top/FB/33
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」21:50 联赛 里昂 vs 欧塞尔 盛斌
+https://tv.iill.top/FB/34
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」22:15 联赛 波鸿 vs 拜仁慕尼黑 胡小凡 张力
+https://tv.iill.top/FB/35
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」23:05 联赛 赫塔菲 vs 瓦伦西亚 兰子非
+https://tv.iill.top/FB/36
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」23:50 联赛 蒙彼利埃 vs 图卢兹 杨加丞
+https://tv.iill.top/FB/37
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」23:50 联赛 尼斯 vs 摩纳哥 张天翼
+https://tv.iill.top/FB/38
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」23:50 联赛 斯特拉斯堡 vs 南特 洪宇青
+https://tv.iill.top/FB/39
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」04:55 常规赛 掘金 vs 快船 邢晨
 https://tv.iill.top/NBA/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 魔术 vs 篮网 张泽欣
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」04:55 常规赛 掘金 vs 快船 大史
 https://tv.iill.top/NBA/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 骑士 vs 活塞 王凯
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 黄蜂 vs 热火 贾磊
 https://tv.iill.top/NBA/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 尼克斯 vs 步行者 刘圳展 殷文玉
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 奇才 vs 骑士 王凯
 https://tv.iill.top/NBA/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 老鹰 vs 黄蜂 金哲豪
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 活塞 vs 凯尔特人 蔡凯臣
 https://tv.iill.top/NBA/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 火箭 vs 灰熊 陈鑫隆
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 森林狼 vs 猛龙 李博洋
 https://tv.iill.top/NBA/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 雄鹿 vs 公牛 连睿 王润陶
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 灰熊 vs 魔术 孙博
 https://tv.iill.top/NBA/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:15 常规赛 爵士 vs 勇士 李天宇 张兆旭 王羽希
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 公牛 vs 雷霆 吴博文
 https://tv.iill.top/NBA/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:15 常规赛 爵士 vs 勇士 董倡硕
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 常规赛 马刺 vs 火箭 王晓晨 周鹏
 https://tv.iill.top/NBA/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 湖人 vs 太阳 杨健 李根 马健
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 独行侠 姜帆 苏群 刘铁
 https://tv.iill.top/NBA/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 湖人 vs 太阳 郑泽鹏
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 独行侠 英文原声
 https://tv.iill.top/NBA/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 湖人 vs 太阳 英文原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:15 常规赛 湖人 vs 国王 徐秦威 陈正昊 郭维盛
 https://tv.iill.top/NBA/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 湖人 vs 太阳 洪荒
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:15 常规赛 湖人 vs 国王 郑泽鹏
 https://tv.iill.top/NBA/13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 常规赛 开拓者 vs 鹈鹕 周赫
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:15 常规赛 湖人 vs 国王 英文原声
 https://tv.iill.top/NBA/14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/8决赛 周雨 周冠达
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/4决赛 清流
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/8决赛 清流
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/4决赛 小马哥
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/8决赛 英文解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」01:00 蒙彼利埃冠军赛：男女单打1/4决赛 英文解说
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」09:00 咪咕激战前夜：308特辑（上） 王琰博
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第20期 《体育日报》第二十期
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」17:00 咪咕激战前夜：308特辑（下） 陈瑞阳
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」13:00 马斯喀特常规挑战赛：男女单打资格赛、双打资格赛 1号桌
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」17:30 佛山DRG vs 杭州LGD.NBW 佛山DRG vs LGD.NBW 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」13:00 马斯喀特常规挑战赛：男女单打资格赛、双打资格赛 2号桌
 https://tv.iill.top/Migu/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 青岛国信制药 vs 浙江稠州金租 蔡凯臣
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」13:00 马斯喀特常规挑战赛：男女单打资格赛、双打资格赛 3号桌
 https://tv.iill.top/Migu/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 青岛国信制药 vs 浙江稠州金租 刘沛元
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」13:00 马斯喀特常规挑战赛：男女单打资格赛、双打资格赛 4号桌
 https://tv.iill.top/Migu/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 青岛国信制药 vs 浙江稠州金租 金哲豪
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」17:30 蒙彼利埃冠军赛：男女单打半决赛 周冠达 侯英超
 https://tv.iill.top/Migu/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 青岛国信制药 vs 浙江稠州金租 清流播出6
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」17:30 蒙彼利埃冠军赛：男女单打半决赛 清流
 https://tv.iill.top/Migu/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 深圳马可波罗 vs 四川丰谷酒业 寇逸豪
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」17:30 蒙彼利埃冠军赛：男女单打半决赛 英文解说
 https://tv.iill.top/Migu/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 深圳马可波罗 vs 四川丰谷酒业 清流播出7
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 广东vs南京赛前训练 赛前训练广东队
 https://tv.iill.top/Migu/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山东高速 vs 辽宁本钢 周鹏 焦健 丁伟
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 广东vs南京赛前训练 赛前训练南京队
 https://tv.iill.top/Migu/13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山东高速 vs 辽宁本钢 王新通
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 九台农商银行 vs 北京北汽 季孟年
 https://tv.iill.top/Migu/14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山东高速 vs 辽宁本钢 哈秋
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 九台农商银行 vs 北京北汽 陈涛
 https://tv.iill.top/Migu/15
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山东高速 vs 辽宁本钢 清流播出1
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 九台农商银行 vs 北京北汽 刘芳宇
 https://tv.iill.top/Migu/16
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第7轮 新疆伊力特 vs 上海久事 李天宇 陈正昊 王羽希
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 九台农商银行 vs 北京北汽 清流播出
 https://tv.iill.top/Migu/17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第7轮 新疆伊力特 vs 上海久事 新疆主队
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 宁波町渥 vs 江苏肯帝亚 吴博文
 https://tv.iill.top/Migu/18
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第7轮 新疆伊力特 vs 上海久事 张俊卿
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 宁波町渥 vs 江苏肯帝亚 清流播出
 https://tv.iill.top/Migu/19
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第7轮 新疆伊力特 vs 上海久事 清流播出4
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 福建晋江文旅 vs 广州朗肽海本 刘圳展
 https://tv.iill.top/Migu/20
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/4决赛 周冠达 周雨
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 福建晋江文旅 vs 广州朗肽海本 洪荒
 https://tv.iill.top/Migu/21
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/4决赛 小马哥
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 福建晋江文旅 vs 广州朗肽海本 张泽欣
 https://tv.iill.top/Migu/22
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/4决赛 清流
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 福建晋江文旅 vs 广州朗肽海本 清流播出
 https://tv.iill.top/Migu/23
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」19:30 蒙彼利埃冠军赛：男女单打1/4决赛 英文解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 广东东阳光 vs 南京头排苏酒 庄宁宇 张兆旭 小太阳
 https://tv.iill.top/Migu/24
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「lol」19:40 WBG vs BLG WBG vs BLG 官方解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 广东东阳光 vs 南京头排苏酒 翻译小余
 https://tv.iill.top/Migu/25
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」21:50 第308期：托普里亚VS霍洛威 奇马耶夫VS惠特克 陈瑞阳 郑文祺
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 广东东阳光 vs 南京头排苏酒 王港
 https://tv.iill.top/Migu/26
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「UFC」21:50 第308期：托普里亚VS霍洛威 奇马耶夫VS惠特克 解说
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 广东东阳光 vs 南京头排苏酒 清流播出4
 https://tv.iill.top/Migu/27
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 浙江方兴渡 vs 天津先行者 邵化谦
+https://tv.iill.top/Migu/28
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 浙江方兴渡 vs 天津先行者 清流播出9
+https://tv.iill.top/Migu/29
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山西汾酒 vs 北京控股 姜帆 丁伟 刘铁
+https://tv.iill.top/Migu/30
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山西汾酒 vs 北京控股 石楷文
+https://tv.iill.top/Migu/31
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山西汾酒 vs 北京控股 周赫
+https://tv.iill.top/Migu/32
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第7轮 山西汾酒 vs 北京控股 清流播出
+https://tv.iill.top/Migu/33
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「lol」20:40 T1 vs GEN T1 vs GEN 官方解说
+https://tv.iill.top/Migu/34
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」22:30 蒙彼利埃冠军赛：男女单打决赛 周冠达 周雨
+https://tv.iill.top/Migu/35
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」22:30 蒙彼利埃冠军赛：男女单打决赛 清流
+https://tv.iill.top/Migu/36
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」22:30 蒙彼利埃冠军赛：男女单打决赛 英文解说
+https://tv.iill.top/Migu/37
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -6681,6 +6774,18 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370402.m3u8
 #EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8LG2zkJF3lSxSXUl7lTai4JsVNRgEbSNkQ&usqp=CAU" tvg-name="",AFC Champion League 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370403.m3u8
 
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 1 ch 
+https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 2 ch 
+https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 4 ch 
+https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 5 ch 
+https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
+
 #EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 1 sn 
 https://sportnext.online/hls/M1.m3u8
 
@@ -6987,13 +7092,13 @@ http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png" tvg-name="",BBC Three 
 http://41.205.93.154/BBCTHREE/index.m3u8
 
-#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/PDbMv76/bbcone.png" tvg-name="",BBC One  Vpn UK
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/PDbMv76/bbcone.png" tvg-name="",BBC One  Vpn
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/mJ9bXnS/bbc2.png" tvg-name="",BBC Two  Vpn UK
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/mJ9bXnS/bbc2.png" tvg-name="",BBC Two  Vpn
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/8j9pdy4/bbc3.png" tvg-name="",BBC Three  Vpn UK
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://i.ibb.co/8j9pdy4/bbc3.png" tvg-name="",BBC Three  Vpn
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-name="",Premier Sport 1 
@@ -7641,51 +7746,6 @@ https://7pal.short.gy/espn2
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.imgur.com/uo7pHjF.png" tvg-name="",CBS_Sport_Network 
 https://7pal.short.gy/cbssptnw
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 1
-https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 2
-https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 3
-https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 4
-https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 5
-https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 6
-https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 7
-https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 8
-https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 9
-https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 10
-https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 11
-https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 12
-https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 13
-https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 14
-https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png" tvg-name="",Event 15
-https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
-
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 1
 https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
@@ -7731,6 +7791,33 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP14/GO3_LIVE_DASH_AVC/VIP14.mpd
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 15
 https://cdn9.tvplayhome.lt/live/eds2/VIP15/GO3_LIVE_DASH_AVC/VIP15.mpd
 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmgXrM923Zt25OR10CfWvzLhhb03TBhl07rH1Z66s30aftWLhy2JfvjAU&s=10" tvg-name="",Hub Premier 4K  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 1  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 2  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 3  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 4  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 5  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 6  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 7  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" tvg-name="",Hub Premier 8  Vpn
+https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
+
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU" tvg-name="",TNT Sports 1
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
@@ -7748,6 +7835,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png" tvg-name="",USA Network
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH_Y4cveuiHKoNBk5JHftzup8QvUrjczuOA&usqp=CAU" tvg-name="",Telemundo
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" tvg-name="",Universo
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
@@ -7772,12 +7862,6 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 7
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-name="",Setanta Sports 1 Ukraine
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png" tvg-name="",GO3 Sport OPEN Lithuania
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.pinimg.com/236x/f0/bf/71/f0bf711c06447746faba428ebd5d9cf5.jpg" tvg-name="",DAZN 1 Spain
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
@@ -7824,38 +7908,41 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="http://guki.my.id/logo/sports/a6.png" tvg-name="",Arena Sport 6
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycLUL499K29BdPEI_CN62_WkPbep3cbK0vA&usqp=CAU" tvg-name="",Sportdigital Fussball
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.ibb.co.com/Y38p1RN/sport1.png" tvg-name="",Sport 1 Slovakia
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.ibb.co.com/grzt3pV/sport2.png" tvg-name="",Sport 2 Slovakia
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.ibb.co.com/56y8MCX/novasport1.png" tvg-name="",Nova Sport 1 Slovakia
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.ibb.co.com/QQ8zfv4/novasport2.png" tvg-name="",Nova Sport 2 Slovakia
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png" tvg-name="",Eurosport Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_(2024).png" tvg-name="",Astro Football  Vpn Sg
+#EXTINF:-1 group-title="VariousSports" tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" tvg-name="Astro SuperSport HD",Astro Premier League  Vpn
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" tvg-name="Astro SuperSport 2 HD",Astro Premier League 2  Vpn
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" tvg-name="",Astro Grandstand  Vpn
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_(2024).png" tvg-name="",Astro Football  Vpn
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" tvg-name="",Astro beIN Sports 1  Vpn Sg
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" tvg-name="",Astro beIN Sports 1  Vpn
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" tvg-name="",Astro beIN Sports 2  Vpn Sg
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" tvg-name="",Astro beIN Sports 2  Vpn
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" tvg-name="",Astro beIN Sports 3  Vpn Sg
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" tvg-name="",Astro beIN Sports 3  Vpn
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" tvg-name="",Astro beIN Sports 4  Vpn Sg
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" tvg-name="",Astro beIN Sports 4  Vpn
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_(2023)_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550" tvg-name="",TNT Sports Ultimate 4K 
+https://p13.lol/centra_live_a_b/n907iOxHult0/1472066.ts
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" tvg-name="",Sky Sport 1 4K  Only Event 
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" tvg-name="",Sky Sport 2 4K  Only Event 
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444581
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU" tvg-name="",Sky Sports Main Event 
 https://p13.lol/centra_live_a_b/n907iOxHult0/793873.ts
@@ -7887,19 +7974,19 @@ http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70008
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" tvg-name="",Sport TV 1 
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" tvg-name="",Sony Ten 1  Vpn India 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" tvg-name="",Sony Ten 1  Vpn 
 https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" tvg-name="",Sony Ten 2  Vpn India 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" tvg-name="",Sony Ten 2  Vpn 
 https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" tvg-name="",Sony Ten 3  Vpn India 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" tvg-name="",Sony Ten 3  Vpn 
 https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" tvg-name="",Sony Ten 4  Vpn India 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" tvg-name="",Sony Ten 4  Vpn 
 https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-name="",Sony Ten 5  Vpn India 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-name="",Sony Ten 5  Vpn 
 https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.imgur.com/uo7pHjF.png" tvg-name="",CBS Sport Network 
@@ -7913,15 +8000,6 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2086103.ts
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" tvg-name="",Univision 
 https://p13.lol/centra_live_a_b/n907iOxHult0/2086104.ts
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_(2023)_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550" tvg-name="",TNT Sports Ultimate 4K 
-https://p13.lol/centra_live_a_b/n907iOxHult0/1472066.ts
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" tvg-name="",Sky Sport 1 4K  Only Event 
-http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
-
-#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" tvg-name="",Sky Sport 2 4K  Only Event 
-http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444581
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W9Knw7c9-l4UMOfnFGQIBCcmgbNKz1no2pxMJ7urd0tqqMU4EUKAnca&s=10" tvg-name="",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
