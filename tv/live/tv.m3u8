@@ -447,101 +447,128 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?
 #EXTINF:-1 group-title="数字" tvg-id="" tvg-logo="https://epg.iill.top/logo/百事通.png" tvg-name="",你叫啥都行𝟠
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」00:15 联赛 阿森纳 vs 利物浦 詹俊 张路 林梦鸽
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」03:45 联赛 马略卡 vs 毕尔巴鄂竞技 刘畅 鲁靖明
 https://tv.iill.top/FB/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」00:15 联赛 阿森纳 vs 利物浦 陈渤胄
-https://tv.iill.top/FB/2
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」00:20 联赛 柏林联合 vs 法兰克福 王子睿
-https://tv.iill.top/FB/3
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」00:45 联赛 国际米兰 vs 尤文图斯 刘腾 贺宇 李子琪
-https://tv.iill.top/FB/4
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」01:15 联赛 皇家贝蒂斯 vs 马德里竞技 梁祥宇 李欣
-https://tv.iill.top/FB/5
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「德甲」02:20 联赛 海登海姆 vs 霍芬海姆 鲁靖明
-https://tv.iill.top/FB/6
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」03:30 联赛 佛罗伦萨 vs 罗马 吴桐 刘腾
-https://tv.iill.top/FB/7
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」03:30 联赛 马赛 vs 巴黎圣日耳曼 鹿中原 王宇
-https://tv.iill.top/FB/8
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」03:50 联赛 皇家社会 vs 奥萨苏纳 洪宇青
-https://tv.iill.top/FB/9
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」03:25 常规赛 步行者 vs 76人 陈鑫隆
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 魔术 vs 步行者 刘芳宇
 https://tv.iill.top/NBA/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 开拓者 vs 鹈鹕 周赫
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 老鹰 vs 奇才 张泽欣
 https://tv.iill.top/NBA/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 篮网 vs 雄鹿 孔德昕
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 猛龙 vs 掘金 周赫
 https://tv.iill.top/NBA/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 雷霆 vs 老鹰 吴博文
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 凯尔特人 vs 雄鹿 蔡凯臣 季孟年
 https://tv.iill.top/NBA/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 杨健 马健 小七
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 凯尔特人 vs 雄鹿 英文原声
 https://tv.iill.top/NBA/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 大史
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 尼克斯 vs 骑士 邵化谦 贾磊
 https://tv.iill.top/NBA/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 董倡硕
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 热火 vs 活塞 李博洋
 https://tv.iill.top/NBA/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 莫俊祺
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 灰熊 vs 公牛 吴博文 闫宇峰
 https://tv.iill.top/NBA/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 洪荒
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 马刺 vs 火箭 王晓晨 周鹏
 https://tv.iill.top/NBA/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 勇士 vs 快船 英文原声
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 常规赛 独行侠 vs 爵士 孙博
 https://tv.iill.top/NBA/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第21期 《体育日报》第二十一期
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 湖人 杨健 苏群 李根
+https://tv.iill.top/NBA/11
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 湖人 郑泽鹏
+https://tv.iill.top/NBA/12
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 湖人 莫俊祺
+https://tv.iill.top/NBA/13
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 湖人 洪荒
+https://tv.iill.top/NBA/14
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 常规赛 太阳 vs 湖人 英文原声
+https://tv.iill.top/NBA/15
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 常规赛 国王 vs 开拓者 邢晨
+https://tv.iill.top/NBA/16
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《体育日报》第22期 《体育日报》第二十二期
 https://tv.iill.top/Migu/1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 青岛国信制药 vs 辽宁本钢 孙博 苏群 丁伟
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」17:30 重庆狼队 vs 济南RW侠 重庆狼队 vs 济南RW侠 官方解说
 https://tv.iill.top/Migu/2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 青岛国信制药 vs 辽宁本钢 刘沛元
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 北京北汽 vs 宁波町渥 邵化谦
 https://tv.iill.top/Migu/3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 青岛国信制药 vs 辽宁本钢 哈秋
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 北京北汽 vs 宁波町渥 谭成国
 https://tv.iill.top/Migu/4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 青岛国信制药 vs 辽宁本钢 清流播出1
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 北京北汽 vs 宁波町渥 林国雄
 https://tv.iill.top/Migu/5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 浙江稠州金租 vs 上海久事 李天宇 张兆旭 魏欣怡
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 北京北汽 vs 宁波町渥 现场原声
 https://tv.iill.top/Migu/6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 浙江稠州金租 vs 上海久事 金哲豪
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 深圳马可波罗 vs 广州朗肽海本 王冠证
 https://tv.iill.top/Migu/7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 浙江稠州金租 vs 上海久事 上海主队
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 深圳马可波罗 vs 广州朗肽海本 李嘉伟
 https://tv.iill.top/Migu/8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 浙江稠州金租 vs 上海久事 清流播出2
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 深圳马可波罗 vs 广州朗肽海本 张泽欣
 https://tv.iill.top/Migu/9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第一、二轮 1号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 深圳马可波罗 vs 广州朗肽海本 清流播出3
 https://tv.iill.top/Migu/10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第一、二轮 2号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 福建晋江文旅 vs 九台农商银行 姜帆
 https://tv.iill.top/Migu/11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第一、二轮 3号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 福建晋江文旅 vs 九台农商银行 清流播出2
 https://tv.iill.top/Migu/12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第一、二轮 4号桌
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 天津先行者 vs 北京控股 连睿 闫宇峰 李根
 https://tv.iill.top/Migu/13
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 天津先行者 vs 北京控股 荣浩达
+https://tv.iill.top/Migu/14
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 天津先行者 vs 北京控股 周赫
+https://tv.iill.top/Migu/15
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 天津先行者 vs 北京控股 清流播出4
+https://tv.iill.top/Migu/16
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 南京头排苏酒 vs 山西汾酒 庄宁宇 徐咏
+https://tv.iill.top/Migu/17
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 南京头排苏酒 vs 山西汾酒 王港
+https://tv.iill.top/Migu/18
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 南京头排苏酒 vs 山西汾酒 石楷文
+https://tv.iill.top/Migu/19
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第8轮 南京头排苏酒 vs 山西汾酒 清流播出5
+https://tv.iill.top/Migu/20
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第二轮 1号桌
+https://tv.iill.top/Migu/21
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第二轮 2号桌
+https://tv.iill.top/Migu/22
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第二轮 3号桌
+https://tv.iill.top/Migu/23
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」20:00 马斯喀特常规挑战赛：男女单打资格赛第二轮 4号桌
+https://tv.iill.top/Migu/24
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -4777,7 +4804,7 @@ https://yang-1989.eu.org/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-name="CCTV 2",CCTV2
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
+http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-name="CCTV 3",CCTV3
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
@@ -4835,15 +4862,6 @@ http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid
 
 #EXTINF:-1 group-title="央视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" tvg-name="CHC家庭影院",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-
-#EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" tvg-name="凤凰中文",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" tvg-name="凤凰资讯",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" tvg-name="凤凰香港",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" tvg-name="北京卫视",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
@@ -6147,6 +6165,195 @@ https://fs.qwertyisaddictedtodxm.pw/tnt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545#EXTM3U
 
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 1 ch 
+https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 2 ch 
+https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 4 ch 
+https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 5 ch 
+https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 1 sn 
+https://sportnext.online/hls/M1.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 3 sn 
+https://sportnext.online/hls/M3.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 4 sn 
+https://sportnext.online/hls/M4.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 5 sn 
+https://sportnext.online/hls/M5.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 1 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 2 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 3 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 4 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/4.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 5 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/5.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 6 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/6.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 7 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/7.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 8 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 9 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 10 nf 
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" tvg-name="",TNT SPORT 1 {Stream}
+https://liveua.score806.cc/uk_bts1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport2.png" tvg-name="",TNT SPORT 2 {Stream}
+https://liveua.score806.cc/uk_bts2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport3.png" tvg-name="",TNT SPORT 3 {Stream}
+https://liveua.score806.cc/uk_bts3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",TNT SPORT 4 {Stream}
+https://liveua.score806.cc/uk_bts4/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Eleven Sport 1.png" tvg-name="",Eleven Sport 1 {Stream}
+https://liveua.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Eleven Sport 2.png" tvg-name="",Eleven Sport 2 {Stream}
+https://liveua.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Eleven Sport 3.png" tvg-name="",Eleven Sport 3 {Stream}
+https://liveua.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Eleven Sport 4 {Stream}
+https://liveua.score806.cc/pt_elevensport4/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Eleven Sport 5 {Stream}
+https://liveua.score806.cc/pt_elevensport5/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Eleven Sport 6 {Stream}
+https://liveua.score806.cc/pt_elevensport6/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Sport-tv-1.png" tvg-name="",Sport  TV 1 {Stream}
+https://liveua.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Sport  TV 2.png" tvg-name="",Sport  TV 2 {Stream}
+https://liveua.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Sport  TV 3.png" tvg-name="",Sport  TV 3 {Stream}
+https://liveua.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Sport TV 4 {Stream}
+https://liveua.score806.cc/pt_sporttv4/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Sport TV 5 {Stream}
+https://liveua.score806.cc/pt_sporttv5/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Bein-Sports-1.png" tvg-name="",BEIN SPORTS 1 FR {Stream}
+https://liveua.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Bein Sports 2.png" tvg-name="",BEIN SPORTS 2 FR {Stream}
+https://liveua.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Bein Sports 3 FR {Stream}
+https://liveua.score806.cc/fr_beinsports3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/RMC_SPORT_1.png" tvg-name="",RMC SPORT 1 {Stream}
+https://liveua.score806.cc/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/RMC_SPORT_2.png" tvg-name="",RMC SPORT 2 {Stream}
+https://liveua.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/usanetwork.png" tvg-name="",USA Network {Stream}
+https://liveua.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/uscbssportnetwork.png" tvg-name="",CBS Sports Network {Stream}
+https://liveua.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/usfs1.png" tvg-name="",FS1 {Stream}
+https://liveua.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/usfs2.png" tvg-name="",FS2 {Stream}
+https://liveua.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/sky-sport-main.png" tvg-name="",Sky Sports Main Event {Stream}
+https://liveua.score806.cc/uk_ssmain/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/skysports-premierleague.png" tvg-name="",Sky Sports Premier League {Stream}
+https://liveua.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/skysports-football.png" tvg-name="",Sky Sports Football {Stream}
+https://liveua.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/skysports-news.png" tvg-name="",Sky Sports News {Stream}
+https://liveua.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/uk_ssarena.png" tvg-name="",Sky Sports Arena {Stream}
+https://liveua.score806.cc/uk_ssarena/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukssmix.png" tvg-name="",Sky Sports Mix {Stream}
+https://liveua.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/livetv.png" tvg-name="",Sky Sports Tennis {Stream}
+https://liveua.score806.cc/uk_sstennis/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/skysports-golf.png" tvg-name="",Sky Sports Golf {Stream}
+https://liveua.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/skysports-f1.png" tvg-name="",Sky Sports F1 {Stream}
+https://liveua.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Premier Sports1.png" tvg-name="",PREMIER SPORTS 1 {Stream}
+https://liveua.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/Premier Sports 2.png" tvg-name="",PREMIER SPORTS 2 {Stream}
+https://liveua.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukitv1.png" tvg-name="",ITV 1 {Stream}
+https://liveua.score806.cc/uk_itv1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukitv2.png" tvg-name="",ITV 2 {Stream}
+https://liveua.score806.cc/uk_itv2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukitv3.png" tvg-name="",ITV 3 {Stream}
+https://liveua.score806.cc/uk_itv3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukitv4.png" tvg-name="",ITV 4 {Stream}
+https://liveua.score806.cc/uk_itv4/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukbbc1.png" tvg-name="",BBC One {Stream}
+https://liveua.score806.cc/uk_bbc1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukbbc2.png" tvg-name="",BBC Two {Stream}
+https://liveua.score806.cc/uk_bbc2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/ukbbc3.png" tvg-name="",BBC Three {Stream}
+https://liveua.score806.cc/uk_bbc3/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/uk_eurosport1.png" tvg-name="",Eurosport 1 UK {Stream}
+https://liveua.score806.cc/uk_eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/uk_eurosport2.png" tvg-name="",Eurosport 2 UK {Stream}
+https://liveua.score806.cc/uk_eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://image.azencode.com/upload/Livetv/uswwe.png" tvg-name="",WWE Network {Stream}
+https://liveua.score806.cc/us_wwe/index.m3u8
+
 #EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-name="",EPL 1
 https://canale.mizhls.ru/lb/premium343/index.m3u8
 
@@ -6599,96 +6806,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370402.m3u8
 
 #EXTINF:-1 group-title="MainLeagues" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8LG2zkJF3lSxSXUl7lTai4JsVNRgEbSNkQ&usqp=CAU" tvg-name="",AFC Champion League 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370403.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 1 ch 
-https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 2 ch 
-https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 4 ch 
-https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10" tvg-name="",All League Live 5 ch 
-https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 1 sn 
-https://sportnext.online/hls/M1.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 3 sn 
-https://sportnext.online/hls/M3.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 4 sn 
-https://sportnext.online/hls/M4.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",All League Live 5 sn 
-https://sportnext.online/hls/M5.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 1 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 2 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 3 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 4 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/4.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 5 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/5.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 6 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/6.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 7 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/7.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 8 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 9 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU" tvg-name="",All League Live 10 nf 
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 1 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 2 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 3 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 4 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 5 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 6 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 7 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37395.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 8 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37394.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 9 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37393.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 10 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37392.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 11 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37391.m3u8
-
-#EXTINF:-1 group-title="LiveEvent" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 12 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37390.m3u8
 
 #EXTINF:-1 group-title="TNTSports" tvg-id="" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" tvg-name="",TNT Sports 1 
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
@@ -7310,6 +7427,42 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105349.ts
 
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-name="",Sony Ten Sport 5 
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105350.ts
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 2 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 7 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37395.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 8 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37394.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 9 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37393.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 10 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37392.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 11 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37391.m3u8
+
+#EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" tvg-name="",OPTUS 12 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37390.m3u8
 
 #EXTINF:-1 group-title="AsianSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png" tvg-name="",SSC Sport 1 
 https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8
