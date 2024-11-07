@@ -1,18 +1,18 @@
 |||
 |-|-|
-|https://nodefree.org/dy/2024/10/20241028.yaml|[0	node/nodefree.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodefree.yaml)|
-|https://nodefree.org/dy/2024/10/20241028.txt|[0	node/nodefree.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodefree.txt)|
-|https://clashnode.github.io/uploads/2024/10/0-20241028.yaml|[16K	node/clashnode_0.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_0.yaml)|
-|https://clashnode.github.io/uploads/2024/10/1-20241028.yaml|[508K	node/clashnode_1.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_1.yaml)|
-|https://clashnode.github.io/uploads/2024/10/2-20241028.yaml|[16K	node/clashnode_2.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_2.yaml)|
-|https://clashnode.github.io/uploads/2024/10/3-20241028.yaml|[180K	node/clashnode_3.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_3.yaml)|
-|https://clashnode.github.io/uploads/2024/10/4-20241028.yml|[12K	node/clashnode_4.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_4.yaml)|
-|https://clashnode.github.io/uploads/2024/10/0-20241028.txt|[8.0K	node/clashnode_0.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_0.txt)|
-|https://clashnode.github.io/uploads/2024/10/1-20241028.txt|[92K	node/clashnode_1.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_1.txt)|
-|https://clashnode.github.io/uploads/2024/10/2-20241028.txt|[8.0K	node/clashnode_2.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_2.txt)|
-|https://clashnode.github.io/uploads/2024/10/3-20241028.txt|[12K	node/clashnode_3.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_3.txt)|
-|https://clashnode.github.io/uploads/2024/10/4-20241028.txt|[24K	node/clashnode_4.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_4.txt)|
-|https://freenode.openrunner.net/uploads/20241028-clash.yaml|[184K	node/freenode.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/freenode.yaml)|
-|https://freenode.openrunner.net/uploads/20241028-v2ray.txt|[0	node/freenode.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/freenode.txt)|
-|https://tglaoshiji.github.io/nodeshare/2024/10/20241028.yaml|[12K	node/nodeshare.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodeshare.yaml)|
-|https://tglaoshiji.github.io/nodeshare/2024/10/20241028.txt|[12K	node/nodeshare.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodeshare.txt)|
+|https://nodefree.org/dy/2024/11/20241107.yaml|[0	node/nodefree.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodefree.yaml)|
+|https://nodefree.org/dy/2024/11/20241107.txt|[0	node/nodefree.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodefree.txt)|
+|https://clashnode.github.io/uploads/2024/11/0-20241107.yaml|[16K	node/clashnode_0.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_0.yaml)|
+|https://clashnode.github.io/uploads/2024/11/1-20241107.yaml|[520K	node/clashnode_1.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_1.yaml)|
+|https://clashnode.github.io/uploads/2024/11/2-20241107.yaml|[600K	node/clashnode_2.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_2.yaml)|
+|https://clashnode.github.io/uploads/2024/11/3-20241107.yaml|[180K	node/clashnode_3.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_3.yaml)|
+|https://clashnode.github.io/uploads/2024/11/4-20241107.yaml|[560K	node/clashnode_4.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_4.yaml)|
+|https://clashnode.github.io/uploads/2024/11/0-20241107.txt|[8.0K	node/clashnode_0.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_0.txt)|
+|https://clashnode.github.io/uploads/2024/11/1-20241107.txt|[108K	node/clashnode_1.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_1.txt)|
+|https://clashnode.github.io/uploads/2024/11/2-20241107.txt|[52K	node/clashnode_2.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_2.txt)|
+|https://clashnode.github.io/uploads/2024/11/3-20241107.txt|[8.0K	node/clashnode_3.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_3.txt)|
+|https://clashnode.github.io/uploads/2024/11/4-20241107.txt|[36K	node/clashnode_4.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/clashnode_4.txt)|
+|https://altrojan.comorg.us.kg/sub?host=sytrojan.6516789.xyz&pw=google|[20K	node/altrojan.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/altrojan.txt)|
+|https://alvless.comorg.us.kg/sub?host=syvless.6516789.xyz&uuid=99280094-e683-476b-a3cd-0d37c3892c6f|[36K	node/alvless.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/alvless.txt)|
+|https://tglaoshiji.github.io/nodeshare/2024/11/20241107.yaml|[524K	node/nodeshare.yaml](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodeshare.yaml)|
+|https://tglaoshiji.github.io/nodeshare/2024/11/20241107.txt|[120K	node/nodeshare.txt](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/nodeshare.txt)|
