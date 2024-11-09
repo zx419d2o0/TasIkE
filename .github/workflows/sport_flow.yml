@@ -27,9 +27,9 @@ jobs:
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           cd tv/live
           curl -A "okhttp/4.1.9" -O "https://tv.iill.top/m3u/Gather"
-          ls -la
           chmod +x 7days_sports
           ./7days_sports
+          rm -f Gather
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
