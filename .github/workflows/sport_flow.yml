@@ -26,6 +26,7 @@ jobs:
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           cd tv/live
+          chmod +x 7days_sports
           ./7days_sports
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
