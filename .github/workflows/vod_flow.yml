@@ -60,9 +60,9 @@ jobs:
             IFS=',' read -r url flag <<< "${arr[i]}"
             
             if [[ "$flag" == "true" ]]; then
-              curl -o "tv/vod/$i.json" "https://www.饭太硬.com/jm/jiemi.php?url=$url"
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "https://www.xn--sss604efuw.com/jm/jiemi.php?url=$url"
             else
-              curl -o "tv/vod/$i.json" "$url"
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url"
             fi
             echo "|[$i](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
