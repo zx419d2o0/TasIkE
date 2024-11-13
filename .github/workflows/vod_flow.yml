@@ -44,11 +44,10 @@ jobs:
           mv gao/js/* tv/vod/js/
           mv gao/lib/* tv/vod/lib/
           arr=(
-            "http://www.饭太硬.com/tv,true"
-            # "http://xhww.fun/小米/DEMO.json,false"
-            "https://gitee.com/okjack/okk/raw/master/ok.txt,true"
+            "http://www.饭太硬.com/tv/,true"
+            "https://3450.kstore.space/DEMO.json,false"
+            "http://ok321.top/ok,true"
             "http://like.肥猫.com/你好,true"
-            "http://ygbhbox.3vfree.club/pg/jsm.json,false"
             "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
           )
           # curl -o json/dancang.json ${arr[0]}
