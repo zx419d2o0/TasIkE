@@ -7,15 +7,12 @@ const m3us = [
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
-  'http://95.179.139.113:5566/4gtv.m3u',
-  'https://www.dussl.icu/itv_dussl.m3u',
-  'https://www.dussl.icu/4gtv_dussl.m3u',
-  // 'https://4K.tvbox.中国',
+  'http://www.52sw.top:678/play/mytvsuper',
+  'https://4K.tvbox.中国',
 ]
 
 const txts = [
-  // 'https://raw.gitmirror.com/kan31467/1/main/tv/NOW.txt',
-  // 'https://histar.zapi.us.kg/?list',
+  'https://fm1077.serv00.net/play-litv.php'
 ]
 
 const dynamic_url = async () => {
@@ -31,13 +28,13 @@ const dynamic_url = async () => {
       .then(async response => {return await response.json()}) // 'https://histar.zapi.us.kg/?list'
     result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url)]
 
-    result.forEach(channel => {
-      if (channel.url.includes('https://histar.zapi.us.kg/')){
-        let new_channel = {...channel}
-        new_channel.url = channel.url.replace('https://histar.zapi.us.kg/','http://cdn.1678520.xyz/xsj.php')
-        result.push(new_channel)
-      }
-    })
+    // result.forEach(channel => {
+    //   if (channel.url.includes('https://histar.zapi.us.kg/')){
+    //     let new_channel = {...channel}
+    //     new_channel.url = channel.url.replace('https://histar.zapi.us.kg/','http://cdn.1678520.xyz/xsj.php')
+    //     result.push(new_channel)
+    //   }
+    // })
   } catch(err) {
     console.error('fetch dynaimc datas error', err)
   }
