@@ -47,8 +47,8 @@ jobs:
             "http://www.饭太硬.com/tv/,true"
             "https://3450.kstore.space/DEMO.json,false"
             "http://ok321.top/ok,true"
-            "http://like.肥猫.com/你好,true"
-            "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
+            "http://肥猫.live,true"
+            "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
           )
           # curl -o json/dancang.json ${arr[0]}
           # echo "current   ${arr[0]}">json/$clock.log
@@ -64,7 +64,7 @@ jobs:
             else
               curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url"
             fi
-            echo "|[$i](https://hub.gitmirror.com/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
+            echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
           rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
