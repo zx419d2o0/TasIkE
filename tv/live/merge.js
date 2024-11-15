@@ -4,6 +4,7 @@ const fs = require('fs');
 
 const m3us = [
   'https://tv.iill.top//m3u/Gather',
+  'https://bit.ly/IPTV-Gather',
   'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
   'https://hub.gitmirror.com/https://raw.githubusercontent.com/Slive8/iTV/main/Slive.m3u',
   'https://github.moeyy.xyz/https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u',
