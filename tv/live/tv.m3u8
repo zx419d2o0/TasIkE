@@ -474,7 +474,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 group-title="地区" tvg-id="山东公共" tvg-logo="https://epg.iill.top/logo/山东卫视.png" tvg-name="山东公共",山东公共
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=
 
-#EXTINF:-1 group-title="地区" tvg-id="山东农科" tvg-logo="https://epg.iill.top/logo/山东卫视.png" tvg-name="山东农科",山东农科
+#EXTINF:-1 group-title="地区" tvg-id="山东农科" tvg-logo="https://epg.iill.top/logo/山东卫视..png" tvg-name="山东农科",山东农科
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=
 
 #EXTINF:-1 group-title="地区" tvg-id="山东少儿" tvg-logo="https://epg.iill.top/logo/山东少儿.png" tvg-name="山东少儿",山东少儿
@@ -516,92 +516,86 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 #EXTINF:-1 group-title="地区" tvg-id="海南自贸" tvg-logo="https://epg.iill.top/logo/海南自贸.png" tvg-name="海南自贸",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」04:25 NBA常规赛 森林狼 vs 太阳 邢晨
-https://tv.iill.top/NBA/ZEDU4A
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 活塞 vs 公牛 张泽欣
+https://tv.iill.top/NBA/IuiDWq
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」04:25 NBA常规赛 森林狼 vs 太阳 英文原声
-https://tv.iill.top/NBA/FBOyWg
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 活塞 vs 公牛 英文原声
+https://tv.iill.top/NBA/yKx8iV
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 NBA常规赛 步行者 vs 热火 张浩岳
-https://tv.iill.top/NBA/Z9gx3M
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 尼克斯 vs 奇才 邵化谦
+https://tv.iill.top/NBA/Gb5AAf
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 NBA常规赛 步行者 vs 热火 英文原声
-https://tv.iill.top/NBA/oWabF5
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 尼克斯 vs 奇才 英文原声
+https://tv.iill.top/NBA/Eh7ID0
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 灰熊 vs 掘金 姜帆 周赫
-https://tv.iill.top/NBA/iUKGAd
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 热火 vs 76人 邢晨
+https://tv.iill.top/NBA/sAvG6T
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 灰熊 vs 掘金 AVS3
-https://tv.iill.top/NBA/SYOG7s
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 热火 vs 76人 英文原声
+https://tv.iill.top/NBA/5b08lk
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 灰熊 vs 掘金 英文原声
-https://tv.iill.top/NBA/7xkDFI
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 猛龙 vs 步行者 罗森
+https://tv.iill.top/NBA/UckKNM
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 开拓者 vs 老鹰 殷文玉
-https://tv.iill.top/NBA/U0WCiH
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 NBA常规赛 猛龙 vs 步行者 英文原声
+https://tv.iill.top/NBA/2sABZN
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 开拓者 vs 老鹰 英文原声
-https://tv.iill.top/NBA/s7PBOh
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:55 NBA常规赛 雄鹿 vs 火箭 连睿 周鹏
+https://tv.iill.top/NBA/Cmay17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 奇才 vs 活塞 刘芳宇
-https://tv.iill.top/NBA/Of8w3F
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:55 NBA常规赛 雄鹿 vs 火箭 英文原声
+https://tv.iill.top/NBA/iDF34n
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 奇才 vs 活塞 英文原声
-https://tv.iill.top/NBA/jPZ5M9
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 NBA常规赛 太阳 vs 魔术 王冠证 陈正昊 小太阳
+https://tv.iill.top/NBA/orVJkY
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 骑士 vs 黄蜂 刘沛元
-https://tv.iill.top/NBA/Q0qJEe
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 NBA常规赛 太阳 vs 魔术 AVS3
+https://tv.iill.top/NBA/9ZO2Nl
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 NBA常规赛 骑士 vs 黄蜂 英文原声
-https://tv.iill.top/NBA/qhVNyb
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:45 NBA常规赛 太阳 vs 魔术 英文原声
+https://tv.iill.top/NBA/77AdKI
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:45 NBA常规赛 雷霆 vs 独行侠 王晓晨 孔德昕 秋童
-https://tv.iill.top/NBA/pIp6R3
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:55 NBA常规赛 国王 vs 老鹰 姜帆 贾磊
+https://tv.iill.top/NBA/gFpRCT
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:45 NBA常规赛 雷霆 vs 独行侠 AVS3
-https://tv.iill.top/NBA/Ys9TqB
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」10:55 NBA常规赛 国王 vs 老鹰 英文原声
+https://tv.iill.top/NBA/JzgHBx
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:45 NBA常规赛 雷霆 vs 独行侠 英文原声
-https://tv.iill.top/NBA/BnWoGG
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 孙博 马健 小七
+https://tv.iill.top/NBA/exdwzL
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 公牛 vs 火箭 孙博
-https://tv.iill.top/NBA/2Zh7SK
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 拜月宁
+https://tv.iill.top/NBA/yguQnI
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 公牛 vs 火箭 英文原声
-https://tv.iill.top/NBA/3MiBVY
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 大史
+https://tv.iill.top/NBA/26A0LP
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 尼克斯 vs 篮网 邵化谦
-https://tv.iill.top/NBA/85IWrP
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 莫俊祺
+https://tv.iill.top/NBA/pXlGzk
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 NBA常规赛 尼克斯 vs 篮网 英文原声
-https://tv.iill.top/NBA/SP9E2R
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 洪荒
+https://tv.iill.top/NBA/8FdkVE
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 NBA常规赛 快船 vs 爵士 连睿
-https://tv.iill.top/NBA/A34cCi
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 AVS3
+https://tv.iill.top/NBA/l5EoPs
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 NBA常规赛 快船 vs 爵士 大史
-https://tv.iill.top/NBA/md1h1c
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」11:15 NBA常规赛 快船 vs 勇士 英文原声
+https://tv.iill.top/NBA/qztdXo
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 NBA常规赛 快船 vs 爵士 英文原声
-https://tv.iill.top/NBA/VTclBq
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《咪咕体育日报》第43期 《咪咕体育日报》第四十三期
+https://tv.iill.top/Migu/GXKl0M
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「咪咕」08:00 《咪咕体育日报》第42期 《咪咕体育日报》第四十二期
-https://tv.iill.top/Migu/40Xtzc
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 WCBA常规赛A组 上海浦发银行 vs 东莞新彤盛 现场解说
+https://tv.iill.top/Migu/lxzQjG
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 WCBA常规赛B组 黑龙江上东 vs 合肥文旅 现场解说
-https://tv.iill.top/Migu/SZifxL
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 WCBA常规赛B组 天津冠岚 vs 江西赣星 赛场原声
+https://tv.iill.top/Migu/n50ZPA
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 WCBA常规赛A组 内蒙古农信 vs 山西竹叶青酒 现场解说
-https://tv.iill.top/Migu/DKCsLa
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 WCBA常规赛B组 武汉盛帆黄鹤 vs 陕西天泽 赛场原声
+https://tv.iill.top/Migu/ScqjkS
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 WCBA常规赛A组 四川蜀道远达 vs 浙江稠州银行 赛场原声
-https://tv.iill.top/Migu/liUZUE
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 WCBA常规赛A组 北京首钢园 vs 石家庄英励 赛场原声
-https://tv.iill.top/Migu/dEkV6q
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 WCBA常规赛B组 辽宁大连体产 vs 厦门环东文旅 赛场原声
-https://tv.iill.top/Migu/qLwNJU
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:50 WCBA常规赛A组 新疆天山 vs 江苏南钢 现场解说
+https://tv.iill.top/Migu/ZNukZ6
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -6073,9 +6067,6 @@ https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefd
 https://www.oha.to/play/1980907224/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",МАТЧ! Футбол2 🇷🇺
-http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S LALIGA 🇿🇦
@@ -6085,13 +6076,7 @@ https://zylotech.xyz/live/1/chunks.m3u8?bongls.com
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S LALIGA 🇿🇦
-https://s@centerinfomess.lol/live/2/chunks.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S LALIGA 🇿🇦
 https://7pal.short.gy/sperspllg
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S LALIGA 🇿🇦
-https://sportnext.online/hls/M2.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S LALIGA 🇿🇦
 https://pepebong.online/live/3/chunks.m3u8
@@ -6099,20 +6084,11 @@ https://pepebong.online/live/3/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 3 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 3 🇶🇦
-https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 3 🇶🇦
-http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPNDEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPNDEPORTES 🇺🇸
-https://b.trydarius.shop/espnsap.m3u8?t=532
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -6133,9 +6109,6 @@ http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 1 🇹🇷
-https://cdn002.varsportscdn1.lol/607/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 1 🇹🇷
 https://cdn.srectv1.xyz/live/ss1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 1 🇹🇷
@@ -6143,9 +6116,6 @@ https://cdn.srectv1.xyz/live/ss1/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=172
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 2 🇹🇷
 https://lives.anystreamrectv3.live/live/ssport2.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 2 🇹🇷
-https://cdn002.varsportscdn1.lol/608/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",S SPORT 2 🇹🇷
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
@@ -6167,9 +6137,6 @@ http://181.78.109.49:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SKYSPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SKYSPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
@@ -6222,6 +6189,9 @@ http://176.65.146.108:8022/play/a06f/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORTV6🇵🇹
 http://176.65.146.108:8022/play/a06g/index.m3u8
 
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sport TV 1 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sport TV 2 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782167.ts
 
@@ -6236,6 +6206,9 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sport TV 6 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sport TV 1 🇵🇹
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sport TV 2 🇵🇹
 http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
@@ -6253,25 +6226,16 @@ http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
 http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
-https://ca.yalla-shootj.com/memfs/55ad155f-a5a6-4980-9d98-c04cf3101c51.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
-https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 1 🇶🇦
 https://stream.sainaertebat.com/hls2/bein1.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 2 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 2 🇶🇦
-https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 4 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
@@ -6281,12 +6245,6 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bien sport 6 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Premier Sports 1 🇮🇪
-https://7pal.short.gy/prsport1
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Premier Sports 2 🇮🇪
-https://7pal.short.gy/prsport2
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Bein Sports 1 🇬🇧
 http://kstv.us/live/jgarcia31/224178522/12554.m3u8
@@ -6326,36 +6284,6 @@ http://84.22.41.184:8001/play/341/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SUPERSPORT 7 🇦🇱
 http://84.22.41.184:8001/play/342/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport3 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport4 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport5 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31606/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport6 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport7 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31608/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport8 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31609/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Sport9 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31610/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Premium1 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31599/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Premium1 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31600/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Arena Premium3 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ARENA PREMIUM LIGA 🇷🇸
 http://91.132.74.4:7374/play/a00k/index.m3u8
@@ -6401,15 +6329,6 @@ http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DIGI SPORT 1 🇷🇴
-http://45.90.106.98/digisport1/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DIGI SPORT 2 🇷🇴
-http://45.90.106.98/digisport2/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DIGI SPORT 3 🇷🇴
-http://45.90.106.98/digisport3/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
@@ -6463,9 +6382,6 @@ http://185.189.225.157/EuroSport2/index.m3u8
 https://is.gd/P9HFAg?LaligaInside.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",REAL MADRID TV 🇪🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",REAL MADRID TV 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEINSPORT EXTRA Ñ 🇪🇸
@@ -6474,23 +6390,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEINSPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DIRECTSPORT 🇦🇷
-http://38.183.183.249:8000/play/a0gl/index.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPNVIVO 🇦🇷
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN3 HD 🇦🇷
-http://190.60.32.178:8178/play/a015/index.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN7 🇦🇷
 http://190.60.32.178:8178/play/a02w/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN7 🇦🇷
-http://190.60.32.178:8178/play/a0ad/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",FoxSports 🇦🇷
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",FoxSports 2 🇦🇷
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
@@ -6525,26 +6429,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",FOX DEPORTES 🇲🇽
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 🇧🇷
-https://cdn-3.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TELEMUNDO🇲🇽
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 1 🇧🇷
-https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 2 🇧🇷
-https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 3 🇧🇷
-https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 4 🇧🇷
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 5 🇧🇷
-https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN 6 🇧🇷
-https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TELEMUNDO🇲🇽
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
@@ -6564,9 +6453,6 @@ http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",CBS SPORT 🇺🇸
-https://g.trydarius.shop/cbssn.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
@@ -6576,20 +6462,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",FOX DEPORTES USA 🇺🇸
 http://109.107.185.43:8181/channel/48f38d09/index.m3u8?q=1731480224244
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN2 🇺🇸
-https://b.trydarius.shop/espn2.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORT NETWORK 🇺🇸
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",HRT2🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",HRT 2 🇭🇷
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",NOVA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a009/index.m3u8
@@ -6607,9 +6481,6 @@ http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189
 http://146.59.85.40:89/novasport2/mono.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORT 1 🇨🇿
-http://78.130.250.2:8023/play/a02u/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORT 1 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORT 2 🇨🇿
@@ -6617,9 +6488,6 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d5
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ARENA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a02o/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Canal + Sport 🇨🇿
-http://78.130.250.2:8023/play/a02v/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",RTVS Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
@@ -6673,22 +6541,7 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 1 CANLI 🇹🇷
-https://cdn002.varsportscdn1.lol/601/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 1 CANLI 🇹🇷
 https://cdn.srectv1.xyz/live/bs11/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 2 CANLI 🇹🇷
-https://cdn002.varsportscdn1.lol/602/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 3 CANLI 🇹🇷
-https://cdn002.varsportscdn1.lol/603/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 4 CANLI 🇹🇷
-https://cdn002.varsportscdn1.lol/604/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 5 CANLI 🇹🇷
-https://cdn002.varsportscdn1.lol/605/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 1 🇹🇷
 https://100.zortstream.shop/601/index.m3u8
@@ -6705,23 +6558,11 @@ https://100.zortstream.shop/604/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",BEIN SPORT 5 🇹🇷
 https://100.zortstream.shop/605/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TRT SPORT 🇹🇷
-http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORTSTV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TV8,5🇹🇷
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORSMART 🇹🇷
-http://extraott-iptv.com:88/live/0229477349/8104258135/392043.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORSMART 🇹🇷
-https://cdn002.varsportscdn1.lol/609/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SPORSMART 2 🇹🇷
-https://cdn002.varsportscdn1.lol/610/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",HTSPOR 🇹🇷
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
@@ -6755,9 +6596,6 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",INFOSPORT 🇫🇷
 http://212.102.60.80/Infosport/index.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DAZN 🇩🇪
-https://s6.hopslan.com:443/servus2/tracks-v1a1/mono.m3u8?token=1b87cad22ca07d93a79863dfd2a6956023c7c37a-69f976a75a735d432fae46bb678241b4-1727998093-1727987293
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Scooore 🇩🇪
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
@@ -6801,9 +6639,6 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Football HD Tajikistan 🇹🇯
-https://live.teleradiocom.tj/8/3m.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",NOW SPORT 1 🇭🇰
 http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
 
@@ -6826,9 +6661,6 @@ https://stream.live12.ir/hls2/persianas.m3u8
 https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",AIO SPORT 🇶🇦
-http://cdn.footballii.ir:8080/hls2/bein1.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",AIO SPORT 🇶🇦
@@ -6846,26 +6678,14 @@ https://stream.live12.ir/hls2/stream03.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",AI TV3 sport 🇶🇦
 https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TELEWEBIONSPORT 2 🇶🇦
-http://cdn.footballii.ir:8080/hls2/stream02.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ADSPORT 🇶🇦
-http://109.61.18.156/stream/starzplay/adprem1/master.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SSC 1 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SSC 4 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ON Sport 🇸🇦
-http://cdn.footballii.ir:8080/hls2/stream03.m3u8
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Lenz Sport 🇸🇦
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",DUBAISPORTS 3 FHD 🇸🇦
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
@@ -6977,6 +6797,9 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea99
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Sony Ten 1 HD 🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",TRT SPORT 🇹🇷
+http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",ESPN PREMIUM 🇦🇷
 http://38.41.8.1:8000/play/a02z
@@ -7367,6 +7190,9 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=403
 
 #EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",LIVE 1  Only Event {snextlive}
 https://sportnext.online/hls/M1.m3u8
+
+#EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",LIVE 2  Only Event {snextlive}
+https://sportnext.online/hls/M2.m3u8
 
 #EXTINF:-1 group-title="WebLive Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU" tvg-name="",LIVE 3  Only Event {snextlive}
 https://sportnext.online/hls/M3.m3u8
@@ -9939,6 +9765,15 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" tvg-name="",Premier Sport 2 
 http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
 
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s" tvg-name="",Digi Sport 1 
+http://45.90.106.98/digisport1/index.m3u8
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s" tvg-name="",Digi Sport 2 
+http://45.90.106.98/digisport2/index.m3u8
+
+#EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s" tvg-name="",Digi Sport 3 
+http://45.90.106.98/digisport3/index.m3u8
+
 #EXTINF:-1 group-title="EuropeSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU" tvg-name="",Ziggo Sport Select
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76350
 
@@ -10578,9 +10413,6 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 #EXTINF:-1 group-title="SimpleSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU" tvg-name="",Sky Sports+
 https://p13.lol/centra_live_a_b/n907iOxHult0/1191809.ts
 
-#EXTINF:-1 group-title="SimpleSports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" tvg-name="",Sport TV 1
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
-
 #EXTINF:-1 group-title="SimpleSports" tvg-id="" tvg-logo="https://i.imgur.com/gaZdu8u.png" tvg-name="",Fox Sports 1
 https://p13.lol/centra_live_a_b/n907iOxHult0/1305735.ts
 
@@ -10722,6 +10554,15 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 2
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 5
+https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 6
+https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png" tvg-name="",Event Extra 7
+https://cdn9.tvplayhome.lt/live/eds2/VIP7/GO3_LIVE_DASH_AVC/VIP7.mpd
+
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" tvg-name="",Optus Sport 1  Vpn
 https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
@@ -10814,6 +10655,27 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://i.ibb.co.com/QnR3JYY/daznlaliga.png" tvg-name="",DAZN LaLiga
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 1
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 2
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 3
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 6
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+
+#EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg" tvg-name="",ESPN 7
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
 
 #EXTINF:-1 group-title="VariousSports" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" tvg-name="",Arena Sport Premier League
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
@@ -11468,6 +11330,177 @@ https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Pluto& Rakuten Tv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" tvg-name="",Rakuten Romance 
 undefined
+
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" tvg-name="CCTV 1",CCTV1
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=4cdfa29c03a5b8ca223720c490617490&ext_start_limit=1732032010&int_start_limit=1732032010&ts=1732032010&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="CGD" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" tvg-name="",CGTN记录
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=6339cfbbe57baa407815f22e1dfab365&ext_start_limit=1732032012&int_start_limit=1732032012&ts=1732032012&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="CGE" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" tvg-name="",CGTN英语
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=73836b31f34664e618210f715c9c55cd&ext_start_limit=1732032015&int_start_limit=1732032015&ts=1732032015&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-name="",凤凰卫视中文台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=c7183345c1cedfe7c539d00b2b187dda&ext_start_limit=1732032017&int_start_limit=1732032017&ts=1732032017&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-name="",凤凰卫视资讯台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=ad8ab8ea33a636efcdf753190b4e6372&ext_start_limit=1732032019&int_start_limit=1732032019&ts=1732032019&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-name="",凤凰卫视香港台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=2f2cd60edc5b51983f01ac3b7ab59e30&ext_start_limit=1732032020&int_start_limit=1732032020&ts=1732032020&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=513a021a308f5ffac017398462c02f09&ext_start_limit=1732032022&int_start_limit=1732032022&ts=1732032022&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=a4968ef0578c51e45d2bc150897ce183&ext_start_limit=1732032023&int_start_limit=1732032023&ts=1732032023&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="DTV" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" tvg-name="",东方卫视国际
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=d7435618b829afefa604ef85abd6c55b&ext_start_limit=1732032025&int_start_limit=1732032025&ts=1732032025&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" tvg-name="",TVBplus
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=b2f73d09b3cdfa89016aeafd9220fe08&ext_start_limit=1732032026&int_start_limit=1732032026&ts=1732032026&c=241564436
+
+#EXTINF:-1 group-title="综合" tvg-id="CARI" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" tvg-name="",ArirangTV
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=8f75df68267fb8b3f2b38380247b0966&ext_start_limit=1732032028&int_start_limit=1732032028&ts=1732032028&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="",无线新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=03303cc74f49ac4112e0106777b711dc&ext_start_limit=1732032029&int_start_limit=1732032029&ts=1732032029&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" tvg-name="",娱乐新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=37369e12f2b83b88225f54c6dfa8a174&ext_start_limit=1732032031&int_start_limit=1732032031&ts=1732032031&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",明珠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=ca721b60e0c98033a0cc0788a6636923&ext_start_limit=1732032032&int_start_limit=1732032032&ts=1732032032&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CTSN" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" tvg-name="",无线卫星新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=90fc041116017112a3f9f400e68478ce&ext_start_limit=1732032034&int_start_limit=1732032034&ts=1732032034&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CTS1" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" tvg-name="",无线卫星亚洲台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=e3f1e53a3fba2fbea210162decb1771c&ext_start_limit=1732032035&int_start_limit=1732032035&ts=1732032035&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CCNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" tvg-name="",亚洲新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=1a0b9008a6792e00490b86b6552feb99&ext_start_limit=1732032037&int_start_limit=1732032037&ts=1732032037&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CMN1" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" tvg-name="",神州新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMN1_hevc/__op/cenc_m/__f/index.mpd?sig=1d5ff319ebeb18120f5e4874a01f2cfe&ext_start_limit=1732032038&int_start_limit=1732032038&ts=1732032038&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CJAZ" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" tvg-name="",半岛电视台英语
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=7109219976f1c109446491bfc79a55d5&ext_start_limit=1732032040&int_start_limit=1732032040&ts=1732032040&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CF24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" tvg-name="",France24
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=451067a0264fd3400e6fcd072ed01ccd&ext_start_limit=1732032041&int_start_limit=1732032041&ts=1732032041&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CDW1" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" tvg-name="",DW
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=7c1b41b938ca195dff42ec4df6ba7b48&ext_start_limit=1732032043&int_start_limit=1732032043&ts=1732032043&c=241564436
+
+#EXTINF:-1 group-title="新闻财经" tvg-id="CNHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" tvg-name="",NHKWorldJapan
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=45b718c4466e9a43f37cd0e198ed66a8&ext_start_limit=1732032044&int_start_limit=1732032044&ts=1732032044&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="POPC" tvg-logo="https://assets.livednow.com/logo/PopC.png" tvg-name="",POPC电影
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=22275e262f908b049da60ec1a224d6c8&ext_start_limit=1732032046&int_start_limit=1732032046&ts=1732032046&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CCCM" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" tvg-name="",天映经典
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=97cd383bcdd19e806650bd8871e87734&ext_start_limit=1732032048&int_start_limit=1732032048&ts=1732032048&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CWIN" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",SuperFree
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=c92cecf2ffe120363ef4c4a5494ae534&ext_start_limit=1732032050&int_start_limit=1732032050&ts=1732032050&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="C18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" tvg-name="",Super18台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=6bd7496e65e8b5563cfaf5ba34510d3e&ext_start_limit=1732032052&int_start_limit=1732032052&ts=1732032052&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" tvg-name="",黄金翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=0715f3d29d13e86ecbb51876c4573d63&ext_start_limit=1732032053&int_start_limit=1732032053&ts=1732032053&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CMC" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" tvg-name="",中国电影
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=4430d09c47a7d9ae53b0dea39e0016c8&ext_start_limit=1732032055&int_start_limit=1732032055&ts=1732032055&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CTVC" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" tvg-name="",千禧经典台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=7a7abb940210bfb42047ad7aa900eaa3&ext_start_limit=1732032056&int_start_limit=1732032056&ts=1732032056&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CDR3" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" tvg-name="",华语剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=01ebee924a4a04c4c848eb126ad4a6ec&ext_start_limit=1732032058&int_start_limit=1732032058&ts=1732032058&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CCLM" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" tvg-name="",粤语片台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=3ee791de87e2848e76aedc93c890f271&ext_start_limit=1732032059&int_start_limit=1732032059&ts=1732032059&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CTVS" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" tvg-name="",亚洲剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=1b0895e6009b0a7622b1eadfd5d205ae&ext_start_limit=1732032061&int_start_limit=1732032061&ts=1732032061&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="TVO" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" tvg-name="",黄金华剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=8e499b7810842e13427409f57858b084&ext_start_limit=1732032063&int_start_limit=1732032063&ts=1732032063&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CMAM" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" tvg-name="",美亚电影台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=8365147b69656eeee6bac83a1188851e&ext_start_limit=1732032064&int_start_limit=1732032064&ts=1732032064&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CCOC" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" tvg-name="",戏曲台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=f53fe5533825ebf23461b20feb69f2e1&ext_start_limit=1732032066&int_start_limit=1732032066&ts=1732032066&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CTHR" tvg-logo="https://assets.livednow.com/logo/Thrill.png" tvg-name="",Thrill
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=cab526a3e01c66aa54c93a936c9717ac&ext_start_limit=1732032067&int_start_limit=1732032067&ts=1732032067&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CRTX" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" tvg-name="",ROCKAction
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=209ebd12e1fec2487516c38a0cb6d8ec&ext_start_limit=1732032069&int_start_limit=1732032069&ts=1732032069&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CKIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" tvg-name="",KIX
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=ccf25570276d1ce8d12143bef284a532&ext_start_limit=1732032070&int_start_limit=1732032070&ts=1732032070&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CRTE" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" tvg-name="",ROCK综艺娱乐
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=8e2ba967f42505192b5b484ea6a49a70&ext_start_limit=1732032072&int_start_limit=1732032072&ts=1732032072&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CANI" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" tvg-name="",Animax
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=461fc242fb37c7ed003ea0733268245b&ext_start_limit=1732032073&int_start_limit=1732032073&ts=1732032073&c=241564436
+
+#EXTINF:-1 group-title="戏剧电影" tvg-id="CJTV" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" tvg-name="",tvN
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=658b4ec892216288fb9cd78369068cc8&ext_start_limit=1732032075&int_start_limit=1732032075&ts=1732032075&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="CRE" tvg-logo="https://assets.livednow.com/logo/創世電視.png" tvg-name="",创世电视
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=ac50953f066584fccf09579812c43373&ext_start_limit=1732032076&int_start_limit=1732032076&ts=1732032076&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="KID" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" tvg-name="",SUPERKids Channel
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=6d7363a24c2db61fce96c2e439cdfaff&ext_start_limit=1732032078&int_start_limit=1732032078&ts=1732032078&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="ZOO" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" tvg-name="",ZooMoo
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=444487571904b63c8214815bcebcd543&ext_start_limit=1732032079&int_start_limit=1732032079&ts=1732032079&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="CNIKO" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" tvg-name="",Nickelodeon
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=7f3136ee6a96f034a1536c032fa9b47a&ext_start_limit=1732032081&int_start_limit=1732032081&ts=1732032081&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="CNIJR" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" tvg-name="",NickJr.
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=a6492fcb2851911b29cc510e1248c7be&ext_start_limit=1732032082&int_start_limit=1732032082&ts=1732032082&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="LNH" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" tvg-name="",LoveNature HD
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=8b65f3c5d82ad8036a6ad21034e34f5c&ext_start_limit=1732032084&int_start_limit=1732032084&ts=1732032084&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="LN4" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" tvg-name="",LoveNature 4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=4c6794dd58d4235689532a2eb7b211e2&ext_start_limit=1732032085&int_start_limit=1732032085&ts=1732032085&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="SMS" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" tvg-name="",GlobalTrekker
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=6223447805b24f801e5a6a65e8b21a9d&ext_start_limit=1732032087&int_start_limit=1732032087&ts=1732032087&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="CAXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" tvg-name="",AXN
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=5fb7434b82ee8fc4c067c3679a6492e2&ext_start_limit=1732032088&int_start_limit=1732032088&ts=1732032088&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="FBX" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" tvg-name="",FashionBox
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=7e42bd420947f899054284c700d21294&ext_start_limit=1732032090&int_start_limit=1732032090&ts=1732032090&c=241564436
+
+#EXTINF:-1 group-title="其他" tvg-id="CMEZ" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" tvg-name="",MezzoLive HD
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=fa8fbec61d3933957b45cfc4656a9c64&ext_start_limit=1732032092&int_start_limit=1732032092&ts=1732032092&c=241564436
+
+#EXTINF:-1 group-title="体育" tvg-id="C28" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" tvg-name="",28AI 智慧賽馬
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=63afd3387d657f6a37b49b51a0fdc913&ext_start_limit=1732032093&int_start_limit=1732032093&ts=1732032093&c=241564436
+
+#EXTINF:-1 group-title="体育" tvg-id="EVT3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播3
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=cf8139cfbf8e46b0c28e763a313a9299&ext_start_limit=1732032095&int_start_limit=1732032095&ts=1732032095&c=241564436
+
+#EXTINF:-1 group-title="体育" tvg-id="EVT4" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播4
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=17e0adf2e3f43f50e1e06dce68e689de&ext_start_limit=1732032096&int_start_limit=1732032096&ts=1732032096&c=241564436
+
+#EXTINF:-1 group-title="体育" tvg-id="EVT5" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播5
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=f9128627c9c239aa3cc0a956ae9b5ab5&ext_start_limit=1732032098&int_start_limit=1732032098&ts=1732032098&c=241564436
+
+#EXTINF:-1 group-title="体育" tvg-id="EVT6" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播6
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=9b6de6db7f3750698134f7df475e68dd&ext_start_limit=1732032099&int_start_limit=1732032099&ts=1732032099&c=241564436
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" tvg-name="CCTV 16",CCTV16
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
