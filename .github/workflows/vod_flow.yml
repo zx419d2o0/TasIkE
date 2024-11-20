@@ -62,7 +62,7 @@ jobs:
             if [[ "$flag" == "true" ]]; then
               curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "https://www.xn--sss604efuw.com/jm/jiemi.php?url=$url"
             else
-              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url"
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url" || touch "tv/vod/$i.json"
             fi
             echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
