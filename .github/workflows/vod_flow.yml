@@ -30,7 +30,7 @@ jobs:
           mkdir -p tv/vod/js
           mkdir -p tv/vod/lib
           mkdir -p tv/vod/jar
-          echo "||https://github.moeyy.xyz/raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/js.json|" > tv/vod/README.md
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/js.json|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           # mv gao/jar/pg.jar tv/vod/jar
@@ -47,7 +47,7 @@ jobs:
             "http://www.饭太硬.com/tv/,true"
             "https://3450.kstore.space/DEMO.json,false"
             "http://ok321.top/ok,true"
-            "http://肥猫.live,true"
+            "http://肥猫.com,true"
             "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
           )
           # curl -o json/dancang.json ${arr[0]}
