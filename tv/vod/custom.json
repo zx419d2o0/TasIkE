@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/pg.jar",
+    "spider": "./pg.jar",
     "sites": [
         {
             "key": "Youtube",
@@ -20,7 +20,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.77
-            }
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt"
         },
         {
             "key": "网盘配置",
@@ -33,7 +34,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.5
-            }
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt"
         }
     ]
 }
