@@ -29,7 +29,8 @@ jobs:
           # rm -rf tv/vod/lib
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/PG.git
-          unzip PG/pg*.zip
+          unzip PG/pg*.zip -d tv/vod/
+          pwd
           ls -la
           echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
