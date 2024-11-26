@@ -5,8 +5,8 @@ name: tv/vod
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  # push:
-  #   branches: [ "main" ]
+  push:
+    branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -25,37 +25,26 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          # rm -rf tv/vod/js
-          # rm -rf tv/vod/lib
-          mkdir -p tv/vod/js
-          mkdir -p tv/vod/lib
+          rm -rf tv/vod/js
+          rm -rf tv/vod/lib
+          # mkdir -p tv/vod/js
+          # mkdir -p tv/vod/lib
           mkdir -p tv/vod/jar
-          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/js.json|" > tv/vod/README.md
+          git clone https://github.com/fish2018/PG.git
+          unzip
+          ls -la
+          echo "||https://github.moeyy.xyz/|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
-          # mv gao/jar/pg.jar tv/vod/jar
-          mv gao/jar/XBPQ.jar tv/vod/jar
-          mv gao/jar/fan.txt tv/vod/jar
-          # md5sum tv/vod/jar/pg.jar | cut -d ' ' -f 1 > tv/vod/jar/pg.jar.md5
+          mv gao/jar/* tv/vod/jar/
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
-          mv gao/0825.json tv/vod/js.json
-          # sed -i 's#"spider":"./jar/pg.jar.*"#"spider":"./pg.jar;"#' tv/vod/js.json
-          # sed -i '/^{.*\.\/json\/.*},/d' tv/vod/js.json
-          mv gao/js/* tv/vod/js/
-          mv gao/lib/* tv/vod/lib/
           arr=(
             "http://www.饭太硬.com/tv/,true"
             "https://3450.kstore.space/DEMO.json,false"
             "http://ok321.top/ok,true"
             "http://肥猫.com,true"
-            "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json,false"
+            "http://www.fish2018.us.kg/p/jsm.json,false"
           )
-          # curl -o json/dancang.json ${arr[0]}
-          # echo "current   ${arr[0]}">json/$clock.log
-          # for(( i=1;i<${#arr[@]};i++)) do
-          #   echo "$i   ${arr[i]}">>json/README.md
-          #   curl -o json/${i}.json ${arr[i]}
-          # done
           for i in "${!arr[@]}"; do
             IFS=',' read -r url flag <<< "${arr[i]}"
             
@@ -66,6 +55,7 @@ jobs:
             fi
             echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
+          rm -rf PG
           rm -rf gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
