@@ -31,9 +31,10 @@ jobs:
           # mkdir -p tv/vod/lib
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/PG.git
-          unzip
-          ls -la
-          echo "||https://github.moeyy.xyz/|" > tv/vod/README.md
+          unzip PG/pg*.zip -d PG/ 
+          ls
+          ls -la PG
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/* tv/vod/jar/
@@ -57,7 +58,7 @@ jobs:
           done
           rm -rf PG
           rm -rf gao
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message:  ${{ steps.step2.outputs.clock }} updated
-          push_options: '--force'
+      # - uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message:  ${{ steps.step2.outputs.clock }} updated
+      #     push_options: '--force'
