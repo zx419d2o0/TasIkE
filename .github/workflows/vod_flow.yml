@@ -5,8 +5,8 @@ name: tv/vod
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
+  # push:
+    # branches: [ "main" ]
   schedule:
     - cron: '0 23 * * *'
 
@@ -52,8 +52,7 @@ jobs:
             fi
             echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
           done
-          rm -rf PG
-          rm -rf gao
+          rm -rf PG gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
