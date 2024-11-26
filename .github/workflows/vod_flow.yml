@@ -25,15 +25,11 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          rm -rf tv/vod/js
-          rm -rf tv/vod/lib
-          # mkdir -p tv/vod/js
-          # mkdir -p tv/vod/lib
+          # rm -rf tv/vod/js
+          # rm -rf tv/vod/lib
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/PG.git
-          unzip PG/pg*.zip -d PG/ 
-          ls
-          ls -la PG
+          unzip PG/pg*.zip
           echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/vod/README.md
           echo "|---|---|" >> tv/vod/README.md
           git clone https://github.com/gaotianliuyun/gao.git
