@@ -1,11 +1,11 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
-  "wallpaper": "http://www.mucpan.cc/%E5%B0%8F%E7%B1%B3/mpansou.php",
+  "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌈豆瓣┃防失联：QQ群：665981772 接口容易被屏蔽 加群防止失联 ",
+      "name": "🌈豆瓣┃如有侵权 反馈：QQ群：665981772",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -149,7 +149,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "caHR0cDovLzE1NC4yMjEuMTcuMTI3OjgxODh8YWU3MTU4ODgyN2EzODAzNnxhZTcxNTg4ODI3YTM4MDM2",
+      "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
@@ -196,6 +196,14 @@
       "ext": ""
     },
     {
+      "key": "csp_SuBaiBai",
+      "name": "☁️白白┃1080P",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "playerType": 2,
+      "ext": "https://subaibai.com/"
+    },
+    {
       "key": "csp_Tvyb",
       "name": "☁️云播┃1080P",
       "type": 3,
@@ -222,31 +230,6 @@
       "ext": "https://fantuan.vip/"
     },
     {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "🌞果果┃解析",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
-    {
       "key": "csp_Dm84",
       "name": "🎨动漫┃1080P",
       "type": 3,
@@ -260,7 +243,6 @@
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
-    
     {
       "key": "荐片",
       "name": "🍭荐片┃磁力",
@@ -293,7 +275,7 @@
     },
     {
       "key": "push_agent",
-      "name": "杜绝未成年测试本项目｜请于24小时内删除测试内容｜官网mpanso.com",
+      "name": "接口完全免费公益性质 纯互联网搜集 杜绝未成年测试本项目｜请于24小时内删除本测试内容",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -429,7 +411,7 @@
     }
   ],
   "lives": [
-     {
+    {
       "name": "IPV4若卡顿切IPV6",
       "type": 0,
       "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
