@@ -26,8 +26,9 @@
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
-					"https://wogg.xxooo.cf",
-					"http://www.wogg.bf",
+					"https://woggpan.333232.xyz/",
+					"https://wogg.xxooo.cf/",
+					"https://woggapi.888484.xyz/",
 					"https://www.wogg.net"
 				],
 				"threadinfo": {
@@ -46,6 +47,8 @@
 			"ext": {
 				"site_urls": [
 					"https://mihdr.top",
+					"http://www.xhww.net",
+					"http://xhww.net",
 					"https://xiaomiai.site"
 				],
 				"url_key": "Duopan",
@@ -108,6 +111,44 @@
 			"order_num": 0,
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
+		},
+		{
+			"key": "csp_JPYY",
+			"name": "🥇文采┃1080P",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"api": "csp_Jpyy",
+			"playerType": 2,
+			"filterable": 1,
+			"ext": ""
+		},
+		{
+			"key": "csp_XSX",
+			"name": "👀视讯┃1080P",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "csp_Xsx",
+			"playerType": 2,
+			"filterable": 1,
+			"ext": ""
+		},
+		{
+			"key": "csp_SuBaiBai",
+			"name": "☁️白白┃1080P",
+			"type": 3,
+			"api": "csp_SuBaiBai",
+			"playerType": 2,
+			"ext": "https://subaibai.com/"
+		},
+		{
+			"key": "huohuo",
+			"name": "💥火火┃1080P",
+			"type": 3,
+			"changeable": 0,
+			"api": "csp_SaoHuo"
 		},
 		{
 			"key": "瓜子",
@@ -179,28 +220,30 @@
 			"filterable": 1,
 			"ext": ""
 		},
+
 		{
-			"key": "csp_JPYY",
-			"name": "🥇文采┃1080P",
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "🌞腾腾┃解析",
 			"type": 3,
+			"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
 			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_Jpyy",
-			"playerType": 2,
+			"quickSearch": 1,
 			"filterable": 1,
-			"ext": ""
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
 		},
 		{
-			"key": "csp_XSX",
-			"name": "👀视讯┃1080P",
+			"key": "guoguo",
+			"name": "🌞果果┃解析",
 			"type": 3,
+			"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
 			"searchable": 1,
-			"changeable": 1,
 			"quickSearch": 1,
-			"api": "csp_Xsx",
-			"playerType": 2,
 			"filterable": 1,
-			"ext": ""
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
 		},
 		{
 			"key": "csp_视觉",
@@ -213,14 +256,7 @@
 			"playerType": 2,
 			"filterable": 1
 		},
-		{
-			"key": "csp_SuBaiBai",
-			"name": "☁️白白┃1080P",
-			"type": 3,
-			"api": "csp_SuBaiBai",
-			"playerType": 2,
-			"ext": "https://subaibai.com/"
-		},
+
 		{
 			"key": "csp_Czsapp",
 			"name": "🏭厂长┃1080P",
@@ -242,20 +278,7 @@
 			"ext": "https://fantuan.vip/"
 		},
 
-		{
-			"key": "csp_Dm84",
-			"name": "🎨动漫┃1080P",
-			"type": 3,
-			"api": "csp_Dm84",
-			"playerType": 2
-		},
-		{
-			"key": "huohuo",
-			"name": "💥火火┃1080P",
-			"type": 3,
-			"changeable": 0,
-			"api": "csp_SaoHuo"
-		},
+
 
 		{
 			"key": "荐片",
@@ -307,9 +330,9 @@
 			"url": "Web"
 		},
 		{
-			"name": "4K解析",
+			"name": "解析1",
 			"type": 1,
-			"url": "https://jx.xiaofengtv.com/jx.php?url=",
+			"url": "https://www.mpanso.com/muou/qilin.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -338,36 +361,7 @@
 		{
 			"name": "反弹",
 			"type": 1,
-			"url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "1080解析1",
-			"type": 1,
-			"url": "https://zy.qiaoji8.com/neibu.php?url=",
+			"url": "",
 			"ext": {
 				"flag": [
 					"qq",
@@ -396,7 +390,7 @@
 		{
 			"name": "1080解析",
 			"type": 1,
-			"url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+			"url": "",
 			"ext": {
 				"flag": [
 					"qq",
