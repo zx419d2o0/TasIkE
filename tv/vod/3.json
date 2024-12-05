@@ -1,23 +1,23 @@
 
-//      >>> 当前时间是：2024-12-05 07:13:52 <<<
+//      >>> 当前时间是：2024-12-06 07:14:28 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://肥猫.com
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228",
+"spider":"https://img2.gelonghui.com/library/f6908-5fd61601-427f-486f-b4c1-0a89cfbb9abd.txt;md5;f69087df20933692fccd2dd795095f5b",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php","logo":"http://ceshi.xn--z7x900a.com/panda/0262.png",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
-{"key":"csp_FeiMaoUC","name":"🐼┃肥猫┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://feimaouc.cloud:666","http://feimao.tech:666"],"url_key":"FeiMaoUC"}},
-{"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan"}},
+{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://feimaouc.cloud:666","http://feimao.tech:666"],"url_key":"FeiMaoUC"}},
+{"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan2"}},
 {"key":"csp_SuBaiBai","name":"🏳️┃素白┃影视","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
 {"key":"csp_AppRZ","name":"🕵️┃忍者┃影视","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
-{"key":"csp_XMUC","name":"🍚┃小米┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc"],"url_key":"Netfixtv"}},
-{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
+{"key":"csp_XMUC","name":"🍚┃小米┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key":"XMUC"}},
+{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv2","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
 {"key":"csp_Nkdy","name":"🏔️┃耐看┃影视","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke","name":"🛳️┃看客┃影视","type":3,"api":"csp_Kanke"},
 {"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
