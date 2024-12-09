@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2024-12-09 07:12:45 <<<
+//      >>> 当前时间是：2024-12-10 07:13:48 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733637592313/okpng.txt;md5;1a09850787d0732738b06bd00f000f2a",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733727446591/okpng.txt;md5;29653c8f5e4914df04db019347833c6a",
 "wallpaper":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
@@ -125,6 +125,8 @@
 {"name":"MyTV","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/MyTV","playerType":2,"timeout":10},
 {"name":"范明明","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"肥羊国内直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/tv.m3u","ua":"okhttp/3.15"},
+{"name":"肥羊咪咕电视直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/migu.m3u","ua":"okhttp/3.15"},
+{"name":"肥羊咪咕赛事直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/miguevent.m3u","ua":"okhttp/3.15"},
 {"name":"肥羊TPTV","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/tptv.m3u","ua":"okhttp/3.15"},
 {"name":"肥羊虎牙一起看","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http%3A%2F%2F127.0.0.1%3A35345%2Fhuyayqk.m3u%3Furl%3Dhttp%253A%252F%252F127.0.0.1%253A35345","ua":"okhttp/3.15"},
 {"name":"肥羊B站直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http%3A%2F%2F127.0.0.1%3A35345%2Fbililive.m3u%3Furl%3Dhttp%253A%252F%252F127.0.0.1%253A35345","ua":"okhttp/3.15"},
