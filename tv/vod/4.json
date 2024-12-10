@@ -13,7 +13,7 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202412092250",
+            "name": "202412102304",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -1227,12 +1227,15 @@
             "changeable": 0
         },
         {
-            "key": "Iktv",
-            "name": "KTV",
+            "key": "hipy_js_KTV歌厅[听]1",
+            "name": "🎤KTV歌厅在线",
             "type": 3,
-            "api": "csp_Iktv",
+            "api": "http://kxrj.site:55/lib/drpy2.min.js",
             "searchable": 1,
-            "changeable": 0
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
         },
         {
             "key": "Yinyuetai",

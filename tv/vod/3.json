@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2024-12-10 07:13:50 <<<
+//      >>> 当前时间是：2024-12-11 07:13:35 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://肥猫.com
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733665439692/FeiMao1208.txt;md5;863482d781ed88514ec5d9ace8fde91a",
+"spider":"https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php","logo":"http://ceshi.xn--z7x900a.com/panda/0262.png",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
@@ -12,6 +12,8 @@
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://feimaouc.cloud:666","http://feimao.tech:666"],"url_key":"FeiMaoUC"}},
 {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan2"}},
+{"key":"csp_Bili","name":"🅱┃️哔哩┃合集","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"http://uz.xn--z7x900a.com/bili.json","cookie":""},
+"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_SuBaiBai","name":"🏳️┃素白┃影视","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
@@ -52,7 +54,6 @@
 "ext":"https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"},
 {"key":"米搜","name":"🌖┃米搜┃网盘","type":3,"api":"csp_MiSou","ext":"http://127.0.0.1:9978/file/fatcat/kk.txt"},
 {"key":"csp_PanSearch","name":"🚃┃盘搜┃网盘","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"drpy_哔哩","name":"🅱┃哔哩┃合集","type":3,"api":"csp_Bili","playerType":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
 {"key":"儿童","name":"📚┃儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},
 "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"},
 {"key":"少儿","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},
