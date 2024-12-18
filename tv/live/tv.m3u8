@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",免费订阅：请勿贩卖...
 https://epg.iill.top/v/302.mp4
 
-#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202412-15#佛系维护...
+#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：202412-18#佛系维护...
 https://epg.iill.top/v/301.mp4
 
 #EXTINF:-1 group-title="4K" tvg-id="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="LOVENATURE4K",LoveNature 4K
@@ -438,107 +438,92 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 #EXTINF:-1 group-title="地区" tvg-id="海南自贸" tvg-logo="https://epg.iill.top/logo/海南自贸.png" tvg-name="海南自贸",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:15 雄鹿vs雷霆 杨健 李根 孙悦
-https://tv.iill.top/NBA/x7pErz
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」03:45 联赛 摩纳哥 vs 巴黎圣日耳曼 鹿中原 王宇
+https://tv.iill.top/FB/ikOeDx
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:30 雄鹿vs雷霆 特别节目
-https://tv.iill.top/NBA/S1zcw2
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」03:45 联赛 摩纳哥 vs 巴黎圣日耳曼 鹿中原 王宇
+https://tv.iill.top/FB/uG8gsH
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:25 雄鹿vs雷霆 莫俊祺
-https://tv.iill.top/NBA/HKxJpN
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」04:20 联赛 比利亚雷亚尔 vs 巴列卡诺 梁祥宇
+https://tv.iill.top/FB/h1mSWU
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:25 雄鹿vs雷霆 洪荒
-https://tv.iill.top/NBA/voF5Rs
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」04:20 联赛 西班牙人 vs 瓦伦西亚 周楚雄
+https://tv.iill.top/FB/e4YZcm
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:25 雄鹿vs雷霆 英文原声
-https://tv.iill.top/NBA/Vieq91
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「意大利杯」01:20 意大利杯 亚特兰大vs切塞纳 涂远
+https://tv.iill.top/Migu/7TbQAY
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「意大利杯」03:50 意大利杯 尤文图斯vs卡利亚里 吴桐
-https://tv.iill.top/Migu/PQxbhl
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「意大利杯」03:50 意大利杯 罗马vs桑普多利亚 张昊泽
+https://tv.iill.top/Migu/IkWWGB
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:20 常规赛A组 浙江稠州银行 VS 上海浦发银行 解说
-https://tv.iill.top/Migu/2VYTBx
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」09:20 足协杯资格赛 上海橘橙vs广州蜀地红 解说
+https://tv.iill.top/Migu/iO98Zg
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:25 常规赛B组 天津冠岚 VS 黑龙江上东 清流播出
-https://tv.iill.top/Migu/Sgzoaw
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」09:20 足协杯资格赛 朔州体校翔宇vs陕西西北青年人 解说
+https://tv.iill.top/Migu/N2NsoE
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:25 常规赛B组 河南豫光金铅 VS 厦门环东文旅 清流播出
-https://tv.iill.top/Migu/CnmQp5
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」09:20 足协杯资格赛 厦门集美诚毅vs青岛崂山港帆 解说
+https://tv.iill.top/Migu/JvfGTl
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:25 常规赛B组 江西赣星 VS 武汉盛帆黄鹤 清流播出
-https://tv.iill.top/Migu/ygDPpX
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」12:50 足协杯资格赛 广西布山vs泉州青工 解说
+https://tv.iill.top/Migu/kE4n6G
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 北京北汽vs江苏肯帝亚 邵化谦 季孟年
-https://tv.iill.top/Migu/fcL503
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」12:50 足协杯资格赛 重庆瀚达vs上海泽天 解说
+https://tv.iill.top/Migu/939QCv
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 北京主队
-https://tv.iill.top/Migu/KaxiOx
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」12:50 足协杯资格赛 上海三菱重工vs武汉联镇 解说
+https://tv.iill.top/Migu/1vspyc
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 江苏主队
-https://tv.iill.top/Migu/NhYkgt
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」15:20 足协杯资格赛 重庆春蕾vs青岛五月的风 解说
+https://tv.iill.top/Migu/xYH4lc
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 清流播出1
-https://tv.iill.top/Migu/3jbcUl
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」15:20 足协杯资格赛 深圳兴隽vs广西联合 解说
+https://tv.iill.top/Migu/VrOdDG
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 南京头排苏酒vs广东东阳光 李天宇 郭维盛 王羽希
-https://tv.iill.top/Migu/dLzWkn
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」15:20 足协杯资格赛 深圳吉祥vs宁夏平罗恒利 解说
+https://tv.iill.top/Migu/1CENax
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 王港
-https://tv.iill.top/Migu/VliJs9
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「足协杯」15:20 足协杯资格赛 海南双玉vs宁波镇海优康 解说
+https://tv.iill.top/Migu/0hVvAl
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 广东主队
-https://tv.iill.top/Migu/EWOTj6
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:25 常规赛A组 福建晋江众腾 VS 北京首钢园 清流播出
+https://tv.iill.top/Migu/yMq2qi
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 清流播出5
-https://tv.iill.top/Migu/Wb0k0O
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:20 常规赛A组 东莞新彤盛 VS 江苏南钢 解说
+https://tv.iill.top/Migu/2yTUzn
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 九台农商银行vs辽宁本钢 解说
-https://tv.iill.top/Migu/TSSC9s
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:25 常规赛B组 合肥文旅 VS 陕西天泽 清流播出
+https://tv.iill.top/Migu/SZPbze
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 房峰浩
-https://tv.iill.top/Migu/JRw2Qw
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 广州朗肽海本vs浙江方兴渡 孙博 苏群 闫宇峰
+https://tv.iill.top/Migu/QFbetu
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 辽宁主队
-https://tv.iill.top/Migu/GKW4JD
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 广州主队
+https://tv.iill.top/Migu/IiwmGN
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 清流播出2
-https://tv.iill.top/Migu/kVRxOO
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 广厦主队
+https://tv.iill.top/Migu/Xn4zRh
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 吕程 丁伟
-https://tv.iill.top/Migu/6TqmGC
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 广州朗肽海本vs浙江方兴渡 AVS3
+https://tv.iill.top/Migu/X23Cci
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 山西主队
-https://tv.iill.top/Migu/qapxG5
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 清流播出1
+https://tv.iill.top/Migu/VAgYH1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 山东主队
-https://tv.iill.top/Migu/UFmoTj
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 青岛国信制药vs福建晋江文旅 解说
+https://tv.iill.top/Migu/TERmoN
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 清流播出3
-https://tv.iill.top/Migu/uHDkUd
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 青岛主队
+https://tv.iill.top/Migu/1s6M8B
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:00 常规赛第19轮 深圳马可波罗vs上海久事 王冠证
-https://tv.iill.top/Migu/DJf5y5
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 福建主队
+https://tv.iill.top/Migu/OnBcO5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 深圳主队
-https://tv.iill.top/Migu/KBkcQS
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 清流播出2
+https://tv.iill.top/Migu/cvCsxC
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 上海主队
-https://tv.iill.top/Migu/QKSx47
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 清流播出4
-https://tv.iill.top/Migu/jHRJeN
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:30 常规赛第19轮 新疆伊力特vs天津先行者 寇逸豪
-https://tv.iill.top/Migu/y3BQzj
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 新疆主队
-https://tv.iill.top/Migu/y0g5Oy
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 天津主队
-https://tv.iill.top/Migu/pn09FB
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 清流播出6
-https://tv.iill.top/Migu/Lz84gY
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:50 常规赛A组 新疆天山 VS 石家庄英励 解说
+https://tv.iill.top/Migu/tQ66EI
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://tv.iill.top/migu/cctv1
@@ -771,14 +756,8 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 group-title="國際" tvg-id="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" tvg-name="ASTROAECHD",Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
-#EXTINF:-1 group-title="國際" tvg-id="ASTROAOD311" tvg-logo="https://epg.iill.top/logo/AOD.png" tvg-name="ASTROAOD311",Astro AOD
-http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
-
 #EXTINF:-1 group-title="國際" tvg-id="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" tvg-name="IQIYIHD",Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-
-#EXTINF:-1 group-title="國際" tvg-id="ASTROQJ" tvg-logo="https://epg.iill.top/logo/全佳.png" tvg-name="ASTROQJ",Astro QJ
-http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 
 #EXTINF:-1 group-title="國際" tvg-id="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" tvg-name="星河台",Astro Xing He
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
@@ -861,11 +840,20 @@ https://tv.iill.top/IPTV/fhzw
 #EXTINF:-1 group-title="國際" tvg-id="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" tvg-name="凤凰资讯",鳳凰衛視·資訊
 https://tv.iill.top/IPTV/fhzx
 
+#EXTINF:-1 group-title="國際" tvg-id="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" tvg-name="无线新闻台",無綫新聞台
+https://tv.iill.top/IPTV/wx
+
 #EXTINF:-1 group-title="國際" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
 https://tv.iill.top/IPTV/fc
 
-#EXTINF:-1 group-title="國際" tvg-id="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" tvg-name="无线新闻台",無綫新聞台
-https://tv.iill.top/IPTV/wx
+#EXTINF:-1 group-title="國際" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" tvg-name="翡翠台",明珠台
+https://tv.iill.top/nsw/pearl
+
+#EXTINF:-1 group-title="國際" tvg-id="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" tvg-name="VIUTV",ViuTV
+https://tv.iill.top/nsw/viutv
+
+#EXTINF:-1 group-title="國際" tvg-id="VIUTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" tvg-name="VIUTV6",ViuTVsix
+https://tv.iill.top/nsw/viusix
 
 #EXTINF:-1 group-title="國際" tvg-id="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" tvg-name="美亚电影台",美亞電影台
 https://tv.iill.top/IPTV/my
@@ -899,6 +887,9 @@ https://tv.iill.top/IPTV/jade
 
 #EXTINF:-1 group-title="國際" tvg-id="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" tvg-name="ASTROAECHD",Astro AEC
 https://tv.iill.top/IPTV/aec
+
+#EXTINF:-1 group-title="國際" tvg-id="ASTROQJ" tvg-logo="https://epg.iill.top/logo/全佳.png" tvg-name="ASTROQJ",Astro QJ
+https://tv.iill.top/nsw/qj
 
 #EXTINF:-1 group-title="國際" tvg-id="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" tvg-name="IQIYIHD",iQIYI
 https://tv.iill.top/IPTV/iqy
@@ -948,9 +939,6 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 #EXTINF:-1 group-title="港澳" tvg-id="功夫台" tvg-logo="https://epg.iill.top/logo/功夫台.png" tvg-name="功夫台",TVB功夫台
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
-#EXTINF:-1 group-title="港澳" tvg-id="生活台" tvg-logo="https://epg.iill.top/logo/生活台.png" tvg-name="生活台",TVB生活台
-https://lb-mvtv-live.v2h-cdn.com/redirect/finance2/finance2.stream?type=m3u8
-
 #EXTINF:-1 group-title="港澳" tvg-id="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" tvg-name="香港卫视",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -974,6 +962,45 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="澳视综艺" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" tvg-name="澳视综艺",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="爱尔达体育1台" tvg-logo="https://epg.iill.top/logo/爱尔达体育1.png" tvg-name="爱尔达体育1台",愛爾達體育 1 台
+https://tv.iill.top/nsw/elda1
+
+#EXTINF:-1 group-title="台湾" tvg-id="爱尔达体育2台" tvg-logo="https://epg.iill.top/logo/爱尔达体育2.png" tvg-name="爱尔达体育2台",愛爾達體育 2 台
+https://tv.iill.top/nsw/elda2
+
+#EXTINF:-1 group-title="台湾" tvg-id="纬来体育台" tvg-logo="https://epg.iill.top/logo/纬来体育.png" tvg-name="纬来体育台",緯來體育台
+https://tv.iill.top/nsw/wlty
+
+#EXTINF:-1 group-title="台湾" tvg-id="纬来日本台" tvg-logo="https://epg.iill.top/logo/纬来日本.png" tvg-name="纬来日本台",緯來日本台
+https://tv.iill.top/nsw/wlrb
+
+#EXTINF:-1 group-title="台湾" tvg-id="纬来电影台" tvg-logo="https://epg.iill.top/logo/纬来电影.png" tvg-name="纬来电影台",緯來電影台
+https://tv.iill.top/nsw/wldy
+
+#EXTINF:-1 group-title="台湾" tvg-id="HBOHITS" tvg-logo="https://epg.iill.top/logo/HBOHits.png" tvg-name="HBOHITS",HBO HITS
+https://tv.iill.top/nsw/hbo-h
+
+#EXTINF:-1 group-title="台湾" tvg-id="HBOFAMILY" tvg-logo="https://epg.iill.top/logo/HBOFamily.png" tvg-name="HBOFAMILY",HBO Family
+https://tv.iill.top/nsw/hbo-f
+
+#EXTINF:-1 group-title="台湾" tvg-id="HBOSIGNATURE" tvg-logo="https://epg.iill.top/logo/HBOSignature.png" tvg-name="HBOSIGNATURE",HBO Signature
+https://tv.iill.top/nsw/hbo-s
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森洋片台" tvg-logo="https://epg.iill.top/logo/东森洋片.png" tvg-name="东森洋片台",東森洋片台
+https://tv.iill.top/nsw/dsyp
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森电影台" tvg-logo="https://epg.iill.top/logo/东森电影.png" tvg-name="东森电影台",東森電影台
+https://tv.iill.top/nsw/dsdy
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森戏剧台" tvg-logo="https://epg.iill.top/logo/东森戏剧.png" tvg-name="东森戏剧台",東森戲劇台
+https://tv.iill.top/nsw/dsxj
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森综合台" tvg-logo="https://epg.iill.top/logo/东森综合.png" tvg-name="东森综合台",東森綜合台
+https://tv.iill.top/nsw/dszh
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森幼幼台" tvg-logo="https://epg.iill.top/logo/东森幼幼.png" tvg-name="东森幼幼台",東森幼幼台
+https://tv.iill.top/nsw/dsyy
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯无限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" tvg-name="博斯无限台",博斯無限一台
 https://tv.iill.top/litv/litv-longturn10
@@ -1023,7 +1050,7 @@ https://tv.iill.top/litv/4gtv-4gtv067
 #EXTINF:-1 group-title="台湾" tvg-id="TVBS综艺台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" tvg-name="TVBS综艺台",TVBS 綜藝台
 https://tv.iill.top/4gtv/284
 
-#EXTINF:-1 group-title="台湾" tvg-id="三立新闻" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" tvg-name="三立新闻",三立新聞
+#EXTINF:-1 group-title="台湾" tvg-id="三立新闻" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" tvg-name="三立新闻",三立新聞台
 https://tv.iill.top/4gtv/229
 
 #EXTINF:-1 group-title="台湾" tvg-id="三立综合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" tvg-name="三立综合台",三立綜合台
@@ -1134,16 +1161,16 @@ https://tv.iill.top/litv/litv-longturn15
 #EXTINF:-1 group-title="台湾" tvg-id="寰宇财经台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" tvg-name="寰宇财经台",寰宇財經台
 https://tv.iill.top/litv/litv-longturn23
 
-#EXTINF:-1 group-title="台湾" tvg-id="东森新闻" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" tvg-name="东森新闻",東森新聞
+#EXTINF:-1 group-title="台湾" tvg-id="东森新闻" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" tvg-name="东森新闻",東森新聞台
 https://tv.iill.top/litv/4gtv-4gtv152
 
-#EXTINF:-1 group-title="台湾" tvg-id="东森财经新闻" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" tvg-name="东森财经新闻",東森財經新聞
+#EXTINF:-1 group-title="台湾" tvg-id="东森财经新闻" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" tvg-name="东森财经新闻",東森財經新聞台
 https://tv.iill.top/litv/4gtv-4gtv153
 
 #EXTINF:-1 group-title="台湾" tvg-id="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" tvg-name="华视",華視
 https://tv.iill.top/litv/4gtv-4gtv041
 
-#EXTINF:-1 group-title="台湾" tvg-id="华视新闻" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" tvg-name="华视新闻",華視新聞
+#EXTINF:-1 group-title="台湾" tvg-id="华视新闻" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" tvg-name="华视新闻",華視新聞台
 https://tv.iill.top/litv/4gtv-4gtv052
 
 #EXTINF:-1 group-title="台湾" tvg-id="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" tvg-name="民视",民視
@@ -7213,175 +7240,175 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 undefined
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" tvg-name="CCTV 1",CCTV1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=19dcc077d22a875a1a4cf24d6ee19327&ext_start_limit=1734543901&int_start_limit=1734543901&ts=1734543901&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=68b690a71c6a53d3a3794a8a28170062&ext_start_limit=1734624138&int_start_limit=1734624138&ts=1734624138&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="CGD" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" tvg-name="",CGTN记录
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=f97822cc7cb65735c744981f7c3daf8e&ext_start_limit=1734543902&int_start_limit=1734543902&ts=1734543902&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=722b5e76e06a89594a5364ecd9b53cf8&ext_start_limit=1734624140&int_start_limit=1734624140&ts=1734624140&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="CGE" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" tvg-name="",CGTN英语
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=2de183ccd17a50a52906b8dd15022c1f&ext_start_limit=1734543903&int_start_limit=1734543903&ts=1734543903&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=7e3965bc9a320c4c145cc3e3e43cce6f&ext_start_limit=1734624141&int_start_limit=1734624141&ts=1734624141&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-name="",凤凰卫视中文台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=0b3f678fac9224f6504341fa4c107a75&ext_start_limit=1734543905&int_start_limit=1734543905&ts=1734543905&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=e7a2fbeabfe7d13855dd4e7a63864cf1&ext_start_limit=1734624143&int_start_limit=1734624143&ts=1734624143&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-name="",凤凰卫视资讯台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=31a0adafaee0b1ecbfea0766bf42638a&ext_start_limit=1734543906&int_start_limit=1734543906&ts=1734543906&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=363a7fc188bbc52d2bc8e5ff9a22fcdc&ext_start_limit=1734624145&int_start_limit=1734624145&ts=1734624145&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-name="",凤凰卫视香港台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=041e4e62812fe0e4641ee3d6744e52e2&ext_start_limit=1734543908&int_start_limit=1734543908&ts=1734543908&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=ab6cfaf46cc191f63ac27940a1cc4c70&ext_start_limit=1734624146&int_start_limit=1734624146&ts=1734624146&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=afba313cf958f5be68fef98412e73f2b&ext_start_limit=1734543909&int_start_limit=1734543909&ts=1734543909&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=53e11b07b5fcb28a3063b0188e268191&ext_start_limit=1734624148&int_start_limit=1734624148&ts=1734624148&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台4K
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=aa5235689da376ce83239442fcdb0bb0&ext_start_limit=1734543911&int_start_limit=1734543911&ts=1734543911&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=ed7f53c014e88cb0dfe6d7af751e323e&ext_start_limit=1734624149&int_start_limit=1734624149&ts=1734624149&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="DTV" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" tvg-name="",东方卫视国际
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=3e288d48b91ca809731ae9c0a27812e7&ext_start_limit=1734543912&int_start_limit=1734543912&ts=1734543912&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=f4ea2708a5869174642604777acb512b&ext_start_limit=1734624151&int_start_limit=1734624151&ts=1734624151&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" tvg-name="",TVBplus
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=a31f720a4e55b9e1741cdb5a3a68c599&ext_start_limit=1734543914&int_start_limit=1734543914&ts=1734543914&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=a6e525a7e3b33f3a3d3afc5e22991dd6&ext_start_limit=1734624152&int_start_limit=1734624152&ts=1734624152&c=241564436
 
 #EXTINF:-1 group-title="综合" tvg-id="CARI" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" tvg-name="",ArirangTV
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=8a55a38849dea7b777e8aec6f982580c&ext_start_limit=1734543915&int_start_limit=1734543915&ts=1734543915&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=82c38f123db7d52123a133a7b558ce7c&ext_start_limit=1734624154&int_start_limit=1734624154&ts=1734624154&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="",无线新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=e96141226ecaaa53ba8eb45250fb8700&ext_start_limit=1734543917&int_start_limit=1734543917&ts=1734543917&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=839a1990be9f2efbed84afae36cd0370&ext_start_limit=1734624155&int_start_limit=1734624155&ts=1734624155&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" tvg-name="",娱乐新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=c4e91ace52bbfae086483deea24fc5fc&ext_start_limit=1734543918&int_start_limit=1734543918&ts=1734543918&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=76b60a0af5fd260b8e277f8d32cfd4e8&ext_start_limit=1734624157&int_start_limit=1734624157&ts=1734624157&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",明珠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=41a76a406b9d2fe7884d1ec672962b70&ext_start_limit=1734543920&int_start_limit=1734543920&ts=1734543920&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=b0ee3b748596ba2a1f5f8d74e55c365c&ext_start_limit=1734624158&int_start_limit=1734624158&ts=1734624158&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CTSN" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" tvg-name="",无线卫星新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=68b9de30c7c8b57583b625e8561bc778&ext_start_limit=1734543921&int_start_limit=1734543921&ts=1734543921&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=3b3782f129918269b48bcbdfa5b1f784&ext_start_limit=1734624160&int_start_limit=1734624160&ts=1734624160&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CTS1" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" tvg-name="",无线卫星亚洲台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=6bf5f00cb19fb64ac7f80d57b60c79f5&ext_start_limit=1734543923&int_start_limit=1734543923&ts=1734543923&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=626fc3d7549cb0cc6879e129baa9910e&ext_start_limit=1734624161&int_start_limit=1734624161&ts=1734624161&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CCNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" tvg-name="",亚洲新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=7b872ccdd3af1f3f1e1771d3dc3fc1f5&ext_start_limit=1734543924&int_start_limit=1734543924&ts=1734543924&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=161bed92ea8e257c9c6b97ef7eae47ae&ext_start_limit=1734624163&int_start_limit=1734624163&ts=1734624163&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CMN1" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" tvg-name="",神州新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMN1_hevc/__op/cenc_m/__f/index.mpd?sig=0f276ebb35d61c39d0d6f63729c43bb5&ext_start_limit=1734543925&int_start_limit=1734543925&ts=1734543925&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMN1_hevc/__op/cenc_m/__f/index.mpd?sig=76c65107c8337e04e63e2d45935cb01b&ext_start_limit=1734624165&int_start_limit=1734624165&ts=1734624165&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CJAZ" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" tvg-name="",半岛电视台英语
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=c203aa88061d42e5757689736aea3525&ext_start_limit=1734543927&int_start_limit=1734543927&ts=1734543927&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=77a680a0b487019c9c5e5d196869ef0b&ext_start_limit=1734624166&int_start_limit=1734624166&ts=1734624166&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CF24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" tvg-name="",France24
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=289382e5eb394fb7e94473c26edd0a88&ext_start_limit=1734543928&int_start_limit=1734543928&ts=1734543928&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=7fc1061025df8f1e981ffcc815e64e33&ext_start_limit=1734624168&int_start_limit=1734624168&ts=1734624168&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CDW1" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" tvg-name="",DW
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=c908dae7b348d9be266b4a553216a3e4&ext_start_limit=1734543930&int_start_limit=1734543930&ts=1734543930&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=78308dcd78c696076f1784dfaa6d7040&ext_start_limit=1734624169&int_start_limit=1734624169&ts=1734624169&c=241564436
 
 #EXTINF:-1 group-title="新闻财经" tvg-id="CNHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" tvg-name="",NHKWorldJapan
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=7577fd1c3cc7be85d601bca98c738871&ext_start_limit=1734543931&int_start_limit=1734543931&ts=1734543931&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=298d1f44d59c1569604b9aaade81cb70&ext_start_limit=1734624171&int_start_limit=1734624171&ts=1734624171&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="POPC" tvg-logo="https://assets.livednow.com/logo/PopC.png" tvg-name="",POPC电影
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=254aa5c4c5d45aa040553affa769fb42&ext_start_limit=1734543933&int_start_limit=1734543933&ts=1734543933&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=4b3e40af7db4d5c9331c9f3403cc27e3&ext_start_limit=1734624172&int_start_limit=1734624172&ts=1734624172&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CCCM" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" tvg-name="",天映经典
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=f5b52f57cf16307386bb8421336ab96b&ext_start_limit=1734543934&int_start_limit=1734543934&ts=1734543934&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=1f04cec9c0a0b2bd1b4aa980b349bfd8&ext_start_limit=1734624174&int_start_limit=1734624174&ts=1734624174&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CWIN" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",SuperFree
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=f42d60961e1a06a4734a2c3aef432a08&ext_start_limit=1734543936&int_start_limit=1734543936&ts=1734543936&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=48b8c07a4ac3ac73f1616fce345a048a&ext_start_limit=1734624176&int_start_limit=1734624176&ts=1734624176&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="C18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" tvg-name="",Super18台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=2741e725722132447ace82a3858aa50c&ext_start_limit=1734543937&int_start_limit=1734543937&ts=1734543937&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=c7f9366bbc0e70d0ce47110ff2066587&ext_start_limit=1734624177&int_start_limit=1734624177&ts=1734624177&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" tvg-name="",黄金翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=1bafd07a4c51ada225c79acae858e0b5&ext_start_limit=1734543939&int_start_limit=1734543939&ts=1734543939&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=8dbf91ff99085536e2f9299335e94419&ext_start_limit=1734624179&int_start_limit=1734624179&ts=1734624179&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CMC" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" tvg-name="",中国电影
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=b9563eeb74991c7f0bf7a6b2ea986a69&ext_start_limit=1734543940&int_start_limit=1734543940&ts=1734543940&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=2861fee7326f88a0e9554b92314149c1&ext_start_limit=1734624180&int_start_limit=1734624180&ts=1734624180&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CTVC" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" tvg-name="",千禧经典台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=586da37a783b8691a39435062e1e3e17&ext_start_limit=1734543942&int_start_limit=1734543942&ts=1734543942&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=014b4661756bacbe110cb5a99bf2416c&ext_start_limit=1734624182&int_start_limit=1734624182&ts=1734624182&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CDR3" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" tvg-name="",华语剧台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=4d80cde07f39cc25a2c38bd44f4985d6&ext_start_limit=1734543944&int_start_limit=1734543944&ts=1734543944&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=1fbb34b05d4b04ced01090370569012e&ext_start_limit=1734624183&int_start_limit=1734624183&ts=1734624183&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CCLM" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" tvg-name="",粤语片台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=6c7ba5c4f1ae1da870283bb08f7d46a5&ext_start_limit=1734543945&int_start_limit=1734543945&ts=1734543945&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=522aeb8814afa313003b3aa0cd1a3e22&ext_start_limit=1734624185&int_start_limit=1734624185&ts=1734624185&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CTVS" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" tvg-name="",亚洲剧台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=04e468ea2690182324a7bb93a1da995f&ext_start_limit=1734543947&int_start_limit=1734543947&ts=1734543947&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=f066cc46312548c6f2fa205fd57060f2&ext_start_limit=1734624187&int_start_limit=1734624187&ts=1734624187&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="TVO" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" tvg-name="",黄金华剧台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=daf5c46a73dcba00561fe6eee2a7cbc2&ext_start_limit=1734543948&int_start_limit=1734543948&ts=1734543948&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=4050d7a1a6513ea520585155bf8240b3&ext_start_limit=1734624188&int_start_limit=1734624188&ts=1734624188&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CMAM" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" tvg-name="",美亚电影台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=cb11a06b01748b1d40e887fef6b3d610&ext_start_limit=1734543950&int_start_limit=1734543950&ts=1734543950&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=31c2df00a842bdadbc8c47fa0e28667e&ext_start_limit=1734624190&int_start_limit=1734624190&ts=1734624190&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CCOC" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" tvg-name="",戏曲台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=8fa8809bcdc88de9ea1c862bf0abe076&ext_start_limit=1734543951&int_start_limit=1734543951&ts=1734543951&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=b692b7da32fbea6eeeefe254c1cb3316&ext_start_limit=1734624191&int_start_limit=1734624191&ts=1734624191&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CTHR" tvg-logo="https://assets.livednow.com/logo/Thrill.png" tvg-name="",Thrill
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=2b9d14df6887e143d6bde92e1b3d7b50&ext_start_limit=1734543953&int_start_limit=1734543953&ts=1734543953&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=5507de5c4b328c3987291c8a7d662552&ext_start_limit=1734624193&int_start_limit=1734624193&ts=1734624193&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CRTX" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" tvg-name="",ROCKAction
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=840de15626307d44b37d5ca11b56cbba&ext_start_limit=1734543954&int_start_limit=1734543954&ts=1734543954&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=0e0101d3df88bddab6f0010a80756392&ext_start_limit=1734624195&int_start_limit=1734624195&ts=1734624195&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CKIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" tvg-name="",KIX
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=52eb76b944087148787264f20c3de34b&ext_start_limit=1734543956&int_start_limit=1734543956&ts=1734543956&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=2b654564ab4021515fe94d3a0928d020&ext_start_limit=1734624196&int_start_limit=1734624196&ts=1734624196&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CRTE" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" tvg-name="",ROCK综艺娱乐
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=463769107be655027d71fd229055fd8f&ext_start_limit=1734543957&int_start_limit=1734543957&ts=1734543957&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=fec9121d5c5a68e4e42492ae94da2297&ext_start_limit=1734624198&int_start_limit=1734624198&ts=1734624198&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CANI" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" tvg-name="",Animax
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=61bc7cabbf856aad26a844ff3325ad9d&ext_start_limit=1734543959&int_start_limit=1734543959&ts=1734543959&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=234639bc79972a48882a1375b567c038&ext_start_limit=1734624199&int_start_limit=1734624199&ts=1734624199&c=241564436
 
 #EXTINF:-1 group-title="戏剧电影" tvg-id="CJTV" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" tvg-name="",tvN
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=54c29cd62a2ac3488ce8b315bb10e921&ext_start_limit=1734543960&int_start_limit=1734543960&ts=1734543960&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=05ddd4a44d6ea5288544db15c755fb57&ext_start_limit=1734624201&int_start_limit=1734624201&ts=1734624201&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="CRE" tvg-logo="https://assets.livednow.com/logo/創世電視.png" tvg-name="",创世电视
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=f5934df0161e1e6dd1bc3d02414290b3&ext_start_limit=1734543962&int_start_limit=1734543962&ts=1734543962&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=d9f7b5d72e34cf40d0ea9183661c15a0&ext_start_limit=1734624202&int_start_limit=1734624202&ts=1734624202&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="KID" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" tvg-name="",SUPERKids Channel
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=3f4c0ebe326a85ca684e532d8c3d8e3d&ext_start_limit=1734543963&int_start_limit=1734543963&ts=1734543963&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=65a48ba5f5b8ed0e9a3830e2d1d512d1&ext_start_limit=1734624204&int_start_limit=1734624204&ts=1734624204&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="ZOO" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" tvg-name="",ZooMoo
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=d3d1c709f91b62046bc37ee60fd081e1&ext_start_limit=1734543965&int_start_limit=1734543965&ts=1734543965&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=0f3340152ddea78feaf1d6172bb24fce&ext_start_limit=1734624206&int_start_limit=1734624206&ts=1734624206&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="CNIKO" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" tvg-name="",Nickelodeon
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=71241cb619058dcd92050693382b17d6&ext_start_limit=1734543966&int_start_limit=1734543966&ts=1734543966&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=0fb78105a0e2265007a3f92edb25f68d&ext_start_limit=1734624207&int_start_limit=1734624207&ts=1734624207&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="CNIJR" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" tvg-name="",NickJr.
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=b57872f80e024edb3e715b33f2a6d87b&ext_start_limit=1734543968&int_start_limit=1734543968&ts=1734543968&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=533d3d70b1867ea92881f0c1edc25cd7&ext_start_limit=1734624209&int_start_limit=1734624209&ts=1734624209&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="LNH" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" tvg-name="",LoveNature HD
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=ece1ba3820513c6e92af719d9f2ddcf7&ext_start_limit=1734543969&int_start_limit=1734543969&ts=1734543969&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=4d0f0aab5d7fc23d2c000864c2fc863c&ext_start_limit=1734624210&int_start_limit=1734624210&ts=1734624210&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="LN4" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" tvg-name="",LoveNature 4K
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=c2430b2121edba142175921bf63355dd&ext_start_limit=1734543971&int_start_limit=1734543971&ts=1734543971&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=33c4a4993240ba9cf57a7d5607d8d39f&ext_start_limit=1734624212&int_start_limit=1734624212&ts=1734624212&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="SMS" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" tvg-name="",GlobalTrekker
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=d1d09e9737fd2e569ecf52e5d9aa5750&ext_start_limit=1734543972&int_start_limit=1734543972&ts=1734543972&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=cb31bfe1241b43c83cf32ebcf7270353&ext_start_limit=1734624214&int_start_limit=1734624214&ts=1734624214&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="CAXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" tvg-name="",AXN
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=dc02400d35bdb95d33e51df3a08f7037&ext_start_limit=1734543974&int_start_limit=1734543974&ts=1734543974&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=ea7281f15c963e8a0a8ff8c15cb3b882&ext_start_limit=1734624215&int_start_limit=1734624215&ts=1734624215&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="FBX" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" tvg-name="",FashionBox
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=bf8b8494f4f086b871ae9b7f754fd9e0&ext_start_limit=1734543976&int_start_limit=1734543976&ts=1734543976&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=3d37ba5eb7a546dc6f03717ab23b6413&ext_start_limit=1734624217&int_start_limit=1734624217&ts=1734624217&c=241564436
 
 #EXTINF:-1 group-title="其他" tvg-id="CMEZ" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" tvg-name="",MezzoLive HD
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=d7a5238c18b3a2eed46dbd10747c777d&ext_start_limit=1734543977&int_start_limit=1734543977&ts=1734543977&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=d5329fdf41f03e6e2ec068832ec16e1f&ext_start_limit=1734624219&int_start_limit=1734624219&ts=1734624219&c=241564436
 
 #EXTINF:-1 group-title="体育" tvg-id="C28" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" tvg-name="",28AI 智慧賽馬
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=a7eaa0998ad07d530a42fecaa5920b37&ext_start_limit=1734543979&int_start_limit=1734543979&ts=1734543979&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=06d5c183f7ccba68f3f6407ab35c33d3&ext_start_limit=1734624220&int_start_limit=1734624220&ts=1734624220&c=241564436
 
 #EXTINF:-1 group-title="体育" tvg-id="EVT3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=18274cfe94e17b1469c32178fa686095&ext_start_limit=1734543980&int_start_limit=1734543980&ts=1734543980&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=7e6aad1a5404cf18fd1a4b34c86ed8f5&ext_start_limit=1734624222&int_start_limit=1734624222&ts=1734624222&c=241564436
 
 #EXTINF:-1 group-title="体育" tvg-id="EVT4" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播4
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=1fbe11071c8ca0bacd4bff74f2748434&ext_start_limit=1734543982&int_start_limit=1734543982&ts=1734543982&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=30309ba9ddf147ab4d09297d130fa4cd&ext_start_limit=1734624224&int_start_limit=1734624224&ts=1734624224&c=241564436
 
 #EXTINF:-1 group-title="体育" tvg-id="EVT5" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=9a44e3b03d78c8455d2867215d1036d3&ext_start_limit=1734543983&int_start_limit=1734543983&ts=1734543983&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=8261ef462841f51b33e2fb00bc5cf9a1&ext_start_limit=1734624225&int_start_limit=1734624225&ts=1734624225&c=241564436
 
 #EXTINF:-1 group-title="体育" tvg-id="EVT6" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" tvg-name="",MytvSuper足球直播6
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=9ab736152c1278504c55ab1c673dbc6a&ext_start_limit=1734543985&int_start_limit=1734543985&ts=1734543985&c=241564436
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=f9d0626a94c0aab1bf06d2726c268c50&ext_start_limit=1734624227&int_start_limit=1734624227&ts=1734624227&c=241564436
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" tvg-name="CCTV 16",CCTV16
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
