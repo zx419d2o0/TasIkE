@@ -13,7 +13,7 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202412171933",
+            "name": "202412192054",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -33,7 +33,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers",
+                "channellist": "tgsearchers,guaguale115,ydypzyfx,tianyi_pd2,shareAliyun,ucpanpan,ucquark,alyp_1,hao115,Aliyun_4K_Movies",
                 "proxy": "noproxy",
                 "douban": "./lib/douban.json",
                 "danmu": false
@@ -299,7 +299,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers",
+                "channellist": "tgsearchers,guaguale115,ydypzyfx,tianyi_pd2,shareAliyun,ucpanpan,ucquark,alyp_1,hao115,Aliyun_4K_Movies",
                 "proxy": "proxy",
                 "danmu": true
             },
@@ -320,7 +320,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers",
+                "channellist": "tgsearchers,guaguale115,ydypzyfx,tianyi_pd2,shareAliyun,ucpanpan,ucquark,alyp_1,hao115,Aliyun_4K_Movies",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -791,11 +791,13 @@
             "timeout": 60
         },
         {
-            "key": "nangua",
-            "name": "南瓜",
+            "key": "NanGua",
+            "name": "南瓜|弹幕",
             "type": 3,
-            "playerType": "2",
-            "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1"
         },
         {
             "key": "天天",
