@@ -38,8 +38,8 @@ jobs:
           # Other steps that change files in the repository
           mkdir -p node
           arr=(
-            "https://nodefree.org/dy/$year/$month/$year$month$day.yaml,nodefree.yaml"
-            "https://nodefree.org/dy/$year/$month/$year$month$day.txt,nodefree.txt"
+            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.yaml,nodefree.yaml"
+            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.txt,nodefree.txt"
             "https://clashnode.github.io/uploads/$year/$month/0-$year$month$day.yaml,clashnode_0.yaml"
             "https://clashnode.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashnode_1.yaml"
             "https://clashnode.github.io/uploads/$year/$month/2-$year$month$day.yaml,clashnode_2.yaml"
@@ -52,8 +52,8 @@ jobs:
             "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.txt,clashnode_4.txt"
             "https://altrojan.comorg.us.kg/sub?host=sytrojan.6516789.xyz&pw=google,altrojan.txt"
             "https://alvless.comorg.us.kg/sub?host=syvless.6516789.xyz&uuid=99280094-e683-476b-a3cd-0d37c3892c6f,alvless.txt"
-            "https://tglaoshiji.github.io/nodeshare/$year/$month2/$year$month$day.yaml,nodeshare.yaml"
-            "https://tglaoshiji.github.io/nodeshare/$year/$month2/$year$month$day.txt,nodeshare.txt"
+            "https://lailai159.serv00.net/uploads/$year/$month2/$year$month$day.yaml,nodeshare.yaml"
+            "https://lailai159.serv00.net/uploads/$year/$month2/$year$month$day.txt,nodeshare.txt"
           )
           echo "|||" > node/README.md
           echo "|-|-|" >> node/README.md
