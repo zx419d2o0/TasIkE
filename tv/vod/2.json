@@ -1,21 +1,22 @@
 
-//      >>> 当前时间是：2024-12-28 07:12:25 <<<
+//      >>> 当前时间是：2024-12-29 07:12:14 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735278620305/okpng.txt;md5;f0863ce8b0625e0efc9c874d5dcbc0cd",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735385022710/okpng.txt;md5;ac567ee902f2126f096c7bf8cdee3926",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
 {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-{"key":"热播","name":"📺热播┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"aHR0cDovL3YucmJvdHYuY24="},
+{"key":"热播","name":"📺热播┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
 "timeout":10},
-{"key":"天天","name":"⛅️天天┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"aHR0cDovL29wLnlzZHFqcy5jbg=="},
+{"key":"天天","name":"⛅️天天┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":1},
 "timeout":10},
 {"key":"文才","name":"🌺文才┃在线","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{"key":"南瓜","name":"🎃南瓜┃直连","type":3,"api":"csp_NanguaGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"浪酷弹幕版","name":"👓浪酷┃弹幕","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":2},
+"timeout":10},
 {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","wogg":true},
 "timeout":30},
 {"key":"小苹果","name":"🍎苹果┃直连","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
