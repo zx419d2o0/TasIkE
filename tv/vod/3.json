@@ -1,5 +1,5 @@
 
-//      >>> 当前时间是：2024-12-31 07:12:11 <<<
+//      >>> 当前时间是：2025-01-01 07:12:12 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://肥猫.com
 
@@ -10,7 +10,7 @@
 {"key":"drpy_js_豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
-{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://feimaouc.cloud:666","http://feimao.tech:666"],"url_key":"FeiMaoUC"}},
+{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
 {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan2"}},
 {"key":"csp_Bili","name":"🅱┃️哔哩┃合集","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"http://uz.xn--z7x900a.com/bili.json","cookie":""},
 "style":{"type":"rect","ratio":1.333}},
