@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-01-01 07:12:09 <<<
+//      >>> 当前时间是：2025-01-02 07:12:39 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735616877244/okpng.txt;md5;308e597c41133cec6d1cfccc4dce2e9c",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735709841302/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -17,19 +17,21 @@
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"浪酷弹幕版","name":"👓浪酷┃秒播","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":2},
 "timeout":10},
-{"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","wogg":true},
+{"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":30},
 {"key":"小苹果","name":"🍎苹果┃直连","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"木耳","name":"🪴木耳┃秒播","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 {"key":"立播弹幕版","name":"🐰立播┃在线","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","site":"https://libvio.link"},
 "timeout":30},
-{"key":"蜡笔弹幕","name":"👠蜡笔┃在线","type":3,"api":"csp_WobgGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","site":"http://labipan.com"},
+{"key":"蜡笔弹幕","name":"👠蜡笔┃在线","type":3,"api":"csp_LabiGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":25},
-{"key":"木偶弹幕","name":"🪵木偶┃在线","type":3,"api":"csp_WobgGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","site":"http://mogg.小胡.top"},
+{"key":"木偶弹幕","name":"🪵木偶┃在线","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":25},
-{"key":"小米","name":"🍄小米┃优浠","type":3,"api":"csp_WobgGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","site":"http://www.mucpan.cc"},
+{"key":"小米","name":"🍄小米┃优浠","type":3,"api":"csp_XiaoMiGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":25},
-{"key":"闪电","name":"🌈闪电┃优浠","type":3,"api":"csp_WobgGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","site":"http://feimaouc.cloud:666"},
+{"key":"闪电","name":"🌈闪电┃优浠","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
+"timeout":25},
+{"key":"至臻","name":"💌至臻┃在线","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":25},
 {"key":"韩圈","name":"🦄韩圈┃App","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"厂长","name":"🌸厂长┃直连","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
