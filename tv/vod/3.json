@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-01-03 07:12:50 <<<
+//      >>> 当前时间是：2025-01-04 07:13:00 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://肥猫.com
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt;md5;db3a9c96dbe95ea534bdbd9b7244f015",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php","logo":"http://ceshi.xn--z7x900a.com/panda/0262.png",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
@@ -20,23 +20,21 @@
 {"key":"csp_AppRZ","name":"🕵️┃忍者┃影视","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_XMUC","name":"🍚┃小米┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key":"XMUC"}},
 {"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv2","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
-{"key":"csp_Nkdy","name":"🏔️┃耐看┃影视","type":3,"api":"csp_Nkdy"},
+{"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"https://www.wogg.net"},
+{"key":"csp_Lkdy","name":"🏔️┃来看┃影视","type":3,"api":"csp_Lkdy"},
+{"key":"csp_Lggys","name":"💗️┃攻阁┃影视","type":3,"api":"csp_Lggys"},
+{"key":"csp_Tvyb","name":"☁️️┃云播┃影视","type":3,"api":"csp_Tvyb"},
 {"key":"csp_Kanke","name":"🛳️┃看客┃影视","type":3,"api":"csp_Kanke"},
 {"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
 {"key":"csp_Fantuan","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
 {"key":"csp_Quanwk","name":"👀┃全看┃影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
-{"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"csp_NanGua"},
 {"key":"csp_J","name":"🌎┃饺子┃外剧","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"Ivdy","name":"💖┃Ivdy┃影视","type":3,"api":"csp_XBPQ","ext":"https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null","searchable":0},
 {"key":"csp_SaoHuo","name":"🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","playerType":2},
 {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"csp_LiteApple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"https://www.wogg.net"},
-{"key":"比特","name":"✌️️┃比特┃影视","type":3,"api":"csp_Bttwo"},
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
-{"key":"可可","name":"😝┃可可┃影视","type":3,"playerType":"2","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kkys02.com"},
-{"key":"csp_Xb6v","name":"🐤┃6V磁力┃影视","type":3,"api":"csp_Xb6v","playerType":"2"},
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360"},
 {"key":"csp_BookTing","name":"📚┃听书┃音频","type":3,"playerType":"2","api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_YouShengBook","name":"📚┃有声┃小说","type":3,"playerType":"2","api":"csp_LaoBaiBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
