@@ -13,7 +13,7 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202501042031",
+            "name": "202501052032",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -33,7 +33,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2",
+                "channellist": "alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2,tgsearchers",
                 "proxy": "noproxy",
                 "searchable": 0,
                 "douban": "./lib/douban.json",
@@ -300,7 +300,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2",
+                "channellist": "alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2,tgsearchers",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -340,6 +340,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.gyg.la$$$noproxy$$$1$$$./lib/guanying.txt"
+        },
+        {
+            "key": "校长影视",
+            "name": "校长影视|网盘",
+            "type": 3,
+            "api": "csp_XiaoZhang",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "Wogg",
@@ -579,17 +590,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
-        },
-        {
-            "key": "校长影视",
-            "name": "校长影视|网盘",
-            "type": 3,
-            "api": "csp_XiaoZhang",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "Bdys_spider",
@@ -1438,15 +1438,15 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fmm.live.ipv6.m3u",
+            "name": "fmm.live.com.ipv6.m3u",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fmm.live.ipv6",
+            "name": "fmm.live.cn.ipv6",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.cn/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
