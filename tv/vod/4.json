@@ -13,7 +13,7 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202501061642",
+            "name": "202501072108",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -33,7 +33,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2,tgsearchers",
+                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2",
                 "proxy": "noproxy",
                 "searchable": 0,
                 "douban": "./lib/douban.json",
@@ -300,7 +300,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
-                "channellist": "alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2,tgsearchers",
+                "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2",
                 "proxy": "noproxy",
                 "danmu": true
             },
