@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-01-08 07:12:05 <<<
+//      >>> 当前时间是：2025-01-09 07:12:47 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736214978174/okpng.txt;md5;f04dc583d48c1aff054025a45137f6c5",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736315976604/okpng.txt;md5;ba4dc8f4fb64d2f872eb8efbf4888b3f",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -123,6 +123,8 @@
 {"name":"一起看","type":3,"api":"csp_HuyaGuard","url":"yqk","playerType":2,"timeout":10},
 {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"yuanzl77","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u","playerType":2,"timeout":10},
+{"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"timeout":10},
+{"name":"网络Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Live","playerType":2,"timeout":10},
 {"name":"国内Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735900458536/oitv.txt","playerType":2,"timeout":10},
 {"name":"肥羊B站直播","type":3,"api":"csp_FeiyangGuard","url":"bililive.m3u","timeout":10,"ua":"okhttp/3.15"},
 {"name":"肥羊斗鱼一起看","type":3,"api":"csp_FeiyangGuard","url":"douyuyqk.m3u","timeout":10,"ua":"okhttp/3.15"},
