@@ -13,7 +13,7 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202501091657",
+            "name": "202501102237",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -1307,7 +1307,11 @@
             "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
         },
         {
             "name": "肥羊B站直播",
