@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-01-12 07:11:55 <<<
+//      >>> 当前时间是：2025-01-13 07:12:00 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736578740939/okpng.txt;md5;339b796c70a11bab3587bee141ff2a1e",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736674240812/okpng.txt;md5;468bece57bced3acbd7d83aaff27b240",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -104,16 +104,17 @@
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
-{"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"-8090g-","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
-{"name":"-ik9-","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
-{"name":"-杰森-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"-阳途-","type":0,"url":"https://jx.yangtu.top/?url="},
-{"name":"-冰豆-","type":0,"url":"https://bd.jx.cn/?url="},
-{"name":"-m3u8TV-","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"-听乐-","type":0,"url":"https://jx.dj6u.com/?url="},
-{"name":"-云析-","type":0,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"-红狐-","type":0,"url":"https://player.mrgaocloud.com/player/?url="}
+{"name":"ikun","type":0,"url":"https://jx.hls.one/?url="},
+{"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
+{"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="},
+{"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
+{"name":"M3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
+{"name":"XY","type":0,"url":"https://jx.xymp4.cc/?url="},
+{"name":"推荐","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
+{"name":"臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
+{"name":"优选","type":1,"url":"http://1.94.221.189:88/algorithm.php?url="}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
