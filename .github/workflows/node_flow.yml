@@ -1,0 +1,69 @@
+# This is a basic workflow to help you get started with Actions
+
+name: node
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # push:
+  #   branches: [ "main" ]
+  schedule:
+    - cron: '0 23 */3 * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  download_rss_job:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+      
+      - name: download yaml latest from nodefree
+      # Runs a set of commands using the runners shell
+        id: step2
+        run: |
+          year=`date "+%Y"`
+          month=`date "+%m"`
+          day=`date "+%d"`
+          month2=`date "+%-m"`
+          clock=`date "+%Y%m%d%H%M%S"`
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          # Other steps that change files in the repository
+          mkdir -p node
+          arr=(
+            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.yaml,nodefree.yaml"
+            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.txt,nodefree.txt"
+            "https://clashnode.github.io/uploads/$year/$month/0-$year$month$day.yaml,clashnode_0.yaml"
+            "https://clashnode.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashnode_1.yaml"
+            "https://clashnode.github.io/uploads/$year/$month/2-$year$month$day.yaml,clashnode_2.yaml"
+            "https://clashnode.github.io/uploads/$year/$month/3-$year$month$day.yaml,clashnode_3.yaml"
+            "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.yaml,clashnode_4.yaml"
+            "https://clashnode.github.io/uploads/$year/$month/0-$year$month$day.txt,clashnode_0.txt"
+            "https://clashnode.github.io/uploads/$year/$month/1-$year$month$day.txt,clashnode_1.txt"
+            "https://clashnode.github.io/uploads/$year/$month/2-$year$month$day.txt,clashnode_2.txt"
+            "https://clashnode.github.io/uploads/$year/$month/3-$year$month$day.txt,clashnode_3.txt"
+            "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.txt,clashnode_4.txt"
+            "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt,clash.yaml"
+            "https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1,sb.txt"
+          )
+          echo "|||" > node/README.md
+          echo "|-|-|" >> node/README.md
+          for i in "${!arr[@]}"; do
+            IFS=',' read -r url name <<< "${arr[i]}"
+            curl -o "node/$name" "$url"
+            echo "|$url|[`du -h node/$name`](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$name)|">>node/README.md
+          done
+          # sed -i '/^\s*#/d' node/nodefree.yaml
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'

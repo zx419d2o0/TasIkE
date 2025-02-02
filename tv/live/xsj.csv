@@ -1,0 +1,478 @@
+name,id
+CCTV-1 综合,cctv1
+CCTV-2 财经,cctv2
+CCTV-3 综艺,cctv3
+CCTV-4 中文国际,cctv4
+CCTV-5 体育,cctv5
+CCTV-5+ 体育赛事,cctv5plus
+CCTV-6 电影,cctv6
+CCTV-7 国防军事,cctv7
+CCTV-8 电视剧,cctv8
+CCTV-9 纪录,cctv9
+CCTV-10 科教,cctv10
+CCTV-11 戏曲,cctv11
+CCTV-12 社会与法,cctv12
+CCTV-13 新闻,cctv13
+CCTV-14 少儿,cctv14
+CCTV-15 音乐,cctv15
+CCTV-16 奥林匹克,cctv16
+CCTV-17 农业农村,cctv17
+CHC家庭影院,chc-jtyy
+CHC动作电影,chc-dzdy
+CHC高清电影,chc-gqdy
+重温经典,cwjd
+ELTA奥运1台,elta-oly1
+ELTA奥运2台,elta-oly2
+ELTA奥运3台,elta-oly3
+ELTA奥运4台,elta-oly4
+ELTA奥运5台,elta-oly5
+ELTA奥运6台,elta-oly6
+ELTA奥运7台,elta-oly7
+Astro OLY 1,astro-oly1
+Astro OLY 2,astro-oly2
+Astro OLY 3,astro-oly3
+Astro OLY 4,astro-oly4
+Astro OLY 5,astro-oly5
+MyTVSuper奥运801,mytvsuper-oly801
+MyTVSuper奥运802,mytvsuper-oly802
+MyTVSuper奥运803,mytvsuper-oly803
+MyTVSuper奥运804,mytvsuper-oly804
+MyTVSuper奥运805,mytvsuper-oly805
+MyTVSuper奥运806,mytvsuper-oly806
+MyTVSuper奥运807,mytvsuper-oly807
+MyTVSuper奥运808,mytvsuper-oly808
+MyTVSuper奥运809,mytvsuper-oly809
+MyTVSuper奥运810,mytvsuper-oly810
+MyTVSuper奥运811,mytvsuper-oly811
+MyTVSuper奥运812,mytvsuper-oly812
+MyTVSuper奥运813,mytvsuper-oly813
+MyTVSuper奥运814,mytvsuper-oly814
+MyTVSuper奥运815,mytvsuper-oly815
+MyTVSuper奥运816,mytvsuper-oly816
+MyTVSuper奥运817,mytvsuper-oly817
+湖南卫视,hunan
+浙江卫视,zhejiang
+东方卫视,dongfang
+江苏卫视,jiangsu
+北京卫视,beijing
+深圳卫视,shenzhen
+广东卫视,guangdong
+大湾区卫视,gdwqws
+重庆卫视,chongqing
+东南卫视,dongnan
+广西卫视,guangxi
+贵州卫视,guizhou
+海南卫视,hainan
+河北卫视,hebei
+黑龙江卫视,heilongjiang
+湖北卫视,hubei
+江西卫视,jiangxi
+吉林卫视,jilin
+辽宁卫视,liaoning
+内蒙古卫视,neimenggu
+宁夏卫视,ningxia
+陕西卫视,shaanxi
+山东卫视,shandong
+山西卫视,shanxi
+四川卫视,sichuan
+天津卫视,tianjin
+厦门卫视,xiamen
+新疆卫视,xinjiang
+西藏卫视,xizang
+云南卫视,yunnan
+安徽卫视,anhui
+河南卫视,henan
+青海卫视,qinghai
+甘肃卫视,gansu
+TVB 翡翠台,feicui
+TVB 无线新闻台,tvb-news
+TVB PLUS,tvb-plus
+TVB 黄金翡翠台,golden-jade
+TVB 黄金华剧台,golden-chinese-drama
+TVB 千禧经典台,tvb-classic
+TVB 粤语片台,tvb-yueyu
+TVB 星河台,tvb-xinghe
+TVB 亚洲剧台,tvb-asia-drama
+TVB 娱乐新闻台,TVB ylxw
+J2,j2
+TVB 明珠台,pearl
+TVB 华语剧台,tvb-drama
+TVB功夫台,tvb-kongfu
+凤凰卫视 资讯台,phtv-info
+凤凰卫视 中文台,phtv-cn
+凤凰卫视 香港台,phtv-hk
+凤凰卫视电影台,phtv-movies
+HOY 资讯台,hoy-info
+HOY TV,hoytv
+HOY国际财经,hoy-ibc
+ViuTV,viutv
+ViuTV6,viutv6
+天映频道,celestial
+天映经典,cccm
+Thrill,thrill
+星空卫视,star-xing-kong
+香港卫视,hks
+澳亚卫视,mastv
+澳门卫视,mstv
+澳门莲花卫视,lotustv
+澳门资讯,tdm-information
+澳视澳门,tdm
+HKC 18台,hkc18
+港台电视 31,rthk31
+港台电视 32,rthk32
+Now 财经台,now-finance
+Now 爆谷台,baogu-movies
+Now 星影台,now-baogu-superstars
+Now 新闻台,now-news
+Now 直播台,now-direct
+Now报价台,now-data
+Now jelli紫金国际台,now-jelli
+Now华剧台,now-chinese-drama
+HBO Now115,Now-HBO
+Now HBO Hits,now-hbo-hits
+Now HBO Family,now-hbof-amily
+Now HBO Signature,now-hbo-signature
+MovieMovie,moviemovie
+NowViu剧集台,now-viu-drama
+Now Sports 641,now-sports641
+Now NBA,now-nba
+曼联电视频道,now-mutv
+Now Sports精选,now-sports-prime
+Now Sports 1,now-sports-1
+Now Sports 2,now-sports-2
+Now Sports 3,now-sports-3
+Now Sports 4,now-sports-4
+Now Sports 5,now-sports-5
+Now Sports 6,now-sports-6
+Now Sports 7,now-sports-7
+Now Sports Plus,now-sports-plus
+Now Sports 英超1,now-sports-premier-league1
+Now beIN SPORTS 1,now-bein-sports1
+Now beIN SPORTS 2,now-bein-sports2
+Now beIN SPORTS 3,now-bein-sports3
+Now 668,now-668
+Now Golf 2,now-golf2
+Now Golf 3,now-golf3
+民视,ftv
+民视台湾台,ftv-tw
+民视第一台,ftv-one
+纬来日本,videoland-japan
+纬来综合,videoland
+八大综合,gtv28
+八大第一,gtv27
+TVBS 精采台,tvbs-jc
+TVBS 欢乐台,tvbs-huanle
+TVBS Asia,tvbs-asia
+三立台湾台,settv-taiwan
+三立综合台,settv-zonghe
+台视,ttv
+东森超视,ebc-super
+东森综合台,ebc-ettv
+中视,ctv
+中视菁采台,bravo
+中天亚洲,cti-asia
+中天综合,ctitv36
+华视,cts
+LiveABC 互动英语频道,liveabc
+好消息,goodtv
+KLT-靖天国际台,jtgj
+ELTA综合台,elta-zonghe
+公视,pts
+公视3台,pts-3
+公视台语台,pts-ty
+靖天综合台,jtzh
+靖天日本台,jtrb
+客家电视台,hakkatv
+大爱一台,daai1
+大爱二台,daai2
+ARIRANG 阿里郎频道,arirang
+中天新闻,cti-news
+TVBS 新闻台,tvbs-news
+TVBS HD,tvbs-hd
+东森新闻,ebc-news
+东森财经新闻,ebc-finance
+寰宇新闻台,global-news
+寰宇财经台,global-finance
+寰宇新闻台湾台,global-news-tw
+壹新闻 HD,nexttv
+三立新闻,settv-news
+三立iNews,settv-inews
+中视新闻,ctv-news
+非凡新闻,unique-business-news
+年代新闻,era-news
+民视新闻台,ftv-news
+台视新闻,ttv-news
+镜电视新闻台,mnews
+华视新闻,cts-news
+半岛国际新闻台,aljazeera
+SBN 全球财经台,sbn
+靖天资讯台,jtzx
+霹雳台湾台,pilitv
+纬来电影台,videoland-movie
+纬来戏剧,videoland-drama
+TVBS综艺台,tvbs-zongyi
+TVBS台剧台,tvbs-taiju
+龙祥电影台,lstime
+龙华电影台,ltv-movies
+龙华戏剧台,ltv-xiju
+龙华日韩台,ltv-rihan
+东森电影,ebc-movie
+东森戏剧,ebc-drama
+东森洋片,ebc-emovie
+八大精彩台,gtv-jct
+八大戏剧,gtv-41
+八大娱乐,gtv-86
+八大综艺,grt
+采昌影剧台,caichang
+美亚电影台,meiah-movies
+猪哥亮歌厅秀,zglgtx
+民视综艺,ftv-reality
+民视影剧,ftv-drama
+三立都会台,settv-city
+三立戏剧台,settv-drama
+中视经典台,ctv-classic
+中天娱乐,cti-yule
+靖洋戏剧台,jyxj
+靖天映画,jtyh
+靖天电影台,jtdy
+靖天戏剧台,jtxjt
+韩国娱乐台 KMTV,kmtv
+公视戏剧,gsxj
+影迷数位纪实台,ymswjst
+影迷数字电影台,fans-cinema
+视纳华仁纪实频道,cnex
+MTV Live HD 频道,mtv
+ELTA 娱乐台,elta-ylt
+Channel 5,channel-5
+Channel 8,channel8
+Channel U,channel-u
+8TV,8tv
+TV9,tv9
+CM+,cm-plus
+E乐,singtel-tv
+TV1,tv1-my
+TV2,tv2-my
+TV3,tv3-my
+ChannelNewsAsia,channelnewsasia
+OKEY,okey
+TVB Magic,tvb-magic
+tvN Movies,tvn-movies
+AXN,axn
+TV Alhijrah,tv-alhijrah
+ColorsHindi,colorshindi
+TVS,tvs
+tvN,tvn
+BeritaRTM,beritartm
+SukanRTM,sukanrtm
+HITSMovies,hitsmovies
+ShowCase,showcase
+BBCEarth,bbcearth
+Mediacorp Suria,mediacorp-suria
+Mediacorp Vasantham,mediacorp-vasantham
+Gem,gem
+GlobalTrekker,globaltrekker
+DramaSangat,dramasangat
+SunTV,suntv
+SunMusic,sunmusic
+SunNews,sunnews
+AwesomeTV,awesometv
+DidikTV7,didiktv7
+Adithya,adithya
+KTVHD,ktvhd
+SunLife,sunlife
+StarVijay,starvijay
+ColorsTamil,colorstamil
+ZeeTamil,zeetamil
+ZeeCinemaHD,zeecinemahd
+Boo,boo
+MTVLive,mtvlive
+Bernama,bernama
+Moonbug,moonbug
+Hub都会,HubECity
+Hub娱家,HubVVDrama
+HubSports 1,hubsports1
+HubSports2,hubsports2
+HubSports3,hubsports3
+HubSport4,hubsports4
+HubSports Plus,hubsports-plus
+Hub Premier 1,hubpremier1
+HubPremier2,hubpremier2
+HubPremier3,hubpremier3
+HubPremier 4,hubpremier4
+HubPremier 5,hubpremier5
+Hub Sensasi,hub-sensasi
+tvn HD,tvnhd
+AstroWarna Hub版,astro-warna-hub
+ONEMalay,one-malay
+Astro AEC,astro-aec
+Astro 欢喜台,astro-huaheedai
+Astro SuperSport,super-sports1
+Astro SuperSport 2,super-sports2
+Astro SuperSport 3,super-sports3
+Astro SuperSport 4,super-sports4
+Arena Bola,arena-bola
+Arena Bola2,arena-bola2
+Astro 爱奇艺,astro-iqiyi
+Astro AOD 311 国语,astro-aod
+Astro AOD 311 粤语,astro-aod-311-hk
+Astro QJ,astro-quanjia
+Astro Awani,astro-awani
+Astro Arena HD,astro-arena-hd
+Astro Arena 2,astro-arena2
+Astro Citra,astro-citra
+Astro Prima,astro-prima
+Astro Aura,astro-aura
+Astro RIA,astro-ria
+Astro ONE,astro-one
+AstroPremier,astropremier
+Astro Ceria,astro-ceria
+Astro Vaanavil,astro-vaanavil
+Astro Vinmeen,astro-vinmeen
+Astro Warna,astro-warna
+Astro Vellithirai,astro-vellithirai
+Astro Rania,astro-rania
+Astro Oasis,astro-oasis
+Astro TUTOR TV,astro-tutor-tv
+Astro GolfChannel,astro-golfchannel
+beIN Sports,beinsports
+beIN Sports 2,beinsports2
+beIN Sports 3,beinsports3
+ELTA 体育-1,elta-sport1
+ELTA 体育-2,elta-sport2
+ELTA 体育-3,elta-sport3
+ELTA体育4台,elta-sport4
+博斯网球,sportcast-tennis
+博斯运动-1,sportcast1
+博斯运动-2,sportcast2
+博斯无限,sportcast-wx
+博斯高球-1,sportcast-golf1
+博斯高球-2,sportcast-golf2
+博斯魅力,sportcast-meili
+ESPN,espn
+ESPN 2,espn2
+ESPN 3,espn3
+ESPN 4,espn4
+myTV SUPER直播足球1台,mytv-super-soccer1
+myTV SUPER直播足球2台,mytv-super-soccer2
+myTV SUPER直播足球3台,mytv-super-soccer3
+myTV SUPER直播足球4台,mytv-super-soccer4
+myTV SUPER 18,mytvsuper-18
+纬来体育,videoland-sport
+NBA,nba
+WWE,wwe
+DAZN 1,eleven-sport1
+DAZN 2,eleven-sport2
+Eurosports-1,eurosports-1
+SPOTV,spotv
+SPOTV-2,spotv2
+时尚运动 X,ssydx
+GINX Esports TV,ginx-esports
+Tech Storm,tech-storm
+TRACE Sport Stars,trace-sport-stars
+W-Sport,w-sport
+PremierSports,premiersports
+智林体育台,zl-sports
+新时代电视,fairchildtv
+新时代电视二台,fairchildtv2
+城市电视,talentvisiontv
+HBO HD,hbo-hd
+HBO Hits HD,hbo-hits-hd
+HBO Family HD,hbo-family
+HBO Signature HD,hbo-signature
+Cinemax,cinemax
+CNN International,cnn-international
+好莱坞电影,hollywood-movie
+ROCK Action,rock-action
+ROCK Entertainment,rock-entertaiment
+Bloomberg,bloomberg
+amc 最爱电影,amc-movie
+美国中文电视,sinovision
+Lifetime 娱乐频道,lifetime
+HLN,cnn-hln
+fun 探索娱乐台,festival4k
+Euronews,euronews
+MyCinema Europe HD,mycinema-europe
+VOA 美国之音,voa
+DW 德国之声,dw
+ABC News,abc-news
+BBC World News,bbc-world-news
+CNBC,cnbc
+上海都市,shds
+上海新闻,shxw
+五星体育,wxty
+劲爆体育,jbty
+广东体育,gdty
+第一财经,yicai
+辽宁体育,lnty
+天津体育,tjty
+广东珠江,gdzj
+河南梨园,hnly
+辽宁都市,lnds
+辽宁影视,lnys
+黑龙江都市,hljds
+广州综合,gzzh
+广州影视,gzys
+广州竞赛,gzjs
+广东影视,gdys
+广东新闻,gdxw
+广东民生,gdms
+广东少儿,gdse
+迪士尼频道,disney
+Animax 卡通,animax-cartoon
+DreamWorks 梦工厂动画,dreamworks
+小尼克频道,nick-jr
+尼克儿童频道,nickelodeon
+MOMO 亲子台,momo-kids
+东森幼幼台,ebc-yoyo
+CN卡通,cn-cartoon
+靖天卡通台,jtkt
+靖天育乐台,jtyl
+i-Fun 动漫台,i-fun
+ELTV生活英語台,eltv
+Boomerang HD,boomerang-hd
+靖洋卡通 NiceBingo,nice-bingo
+达文西频道,da-vinci
+探索频道,discovery
+探索科学频道,discovery-sci
+探索亚洲频道,discovery-asia
+DMAX,dmax
+History 频道,history
+History-2 频道,history-2
+Love Nature,love-nature
+国家地理 野生频道,natgeo-wild
+民视旅游,ftv-travel
+美食星球频道,food-planet
+EYE 旅游台,eye-travel
+ELTA 生活旅游台,elta-lifetravel
+车迷TV,motorvision
+动物星球频道,animal-planet
+TLC 旅游生活頻道,tlc
+亚洲旅游台,asia-travel
+Asian Food Network,asian-food-network
+CI 罪案侦查频道,ci
+滚动力 rollor,rollor
+LUXE TV Channel,luxe-tv
+NHK General,nhk-g
+NHK Education,nhk-e
+日本电视台,nippon-tv
+TBS TV,tbs-tv
+富士电视台,fujitv
+朝日电视台,tv-asahi
+东京电视台,tv-tokyo
+JSPORTS 1,jsports1
+JSPORTS 2,jsports2
+JSPORTS 3,jsports3
+JSPORTS 4,jsports4
+KBS 1,kbs-1
+KBS 2,kbs-2
+KBS Drama,kbs-drama
+KBS Story,kbs-story
+KBS Life,kbs-life
+KBS Joy,kbs-joy
+KBS Kids,kbs-kids
+KBSWorld,kbsworld
+KBS NEWS,kbs-news
+SBS,sbs
+SBS Plus,sbs-plus
+SBS funE,sbs-fune
+SBS M,sbs-m

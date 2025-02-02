@@ -1,0 +1,59 @@
+# This is a basic workflow to help you get started with Actions
+
+name: tv/vod
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # push:
+    # branches: [ "main" ]
+  schedule:
+    - cron: '0 23 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  get_tv_interface_job:
+    runs-on: ubuntu-latest    
+    steps:
+      - uses: actions/checkout@v4
+      - name: download json and default first
+        id: step2
+        run: |
+          clock=`date "+%Y%m%d%H%M%S"`
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          # rm -rf tv/vod/js
+          # rm -rf tv/vod/lib
+          mkdir -p tv/vod/jar
+          git clone https://github.com/fish2018/PG.git
+          unzip -o PG/pg*.zip -d tv/vod/
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/vod/README.md
+          echo "|---|---|" >> tv/vod/README.md
+          git clone https://github.com/gaotianliuyun/gao.git
+          mv gao/jar/* tv/vod/jar/
+          md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
+          arr=(
+            "http://www.饭太硬.com/tv/,true"
+            "https://mpanso.me/DEMO.json,false"
+            "http://ok321.top/ok,true"
+            "http://肥猫.com,true"
+            "http://www.fish2018.us.kg/z/FongMi.json,false"
+          )
+          for i in "${!arr[@]}"; do
+            IFS=',' read -r url flag <<< "${arr[i]}"
+            
+            if [[ "$flag" == "true" ]]; then
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "https://www.xn--sss604efuw.com/jm/jiemi.php?url=$url"
+            else
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url" || touch "tv/vod/$i.json"
+            fi
+            echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
+          done
+          rm -rf PG gao
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'

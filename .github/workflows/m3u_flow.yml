@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: tv/live/tv.m3u
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # push:
+    # branches: [ "main" ]
+  schedule:
+    - cron: '0 23 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  iptv_youtube_live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: parse youtube channel
+        id: step2
+        run: |
+          clock=`date "+%Y%m%d%H%M%S"`
+          echo "clock=$(($clock))" >> $GITHUB_OUTPUT
+          mkdir -p temp_tv_live
+          cp tv/live/* temp_tv_live
+          cd temp_tv_live && npm i iptv-playlist-parser
+          # node generate.js
+          node merge.js
+          cd .. && mv temp_tv_live/tv.m3u8 tv/live/tv.m3u8
+          rm -rf temp_tv_live
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message:  ${{ steps.step2.outputs.clock }} updated
+          push_options: '--force'
