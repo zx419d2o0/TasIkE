@@ -1,0 +1,300 @@
+use std::{
+ error::Error, fs, path::Path
+};
+use reqwest::{
+    blocking::Client,
+    header::{HeaderMap, HeaderValue, AUTHORIZATION, USER_AGENT}
+};
+use base64::{engine::general_purpose, Engine as _};
+use chrono::Local;
+use clap::Parser;
+use serde::{Deserialize, Serialize};
+use serde_json::json;
+
+#[derive(Parser)]
+#[command(about = "Add Commit Push")]
+struct Args {
+    #[arg(short, long)]
+    token: String,
+    
+    #[arg(short, long)]
+    repo_path: String,
+    
+    #[arg(short, long)]
+    path: String,
+    
+    #[arg(short, long)]
+    commit_message: Option<String>,
+}
+
+#[derive(Deserialize)]
+struct RefResponse {
+    object: ObjectObject, // 包含 sha 等信息
+}
+
+#[derive(Deserialize)]
+struct ObjectObject {
+    sha: String,       // 提交的 SHA
+}
+
+#[derive(Deserialize)]
+struct TreeResponse {
+    // sha: String,
+    tree: Vec<TreeItem>,
+}
+
+#[derive(Deserialize, Serialize, Clone, Debug)]
+struct TreeItem {
+    path: String,
+    mode: String,
+    r#type: String,
+    sha: Option<String>,
+    content: Option<String>,
+}
+
+// 获取远程仓库的最新 commit SHA
+fn get_latest_commit_sha(client: &Client, repo: &str) -> Result<String, Box<dyn Error>> {
+    let url = format!("https://api.github.com/repos/{}/git/refs/heads/main", repo);
+    let response = client.get(&url)
+        .send()?
+        .json::<RefResponse>()?;
+    
+    Ok(response.object.sha)
+}
+
+fn get_tree_by_sha(client: &Client, repo: &str, commit_sha: &str) -> Result<Vec<TreeItem>, Box<dyn Error>> {
+    let url = format!("https://api.github.com/repos/{}/git/trees/{}?recursive=true", repo, commit_sha);
+    let response = client.get(&url)
+        .send()?
+        .json::<TreeResponse>()?;
+
+    Ok(response.tree)
+}
+
+fn create_tree(client: &Client, repo: &str, repo_tree: Vec<TreeItem>, local_files: Vec<TreeItem>) -> Result<String, Box<dyn Error>> {
+    let mut updated_files = Vec::new(); // 存储更新后的文件列表
+
+    // 先收集远程树中现有的文件
+    for remote_file in &repo_tree {  // 遍历远程树中的文件
+        let mut should_add = true;
+        
+        // 如果本地有修改过的文件，则更新对应的文件
+        for local_file in &local_files {
+            if local_file.path == remote_file.path {
+                // 如果本地文件和远程文件相同，则替换为本地文件
+                updated_files.push(local_file.clone());  // 更新文件
+                should_add = false;
+                break;
+            }
+        }
+
+        // 如果本地没有相同的文件路径，则保留远程树中的文件
+        if should_add {
+            updated_files.push(remote_file.clone()); // 保留远程文件
+        }
+    }
+
+    // 添加本地有的但远程没有的文件
+    for local_file in &local_files {
+        if !updated_files.iter().any(|f| f.path == local_file.path) {
+            updated_files.push(local_file.clone()); // 新文件，添加到树中
+        }
+    }
+
+    // 构建请求的 JSON 负载
+    let url = format!("https://api.github.com/repos/{}/git/trees", repo);
+    let payload = json!({
+        "tree": updated_files.iter().map(|file| {
+            let mut file_data = json!({
+                "path": file.path,
+                "mode": file.mode,
+                "type": file.r#type,
+            });
+
+            // 如果是新增或修改文件，必须传 content 或 sha
+            if let Some(sha) = &file.sha {
+                file_data["sha"] = json!(sha);
+            }
+            if let Some(content) = &file.content {
+                file_data["content"] = json!(content);
+            }
+
+            file_data
+        }).collect::<Vec<_>>(),
+    });
+
+    // 发送请求创建新的 GitHub Tree
+    let response = client.post(&url)
+        .json(&payload)
+        .send()
+        .map_err(|e| Box::new(e) as Box<dyn Error>)?;
+
+    // 打印请求和响应（可以调试用）
+    // println!("request:{:?}", payload);
+    // println!("response:{:?}", response);
+
+    // 获取 GitHub 返回的 tree sha
+    let tree_response: serde_json::Value = response.json().map_err(|e| Box::new(e) as Box<dyn Error>)?;
+
+    // 返回 sha
+    tree_response["sha"].as_str().map(|s| s.to_string()).ok_or_else(|| "Failed to get tree sha".into())
+}
+
+// 创建 commit 并推送到 GitHub
+fn create_and_push_commit(client: &Client, repo: &str, commit_message: &str, parent_sha: Option<String>, tree_sha: &str) -> Result<(), Box<dyn std::error::Error>> {
+    // 创建 commit payload
+    let url = format!("https://api.github.com/repos/{}/git/commits", repo);
+    let payload = json!({
+        "message": commit_message,
+        "tree": tree_sha,
+        "parents": parent_sha.map(|sha| vec![sha]).unwrap_or_else(Vec::new)
+    });
+
+    // 发送创建 commit 请求
+    let response = client.post(&url)
+        .json(&payload)
+        .send()
+        .map_err(|e| Box::new(e) as Box<dyn std::error::Error>)?;
+
+    // 如果请求成功，解析 commit sha
+    if response.status().is_success() {
+        let commit_info: serde_json::Value = response.json().map_err(|e| Box::new(e) as Box<dyn std::error::Error>)?;
+        let new_commit_sha = commit_info["sha"].as_str().ok_or("Missing commit sha")?.to_string();
+        
+        // 更新分支引用
+        update_ref(client, repo, &new_commit_sha)?;
+
+        println!("✅ Commit successfully created and pushed: {}", commit_message);
+        Ok(())
+    } else {
+        Err("Failed to create commit".into())
+    }
+}
+
+fn update_ref(client: &Client, repo: &str, commit_sha: &str) -> Result<(), Box<dyn std::error::Error>> {
+    let url = format!("https://api.github.com/repos/{}/git/refs/heads/main", repo);
+    
+    let payload = json!({
+        "sha": commit_sha,
+        // "force": true  // 如果你想强制推送
+    });
+
+    let response = client.patch(&url)
+        .json(&payload)
+        .send()
+        .map_err(|e| Box::new(e) as Box<dyn std::error::Error>)?;
+
+    // 检查响应状态码
+    if response.status().is_success() {
+        Ok(())
+    } else {
+        Err("Failed to update ref".into())
+    }
+}
+
+fn upload_blob(client: &Client, repo: &str, content: &[u8]) -> Result<String, Box<dyn Error>> {
+    let encoded_content = general_purpose::STANDARD.encode(content);
+    let url = format!("https://api.github.com/repos/{}/git/blobs", repo);
+    let payload = json!({
+        "content": encoded_content,
+        "encoding": "base64"
+    });
+
+    let response = client.post(&url)
+        .json(&payload)
+        .send()?
+        .json::<serde_json::Value>()?;
+
+    response["sha"].as_str()
+        .map(|s| s.to_string())
+        .ok_or_else(|| "Failed to get blob sha".into())
+}
+
+fn is_text_file(content: &[u8]) -> bool {
+    match std::str::from_utf8(content) {
+        Ok(_) => true,  // 可解析为 UTF-8，说明是文本
+        Err(_) => false, // 解析失败，说明是二进制
+    }
+}
+
+// 递归收集所有文件，准备创建 tree
+fn collect_files(client: &Client, local_path: &Path, target_path: &str, repo: &str) -> Vec<TreeItem> {
+    let mut files = Vec::new();
+
+    if local_path.is_file() {
+        let content = fs::read(local_path).expect("Failed to read file");
+        let file_name = local_path.file_name().unwrap().to_str().unwrap();
+        let full_path = format!("{}/{}", target_path, file_name);
+
+        if is_text_file(&content) {
+            // **文本文件，直接放 content**
+            files.push(TreeItem {
+                path: full_path,
+                mode: "100644".to_string(),
+                r#type: "blob".to_string(),
+                sha: None,
+                content: Some(String::from_utf8_lossy(&content).into_owned()),
+            });
+        } else {
+            // **二进制文件，先上传 blob，获取 sha**
+            let blob_sha = upload_blob(client, repo, &content).expect("Failed to upload blob");
+            files.push(TreeItem {
+                path: full_path,
+                mode: "100644".to_string(),
+                r#type: "blob".to_string(),
+                sha: Some(blob_sha),
+                content: None,
+            });
+        }
+    } else if local_path.is_dir() {
+        for entry in fs::read_dir(local_path).expect("Failed to read directory") {
+            let entry = entry.expect("Failed to access entry");
+            let entry_path = entry.path();
+            let sub_target_path = target_path.to_string();
+            files.extend(collect_files(client, &entry_path, &sub_target_path, repo));
+        }
+    }
+
+    files
+}
+
+fn main() {
+    let args = Args::parse();
+    let commit_message = args.commit_message.unwrap_or_else(|| Local::now().format("%Y-%m-%d %H:%M:%S").to_string());
+    let client = Client::builder()
+        .default_headers({
+            let mut headers = HeaderMap::new();
+            headers.insert(AUTHORIZATION, HeaderValue::from_str(&format!("token {}", args.token)).unwrap());
+            headers.insert(USER_AGENT, HeaderValue::from_static("RustClient"));
+            headers
+        })
+        .build()
+        .expect("Failed to build client");
+
+    
+    let parts: Vec<&str> = args.repo_path.splitn(3, '/').collect();
+    if parts.len() < 2 {
+        panic!("`repo_path` 格式错误，需包含至少 `username/repo`");
+    }
+    let repo = format!("{}/{}", parts[0], parts[1]);
+    let target_path = if parts.len() > 2 { parts[2] } else { "" };
+    
+    let local_path = Path::new(&args.path);
+    let files = collect_files(&client, local_path, &target_path, &repo);
+    if files.is_empty() {
+        println!("⚠️ 没有找到需要上传的文件");
+        return;
+    }
+
+    let latest_commit_sha = get_latest_commit_sha(&client, &repo)
+        .expect("Failed to get latest commit SHA");
+
+    let parent_tree = get_tree_by_sha(&client, &repo, &latest_commit_sha)
+        .expect("Failed to get parent tree");
+    
+    let tree_sha = create_tree(&client, &repo, parent_tree, files)
+        .expect("Failed to create tree");
+    
+    create_and_push_commit(&client, &repo, &commit_message, Some(latest_commit_sha), &tree_sha)
+        .expect("Failed to push commit");
+}
