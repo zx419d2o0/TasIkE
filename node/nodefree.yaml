@@ -46,29 +46,99 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 🇨🇳_CN_中国->🇬🇧_GB_英国
-    type: ss
-    server: fr.fastsoonlink.com
-    port: 40034
-    password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00
+  - name: 🇬🇧_GB_英国_1
+    type: trojan
+    server: 18.135.122.249
+    port: 22222
+    network: tcp
+    password: telegram-id-directvpn
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
     ip-version: dual
     udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸_US_美国->🇫🇷_FR_法国_1
+  - name: 🇺🇸_US_美国_1
+    type: ss
+    server: 47.129.223.160
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_2
+    type: ss
+    server: 54.212.56.86
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_1
     type: vmess
-    server: 151.101.130.133
+    server: 151.101.0.155
     port: 80
     uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70
     network: ws
     ws-opts:
-      path: /racevpn?telegram-
+      path: /racevpn
       headers:
         host: telegram-isvvpn.ir
     ip-version: dual
     udp: true
     alterId: 0
     cipher: auto
-  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_1
+  - name: 🇩🇪_DE_德国
+    type: ss
+    server: 134.255.210.49
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_3
+    type: ss
+    server: 35.94.43.251
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_4
+    type: ss
+    server: 185.47.253.171
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+    type: ss
+    server: 54.188.92.179
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇩🇪_DE_德国->🇺🇸_US_美国
+    type: trojan
+    server: 3.126.41.247
+    port: 22222
+    network: tcp
+    password: telegram-id-privatevpns
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
+    ip-version: dual
+    udp: true
+  - name: 🇺🇸_US_美国_5
+    type: ss
+    server: 35.91.180.231
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_2
     type: vmess
     server: join.ISVvpn.fastly80-3.hosting-ip.com
     port: 80
@@ -82,142 +152,40 @@ proxies:
     udp: true
     alterId: 0
     cipher: auto
-  - name: 🇺🇸_US_美国->🇩🇪_DE_德国_2
+  - name: 🇷🇺_RU_俄罗斯
     type: vmess
-    server: 151.101.0.155
-    port: 80
-    uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70
+    server: 185.22.153.73
+    port: 17479
+    uuid: af7f07dc-d726-4b1e-967d-dbb6c594999f
     network: ws
-    sni: ''
-    fingerprint: ''
     ws-opts:
-      path: /racevpn
-      headers:
-        host: telegram-isvvpn.ir
+      path: github.com/Alvin9999
     ip-version: dual
     udp: true
     alterId: 0
     cipher: auto
-  - name: 🇺🇸_US_美国_1
-    type: vmess
-    server: s1.db-link01.top
-    port: 2095
-    uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
-    network: ws
-    sni: ''
-    skip-cert-verify: true
-    ws-opts:
-      path: /dabai.in104.24.89.11
-      headers:
-        host: 100-105-92-158.s1.db-link01.top
+  - name: 🇬🇧_GB_英国_2
+    type: trojan
+    server: 18.133.167.84
+    port: 22222
+    network: tcp
+    password: telegram-id-privatevpns
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
     ip-version: dual
     udp: true
-    alterId: 0
-    cipher: auto
-  - name: 🇺🇸_US_美国_2
-    type: ss
-    server: 54.212.56.86
-    port: 443
-    password: amazonskr05
+  - name: 🇺🇸_US_美国_6
+    type: trojan
+    server: 13.50.25.213
+    port: 22222
+    network: tcp
+    password: telegram-id-privatevpns
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
     ip-version: dual
     udp: true
-    cipher: aes-256-cfb
-  - name: 🇷🇴_RO_罗马尼亚_1
-    type: ss
-    server: 185.193.49.88
-    port: 989
-    password: f8f7aCzcPKbsF8p3
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇳🇱_NL_荷兰->🇺🇸_US_美国
-    type: ss
-    server: 193.29.139.189
-    port: 8080
-    password: cvII85TrW6n0OGyfpHVS1u
-    ip-version: dual
-    udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇷🇺_RU_俄罗斯_1
-    type: ss
-    server: 217.30.10.18
-    port: 9045
-    password: Lp27rqyJq72bZsqX
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇬🇧_GB_英国->🇺🇸_US_美国
-    type: ss
-    server: uk-dc1.yangon.club
-    port: 443
-    password: shadowsocks
-    ip-version: dual
-    udp: true
-    cipher: aes-128-gcm
-  - name: 🇷🇴_RO_罗马尼亚_2
-    type: ss
-    server: 188.214.36.155
-    port: 989
-    password: f8f7aCzcPKbsF8p3
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇮🇳_IN_印度
-    type: ss
-    server: 103.104.247.47
-    port: 8080
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-    ip-version: dual
-    udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸_US_美国_3
-    type: ss
-    server: 185.47.253.171
-    port: 989
-    password: f8f7aCzcPKbsF8p3
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国->🇫🇷_FR_法国_2
-    type: vmess
-    server: 151.101.194.133
-    port: 80
-    uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70
-    network: ws
-    sni: ''
-    fingerprint: ''
-    ws-opts:
-      path: /racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn
-      headers:
-        host: telegram-isvvpn.ir
-    ip-version: dual
-    udp: true
-    alterId: 0
-    cipher: auto
-  - name: 🇫🇷_FR_法国
-    type: ss
-    server: 62.210.88.22
-    port: 443
-    password: R0flZcpSJ1GjvH3mzap1qg
-    ip-version: dual
-    udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸_US_美国_4
-    type: ss
-    server: 34.221.171.18
-    port: 443
-    password: amazonskr05
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇺🇸_US_美国_5
-    type: ss
-    server: 185.47.252.251
-    port: 989
-    password: f8f7aCzcPKbsF8p3
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
   - name: 🇧🇪_BE_比利时
     type: ss
     server: 192.71.249.146
@@ -226,92 +194,142 @@ proxies:
     ip-version: dual
     udp: true
     cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸_US_美国_6
+  - name: 🇺🇸_US_美国_7
+    type: trojan
+    server: 18.171.21.26
+    port: 22222
+    network: tcp
+    password: telegram-id-privatevpns
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
+    ip-version: dual
+    udp: true
+  - name: 🇮🇹_IT_意大利
     type: ss
-    server: 52.38.165.76
+    server: 37.143.129.230
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_8
+    type: ss
+    server: 35.91.120.138
     port: 443
     password: amazonskr05
     ip-version: dual
     udp: true
     cipher: aes-256-cfb
-  - name: 🇷🇺_RU_俄罗斯_2
+  - name: 🇺🇸_US_美国_9
     type: ss
-    server: 217.30.10.18
-    port: 9041
-    password: U6qnYRhfyDmn8sgn
-    ip-version: dual
-    udp: true
-    cipher: aes-256-cfb
-  - name: 🇬🇧_GB_英国
-    type: ss
-    server: 77.239.99.180
-    port: 34775
-    password: nHDhqhjSzmrCNUeRalyPwQ
-    ip-version: dual
-    udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇷🇺_RU_俄罗斯_3
-    type: ss
-    server: 89.221.224.166
-    port: 1443
-    password: NjBlZDlk
-    ip-version: dual
-    udp: true
-    cipher: chacha20-ietf-poly1305
-  - name: 🇸🇬_SG_新加坡->🇺🇸_US_美国
-    type: ss
-    server: 13.229.181.179
+    server: 34.221.167.203
     port: 443
     password: amazonskr05
     ip-version: dual
     udp: true
     cipher: aes-256-cfb
-  - name: 🇷🇺_RU_俄罗斯_4
+  - name: 🇱🇹_LT_立陶宛
     type: ss
-    server: 217.30.10.18
-    port: 9060
-    password: ueLXVkvh4hckhErQ
+    server: 147.78.1.27
+    port: 989
+    password: f8f7aCzcPKbsF8p3
     ip-version: dual
     udp: true
     cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_10
+    type: ss
+    server: 34.217.211.139
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_11
+    type: ss
+    server: 52.11.187.58
+    port: 443
+    password: amazonskr05
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇦_UA_乌克兰
+    type: ss
+    server: 176.103.53.105
+    port: 989
+    password: f8f7aCzcPKbsF8p3
+    ip-version: dual
+    udp: true
+    cipher: aes-256-cfb
+  - name: 🇺🇸_US_美国_12
+    type: vmess
+    server: 142.4.104.33
+    port: 52143
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    network: tcp
+    ip-version: dual
+    udp: true
+    alterId: 64
+    cipher: auto
+  - name: 🇺🇸_US_美国->🇫🇷_FR_法国
+    type: trojan
+    server: 13.61.202.11
+    port: 22222
+    network: tcp
+    password: telegram-id-directvpn
+    sni: trojan.burgerip.co.uk
+    alpn:
+      - http/1.1
+    ip-version: dual
+    udp: true
+  - name: 🇪🇸_ES_西班牙
+    type: ss
+    server: 150.241.97.212
+    port: 1601
+    password: yhDWDX3XM7yLFr1YWB7QOe
+    ip-version: dual
+    udp: true
+    cipher: chacha20-ietf-poly1305
   - name: 🇨🇳_CN_中国->🇺🇸_US_美国
-    type: ss
-    server: us.fastsoonlink.com
-    port: 40001
-    password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00
+    type: trojan
+    server: 219.135.231.205
+    port: 21019
+    password: 20a84ebf-9341-4f5f-8245-3975e2fdeee5
+    skip-cert-verify: true
     ip-version: dual
     udp: true
-    cipher: chacha20-ietf-poly1305
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: ♻️ 自动选择
     type: url-test
@@ -319,30 +337,32 @@ proxy-groups:
     interval: 300
     tolerance: 5000
     proxies:
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: 🌍 国外媒体
     type: select
@@ -350,120 +370,128 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
   - name: 🎯 全球直连
     type: select
@@ -487,30 +515,32 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇳_CN_中国->🇬🇧_GB_英国
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
-      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇬🇧_GB_英国_1
       - 🇺🇸_US_美国_1
       - 🇺🇸_US_美国_2
-      - 🇷🇴_RO_罗马尼亚_1
-      - 🇳🇱_NL_荷兰->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_1
-      - 🇬🇧_GB_英国->🇺🇸_US_美国
-      - 🇷🇴_RO_罗马尼亚_2
-      - 🇮🇳_IN_印度
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇩🇪_DE_德国
       - 🇺🇸_US_美国_3
-      - 🇺🇸_US_美国->🇫🇷_FR_法国_2
-      - 🇫🇷_FR_法国
       - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国->🇷🇴_RO_罗马尼亚
+      - 🇩🇪_DE_德国->🇺🇸_US_美国
       - 🇺🇸_US_美国_5
-      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇷🇺_RU_俄罗斯
+      - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_6
-      - 🇷🇺_RU_俄罗斯_2
-      - 🇬🇧_GB_英国
-      - 🇷🇺_RU_俄罗斯_3
-      - 🇸🇬_SG_新加坡->🇺🇸_US_美国
-      - 🇷🇺_RU_俄罗斯_4
+      - 🇧🇪_BE_比利时
+      - 🇺🇸_US_美国_7
+      - 🇮🇹_IT_意大利
+      - 🇺🇸_US_美国_8
+      - 🇺🇸_US_美国_9
+      - 🇱🇹_LT_立陶宛
+      - 🇺🇸_US_美国_10
+      - 🇺🇸_US_美国_11
+      - 🇺🇦_UA_乌克兰
+      - 🇺🇸_US_美国_12
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇪🇸_ES_西班牙
       - 🇨🇳_CN_中国->🇺🇸_US_美国
 rules:
 # 本地/局域网地址
