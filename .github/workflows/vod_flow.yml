@@ -52,7 +52,7 @@ jobs:
             fi
             echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/README.md
           done
-          sed -n '/今日更新内容：/,/```bash/{/```bash/!p}' PG/README.md | sed '1s/^/```text /; $s/```bash/```/' > README.md
+          sed -n '/今日更新内容：/,/```bash/{/```bash/!p}' PG/README.md | sed '1s/^/```text /; $s/```bash/```/' > tv/vod/README.md
           rm -rf PG gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
