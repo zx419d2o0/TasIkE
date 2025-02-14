@@ -30,8 +30,8 @@ jobs:
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/PG.git
           unzip -o PG/pg*.zip -d tv/vod/
-          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/vod/README.md
-          echo "|---|---|" >> tv/vod/README.md
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/README.md
+          echo "|---|---|" >> tv/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/* tv/vod/jar/
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
@@ -50,9 +50,9 @@ jobs:
             else
               curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url" || touch "tv/vod/$i.json"
             fi
-            echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/vod/README.md
+            echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/README.md
           done
-          sed -n '/今日更新内容：/,/```bash/{/```bash/!p}' PG/README.md > tv/vod/README.md
+          sed -n '/今日更新内容：/,/```/{/```/!p}' PG/README.md > tv/vod/README.md
           rm -rf PG gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
