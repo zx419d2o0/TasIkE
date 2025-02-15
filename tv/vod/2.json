@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-02-15 07:12:07 <<<
+//      >>> 当前时间是：2025-02-16 07:10:54 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739496840442/okpng.png;md5;445b146844b070d9f79808a6da68cd76",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739618534671/okpng.png;md5;4f1674ade6f2fd199831b9b942dbcc16",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -13,7 +13,6 @@
 "timeout":30},
 {"key":"校长","name":"💮小章┃在线","type":3,"api":"csp_XiaoZhangGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt"},
 "timeout":30},
-{"key":"人人","name":"😘人人┃App","type":3,"api":"csp_RenRenGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"瓜子","name":"🍉瓜子┃App","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"热播","name":"📺热播┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
 "timeout":10},
@@ -124,7 +123,7 @@
 ],
 "ads":["mozai.4gtv.tv"],
 "lives":[
-{"name":"国内Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738209653780/zq.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"国内Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"一起看","type":3,"api":"csp_HuyaGuard","url":"yqk","playerType":2,"timeout":10},
 {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"肥羊B站直播","type":3,"api":"csp_FeiyangGuard","url":"bililive.m3u","timeout":10,"ua":"okhttp/3.15"},
