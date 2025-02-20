@@ -1,5 +1,5 @@
 
-//      >>> 当前时间是：2025-02-20 07:11:51 <<<
+//      >>> 当前时间是：2025-02-21 07:13:04 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://肥猫.com
 
@@ -11,15 +11,15 @@
 {"key":"豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
-{"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","https://feimao888.fun","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan2"}},
+{"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://feimao666.fun","http://feimao888.fun","http://feimaoai.site","http://www.labi88.sbs","https://mihdr.top"],"url_key":"Duopan2"}},
 {"key":"csp_Bili","name":"🅱┃️哔哩┃合集","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"http://uz.xn--z7x900a.com/bili.json","cookie":""},
 "style":{"type":"rect","ratio":1.333}},
 {"key":"csp_SuBaiBai","name":"🏳️┃素白┃影视","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
 {"key":"csp_AppRZ","name":"🕵️┃忍者┃影视","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
-{"key":"csp_XMUC","name":"🍚┃小米┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://milvdou.fun"],"url_key":"XMUC"}},
-{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv2","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
+{"key":"csp_XMUC","name":"🍚┃小米┃UC","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","https://milvdou.fun","https://54271.fun"],"url_key":"XMUC"}},
+{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.xhww.net","http://xhww.net","https://xiaomiai.site","http://www.miqk.cc"],"url_key":"Netfixtv2","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
 {"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"https://www.wogg.one/"},
 {"key":"csp_Lkdy","name":"🏔️┃来看┃影视","type":3,"api":"csp_Lkdy"},
 {"key":"csp_Lggys","name":"💗️┃攻阁┃影视","type":3,"api":"csp_Lggys"},
