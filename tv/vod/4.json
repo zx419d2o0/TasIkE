@@ -61,8 +61,8 @@
         },
         {
             "key": "当前版本",
-            "name": "真心20250224.zip",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/ZX/main/真心20250224.zip",
+            "name": "真心20250123-1.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/ZX/main/真心20250123-1.zip",
             "type": 3,
             "api": "csp_TgYunDouBanPan",
             "searchable": 0,
@@ -99,45 +99,6 @@
             }
         },
         {
-            "key": "玩偶 | 闪电uc",
-            "name": "玩偶 | 闪电uc",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://1.95.79.193/",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
-            "key": "玩偶 | 小米",
-            "name": "玩偶 | 小米",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "https://www.milvdou.fun/",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
-            "key": "玩偶 | 多多",
-            "name": "玩偶 | 多多",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://tv.yydsys.top/",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
             "key": "玩偶 | 蜡笔",
             "name": "玩偶 | 蜡笔",
             "type": 3,
@@ -159,7 +120,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://127.0.0.1:9966/api/proxy/https://mo.666291.xyz/",
+                "siteUrl": "http://www.muoupan.top/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -172,7 +133,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "https://woggpan.333232.xyz/",
+                "siteUrl": "https://www.wogg.net/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -198,7 +159,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://e.star2.cn/",
+                "siteUrl": "https://www.4.star2.cn/",
                 "commonConfig": "./json/peizhi.json"
             }
         },
