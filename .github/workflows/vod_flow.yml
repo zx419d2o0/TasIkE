@@ -25,12 +25,14 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          # rm -rf tv/vod/js
-          # rm -rf tv/vod/lib
+          rm -rf tv/vod/js tv/vod/lib
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/PG.git
-          unzip -o PG/pg*.zip -d tv/vod/
-          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/custom.json|" > tv/README.md
+          unzip -o PG/pg*.zip -d tv/vod/pg/
+          git clone https://github.com/fish2018/ZX.git
+          unzip -o ZX/真心*.zip -d tv/vod/zx/
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/pg/jsm.json|" > tv/README.md
+          echo "||https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/zx/FongMi.json|" >> tv/README.md
           echo "|---|---|" >> tv/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/* tv/vod/jar/
@@ -40,7 +42,7 @@ jobs:
             "https://mpanso.me/DEMO.json,false"
             "http://ok321.top/ok,true"
             "http://肥猫.com,true"
-            "http://www.fish2018.us.kg/z/FongMi.json,false"
+            "http://tvbox.王二小放牛娃.top,true"
           )
           for i in "${!arr[@]}"; do
             IFS=',' read -r url flag <<< "${arr[i]}"
@@ -53,7 +55,7 @@ jobs:
             echo "|[$i](https://github.moeyy.xyz/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/README.md
           done
           sed -n '/今日更新内容：/,/```bash/{/```bash/!p}' PG/README.md | sed '1s/^/```text\n/; $s/```bash/```/' > tv/vod/README.md
-          rm -rf PG gao
+          rm -rf PG ZX gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
