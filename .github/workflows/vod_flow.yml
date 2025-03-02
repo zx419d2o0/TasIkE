@@ -25,7 +25,7 @@ jobs:
         run: |
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
-          rm -rf tv/vod/js tv/vod/lib tv/vod
+          # rm -rf tv/vod/js tv/vod/lib
           mkdir -p tv/vod/jar
           git clone https://github.com/fish2018/ZX.git
           unzip -o ZX/真心*.zip -d tv/vod/local/
@@ -33,8 +33,8 @@ jobs:
           unzip -o PG/pg*.zip -d tv/vod/local/
           echo "|||" > tv/README.md
           echo "|---|---|" >> tv/README.md
-          echo "||https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/local/jsm.json|" >> tv/README.md
-          echo "||https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/local/FongMi.json|" >> tv/README.md
+          echo "||[PG](https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/local/jsm.json)|" >> tv/README.md
+          echo "||[真心](https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/local/FongMi.json)|" >> tv/README.md
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/* tv/vod/jar/
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
