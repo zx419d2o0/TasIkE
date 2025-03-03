@@ -30,28 +30,20 @@ jobs:
         id: step2
         run: |
           year=`date "+%Y"`
-          month=`date "+%m"`
+          month=`date "+%-m"`
+          month2=`date "+%m"`
           day=`date "+%d"`
-          month2=`date "+%-m"`
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           # Other steps that change files in the repository
           mkdir -p node
           arr=(
-            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.yaml,nodefree.yaml"
-            "https://nodefree.githubrowcontent.com/$year/$month/$year$month$day.txt,nodefree.txt"
-            "https://clashnode.github.io/uploads/$year/$month/0-$year$month$day.yaml,clashnode_0.yaml"
-            "https://clashnode.github.io/uploads/$year/$month/1-$year$month$day.yaml,clashnode_1.yaml"
-            "https://clashnode.github.io/uploads/$year/$month/2-$year$month$day.yaml,clashnode_2.yaml"
-            "https://clashnode.github.io/uploads/$year/$month/3-$year$month$day.yaml,clashnode_3.yaml"
-            "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.yaml,clashnode_4.yaml"
-            "https://clashnode.github.io/uploads/$year/$month/0-$year$month$day.txt,clashnode_0.txt"
-            "https://clashnode.github.io/uploads/$year/$month/1-$year$month$day.txt,clashnode_1.txt"
-            "https://clashnode.github.io/uploads/$year/$month/2-$year$month$day.txt,clashnode_2.txt"
-            "https://clashnode.github.io/uploads/$year/$month/3-$year$month$day.txt,clashnode_3.txt"
-            "https://clashnode.github.io/uploads/$year/$month/4-$year$month$day.txt,clashnode_4.txt"
-            "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt,clash.yaml"
-            "https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1,sb.txt"
+            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day.yaml,nodefree.yaml"
+            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day.txt,nodefree.txt"
+            "https://raw.githubusercontent.com/tony0392/ClashForge/main/clash_config.yaml,clash_config_1.yaml"
+            "https://raw.githubusercontent.com/seketiti/ClashForge/main/clash_config.yaml,clash_config_2.yaml"
+            "https://raw.githubusercontent.com/gooooooooooooogle/collectSub/main/sub/$year/$month/$month-$day.yaml,gooooooooooooogle.yaml"
+            "https://raw.githubusercontent.com/tagore-cai/proxy-sub/main/sub/$year/$month/$month-$day.yaml,collectSub.yaml"
           )
           echo "|||" > node/README.md
           echo "|-|-|" >> node/README.md
