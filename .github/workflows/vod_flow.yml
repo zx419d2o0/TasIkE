@@ -39,7 +39,7 @@ jobs:
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
           arr=(
             "http://www.饭太硬.com/tv/,true"
-            "https://mpanso.me/DEMO.json,false"
+            "https://mpanso.me/DEMO.json,true"
             "http://ok321.top/ok,true"
             "http://肥猫.com,true"
             "http://tvbox.王二小放牛娃.top,true"
