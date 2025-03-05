@@ -58,7 +58,7 @@ jobs:
             fi
             echo "|[$i](https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/$i.json)|$url|">>tv/README.md
           done
-          rm -rf PG ZX gao
+          rm -rf PG ZX goProxy gao
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message:  ${{ steps.step2.outputs.clock }} updated
