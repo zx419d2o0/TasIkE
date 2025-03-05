@@ -50,7 +50,7 @@ jobs:
           echo "|-|-|" >> node/README.md
           for i in "${!arr[@]}"; do
             IFS=',' read -r url name <<< "${arr[i]}"
-            curl -o "node/$name" "$url"
+            curl -f -o "node/$name" "$url" || echo "Download failed with status $?"
             echo "|$url|[`du -h node/$name`](https://raw.gitmirror.com/zx419d2o0/TasIkE/main/node/$name)|">>node/README.md
           done
           # sed -i '/^\s*#/d' node/nodefree.yaml
