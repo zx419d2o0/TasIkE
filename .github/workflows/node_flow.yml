@@ -32,16 +32,17 @@ jobs:
           year=`date "+%Y"`
           month=`date "+%-m"`
           month2=`date "+%m"`
-          day=`date "+%d"`
+          day=`date "+%-d"`
+          day2=`date "+%d"`
           clock=`date "+%Y%m%d%H%M%S"`
           echo "clock=$(($clock))" >> $GITHUB_OUTPUT
           # Other steps that change files in the repository
           mkdir -p node
           arr=(
-            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day.yaml,nodefree.yaml"
-            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day.txt,nodefree.txt"
-            "https://raw.githubusercontent.com/tony0392/ClashForge/main/clash_config.yaml,clash_config_1.yaml"
-            "https://raw.githubusercontent.com/seketiti/ClashForge/main/clash_config.yaml,clash_config_2.yaml"
+            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day2.yaml,nodefree.yaml"
+            "https://nodefree.githubrowcontent.com/$year/$month2/$year$month2$day2.txt,nodefree.txt"
+            "https://raw.githubusercontent.com/fish2018/ClashForge/main/clash_config.yaml,clash_config_1.yaml"
+            "https://raw.githubusercontent.com/tony0392/ClashForge/main/clash_config.yaml,clash_config_2.yaml"
             "https://raw.githubusercontent.com/gooooooooooooogle/collectSub/main/sub/$year/$month/$month-$day.yaml,gooooooooooooogle.yaml"
             "https://raw.githubusercontent.com/tagore-cai/proxy-sub/main/sub/$year/$month/$month-$day.yaml,collectSub.yaml"
           )
