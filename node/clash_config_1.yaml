@@ -7,8 +7,8 @@ log-level: info
 external-controller: 127.0.0.1:9090
 geodata-mode: true
 geox-url:
-  geoip: https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat
-  mmdb: https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-Country.mmdb
+  geoip: https://slink.ltd/https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat
+  mmdb: https://slink.ltd/https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-Country.mmdb
 dns:
   enable: true
   ipv6: false
@@ -19,8 +19,8 @@ dns:
   fake-ip-range: 198.18.0.1/16
   use-hosts: true
   nameserver:
-  - https://doh.pub/dns-query
   - https://dns.alidns.com/dns-query
+  - https://doh.pub/dns-query
   fallback:
   - https://doh.dns.sb/dns-query
   - https://dns.cloudflare.com/dns-query
@@ -32,784 +32,1000 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: chacha20-ietf-poly1305
-  country: 🇰 HK
-  name: 23|🇰 HK_273
-  password: 2afbc97400ca71c8f3306f9843a6e1c2
-  port: 443
-  server: 43.249.36.70
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 40|🇭🇰 香港-1B
-  network: tcp
-  port: '19901'
-  server: xg.dashuai.cyou
-  tls: false
+- name: 剩余流量：98.85 GB
   type: vmess
-  uuid: cc03e021-7483-4f04-8e94-eae68769d3fd
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 日本 | JPN 18
-  password: amazonskr05
-  port: 443
-  server: 13.230.20.120
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 20|🇯🇵
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.240
-  type: ss
-- alterId: 0
+  server: yes.mojcn.com
+  port: 16617
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
   cipher: auto
-  country: 🇵 JP
-  h2-opts: {}
-  http-opts: {}
-  name: 23| JP_276
+  udp: true
   network: ws
-  port: 11443
-  server: tls.17.node-for-bigairport.win
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 3519dfc0-fa27-41cc-8c19-981818f9f6d5
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇯🇵 JP
-  h2-opts: {}
-  http-opts: {}
-  name: 23|🇵 JP_277
-  network: ws
-  port: 14443
-  server: tls.14.node-for-bigairport.win
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 3519dfc0-fa27-41cc-8c19-981818f9f6d5
-  ws-path: /
-- alterId: 1
-  cipher: auto
-  country: 🇯🇵JP
-  h2-opts: {}
-  http-opts: {}
-  name: 23|🇯🇵JP_278
-  network: tcp
-  port: 21585
-  server: jp03-alt-vm0.entry.srthdw.art
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 1bc52308-0bd9-30d0-90fd-cef337875d10
-- alterId: 1
-  cipher: auto
-  country: 🇯🇵JP
-  h2-opts: {}
-  http-opts: {}
-  name: 23|🇯🇵JP_279
-  network: tcp
-  port: 21583
-  server: jp01-alt-vm0.entry.srthdw.art
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: c4b2e7ea-1a0e-316f-8e28-0717cc087534
-- alterId: 1
-  cipher: auto
-  country: 🇯🇵JP
-  h2-opts: {}
-  http-opts: {}
-  name: 23|🇯🇵JP_280
-  network: tcp
-  port: 21585
-  server: jp01-alt-vm0.entry.srthdw.art
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 1bc52308-0bd9-30d0-90fd-cef337875d10
-- alterId: 0
-  cipher: none
-  name: 41|11|11|11|11|11|11,16|日本|@ripao...
-  network: tcp
-  port: '550'
-  server: 20.78.127.141
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 韩国 | KOR 2
-  password: amazonskr05
-  port: 443
-  server: 54.180.128.213
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 韩国 | KOR 4
-  password: amazonskr05
-  port: 443
-  server: 43.201.56.142
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 新加坡 | SGP
-  password: amazonskr05
-  port: 443
-  server: 18.140.3.253
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 新加坡 | SGP 2
-  password: amazonskr05
-  port: 443
-  server: 54.255.224.231
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 22|🇨🇦 加拿大 | CAN
-  network: ws
-  port: 20340
-  server: 212.193.6.237
-  tls: false
-  type: vmess
-  udp: true
-  uuid: eba06379-a384-4705-b132-139eb6c2bd08
   ws-opts:
     path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 22|🇨🇦 加拿大 | CAN 3
-  network: ws
-  port: 20338
-  server: 212.193.6.237
-  tls: false
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 日本-优化2
   type: vmess
+  server: m.cnmjin.net
+  port: 16617
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
   udp: true
-  uuid: 44bcf822-896d-43eb-a7fe-69560f1042b7
+  network: ws
   ws-opts:
     path: /
-- cipher: chacha20-ietf-poly1305
-  country: 🇦CA
-  name: 23|🇨🇦CA_184
-  password: JIhN6rBKkaEboLNXVSv5rq
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 日本-优化3
+  type: vmess
+  server: t.cnmjcn.cyou
+  port: 16617
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 新加坡SG-T
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: usla.mjt000.com
+- name: 新加坡-优化
+  type: vmess
+  server: yes.mojcn.com
+  port: 16618
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 新加坡-优化3
+  type: vmess
+  server: t.cnmjcn.cyou
+  port: 16618
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 香港HY-优化
+  type: vmess
+  server: yes.mojcn.com
+  port: 16632
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 香港HY-优化2
+  type: vmess
+  server: m.cnmjin.net
+  port: 16632
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 香港wap-T
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: hinet.mjt000.com
+- name: 香港WAP-优化
+  type: vmess
+  server: yes.mojcn.com
+  port: 16622
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 香港WAP-优化2
+  type: vmess
+  server: m.cnmjin.net
+  port: 16622
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 台湾-优化
+  type: vmess
+  server: yes.mojcn.com
+  port: 16616
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 台湾-优化2-GPT
+  type: vmess
+  server: m.cnmjin.net
+  port: 16616
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 台湾-优化3
+  type: vmess
+  server: t.cnmjcn.cyou
+  port: 16616
+  uuid: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+  ws-path: /
+  ws-headers:
+    Host: 5a65fc0f36795c0b8119e96b7e6b3d8a.mobgslb.tbcache.com
+- name: 澳大利亚AU-T
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 5d335ddf-2ae7-4331-835d-6f9593fe8287
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-Rvm8
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-E4at
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-3Y1T
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-FGi6
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-YsHI
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-om8a
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-QzUC
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-QSYS
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 79b25abf-8730-426a-ab47-7e92c6a68007
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-ZtHY
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-jQtE
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-mYmu
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-r5jt
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-D5GQ
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: hinet.mjt000.com
+- name: 澳大利亚AU-T-FTDp
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-mLen
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 796c46f8-82a3-44e4-9937-0e5da73895dc
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-CjtL
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-vCeE
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-w3b7
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-rJ3c
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-rfqh
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-7IHa
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-zgZq
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: a9cda9d0-5802-400a-97da-66ceca68e8a2
+  udp: true
+  sni: au.mjt000.com
+- name: 新加坡SG-T-jC0K
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-Y2nU
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-R2sl
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-Orqz
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: hinet.mjt000.com
+- name: 澳大利亚AU-T-ulWr
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-9bTO
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: d384ad6d-d259-45eb-ba2e-1799fa426ed4
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-oUJn
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-oWPg
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-vy3b
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-PSM1
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-IPsy
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: hinet.mjt000.com
+- name: 澳大利亚AU-T-3ZjF
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: au.mjt000.com
+- name: 俄罗斯RU-T-tD89
+  type: trojan
+  server: ru.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: ru.mjt000.com
+- name: 英国UK-T-vTZH
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: a6f0acd5-0852-432a-b191-854658db6a92
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-TzPC
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-tVHX
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-pa4s
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-EDPf
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-P9vS
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-sNz8
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-vXXU
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: au.mjt000.com
+- name: 葡萄牙PT-T-UUnA
+  type: trojan
+  server: pt.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: pt.mjt000.com
+- name: 俄罗斯RU-T-Mpbz
+  type: trojan
+  server: ru.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: ru.mjt000.com
+- name: 英国UK-T-AfQF
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 06322978-709f-423e-b10b-fc2a845d9564
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-7fs6
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-PkxV
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-ltA2
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-LPYd
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-S4e5
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: hinet.mjt000.com
+- name: 英国UK-T-2P69
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 61339b6c-df0c-423c-93a6-84d7d4e234d1
+  udp: true
+  sni: uk.mjt000.com
+- name: 新加坡SG-T-3plv
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-tPYz
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-uHZT
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-7DFd
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-3peq
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-WtWF
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-sbNh
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 5adfc828-440d-4022-9571-0299a905b98e
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-KwGS
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-tcR4
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-DiQe
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-Lwj9
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-PMfx
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: hinet.mjt000.com
+- name: 澳大利亚AU-T-CdpO
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-l42w
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: b6e5e633-a297-4614-88d5-49f94cda618f
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-SiE6
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-ZFaE
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-yIxS
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-oSBt
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-OMOZ
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-DdWP
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-B4AQ
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: au.mjt000.com
+- name: 英国UK-T-AMPf
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: f89748f5-cee5-44dd-89fd-f6d49645d060
+  udp: true
+  sni: uk.mjt000.com
+- name: 日本JP-T-pR3s
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 14c564dd-aad6-4bf7-b6bb-02a360132dbf
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-t5eV
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 14c564dd-aad6-4bf7-b6bb-02a360132dbf
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 香港wap-T-pjhO
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 14c564dd-aad6-4bf7-b6bb-02a360132dbf
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-OuC9
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 14c564dd-aad6-4bf7-b6bb-02a360132dbf
+  udp: true
+  sni: hinet.mjt000.com
+- name: 澳大利亚AU-T-Ue1W
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 14c564dd-aad6-4bf7-b6bb-02a360132dbf
+  udp: true
+  sni: au.mjt000.com
+- name: 日本JP-T-gEwa
+  type: trojan
+  server: jp.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: jp.mjt000.com
+  skip-cert-verify: true
+- name: 新加坡SG-T-z79J
+  type: trojan
+  server: sg.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: sg.mjt000.com
+  skip-cert-verify: true
+- name: 美国USLA-T-GPT-sOP7
+  type: trojan
+  server: usla.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: usla.mjt000.com
+- name: 香港wap-T-5tTm
+  type: trojan
+  server: waphk.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: waphk.mjt000.com
+- name: 台湾WAP-T-GPT-gfRi
+  type: trojan
+  server: hinet.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: hinet.mjt000.com
+- name: 越南VN-T-Al51
+  type: trojan
+  server: vn.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: vn.mjt000.com
+- name: 澳大利亚AU-T-gcKK
+  type: trojan
+  server: au.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: au.mjt000.com
+- name: 葡萄牙PT-T-HPGK
+  type: trojan
+  server: pt.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: pt.mjt000.com
+- name: 俄罗斯RU-T-hcQ5
+  type: trojan
+  server: ru.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: ru.mjt000.com
+- name: 英国UK-T-l5Gc
+  type: trojan
+  server: uk.mjt000.com
+  port: 443
+  password: 258e9750-51ef-4a49-9035-8409cc4649f8
+  udp: true
+  sni: uk.mjt000.com
+- name: 🇸🇬 新加坡(三网)
+  type: vmess
+  server: jp-az.jiedian.stream
+  port: 443
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: gw.alicdn.com
+- name: 🇯🇵 日本(三网) 1
+  type: vmess
+  server: jp-1.jiedian.stream
   port: 80
-  server: ca225.vpnbook.com
-  type: ss
-- alterId: 0
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  alterId: 0
   cipher: auto
-  delay: 1166
-  name: 36|加拿大 001
+  udp: true
   network: ws
-  port: 2052
-  server: s1.db-link01.top
-  servername: 100-151-164-47.s1.db-link01.top
-  skip-cert-verify: true
-  type: vmess
-  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
   ws-opts:
+    path: /
     headers:
-      Host: 100-151-164-47.s1.db-link01.top
-    path: /dabai.in172.67.2.142
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 23|🇷🇺 RU_369
-  password: 0zyDRZ1XmNXaaCAN7KEA8a
-  port: 28825
-  server: 45.151.62.54
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 23|🇷🇺 RU_372
-  password: gmYDzSG6K35s8b19oY4fGz
-  port: 18622
-  server: 92.118.112.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇷🇺 RU
-  name: 23|🇷🇺 RU_373
-  password: uQS5ntVqC00sSKkeNzUiD3
-  port: 42090
-  server: 89.23.103.125
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 23|🇺RU_374
-  password: JdmRK9gMEqFgs8nP
-  port: 9003
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 23|🇺RU_375
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 23|🇺RU_376
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  name: 28|_RU_
-  password: fG2artUmHfNT2cX7
-  port: 9018
-  server: 217.30.10.18
-  type: ss
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 28,49|🇷🇺_RU_俄罗斯_14
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 217.30.10.18
-  tls: false
-  type: ss
+      Host: gw.alicdn.com
+  ws-path: /
+  ws-headers:
+    Host: gw.alicdn.com
+- name: 🇯🇵 日本(三网) 2
+  type: vmess
+  server: jp-2.jiedian.stream
+  port: 80
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  alterId: 0
+  cipher: auto
   udp: true
-- cipher: aes-256-cfb
-  name: 28|🇷🇺_RU_俄罗斯_5
-  password: FG5ddLsMPbV5CutE
-  port: 9050
-  server: 217.30.10.18
-  type: ss
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 28,38,49|🇷🇺_RU_俄罗斯_12
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 217.30.10.18
-  tls: false
-  type: ss
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: gw.alicdn.com
+  ws-path: /
+  ws-headers:
+    Host: gw.alicdn.com
+- name: 🇯🇵 日本(三网) 3
+  type: vmess
+  server: jp-3.jiedian.stream
+  port: 80
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  alterId: 0
+  cipher: auto
   udp: true
-- cipher: aes-256-cfb
-  name: 28|🇷🇺_RU_俄罗斯_8
-  password: BNmAXXxAHYpTRdzu
-  port: 9020
-  server: 217.30.10.18
-  type: ss
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 30,49|🇷🇺_RU_俄罗斯_13
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 217.30.10.18
-  tls: false
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 30|🇺_RU_俄罗斯_5
-  password: 9XwYyZsK8SNzQDtY
-  port: 9059
-  server: 217.30.10.18
-  tls: false
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 38|🇺_RU_
-  password: BejrQvtu9sqUeNuZ
-  port: 9024
-  server: 217.30.10.18
-  type: ss
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 38,49|🇷🇺_RU_俄罗斯_11
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
-  server: 217.30.10.18
-  tls: false
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 SE
-  name: 23|🇪 SE_380
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 45.154.206.192
-  type: ss
-- cipher: aes-256-cfb
-  name: 38|_SE_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 194.14.217.38
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇷FR
-  name: 23|🇷FR_211
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇷FR_212
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_213
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_214
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_215
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_216
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_217
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_218
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_219
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_220
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_221
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_222
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_223
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_224
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_225
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_226
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_227
-  password: pKEW8JPByTVTLtM
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: gw.alicdn.com
+  ws-path: /
+  ws-headers:
+    Host: gw.alicdn.com
+- name: 🇸🇬 ip1 (预防dns污染)
+  type: vmess
+  server: 52.163.123.158
   port: 443
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_228
-  password: pKEW8JPByTVTLtM
-  port: 4444
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_229
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_230
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_231
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_232
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_233
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_234
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_235
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_236
-  password: pKEW8JPByTVTLtM
-  port: 4444
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_237
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_238
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_239
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_240
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_241
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_242
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_243
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_244
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_245
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_246
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_247
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_248
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷FR
-  name: 23|🇫🇷FR_249
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.185.174
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_250
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 217.182.198.219
-  type: ss
-- alterId: 0
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 22|🇩🇪 德国 | DEU 4
-  network: ws
-  port: 23451
-  server: frankfurt.faforex.eu.org
-  tls: false
-  type: vmess
   udp: true
-  uuid: b9d5bd3c-2bed-488f-844d-0ce307097c99
-  ws-opts:
-    headers:
-      Host: us-new03.daluquan.top
-    path: /itdog?ed=2560
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 23| DE_193
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_194
-  password: NvS8N4Vf8qAGPSCL
-  port: 9046
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇪DE_195
-  password: aLpQtfEZe445QyHk
-  port: 9098
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_196
-  password: 4R3hUfZ2FHhDmNcP
-  port: 9061
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_197
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_198
-  password: Sn5B7jTqr76aCJT8
-  port: 9097
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_199
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_200
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_201
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_202
-  password: ZpNDDKRu9MagNvaf
-  port: 9015
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_203
-  password: XPtzA9sCug3SPR4c
-  port: 9025
-  server: 80.92.204.106
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 27,33|[VMess] 🇩🇪 德国 V2CROSS.COM
-  network: ws
-  port: 8443
-  server: 185.135.9.153
-  skip-cert-verify: true
-  tfo: false
   tls: true
-  type: vmess
+  skip-cert-verify: true
+  servername: gw.alicdn.com
+- name: 🇺🇸 美国1 (预防时间错误)
+  type: vless
+  server: 172.67.203.211
+  port: 80
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
   udp: true
-  uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+  network: ws
   ws-opts:
+    path: /
     headers:
-      Host: lax2.ibgfw.top
-    path: /dyajvws
-- cipher: aes-128-gcm
-  name: 18,23,38|_GB_国_1
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.196
-  type: ss
+      Host: 241231.cdn01.top
+- name: 🇺🇸 美国2 (预防时间错误)
+  type: vless
+  server: 172.64.204.101
+  port: 80
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 23| GB_251
-  password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9
-  port: 55988
-  server: mx2.drawnrisha.one
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇧 GB_252
-  password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
-  port: 52952
-  server: 185.24.151.214
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 23|🇬🇧 GB_253
-  password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_254
-  password: 4ju873evpjeaAi8Zq12YoRHWp63o5exdnZ71aUg1YEChiPTc2HkasYhUBxRz7UGi4K6cLrsGaU6b44H4Qa6f4cJn3zBp2cnX
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_257
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇧 GB_258
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.255.22
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_259
-  password: 2EmWRS1TkS3TkxKApnrihb3aHjDSXRvT1T1K9U2Bruxrnp5A8zmpTxwwTNje6BkVqmn9BgRF6pq8qoRHCfZdcah7BLbjrpT1
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_261
-  password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 23|🇬🇧GB_264
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.198
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: 23|🇬🇧GB_265
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
-  type: ss
-- cipher: aes-256-cfb
-  name: 48,50|TW_speednode_0055
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.20.79
-  type: ss
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 241015.cdn02.top
+- name: 🇺🇸 备用1 (预防dns污染)
+  type: vless
+  server: 192.9.241.40
+  port: 81
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
   udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: gw.alicdn.com
+- name: 🇺🇸 备用2 (预防dns污染)
+  type: vless
+  server: 129.153.126.128
+  port: 81
+  uuid: 209c61ea-396c-4fd1-9ca8-bb48d8e40196
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: gw.alicdn.com
 proxy-groups:
 - name: 节点选择
   type: select
@@ -821,319 +1037,135 @@ proxy-groups:
 - name: 自动选择
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
-  proxies:
-  - 27,33|[VMess] 🇩🇪 德国 V2CROSS.COM
-  - 23|🇷🇺 RU_372
-  - 23| JP_276
-  - 23|🇵 JP_277
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 18
-  - 23|🇨🇦CA_184
-  - 18,23,38|_GB_国_1
-  - 23|🇬🇧GB_264
-  - 23|🇬🇧GB_265
-  - 22|🇨🇦 加拿大 | CAN 3
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_216
-  - 22|🇨🇦 加拿大 | CAN
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_249
-  - 23|🇫🇷FR_237
-  - 23|🇫🇷FR_242
-  - 23|🇷FR_212
-  - 23|🇬🇧 GB_257
-  - 40|🇭🇰 香港-1B
-  - 36|加拿大 001
-  - 23|🇫🇷FR_223
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 23|🇧 GB_252
-  - 23|🇰 HK_273
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇫🇷FR_245
-  - 18|@MxlShare 新加坡 | SGP 2
-  - 18|@MxlShare 新加坡 | SGP
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_220
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 18|@MxlShare 韩国 | KOR 4
-  - 38|🇺_RU_
-  - 23|🇫🇷FR_239
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_236
-  - 38,49|🇷🇺_RU_俄罗斯_11
-  - 23|🇧 GB_258
-  - 30,49|🇷🇺_RU_俄罗斯_13
-  - 30|🇺_RU_俄罗斯_5
-  - 23|🇯🇵JP_280
-  - 23|🇪DE_195
-  - 23|🇩🇪DE_199
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_219
-  - 23|🇫🇷FR_230
-  - 28,38,49|🇷🇺_RU_俄罗斯_12
-  - 23|🇩🇪DE_203
-  - 28,49|🇷🇺_RU_俄罗斯_14
-  - 23|🇫🇷FR_241
-  - 23|🇩🇪DE_202
-  - 23|🇩🇪DE_196
-  - 28|🇷🇺_RU_俄罗斯_8
-  - 28|🇷🇺_RU_俄罗斯_5
-  - 23|🇫🇷FR_229
-  - 23|🇩🇪DE_197
-  - 23|🇫🇷FR_231
-  - 23|🇫🇷FR_224
-  - 23|🇩🇪DE_201
-  - 28|_RU_
-  - 23|🇫🇷FR_240
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_232
-  - 23|🇫🇷FR_234
-  - 23|🇩🇪DE_194
-  - 23|🇫🇷FR_250
-  - 23|🇫🇷FR_244
-  - 48,50|TW_speednode_0055
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_248
-  - 23|🇫🇷FR_226
-  - 22|🇩🇪 德国 | DEU 4
-  - 23|🇷FR_211
-  - 23|🇫🇷FR_221
-  - 23|🇯🇵JP_278
-  - 23|🇷🇺 RU_369
-  - 23|🇺RU_376
-  - 23|🇫🇷FR_235
-  - 23|🇩🇪DE_200
-  - 23|🇬🇧 GB_254
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_225
-  - 23|🇬🇧 GB_261
-  - 23|🇬🇧 GB_253
-  - 23| DE_193
-  - 23|🇯🇵JP_279
-  - 23|🇷🇺 RU_373
-  - 23|🇪 SE_380
-  - 23|🇬🇧 GB_259
-  - 23|🇺RU_375
-  - 23| GB_251
-  - 23|🇺RU_374
-  - 38|_SE_
-  url: https://i.ytimg.com/generate_204
+  proxies: &id001
+  - 🇯🇵 日本(三网) 2
+  - 新加坡-优化3
+  - 🇯🇵 日本(三网) 3
+  - 香港wap-T-5tTm
+  - 香港wap-T-rJ3c
+  - 香港HY-优化2
+  - 台湾WAP-T-GPT-gfRi
+  - 台湾WAP-T-GPT
+  - 香港wap-T-EDPf
+  - 香港wap-T-R2sl
+  - 新加坡-优化
+  - 🇸🇬 新加坡(三网)
+  - 🇸🇬 ip1 (预防dns污染)
+  - 新加坡SG-T-z79J
+  - 香港wap-T
+  - 台湾WAP-T-GPT-Orqz
+  - 香港wap-T-oSBt
+  - 🇺🇸 备用1 (预防dns污染)
+  - 香港wap-T-PSM1
+  - 新加坡SG-T-E4at
+  - 日本-优化3
+  - 台湾WAP-T-GPT-P9vS
+  - 台湾WAP-T-GPT-7DFd
+  - 香港wap-T-uHZT
+  - 日本-优化2
+  - 香港wap-T-FGi6
+  - 新加坡SG-T
+  - 新加坡SG-T-jC0K
+  - 台湾WAP-T-GPT-S4e5
+  - 香港wap-T-LPYd
+  - 新加坡SG-T-3plv
+  - 台湾WAP-T-GPT-YsHI
+  - 新加坡SG-T-PkxV
+  - 台湾WAP-T-GPT-IPsy
+  - 日本JP-T-pR3s
+  - 香港wap-T-pjhO
+  - 新加坡SG-T-oWPg
+  - 日本JP-T-oUJn
+  - 日本JP-T-gEwa
+  - 台湾WAP-T-GPT-OMOZ
+  - 新加坡SG-T-vCeE
+  - 新加坡SG-T-tVHX
+  - 新加坡SG-T-ZFaE
+  - 日本JP-T-TzPC
+  - 台湾WAP-T-GPT-PMfx
+  - 香港HY-优化
+  - 香港wap-T-Lwj9
+  - 🇯🇵 日本(三网) 1
+  - 日本JP-T-SiE6
+  - 新加坡SG-T-jQtE
+  - 日本JP-T-ZtHY
+  - 新加坡SG-T-tcR4
+  - 台湾WAP-T-GPT-D5GQ
+  - 香港wap-T-r5jt
+  - 日本JP-T-CjtL
+  - 香港WAP-优化2
+  - 日本JP-T-KwGS
+  - 日本JP-T-Rvm8
+  - 台湾WAP-T-GPT-rfqh
+  - 美国USLA-T-GPT-vy3b
+  - 越南VN-T-Al51
+  - 英国UK-T-9bTO
+  - 英国UK-T-AMPf
+  - 美国USLA-T-GPT-sOP7
+  - 英国UK-T
+  - 美国USLA-T-GPT-pa4s
+  - 澳大利亚AU-T-vXXU
+  - 台湾WAP-T-GPT-OuC9
+  - 新加坡SG-T-t5eV
+  - 台湾-优化3
+  - 越南VN-T-sNz8
+  - 美国USLA-T-GPT
+  - 日本JP-T-7fs6
+  - 美国USLA-T-GPT-3Y1T
+  - 澳大利亚AU-T-3ZjF
+  - 台湾-优化2-GPT
+  - 英国UK-T-2P69
+  - 香港WAP-优化
+  - 英国UK-T-l5Gc
+  - 英国UK-T-vTZH
+  - 澳大利亚AU-T-gcKK
+  - 英国UK-T-AfQF
+  - 美国USLA-T-GPT-w3b7
+  - 美国USLA-T-GPT-ltA2
+  - 台湾-优化
+  - 剩余流量：98.85 GB
+  - 美国USLA-T-GPT-tPYz
+  - 英国UK-T-l42w
+  - 葡萄牙PT-T-HPGK
+  - 英国UK-T-QSYS
+  - 美国USLA-T-GPT-yIxS
+  - 葡萄牙PT-T-UUnA
+  - 美国USLA-T-GPT-mYmu
+  - 英国UK-T-mLen
+  - 美国USLA-T-GPT-Y2nU
+  - 英国UK-T-sbNh
+  - 美国USLA-T-GPT-DiQe
+  - 澳大利亚AU-T-Ue1W
+  - 澳大利亚AU-T-CdpO
+  - 澳大利亚AU-T-ulWr
+  - 🇺🇸 备用2 (预防dns污染)
+  - 越南VN-T-om8a
+  - 俄罗斯RU-T-tD89
+  - 澳大利亚AU-T-QzUC
+  - 越南VN-T-3peq
+  - 🇺🇸 美国2 (预防时间错误)
+  - 澳大利亚AU-T
+  - 澳大利亚AU-T-WtWF
+  - 俄罗斯RU-T-Mpbz
+  - 俄罗斯RU-T-hcQ5
+  - 越南VN-T-7IHa
+  - 澳大利亚AU-T-B4AQ
+  - 越南VN-T-DdWP
+  - 🇺🇸 美国1 (预防时间错误)
+  - 澳大利亚AU-T-zgZq
+  - 澳大利亚AU-T-FTDp
+  url: http://www.pinterest.com
   interval: 300
   tolerance: 50
 - name: 故障转移
   type: fallback
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
-  proxies:
-  - 27,33|[VMess] 🇩🇪 德国 V2CROSS.COM
-  - 23|🇷🇺 RU_372
-  - 23| JP_276
-  - 23|🇵 JP_277
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 18
-  - 23|🇨🇦CA_184
-  - 18,23,38|_GB_国_1
-  - 23|🇬🇧GB_264
-  - 23|🇬🇧GB_265
-  - 22|🇨🇦 加拿大 | CAN 3
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_216
-  - 22|🇨🇦 加拿大 | CAN
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_249
-  - 23|🇫🇷FR_237
-  - 23|🇫🇷FR_242
-  - 23|🇷FR_212
-  - 23|🇬🇧 GB_257
-  - 40|🇭🇰 香港-1B
-  - 36|加拿大 001
-  - 23|🇫🇷FR_223
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 23|🇧 GB_252
-  - 23|🇰 HK_273
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇫🇷FR_245
-  - 18|@MxlShare 新加坡 | SGP 2
-  - 18|@MxlShare 新加坡 | SGP
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_220
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 18|@MxlShare 韩国 | KOR 4
-  - 38|🇺_RU_
-  - 23|🇫🇷FR_239
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_236
-  - 38,49|🇷🇺_RU_俄罗斯_11
-  - 23|🇧 GB_258
-  - 30,49|🇷🇺_RU_俄罗斯_13
-  - 30|🇺_RU_俄罗斯_5
-  - 23|🇯🇵JP_280
-  - 23|🇪DE_195
-  - 23|🇩🇪DE_199
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_219
-  - 23|🇫🇷FR_230
-  - 28,38,49|🇷🇺_RU_俄罗斯_12
-  - 23|🇩🇪DE_203
-  - 28,49|🇷🇺_RU_俄罗斯_14
-  - 23|🇫🇷FR_241
-  - 23|🇩🇪DE_202
-  - 23|🇩🇪DE_196
-  - 28|🇷🇺_RU_俄罗斯_8
-  - 28|🇷🇺_RU_俄罗斯_5
-  - 23|🇫🇷FR_229
-  - 23|🇩🇪DE_197
-  - 23|🇫🇷FR_231
-  - 23|🇫🇷FR_224
-  - 23|🇩🇪DE_201
-  - 28|_RU_
-  - 23|🇫🇷FR_240
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_232
-  - 23|🇫🇷FR_234
-  - 23|🇩🇪DE_194
-  - 23|🇫🇷FR_250
-  - 23|🇫🇷FR_244
-  - 48,50|TW_speednode_0055
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_248
-  - 23|🇫🇷FR_226
-  - 22|🇩🇪 德国 | DEU 4
-  - 23|🇷FR_211
-  - 23|🇫🇷FR_221
-  - 23|🇯🇵JP_278
-  - 23|🇷🇺 RU_369
-  - 23|🇺RU_376
-  - 23|🇫🇷FR_235
-  - 23|🇩🇪DE_200
-  - 23|🇬🇧 GB_254
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_225
-  - 23|🇬🇧 GB_261
-  - 23|🇬🇧 GB_253
-  - 23| DE_193
-  - 23|🇯🇵JP_279
-  - 23|🇷🇺 RU_373
-  - 23|🇪 SE_380
-  - 23|🇬🇧 GB_259
-  - 23|🇺RU_375
-  - 23| GB_251
-  - 23|🇺RU_374
-  - 38|_SE_
-  url: https://i.ytimg.com/generate_204
+  proxies: *id001
+  url: http://www.pinterest.com
   interval: 300
 - name: 手动选择
   type: select
-  proxies:
-  - 27,33|[VMess] 🇩🇪 德国 V2CROSS.COM
-  - 23|🇷🇺 RU_372
-  - 23| JP_276
-  - 23|🇵 JP_277
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 18
-  - 23|🇨🇦CA_184
-  - 18,23,38|_GB_国_1
-  - 23|🇬🇧GB_264
-  - 23|🇬🇧GB_265
-  - 22|🇨🇦 加拿大 | CAN 3
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_216
-  - 22|🇨🇦 加拿大 | CAN
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_249
-  - 23|🇫🇷FR_237
-  - 23|🇫🇷FR_242
-  - 23|🇷FR_212
-  - 23|🇬🇧 GB_257
-  - 40|🇭🇰 香港-1B
-  - 36|加拿大 001
-  - 23|🇫🇷FR_223
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 23|🇧 GB_252
-  - 23|🇰 HK_273
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇫🇷FR_245
-  - 18|@MxlShare 新加坡 | SGP 2
-  - 18|@MxlShare 新加坡 | SGP
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_220
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 18|@MxlShare 韩国 | KOR 4
-  - 38|🇺_RU_
-  - 23|🇫🇷FR_239
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_236
-  - 38,49|🇷🇺_RU_俄罗斯_11
-  - 23|🇧 GB_258
-  - 30,49|🇷🇺_RU_俄罗斯_13
-  - 30|🇺_RU_俄罗斯_5
-  - 23|🇯🇵JP_280
-  - 23|🇪DE_195
-  - 23|🇩🇪DE_199
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_219
-  - 23|🇫🇷FR_230
-  - 28,38,49|🇷🇺_RU_俄罗斯_12
-  - 23|🇩🇪DE_203
-  - 28,49|🇷🇺_RU_俄罗斯_14
-  - 23|🇫🇷FR_241
-  - 23|🇩🇪DE_202
-  - 23|🇩🇪DE_196
-  - 28|🇷🇺_RU_俄罗斯_8
-  - 28|🇷🇺_RU_俄罗斯_5
-  - 23|🇫🇷FR_229
-  - 23|🇩🇪DE_197
-  - 23|🇫🇷FR_231
-  - 23|🇫🇷FR_224
-  - 23|🇩🇪DE_201
-  - 28|_RU_
-  - 23|🇫🇷FR_240
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_232
-  - 23|🇫🇷FR_234
-  - 23|🇩🇪DE_194
-  - 23|🇫🇷FR_250
-  - 23|🇫🇷FR_244
-  - 48,50|TW_speednode_0055
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_248
-  - 23|🇫🇷FR_226
-  - 22|🇩🇪 德国 | DEU 4
-  - 23|🇷FR_211
-  - 23|🇫🇷FR_221
-  - 23|🇯🇵JP_278
-  - 23|🇷🇺 RU_369
-  - 23|🇺RU_376
-  - 23|🇫🇷FR_235
-  - 23|🇩🇪DE_200
-  - 23|🇬🇧 GB_254
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_225
-  - 23|🇬🇧 GB_261
-  - 23|🇬🇧 GB_253
-  - 23| DE_193
-  - 23|🇯🇵JP_279
-  - 23|🇷🇺 RU_373
-  - 23|🇪 SE_380
-  - 23|🇬🇧 GB_259
-  - 23|🇺RU_375
-  - 23| GB_251
-  - 23|🇺RU_374
-  - 38|_SE_
+  proxies: *id001
 rules:
 - DOMAIN,app.adjust.com,DIRECT
 - DOMAIN,bdtj.tagtic.cn,DIRECT
