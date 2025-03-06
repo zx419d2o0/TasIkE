@@ -1,5 +1,5 @@
 
-//      >>> 当前时间是：2025-03-06 07:13:13 <<<
+//      >>> 当前时间是：2025-03-07 07:12:47 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://www.饭太硬.com/tv/
 
@@ -29,7 +29,6 @@
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
-{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"奥特","name":"🏝奥特┃多线","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 {"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
