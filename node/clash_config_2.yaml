@@ -32,29 +32,6 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 40|🇭🇰 香港-1A
-  network: tcp
-  port: '19901'
-  server: xg.dashuai.cyou
-  tls: false
-  type: vmess
-  uuid: c47886ea-0eef-4f39-927f-f491e5cbc1c5
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 日本 | JPN 11
-  password: amazonskr05
-  port: 443
-  server: 54.65.101.11
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 18|@MxlShare 日本 | JPN 12
-  password: amazonskr05
-  port: 443
-  server: 54.250.174.86
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
   name: 20|🇯🇵
   password: shadowsocks
@@ -71,72 +48,66 @@ proxies:
   tls: false
   type: vmess
   uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551
-- cipher: chacha20-ietf-poly1305
-  ip-version: dual
-  name: 49|🇯🇵_JP_日本
-  password: ZGY1N
-  port: 8388
-  server: us2.ssocks.wiki
-  tls: false
-  type: ss
 - cipher: aes-256-cfb
-  name: 18|@MxlShare 韩国 | KOR 2
+  name: 32,51|KR_Seoul_Amazon Technologies I...
   password: amazonskr05
   port: 443
-  server: 54.180.244.81
+  server: 52.78.120.105
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇦CA
-  name: 23|🇨🇦CA_182
-  password: JIhN6rBKkaEboLNXVSv5rq
-  port: 80
-  server: ca225.vpnbook.com
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 32,45,46,51|KR_Seoul_Amazon.com, Inc._Open...
+  password: amazonskr05
+  port: 443
+  server: 43.201.0.67
+  tfo: false
   type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 36|加拿大 008
+  ip-version: dual
+  name: 36|加拿大 006
   network: ws
-  port: 2082
-  server: s4.db-link02.top
-  skip-cert-verify: true
-  tfo: false
-  tls: false
+  port: 80
+  server: 51.79.102.253
   type: vmess
   udp: true
-  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
   ws-opts:
     headers:
-      Host: 100-116-85-183.s4.db-link02.top
-    path: /dabai.in172.67.8.3
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 23| RU_362
-  password: 0zyDRZ1XmNXaaCAN7KEA8a
-  port: 28825
-  server: 45.151.62.54
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 23|🇺 RU_363
-  password: uQS5ntVqC00sSKkeNzUiD3
-  port: 42090
-  server: 89.23.103.125
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 23|🇷🇺 RU_365
-  password: gmYDzSG6K35s8b19oY4fGz
-  port: 18622
-  server: 92.118.112.111
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 23|🇷🇺RU_369
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 45.89.52.66
-  type: ss
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /IOebhLMhl1CTbFHbL95myfRX2
+- alterId: 0
+  cipher: auto
+  ip-version: dual
+  name: 36|加拿大 007
+  network: ws
+  port: 80
+  server: 51.79.103.76
+  type: vmess
+  udp: true
+  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /IOebhLMhl1CTbFHbL95myfRX2
+- alterId: 0
+  cipher: auto
+  name: 36|加拿大 015
+  network: ws
+  port: 443
+  server: 68.168.31.196
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: 68.168.31.196
+    path: /linkvws
 - alterId: 0
   cipher: auto
   name: 36|俄罗斯 002
@@ -153,23 +124,26 @@ proxies:
     headers:
       Host: lax1.ibgfw.top
     path: /xrenvws
-- name: 36|俄罗斯 003
+- alterId: 0
+  cipher: auto
+  name: 36|俄罗斯 005
   network: ws
-  password: Aimer
-  port: 8443
-  server: 92.243.74.239
+  port: 443
+  server: 185.221.160.163
   skip-cert-verify: true
-  sni: agepb.ambercc.filegear-sg.me
-  type: trojan
+  tfo: false
+  tls: true
+  type: vmess
   udp: true
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
   ws-opts:
     headers:
-      Host: agepb.ambercc.filegear-sg.me
-    path: /?ed=2560
+      Host: worker-mute-bar-1719.nifotok993.workers.dev
+    path: /glweidf.cfd/linkws
 - cipher: aes-256-cfb
-  name: 38|🇷🇺_RU_俄罗斯_1
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
+  name: 38|🇺_RU_
+  password: BejrQvtu9sqUeNuZ
+  port: 9024
   server: 217.30.10.18
   type: ss
 - cipher: aes-256-cfb
@@ -179,311 +153,91 @@ proxies:
   server: 217.30.10.18
   type: ss
 - cipher: aes-256-cfb
+  name: 38|🇺_RU_俄罗斯_5
+  password: f63gg8EruDnUrmz4
+  port: 9010
+  server: 217.30.10.18
+  type: ss
+- cipher: aes-256-cfb
   name: 38|🇷🇺_RU_俄罗斯_6
   password: FAdUvMJUq5vDgKEq
   port: 9006
   server: 217.30.10.18
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 40|🇷🇺 俄罗斯-莫斯科-F3-001-1C
+  network: ws
+  port: '23008'
+  server: 185.22.152.236
+  tls: false
+  type: vmess
+  uuid: 814aaddc-66ee-4c5d-b350-7ce7fa651086
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
 - cipher: chacha20-ietf-poly1305
-  country: 🇸🇪 SE
-  name: 23|🇪 SE_374
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 45.154.206.192
+  name: 18,29|US美国(mibei77.com 米贝节点分享) 20
+  password: 70Xwg0SbHSL8CuCkiLuGhO
+  port: 15128
+  server: sto2.g.edgeservers.org
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 SE
-  name: 23|🇪 SE_375
-  password: nxS1a7JNlIcbsN8Q4EKL5t
-  port: 36632
-  server: 46.246.109.216
-  type: ss
+  udp: true
 - cipher: aes-256-cfb
   name: 38|_SE_
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 194.14.217.38
   type: ss
-- cipher: aes-256-gcm
-  country: 🇷FR
-  name: 23|🇫🇷FR_209
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇷FR_210
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_211
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_212
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_213
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_214
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_215
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_216
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_217
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_218
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_219
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_220
-  password: pKEW8JPByTVTLtM
-  port: 4444
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_221
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_222
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_223
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_224
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_225
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_226
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_227
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_228
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_229
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_230
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_231
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_232
-  password: pKEW8JPByTVTLtM
-  port: 4444
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_233
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_234
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_235
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_236
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇷FR
-  name: 23|🇫🇷FR_237
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_238
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_239
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 54.36.174.181
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_240
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_241
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_242
-  password: pKEW8JPByTVTLtM
+- alterId: 0
+  cipher: auto
+  name: 36|法国 002
+  network: ws
   port: 443
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_243
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_244
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_245
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷FR
-  name: 23|🇫🇷FR_246
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.185.174
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_247
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 23|🇫🇷FR_248
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 54.36.174.181
-  type: ss
+  server: 51.77.20.136
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: capellare.com
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  name: 36|法国 005
+  network: ws
+  port: 8443
+  server: 141.11.203.194
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+  ws-opts:
+    headers:
+      Host: lax2.ibgfw.top
+    path: /dyajvws
+- alterId: 0
+  cipher: auto
+  name: 36|法国 006
+  network: ws
+  port: 443
+  server: 51.77.20.132
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: a.baradiha.com
+    path: /linkvws
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -494,74 +248,11 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: c9340eb2-8924-4cd7-81aa-b8ba613baff9
+  uuid: 2d383b64-3bd8-4558-b272-7a357fa9644f
   ws-opts:
     headers:
       Host: us-new03.daluquan.top
     path: /itdog?ed=2560
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 23| DE_191
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇪DE
-  name: 23|🇪DE_192
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇪DE_193
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_194
-  password: NvS8N4Vf8qAGPSCL
-  port: 9046
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_195
-  password: ZpNDDKRu9MagNvaf
-  port: 9015
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_196
-  password: XPtzA9sCug3SPR4c
-  port: 9025
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_197
-  password: aLpQtfEZe445QyHk
-  port: 9098
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_198
-  password: 4R3hUfZ2FHhDmNcP
-  port: 9061
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 23|🇩🇪DE_199
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 80.92.204.106
-  type: ss
 - alterId: 0
   cipher: auto
   name: 36|德国 001
@@ -578,92 +269,42 @@ proxies:
     headers:
       Host: hms03.dongfeng.cfd
     path: /linkws
-- ip-version: dual
-  name: 18,28,30|🇺🇸_US_美国_11
-  password: 2cba4104747d49d18319e5ade1b93ab5
+- alterId: 0
+  cipher: auto
+  name: 36|德国 002
+  network: ws
   port: 443
-  server: 161.35.34.48
+  server: denc36.xtooltech.cfd
   skip-cert-verify: true
-  sni: yourjobnavigator.online
+  tfo: false
   tls: true
-  type: trojan
+  type: vmess
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 23| GB_252
-  password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇧 GB_253
-  password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9
-  port: 55988
-  server: mx2.drawnrisha.one
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_254
-  password: 4ju873evpjeaAi8Zq12YoRHWp63o5exdnZ71aUg1YEChiPTc2HkasYhUBxRz7UGi4K6cLrsGaU6b44H4Qa6f4cJn3zBp2cnX
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_255
-  password: 2EmWRS1TkS3TkxKApnrihb3aHjDSXRvT1T1K9U2Bruxrnp5A8zmpTxwwTNje6BkVqmn9BgRF6pq8qoRHCfZdcah7BLbjrpT1
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇧 GB_257
-  password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt
-  port: 55988
-  server: mx2.drawnrisha.one
-  type: ss
+  uuid: b321fd5d-e6ec-4293-a644-164e3885f52e
+  ws-opts:
+    headers:
+      Host: adenc36v.xtooltech.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  delay: 2518
+  name: 36|德国 004
+  network: ws
+  port: 443
+  server: hms07.xfixedfloat.cfd
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  ws-opts:
+    headers:
+      Host: afrhms07.xfixedfloat.cfd
+    path: /linkws
 - cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 23|🇬🇧 GB_258
+  name: 38|_GB_国_1
   password: shadowsocks
   port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇧 GB_259
-  password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
-  port: 52952
-  server: 185.24.151.214
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_260
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.255.22
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_261
-  password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 23|🇬🇧 GB_263
-  password: gPQfQwohlAiyDweHDQkDUO
-  port: 46785
-  server: 77.239.122.34
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 23|🇧GB_265
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
+  server: 212.102.53.196
   type: ss
 - cipher: aes-256-cfb
   name: 48,50|TW_speednode_0055
@@ -684,91 +325,31 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies:
-  - 36|俄罗斯 003
-  - 49|🇯🇵_JP_日本
-  - 23|🇨🇦CA_182
-  - 23|🇫🇷FR_221
-  - 23|🇫🇷FR_219
-  - 23|🇷🇺 RU_365
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_216
-  - 23|🇫🇷FR_212
-  - 23|🇬🇧 GB_258
-  - 23|🇧GB_265
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_245
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 23|🇫🇷FR_241
-  - 23|🇷FR_210
-  - 23|🇫🇷FR_225
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_230
-  - 23|🇫🇷FR_244
-  - 23|🇫🇷FR_209
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_237
-  - 23|🇪 SE_375
-  - 23|🇫🇷FR_223
-  - 23|🇫🇷FR_242
-  - 23|🇫🇷FR_234
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_239
+  - 38|_GB_国_1
   - 36|俄罗斯 002
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_231
-  - 23|🇬🇧 GB_260
-  - 18,28,30|🇺🇸_US_美国_11
-  - 23|🇺 RU_363
-  - 23|🇫🇷FR_232
-  - 23|🇪DE_193
+  - 36|法国 005
   - 38|🇷🇺_RU_俄罗斯_4
-  - 23|🇫🇷FR_226
-  - 23|🇫🇷FR_240
-  - 23|🇫🇷FR_211
+  - 38|🇺_RU_俄罗斯_5
+  - 18,29|US美国(mibei77.com 米贝节点分享) 20
   - 38|🇷🇺_RU_俄罗斯_6
-  - 23|🇫🇷FR_235
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_224
-  - 23|🇫🇷FR_220
-  - 38|🇷🇺_RU_俄罗斯_1
-  - 23|🇫🇷FR_236
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_248
-  - 23| DE_191
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_229
-  - 23| RU_362
-  - 36|加拿大 008
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 12
-  - 18|@MxlShare 日本 | JPN 11
-  - 23|🇬🇧 GB_263
-  - 23| GB_252
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 38|_SE_
-  - 23|🇪 SE_374
-  - 23|🇬🇧 GB_255
-  - 23|🇬🇧 GB_254
-  - 23|🇬🇧 GB_261
-  - 36|德国 001
-  - 40|🇭🇰 香港-1A
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇧 GB_259
-  - 23|🇩🇪DE_197
-  - 23|🇧 GB_257
-  - 23|🇩🇪DE_195
-  - 23|🇩🇪DE_196
-  - 48,50|TW_speednode_0055
-  - 23|🇩🇪DE_194
-  - 23|🇩🇪DE_199
+  - 36|加拿大 015
   - 22|🇩🇪 德国 | DEU
-  - 23|🇷🇺RU_369
-  - 23|🇪DE_192
-  - 23|🇧 GB_253
+  - 36|俄罗斯 005
+  - 36|法国 006
+  - 36|法国 002
+  - 38|_SE_
+  - 20|🇯🇵
+  - 41|11|11|11|11|11|11,16|日本|@ripao...
+  - 36|加拿大 007
+  - 36|德国 004
+  - 36|德国 001
+  - 36|德国 002
+  - 38|🇺_RU_
+  - 40|🇷🇺 俄罗斯-莫斯科-F3-001-1C
+  - 32,51|KR_Seoul_Amazon Technologies I...
+  - 32,45,46,51|KR_Seoul_Amazon.com, Inc._Open...
+  - 36|加拿大 006
+  - 48,50|TW_speednode_0055
   url: https://i.ytimg.com/generate_204
   interval: 300
   tolerance: 50
@@ -776,181 +357,61 @@ proxy-groups:
   type: fallback
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies:
-  - 36|俄罗斯 003
-  - 49|🇯🇵_JP_日本
-  - 23|🇨🇦CA_182
-  - 23|🇫🇷FR_221
-  - 23|🇫🇷FR_219
-  - 23|🇷🇺 RU_365
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_216
-  - 23|🇫🇷FR_212
-  - 23|🇬🇧 GB_258
-  - 23|🇧GB_265
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_245
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 23|🇫🇷FR_241
-  - 23|🇷FR_210
-  - 23|🇫🇷FR_225
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_230
-  - 23|🇫🇷FR_244
-  - 23|🇫🇷FR_209
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_237
-  - 23|🇪 SE_375
-  - 23|🇫🇷FR_223
-  - 23|🇫🇷FR_242
-  - 23|🇫🇷FR_234
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_239
+  - 38|_GB_国_1
   - 36|俄罗斯 002
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_231
-  - 23|🇬🇧 GB_260
-  - 18,28,30|🇺🇸_US_美国_11
-  - 23|🇺 RU_363
-  - 23|🇫🇷FR_232
-  - 23|🇪DE_193
+  - 36|法国 005
   - 38|🇷🇺_RU_俄罗斯_4
-  - 23|🇫🇷FR_226
-  - 23|🇫🇷FR_240
-  - 23|🇫🇷FR_211
+  - 38|🇺_RU_俄罗斯_5
+  - 18,29|US美国(mibei77.com 米贝节点分享) 20
   - 38|🇷🇺_RU_俄罗斯_6
-  - 23|🇫🇷FR_235
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_224
-  - 23|🇫🇷FR_220
-  - 38|🇷🇺_RU_俄罗斯_1
-  - 23|🇫🇷FR_236
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_248
-  - 23| DE_191
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_229
-  - 23| RU_362
-  - 36|加拿大 008
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 12
-  - 18|@MxlShare 日本 | JPN 11
-  - 23|🇬🇧 GB_263
-  - 23| GB_252
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 38|_SE_
-  - 23|🇪 SE_374
-  - 23|🇬🇧 GB_255
-  - 23|🇬🇧 GB_254
-  - 23|🇬🇧 GB_261
-  - 36|德国 001
-  - 40|🇭🇰 香港-1A
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇧 GB_259
-  - 23|🇩🇪DE_197
-  - 23|🇧 GB_257
-  - 23|🇩🇪DE_195
-  - 23|🇩🇪DE_196
-  - 48,50|TW_speednode_0055
-  - 23|🇩🇪DE_194
-  - 23|🇩🇪DE_199
+  - 36|加拿大 015
   - 22|🇩🇪 德国 | DEU
-  - 23|🇷🇺RU_369
-  - 23|🇪DE_192
-  - 23|🇧 GB_253
+  - 36|俄罗斯 005
+  - 36|法国 006
+  - 36|法国 002
+  - 38|_SE_
+  - 20|🇯🇵
+  - 41|11|11|11|11|11|11,16|日本|@ripao...
+  - 36|加拿大 007
+  - 36|德国 004
+  - 36|德国 001
+  - 36|德国 002
+  - 38|🇺_RU_
+  - 40|🇷🇺 俄罗斯-莫斯科-F3-001-1C
+  - 32,51|KR_Seoul_Amazon Technologies I...
+  - 32,45,46,51|KR_Seoul_Amazon.com, Inc._Open...
+  - 36|加拿大 006
+  - 48,50|TW_speednode_0055
   url: https://i.ytimg.com/generate_204
   interval: 300
 - name: 手动选择
   type: select
   proxies:
-  - 36|俄罗斯 003
-  - 49|🇯🇵_JP_日本
-  - 23|🇨🇦CA_182
-  - 23|🇫🇷FR_221
-  - 23|🇫🇷FR_219
-  - 23|🇷🇺 RU_365
-  - 23|🇫🇷FR_215
-  - 23|🇫🇷FR_214
-  - 23|🇫🇷FR_216
-  - 23|🇫🇷FR_212
-  - 23|🇬🇧 GB_258
-  - 23|🇧GB_265
-  - 23|🇫🇷FR_246
-  - 23|🇫🇷FR_245
-  - 23|🇫🇷FR_233
-  - 23|🇫🇷FR_247
-  - 23|🇫🇷FR_241
-  - 23|🇷FR_210
-  - 23|🇫🇷FR_225
-  - 23|🇫🇷FR_227
-  - 23|🇫🇷FR_230
-  - 23|🇫🇷FR_244
-  - 23|🇫🇷FR_209
-  - 23|🇫🇷FR_243
-  - 23|🇫🇷FR_237
-  - 23|🇪 SE_375
-  - 23|🇫🇷FR_223
-  - 23|🇫🇷FR_242
-  - 23|🇫🇷FR_234
-  - 23|🇫🇷FR_217
-  - 23|🇫🇷FR_239
+  - 38|_GB_国_1
   - 36|俄罗斯 002
-  - 23|🇩🇪DE_198
-  - 23|🇫🇷FR_231
-  - 23|🇬🇧 GB_260
-  - 18,28,30|🇺🇸_US_美国_11
-  - 23|🇺 RU_363
-  - 23|🇫🇷FR_232
-  - 23|🇪DE_193
+  - 36|法国 005
   - 38|🇷🇺_RU_俄罗斯_4
-  - 23|🇫🇷FR_226
-  - 23|🇫🇷FR_240
-  - 23|🇫🇷FR_211
+  - 38|🇺_RU_俄罗斯_5
+  - 18,29|US美国(mibei77.com 米贝节点分享) 20
   - 38|🇷🇺_RU_俄罗斯_6
-  - 23|🇫🇷FR_235
-  - 23|🇫🇷FR_218
-  - 23|🇫🇷FR_224
-  - 23|🇫🇷FR_220
-  - 38|🇷🇺_RU_俄罗斯_1
-  - 23|🇫🇷FR_236
-  - 23|🇫🇷FR_222
-  - 23|🇫🇷FR_238
-  - 23|🇫🇷FR_213
-  - 23|🇫🇷FR_248
-  - 23| DE_191
-  - 23|🇫🇷FR_228
-  - 23|🇫🇷FR_229
-  - 23| RU_362
-  - 36|加拿大 008
-  - 20|🇯🇵
-  - 18|@MxlShare 日本 | JPN 12
-  - 18|@MxlShare 日本 | JPN 11
-  - 23|🇬🇧 GB_263
-  - 23| GB_252
-  - 41|11|11|11|11|11|11,16|日本|@ripao...
-  - 38|_SE_
-  - 23|🇪 SE_374
-  - 23|🇬🇧 GB_255
-  - 23|🇬🇧 GB_254
-  - 23|🇬🇧 GB_261
-  - 36|德国 001
-  - 40|🇭🇰 香港-1A
-  - 18|@MxlShare 韩国 | KOR 2
-  - 23|🇧 GB_259
-  - 23|🇩🇪DE_197
-  - 23|🇧 GB_257
-  - 23|🇩🇪DE_195
-  - 23|🇩🇪DE_196
-  - 48,50|TW_speednode_0055
-  - 23|🇩🇪DE_194
-  - 23|🇩🇪DE_199
+  - 36|加拿大 015
   - 22|🇩🇪 德国 | DEU
-  - 23|🇷🇺RU_369
-  - 23|🇪DE_192
-  - 23|🇧 GB_253
+  - 36|俄罗斯 005
+  - 36|法国 006
+  - 36|法国 002
+  - 38|_SE_
+  - 20|🇯🇵
+  - 41|11|11|11|11|11|11,16|日本|@ripao...
+  - 36|加拿大 007
+  - 36|德国 004
+  - 36|德国 001
+  - 36|德国 002
+  - 38|🇺_RU_
+  - 40|🇷🇺 俄罗斯-莫斯科-F3-001-1C
+  - 32,51|KR_Seoul_Amazon Technologies I...
+  - 32,45,46,51|KR_Seoul_Amazon.com, Inc._Open...
+  - 36|加拿大 006
+  - 48,50|TW_speednode_0055
 rules:
 - DOMAIN,app.adjust.com,DIRECT
 - DOMAIN,bdtj.tagtic.cn,DIRECT
