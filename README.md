@@ -1,3 +1,3 @@
 **免费的才是最贵的**
-[直连机场](https://app.cloudlion.me/#/register?code=D0CzxZmB)  
-[hy2](https://client-sub.aisu.life/s/9d5c0618de0a5d8334101b019ad057bf)
+[直连机场](https://xship.top/?yg9Vo8a)  
+[hy2](https://client-sub.jingfan.life/s/c9fffd9f8e2d2b5e87f4793909519f55)
