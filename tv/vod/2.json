@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-03-23 07:12:23 <<<
+//      >>> 当前时间是：2025-03-24 07:11:58 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Rn4PNRKV.png;md5;83e9835d79a6fd05b7c51856c24068b1",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vDPraPtG.png;md5;fcb66d52fdec70614edecd04d5a4cc79",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -103,6 +103,8 @@
 {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"api":"csp_QksoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},
 "timeout":15},
 {"key":"影搜","name":"😼影子┃搜索","type":3,"api":"csp_YingSoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
+"timeout":15},
+{"key":"双星","name":"🤩双星┃搜索","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},
 "timeout":15},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt","115_cookie":"file://TV/115_cookie.txt"},
 "timeout":5}
