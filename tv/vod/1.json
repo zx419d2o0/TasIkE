@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-03-25 07:16:27 <<<
+//      >>> 当前时间是：2025-03-26 07:12:18 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：https://mpanso.me/DEMO.json
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742654868540/0322.jar;md5;235af496bb20fc11d179634f910dd46c",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742864900934/xm0325.txt;md5;e1ec04551ab516a8dc63b1bf79247212",
 "wallpaper":"https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 "sites":[
 {"key":"豆豆","name":"🌈豆瓣┃接口已移交开源平台请测试完删除处理","type":3,"api":"csp_DoubanGuard","searchable":0},
@@ -16,26 +16,24 @@
 "style":{"type":"rect","ratio":1.333}},
 {"key":"88看球","name":"🏀看球┃直播","type":3,"api":"csp_KanqiuGuard","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
 {"key":"游戏直播","name":"🎮游戏┃直播","type":3,"api":"csp_LivingGuard","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"ext":""},
-{"key":"悠悠","name":"🏊悠悠┃1080P","type":3,"api":"csp_Muou","playerType":2,"quickSearch":1,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"},
-{"key":"巧技","name":"🚗巧记┃1080P","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"天天","name":"🦢天天┃1080P","type":3,"api":"csp_AppRJGuard","ext":"sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"},
-{"key":"热热","name":"🏜热热┃1080P","type":3,"api":"csp_AppRJGuard","ext":"sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
-{"key":"追剧","name":"🏈追剧┃1080P","type":3,"api":"csp_AppRJGuard","ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"},
+{"key":"csp_Wwys","name":"👨农民┃1080P","type":3,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},
+{"key":"csp_Lgyy","name":"⏳️️流光┃1080P","type":3,"api":"csp_FreeOkGuard"},
 {"key":"莉莉","name":"🌰莉莉┃1080P","type":3,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"},
 {"key":"优秀","name":"🎮优秀┃1080P","type":3,"api":"csp_AppGetGuard","ext":"rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA="},
 {"key":"光速","name":"🌟光速┃1080P","type":3,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="},
 {"key":"咕咕","name":"🛹番剧┃1080P","type":3,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="},
 {"key":"电影","name":"🎬电影┃1080P","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="},
-{"key":"︎酷云","name":"🐰米兔┃1080P","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w=="},
+{"key":"奇妙","name":"♟奇妙┃1080P","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},
+{"key":"米偌","name":"🌽米偌┃1080P","type":3,"api":"csp_AppMiToGuard","ext":"or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="},
 {"key":"csp_AppXY","name":"🐸上头┃短剧","type":3,"api":"csp_AppXYGuard"},
 {"key":"csp_SAOHUO","name":"🔥火火┃1080P","type":3,"api":"csp_SaoHuoGuard"},
-{"key":"csp_baibai","name":"🦵白白┃1080P","type":3,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com/"},
+{"key":"csp_baibai","name":"🦵白白┃1080P","type":3,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
 {"key":"csp_LiteApple","name":"🍎苹果┃1080P","type":3,"api":"csp_LiteAppleGuard"},
 {"key":"csp_Gz360","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360Guard"},
 {"key":"csp_Jpys","name":"🥇金牌┃1080P","type":3,"api":"csp_JpysGuard"},
-{"key":"csp_Wwys","name":"👨农民┃1080P","type":3,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},
-{"key":"csp_Lgyy","name":"⏳️️流光┃1080P","type":3,"api":"csp_FreeOkGuard"},
 {"key":"csp_Lkdy","name":"💐来看┃1080P","type":3,"api":"csp_LkdyGuard"},
+{"key":"巧技","name":"🚗巧记┃1080P","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"csp_MiSou","name":"🔍米搜┃夸克","type":3,"changeable":"0","api":"csp_MiSouGuard","ext":""},
 {"key":"听书","name":"📚听书┃BOOK","type":3,"api":"csp_TingBookGuard","searchable":1,"ext":"http://www.6yueting.com"},
 {"key":"Aid","name":"🚑有来┃急救","type":3,"api":"csp_FirstAidGuard","searchable":0,"style":{"type":"rect","ratio":3.8}},
