@@ -1,15 +1,15 @@
 
-//      >>> 当前时间是：2025-03-26 07:12:18 <<<
+//      >>> 当前时间是：2025-03-27 07:12:42 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：https://mpanso.me/DEMO.json
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742864900934/xm0325.txt;md5;e1ec04551ab516a8dc63b1bf79247212",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743000038819/0326-2.jar;md5;3a4506d2d89754004c15a0481680125b",
 "wallpaper":"https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 "sites":[
 {"key":"豆豆","name":"🌈豆瓣┃接口已移交开源平台请测试完删除处理","type":3,"api":"csp_DoubanGuard","searchable":0},
-{"key":"config","name":"⚙云盘┃配置中心0324新增123盘","type":3,"api":"csp_ConfigGuard","searchable":0},
-{"key":"csp_Netfixtv","name":"💌至臻┃4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["https://mihdr.top","http://www.miqk.cc","http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
+{"key":"config","name":"⚙云盘┃配置中心0326修复UCUC需要配置UT去神秘的哥哥公众号获取","type":3,"api":"csp_ConfigGuard","searchable":0},
+{"key":"csp_Netfixtv","name":"💌至臻┃4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["https://mihdr.top","http://www.miqk.cc","https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_Wogg","name":"🧸玩偶┃4K弹幕","type":3,"api":"csp_WoggGuard","changeable":"0","filterable":1,"ext":"Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="},
 {"key":"csp_UC","name":"🍚小米┃UC123","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["http://www.54271.fun/","https://www.milvdou.fun","http://www.54271.fun/","https://www.mucpan.cc/","https://mucpan.cc/","http://milvdou.fun"],"url_key":"UC","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_Bili","name":"💯哔哩┃哔哩","type":3,"api":"csp_BiliGuard","searchable":1,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},
@@ -17,6 +17,7 @@
 {"key":"88看球","name":"🏀看球┃直播","type":3,"api":"csp_KanqiuGuard","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
 {"key":"游戏直播","name":"🎮游戏┃直播","type":3,"api":"csp_LivingGuard","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"ext":""},
 {"key":"天天","name":"🦢天天┃1080P","type":3,"api":"csp_AppRJGuard","ext":"sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"},
+{"key":"悠悠","name":"🏆悠悠┃1080P","type":3,"api":"csp_AppYoYoGuard","ext":"sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzYseYYi0XppjT3PqIoGpRRJx2sAoWJyjHWCcqf9isoP8aiL8M2UosZyd+iyY9yzqi8hck/Irnt5dVfJ2Tqvgkxj0QLfzdKgsJPOtJLikeRUAw5X2GBxMAu5gKeiJfzcdfSljHqc2ZknSRJGT0REV7D/1aSEatzYLpHbpJgxDEv/ExW7rl0ZR7bG1hFwBAa49P86unuKBPIXp3mTO3p1did8MhIk3hWJ1cLdMG6dYbwAfC4L3jUEFsAyQsCH6uYRYg="},
 {"key":"csp_Wwys","name":"👨农民┃1080P","type":3,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},
 {"key":"csp_Lgyy","name":"⏳️️流光┃1080P","type":3,"api":"csp_FreeOkGuard"},
 {"key":"莉莉","name":"🌰莉莉┃1080P","type":3,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"},
@@ -51,7 +52,7 @@
 "lives":[
 {"name":"央卫","type":0,"url":"https://livetv.wqwqwq.sbs/tv.m3u","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
 {"name":"V4聚合（卡顿请按左┃右键换线）","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
-{"name":"IPV6","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
 {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2}
 ],
 "rules":[

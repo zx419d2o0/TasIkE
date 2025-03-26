@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-03-26 07:12:24 <<<
+//      >>> 当前时间是：2025-03-27 07:12:44 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742788566234/okpng.png;md5;eb0b25aac968829d4f590434e6bcff2b",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/oMLZ0Bu2.png;md5;c7c502074d93e2dc1b6abf05578c22dc",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -12,6 +12,8 @@
 {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":30},
 {"key":"校长","name":"💮小章┃4K","type":3,"api":"csp_XiaoZhangGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
+"timeout":30},
+{"key":"光影","name":"🎥光影┃4K","type":3,"api":"csp_GuanyingGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt","danmu":true},
 "timeout":30},
 {"key":"瓜子","name":"🍉瓜子┃App","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"热播","name":"📺热播┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
