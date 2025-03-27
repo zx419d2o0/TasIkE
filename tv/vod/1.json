@@ -1,17 +1,17 @@
 
-//      >>> 当前时间是：2025-03-27 07:12:42 <<<
+//      >>> 当前时间是：2025-03-28 07:13:08 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：https://mpanso.me/DEMO.json
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743000038819/0326-2.jar;md5;3a4506d2d89754004c15a0481680125b",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99",
 "wallpaper":"https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 "sites":[
 {"key":"豆豆","name":"🌈豆瓣┃接口已移交开源平台请测试完删除处理","type":3,"api":"csp_DoubanGuard","searchable":0},
-{"key":"config","name":"⚙云盘┃配置中心0326修复UCUC需要配置UT去神秘的哥哥公众号获取","type":3,"api":"csp_ConfigGuard","searchable":0},
+{"key":"config","name":"⚙云盘┃配置中心0326修复UC无需要配置UT直接上车","type":3,"api":"csp_ConfigGuard","searchable":0},
 {"key":"csp_Netfixtv","name":"💌至臻┃4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["https://mihdr.top","http://www.miqk.cc","https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_Wogg","name":"🧸玩偶┃4K弹幕","type":3,"api":"csp_WoggGuard","changeable":"0","filterable":1,"ext":"Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="},
-{"key":"csp_UC","name":"🍚小米┃UC123","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["http://www.54271.fun/","https://www.milvdou.fun","http://www.54271.fun/","https://www.mucpan.cc/","https://mucpan.cc/","http://milvdou.fun"],"url_key":"UC","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
+{"key":"csp_UC","name":"🍚小米┃UC123","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"ext":{"site_urls":["https://www.54271.fun/","https://54271.fun/","https://www.mucpan.cc/","https://mucpan.cc/"],"url_key":"UC","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_Bili","name":"💯哔哩┃哔哩","type":3,"api":"csp_BiliGuard","searchable":1,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},
 "style":{"type":"rect","ratio":1.333}},
 {"key":"88看球","name":"🏀看球┃直播","type":3,"api":"csp_KanqiuGuard","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
