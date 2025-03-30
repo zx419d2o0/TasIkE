@@ -443,6 +443,15 @@
       ]
     },
     {
+      "key": "豆瓣采集资源",
+      "name": "豆瓣 | 采集",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "量子",
       "name": "量子",
       "type": 1,
