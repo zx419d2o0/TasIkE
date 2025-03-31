@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-03-31 07:13:17 <<<
+//      >>> 当前时间是：2025-04-01 07:12:47 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://tvbox.王二小放牛娃.top
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743156196291/wex.txt;md5;e2d407df1191777ce506ef1896142098",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743448486737/wex.txt;md5;0f24b3e89558392e4e1267e8e98672ce",
 "wallpaper":"https://牛逼.王二小放牛娃.xyz/","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"},
@@ -31,12 +31,11 @@
 {"key":"Wex4kfmGuard","name":"💓影库┃4K💓","type":3,"api":"csp_Wex4kfmGuard","searchable":1,"changeable":1,"timeout":120},
 {"key":"Wexalllive","name":"💓‍聚合┃直播💓‍","type":3,"api":"csp_WexallliveGuard","searchable":1,"changeable":1},
 {"key":"Wexhanxiaoquan","name":"💥韩剧┃弹幕💥","type":3,"api":"csp_WexhanxiaoquanGuard","searchable":1,"changeable":1},
+{"key":"Wexrenrenyingshi","name":"💥人人┃弹幕💥","type":3,"api":"csp_WexrenrenyingshiGuard","searchable":1,"changeable":1},
 {"key":"賤賤","name":"💥賤片┃p2p💥","type":3,"api":"csp_WexJianpianGuard","searchable":1,"changeable":1},
 {"key":"WexkuihuatvGuard","name":"💥葵花┃影视💥","type":3,"api":"csp_WexkuihuatvGuard","searchable":1,"changeable":1},
-{"key":"Fujutv","name":"😁腐剧┃影视😁","type":3,"api":"csp_WexFujutvGuard","searchable":1,"changeable":1},
 {"key":"WexquickvodGuard","name":"🎇美剧┃秒播🎇","type":3,"api":"csp_WexquickvodGuard","searchable":1,"changeable":1},
 {"key":"Wex4Kav","name":"🎇急速┃秒播🎇","type":3,"api":"csp_Wex4KavGuard","searchable":1,"changeable":1},
-{"key":"Wexbaipiao","name":"🎇星星┃秒播🎇","type":3,"api":"csp_WexbaipiaoGuard","searchable":1,"changeable":1},
 {"key":"Wexsaohuo","name":"🎇火火┃秒播🎇","type":3,"api":"csp_WexsaohuoGuard","searchable":1,"changeable":1},
 {"key":"Wexzxzj","name":"🎇外剧┃秒播🎇","type":3,"api":"csp_WexzxzjGuard","searchable":1,"changeable":1},
 {"key":"Wexbaozitv","name":"🎇包子┃秒播🎇","type":3,"api":"csp_WexbaozitvGuard","searchable":1,"changeable":1},
