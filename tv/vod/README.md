@@ -1,7 +1,5 @@
 ```text
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.观影，海绵，雷鲸，盘他，鸟窝，团长，支持在配置中心自定义cookie
-2.修复夸克、123等网盘无法播放iso的问题。
-3.修复123播放iso困难的问题。
+1.修复guanying,4kfm,hmxz,leijing,panta,hdhive,tzfile的cookie处理bug。
 ```
 
