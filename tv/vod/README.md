@@ -1,5 +1,6 @@
 ```text
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.修复guanying,4kfm,hmxz,leijing,panta,hdhive,tzfile的cookie处理bug。
+1.修复助力引起的相关问题。取消助力失败提示。
+2.修复123集数错乱问题
 ```
 
