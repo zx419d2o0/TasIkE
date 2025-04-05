@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-04-05 07:12:43 <<<
+//      >>> 当前时间是：2025-04-06 07:13:46 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743784087870/okpng.png;md5;ae6c30415a095d7eb29b8bbfe0eafacc",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/s75sFtaj.png;md5;4be0f212383d8b6ee11b2265dea5ce20",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -27,6 +27,7 @@
 {"key":"浪酷版","name":"👓浪酷┃秒播","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":2},
 "timeout":10},
 {"key":"小苹果","name":"🍎苹果┃直连","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
+{"key":"素白白","name":"🐇白白┃弹幕","type":3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
 {"key":"二小","name":"🦢二小┃4K网盘","type":3,"api":"csp_ErXiaoGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":25},
 {"key":"立播版","name":"🐰立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt","site":"https://libvio.link"},
@@ -35,7 +36,7 @@
 "timeout":25},
 {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":25},
-{"key":"挽歌","name":"🪅挽歌┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
+{"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":25},
 {"key":"表哥","name":"👨🏻‍🦱表哥┃4K","type":3,"api":"csp_DbgGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":25},
@@ -113,7 +114,9 @@
 "timeout":15},
 {"key":"米搜","name":"🌖米搜┃搜索","type":3,"api":"csp_MiPanSoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":15},
-{"key":"太极","name":"☯️太极┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
+{"key":"太极","name":"☯️太极┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt","taichi":1},
+"timeout":15},
+{"key":"糖果搜","name":"🍬糖果┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt","taichi":2},
 "timeout":15},
 {"key":"盘搜","name":"🙀盘搜┃搜索","type":3,"api":"csp_PanSoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","123_token":"file://TV/123_token.txt"},
 "timeout":15},
