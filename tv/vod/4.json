@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-04-07 07:12:32 <<<
+//      >>> 当前时间是：2025-04-08 07:13:26 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://tvbox.王二小放牛娃.top
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743448486737/wex.txt;md5;0f24b3e89558392e4e1267e8e98672ce",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
 "wallpaper":"https://牛逼.王二小放牛娃.xyz/","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"},
@@ -23,6 +23,7 @@
 {"key":"WexshuangzixingGuard","name":"💓双星┃4K💓","type":3,"api":"csp_WexshuangzixingGuard","searchable":1,"changeable":1},
 {"key":"WexfeimaoziyuanGuard","name":"💓肥猫┃4K💓","type":3,"api":"csp_WexfeimaoziyuanGuard","searchable":1,"changeable":1},
 {"key":"WextexiafanGuard","name":"💓下饭┃4K💓","type":3,"api":"csp_WextexiafanGuard","searchable":1,"changeable":1},
+{"key":"趣盘","name":"💓‍趣盘┃4K💓‍","type":3,"api":"csp_WexbdqupanGuard","searchable":1,"changeable":1,"style":{"type":"list"}},
 {"key":"盘他","name":"💓‍盘他┃4K💓‍","type":3,"api":"csp_WexYDpantaGuard","searchable":1,"changeable":1},
 {"key":"Wexpan123ziyuanGuard","name":"💓‍123┃4K💓‍","type":3,"api":"csp_Wexpan123ziyuanGuard","searchable":1,"changeable":1},
 {"key":"雷鲸","name":"💓‍雷鲸┃4K💓‍","type":3,"api":"csp_WexleijingGuard","searchable":1,"changeable":1},
@@ -92,6 +93,7 @@
 {"key":"Wexyingso","name":"🎠影子┃综合🎠","type":3,"api":"csp_WexyingsoGuard","searchable":1,"changeable":0},
 {"key":"WexTJso","name":"🎠TJ┃综合🎠","type":3,"api":"csp_WexTJsoGuard","searchable":1,"changeable":0},
 {"key":"Wextyso","name":"🎠给力┃天逸🎠","type":3,"api":"csp_WextysoGuard","searchable":1,"changeable":0},
+{"key":"WexbaidusoGuard","name":"🎠给力┃百度🎠","type":3,"api":"csp_WexbaidusoGuard","searchable":1,"changeable":0},
 {"key":"115","name":"💓我的┃115💓‍","type":3,"api":"csp_Wex115shareGuard","searchable":1,"changeable":1,"timeout":50,"style":{"type":"list"}},
 {"key":"tianyi","name":"💓我的┃天逸💓‍","type":3,"api":"csp_WexWo189Guard","searchable":1,"changeable":1,"timeout":50,"style":{"type":"list"}},
 {"key":"夸克","name":"💓我的┃夸克💓‍","type":3,"api":"csp_WexWoquarkpanGuard","searchable":1,"changeable":1,"timeout":50,"style":{"type":"list"}},
