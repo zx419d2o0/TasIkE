@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",免费订阅：请勿贩卖...
 https://epg.iill.top/v/302.mp4
 
-#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20254-1#佛系维护...
+#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20254-8#佛系维护...
 https://epg.iill.top/v/301.mp4
 
 #EXTINF:-1 group-title="4K" tvg-id="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="LOVENATURE4K",LoveNature 4K
@@ -15,227 +15,215 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="4K" tvg-id="" tvg-logo="https://epg.iill.top/logo/FashionTV.png" tvg-name="",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",晴彩广场舞
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
+https://tv.iill.top/migu/cctv1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",晴彩少年
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" tvg-name="CCTV 2",CCTV2
+https://tv.iill.top/migu/cctv2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",晴彩竞技
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" tvg-name="CCTV 3",CCTV3
+https://tv.iill.top/migu/cctv3
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",晴彩篮球
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" tvg-name="CCTV 4",CCTV4
+https://tv.iill.top/migu/cctv4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播4K
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4美洲.png" tvg-name="CCTV 4",CCTV4
+https://tv.iill.top/migu/cctv4m
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4欧洲.png" tvg-name="CCTV 4",CCTV4
+https://tv.iill.top/migu/cctv4o
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" tvg-name="CCTV 5",CCTV5
+https://tv.iill.top/migu/cctv5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
+https://tv.iill.top/migu/cctv5p
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟜
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
+https://tv.iill.top/migu/cctv6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟝
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" tvg-name="CCTV 7",CCTV7
+https://tv.iill.top/migu/cctv7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟞
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" tvg-name="CCTV 8",CCTV8
+https://tv.iill.top/migu/cctv8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟟
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" tvg-name="CCTV 9",CCTV9
+https://tv.iill.top/migu/cctv9
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟠
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" tvg-name="CCTV 10",CCTV10
+https://tv.iill.top/migu/cctv10
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟡
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" tvg-name="CCTV 11",CCTV11
+https://tv.iill.top/migu/cctv11
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟘
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" tvg-name="CCTV 12",CCTV12
+https://tv.iill.top/migu/cctv12
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟙
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" tvg-name="CCTV 13",CCTV13
+https://tv.iill.top/migu/cctv13
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟚
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" tvg-name="CCTV 14",CCTV14
+https://tv.iill.top/migu/cctv14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟛
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" tvg-name="CCTV 15",CCTV15
+https://tv.iill.top/migu/cctv15
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟜
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="央视" tvg-id="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" tvg-name="CCTV 17",CCTV17
+https://tv.iill.top/migu/cctv17
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟝
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="CETV1" tvg-logo="https://epg.iill.top/logo/CETV1.png" tvg-name="CETV1",CETV1 中国教育
+https://tv.iill.top/migu/cetv1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟞
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="CETV2" tvg-logo="https://epg.iill.top/logo/CETV2.png" tvg-name="CETV2",CETV2 中国教育
+https://tv.iill.top/migu/cetv2
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟟
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="CETV4" tvg-logo="https://epg.iill.top/logo/CETV4.png" tvg-name="CETV4",CETV4 中国教育
+https://tv.iill.top/migu/cetv4
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟠
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟙𝟡
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" tvg-name="江苏卫视",江苏卫视
+https://tv.iill.top/migu/jsws
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟘
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" tvg-name="东方卫视",东方卫视
+https://tv.iill.top/migu/dfws
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟙
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" tvg-name="东方影视",上视东方影视
+https://tv.iill.top/migu/shys
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟚
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" tvg-name="CHC家庭影院",CHC家庭影院
+https://tv.iill.top/migu/jtyy
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟛
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="红色轮播台" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="红色轮播台",红色轮播台
+https://tv.iill.top/migu/hslb
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟜
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="金色剧场" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="金色剧场",金色剧场
+https://tv.iill.top/migu/jsjc
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟝
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="NBA经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="NBA经典",NBA经典
+https://tv.iill.top/migu/nba
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟞
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="五大联赛经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="五大联赛经典",五大联赛经典
+https://tv.iill.top/migu/lsjd
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟟
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="足球风云" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="足球风云",中国足球风云
+https://tv.iill.top/migu/zqfy
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟠
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育",咪咕24小时体育台
+https://tv.iill.top/migu/mgty
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟚𝟡
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」02:35 联赛 博洛尼亚 vs 那不勒斯 刘腾
+https://tv.iill.top/FB/NczDlm
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟘
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「英超」02:50 联赛 莱斯特城 vs 纽卡斯尔联 刘焕
+https://tv.iill.top/FB/WF4h4q
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟙
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」02:50 联赛 莱加内斯 vs 奥萨苏纳 孙雨轩
+https://tv.iill.top/FB/lqVft7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟚
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 国王vs活塞 王琰博
+https://tv.iill.top/NBA/1FJFcx
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟛
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:25 常规赛 76人vs热火 吴博文
+https://tv.iill.top/NBA/36KdS8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟜
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 1号桌
+https://tv.iill.top/Migu/fF2vdQ
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟝
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 2号桌
+https://tv.iill.top/Migu/FD7pgq
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟞
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTT」10:00 男女单打资格赛小组赛第一、二轮 男女单打资格赛小组赛第一、二轮 3号桌
+https://tv.iill.top/Migu/5NgKiX
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟟
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」15:20 中乙联赛 赣州瑞狮vs深圳二零二八 解说
+https://tv.iill.top/Migu/1okpYo
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",咪咕直播𝟛𝟠
-https://tv.iill.top/itv/channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」15:20 中乙联赛 广东铭途vs广州蒲公英 解说
+https://tv.iill.top/Migu/tg5Tab
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」00:20 联赛 巴拉多利德 vs 赫塔费 周楚雄
-https://tv.iill.top/FB/VZNHkz
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」15:20 中乙联赛 昆明城星vs泉州亚新 解说
+https://tv.iill.top/Migu/Dp5Xko
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「法甲」02:35 联赛 马赛 vs 图卢兹 盛斌
-https://tv.iill.top/FB/ku7g7S
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」15:20 中乙联赛 广西恒宸vs成都蓉城B队 解说
+https://tv.iill.top/Migu/psDlxu
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」02:30 联赛 罗马 vs 尤文图斯 石庆圣 李彦
-https://tv.iill.top/FB/F4ZYbL
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」15:50 中乙联赛 贵州筑城竞技vs广西蓝航 解说
+https://tv.iill.top/Migu/5mRrjy
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「意甲」02:30 联赛 罗马 vs 尤文图斯 石庆圣 李彦
-https://tv.iill.top/FB/aP8P9f
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「LPL」16:30 TES vs FPX TES vs FPX 官方解说
+https://tv.iill.top/Migu/rZOTeq
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/足球.png" tvg-name="",「西甲」02:50 联赛 比利亚雷亚尔 vs 毕尔巴鄂竞技 兰子非
-https://tv.iill.top/FB/Mz16AW
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 1号桌
+https://tv.iill.top/Migu/zjIRDx
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」00:55 常规赛 公牛VS黄蜂 吴博文
-https://tv.iill.top/NBA/TeKY30
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 2号桌
+https://tv.iill.top/Migu/IOH9Bo
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」03:25 常规赛 猛龙VS篮网 张泽欣
-https://tv.iill.top/NBA/p9yxgC
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 5号桌
+https://tv.iill.top/Migu/bny9fc
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」03:25 常规赛 湖人VS雷霆 邢晨
-https://tv.iill.top/NBA/F8OlRf
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 6号桌
+https://tv.iill.top/Migu/c8UMyU
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」03:25 常规赛 湖人VS雷霆 郑泽鹏
-https://tv.iill.top/NBA/IXIYsR
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 3号桌
+https://tv.iill.top/Migu/K1eoiD
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 国王vs骑士 邵化谦
-https://tv.iill.top/NBA/YeGr8M
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 4号桌
+https://tv.iill.top/Migu/eRgVEB
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 奇才VS凯尔特人 蔡凯臣
-https://tv.iill.top/NBA/pJOcnY
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 7号桌
+https://tv.iill.top/Migu/kCmUuo
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 爵士VS老鹰 周赫
-https://tv.iill.top/NBA/tC8Jrx
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 周金豪出战 赵心童vs张家玮争晋级 周金豪出战 赵心童vs张家玮争晋级 8号桌
+https://tv.iill.top/Migu/woIy14
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」05:55 常规赛 马刺VS开拓者 王冠证
-https://tv.iill.top/NBA/pvuK9Q
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 上海vs广东赛前训练 上海vs广东赛前训练 陈渤胄
+https://tv.iill.top/Migu/Fj5cX7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」06:55 常规赛 太阳vs尼克斯 陈鑫隆
-https://tv.iill.top/NBA/jSCpoa
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 上海vs广东赛前训练 上海vs广东赛前训练 翻译小余
+https://tv.iill.top/Migu/KiXiD5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」07:55 常规赛 步行者vs掘金 庄宁宇 殷文玉
-https://tv.iill.top/NBA/SE5UyX
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「LPL」19:00 IG vs AL IG vs AL 官方解说
+https://tv.iill.top/Migu/6aHacY
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:15 常规赛 火箭vs勇士 连睿 马健 小七
-https://tv.iill.top/NBA/i19vrO
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WCBA」19:20 总决赛 四川蜀道远达 VS 东莞新彤盛 吕程 赵爽
+https://tv.iill.top/Migu/YpJY6V
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 常规赛 火箭vs勇士 周鹏
-https://tv.iill.top/NBA/lFpUso
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「中乙」19:20 中乙联赛 武汉三镇B队vs温州俱乐部 解说
+https://tv.iill.top/Migu/sUMBY5
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 常规赛 火箭vs勇士 拜月宁
-https://tv.iill.top/NBA/D07gnV
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 季后赛12进8 上海久事vs广东东阳光 李天宇、陈正昊、王薪凯
+https://tv.iill.top/Migu/j24wN6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」08:25 常规赛 雄鹿VS鹈鹕 刘芳宇
-https://tv.iill.top/NBA/amhXN0
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 陈渤胄
+https://tv.iill.top/Migu/iiqGWb
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTA」01:00 奥索里奥获个人赛会第三冠 奥索里奥获个人赛会第三冠 赛场原声
-https://tv.iill.top/Migu/WMOhA1
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 翻译小余
+https://tv.iill.top/Migu/pKgmzJ
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「WTA」02:30 佩古拉夺得赛季第二冠 佩古拉夺得赛季第二冠 赛场原声
-https://tv.iill.top/Migu/qv55bw
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 明星机位洛夫顿
+https://tv.iill.top/Migu/j5MkBJ
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「LPL」16:30 LNG vs EDG LNG vs EDG 官方解说
-https://tv.iill.top/Migu/rDMW6F
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 明星机位胡明轩
+https://tv.iill.top/Migu/CvWYaV
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 1号桌
-https://tv.iill.top/Migu/km92bP
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 上海久事vs广东东阳光 现场原声
+https://tv.iill.top/Migu/1rx6I6
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 2号桌
-https://tv.iill.top/Migu/VZL0R1
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」18:30 季后赛12进8 北京控股vs山东高速 连睿、曾令旭、李根
+https://tv.iill.top/Migu/kI7LW1
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 3号桌
-https://tv.iill.top/Migu/sDkJhE
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 北京控股vs山东高速 周赫
+https://tv.iill.top/Migu/4HwwI7
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 4号桌
-https://tv.iill.top/Migu/hfojqN
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 北京控股vs山东高速 王新通
+https://tv.iill.top/Migu/8eYxWr
 
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 5号桌
-https://tv.iill.top/Migu/Jn4CA0
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 7号桌
-https://tv.iill.top/Migu/z61GnD
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 6号桌
-https://tv.iill.top/Migu/w5ZGmL
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「斯诺克」17:00 赵心童出战 赵心童出战 8号桌
-https://tv.iill.top/Migu/QMFZps
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「LPL」19:00 TES vs WBG TES vs WBG 官方解说
-https://tv.iill.top/Migu/FtVlIp
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「CBA」19:25 季后赛12进8 北京控股vs山东高速 现场原声
+https://tv.iill.top/Migu/afi1mX
 
 #EXTINF:-1 group-title="港澳" tvg-id="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="凤凰中文",鳳凰衛視·中文
 http://dns.yiandrive.com:15907/phenix/fhzw
