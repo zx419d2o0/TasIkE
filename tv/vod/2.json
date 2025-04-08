@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-04-08 07:13:21 <<<
+//      >>> 当前时间是：2025-04-09 07:12:43 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/tI6Yp1i6.png;md5;3a9639bb35ea107dc84d3d8f4ddfbd32",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YFwHHn5m.png;md5;6887203e8636e7e9169e6ea5193c112f",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -76,7 +76,8 @@
 "style":{"type":"list"},
 "timeout":30},
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
+{"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1,"timeout":10},
 {"key":"ddys_js","name":"🍄低端┃在线","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt","timeout":15},
 {"key":"yhdm","name":"🌸樱花┃动漫","type":3,"api":"csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":15},
