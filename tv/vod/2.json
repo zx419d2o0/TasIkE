@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-04-10 07:12:35 <<<
+//      >>> 当前时间是：2025-04-11 07:13:37 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YFwHHn5m.png;md5;6887203e8636e7e9169e6ea5193c112f",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yAek22Qe.png;md5;d3c73166f177581a6a547781dd6d9ea3",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -158,7 +158,7 @@
 {"name":"国内移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"ua":"okhttp/3.15","timeout":10},
-{"name":"江苏移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744174074180/jjssyydd.txt","playerType":2,"timeout":10},
+{"name":"江苏移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt","playerType":2,"timeout":10},
 {"name":"一起看","type":3,"api":"csp_HuyaGuard","url":"yqk","playerType":2,"timeout":10},
 {"name":"肥羊B站直播","type":3,"api":"csp_FeiyangGuard","url":"bililive.m3u","timeout":10,"ua":"okhttp/3.15"},
 {"name":"肥羊斗鱼一起看","type":3,"api":"csp_FeiyangGuard","url":"douyuyqk.m3u","timeout":10,"ua":"okhttp/3.15"},
