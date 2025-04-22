@@ -32,8 +32,8 @@ jobs:
           git clone https://github.com/fish2018/PG.git
           unzip -o PG/pg*.zip -d tv/vod/local/
           sed -n '/今日更新内容：/,/```bash/{/```bash/!p}' PG/README.md | sed '1s/^/```text\n/; $s/```bash/```/' > tv/vod/README.md
-          git clone https://cnb.cool/juejijianghu2000/goProxy.git
-          mv goProxy/* tv/vod/goProxy/
+          # git clone https://cnb.cool/juejijianghu2000/goProxy.git
+          # mv goProxy/* tv/vod/goProxy/
           git clone https://github.com/gaotianliuyun/gao.git
           mv gao/jar/* tv/vod/jar/
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
