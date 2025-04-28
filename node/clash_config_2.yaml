@@ -32,161 +32,125 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- name: 22|HKG_3
+  network: ws
+  password: Aimer
+  port: 35961
+  server: 47.238.136.218
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 22|HKG_7
+  network: ws
+  password: Aimer
+  port: 18026
+  server: 38.22.88.199
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 25|[Trojan] 🇭🇰 香港 数掘科技gfvps.cn数据中...
+  network: ws
+  password: Aimer
+  port: 443
+  server: 27.50.49.136
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  tfo: false
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560
 - cipher: chacha20-ietf-poly1305
-  country: 🇰 HK
-  name: 15|🇰 HK_166
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 203.23.128.33
+  client-fingerprint: chrome
+  name: 37,38|🇭🇰 香港2|@ripaojiedian
+  password: 91a41f4e02dc
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: hkkh11v1.xpmc.cc
+    mode: websocket
+    mux: true
+    path: /utvbnrzejpmt
+    skip-cert-verify: false
+    tls: true
+  port: 24682
+  server: hkkh11v1.xpmc.cc
+  tfo: false
   type: ss
-- cipher: chacha20-ietf
-  country: 🇭🇰 HK
-  name: 15|🇰 HK_167
-  password: asd123456
-  port: 8388
-  server: 103.36.91.23
-  type: ss
-- alterId: 2
-  cipher: auto
-  country: 🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_168
-  network: ws
-  port: 80
-  server: f49bcb46-sv2sg0-sw1w5j-1a3sy.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b93c66cc-00ed-11ec-8673-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_169
-  network: ws
-  port: 80
-  server: 6bcba1b3-sv2sg0-sywkhi-1o4kv.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 87b31a02-172e-11ee-a11f-f23c913c8d2b
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_170
-  network: ws
-  port: 80
-  server: c251f6b5-sv2sg0-swjbgr-1kcpe.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 3f514ea2-4662-11ed-a8bf-f23c91cfbbc9
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_173
-  network: ws
-  port: 80
-  server: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 47e91fb6-25b8-df52-bc18-3cdc8548192f
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_176
-  network: ws
-  port: 80
-  server: a9b5ab57-sv2sg0-sv75lj-1swf9.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 2bb1edc8-fa5d-11ef-9dd9-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_177
-  network: ws
-  port: 80
-  server: cb41e6fb-sv2sg0-sv2vdm-1qudz.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: a63b0d44-e290-11ee-91f6-f23c91cfbbc9
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_179
-  network: ws
-  port: 80
-  server: a1d35d30-sv2sg0-t66zs1-1pq44.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 3f194e88-8eac-11ee-be7f-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
 - cipher: aes-128-gcm
   name: 12|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- country: 🇬SG
-  name: 15|SG_263
-  password: d4bdfc72-7f0c-4ff0-aa4d-3530736f4088
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 14|🇯🇵 日本 | JPN 4
+  network: ws
   port: 443
-  server: sg-full.privateip.net
+  server: bookmyshow.com
+  servername: jpv.xiaoqi555.xyz
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5bc17096-799d-4cca-83b6-4afc5baf26ff
+  ws-opts:
+    headers:
+      Host: jpv.xiaoqi555.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 14|🇯🇵 日本 | JPN 5
+  network: ws
+  port: 443
+  server: www.visa.com
+  servername: jpv.xiaoqi555.xyz
   skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5bc17096-799d-4cca-83b6-4afc5baf26ff
+  ws-opts:
+    headers:
+      Host: jpv.xiaoqi555.xyz
+    path: /
+- name: 19|加拿大+V2CROSS.COM
+  network: ws
+  password: Aimer
+  port: 2083
+  server: 130.250.137.63
+  sni: epcca.ambercc.filegear-sg.me
   type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
-  password: hSZhPAs1FBGORHKMF2GlPp
-  port: 1489
-  server: 206.189.93.2
-  tfo: false
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇦CA
-  name: 15|🇦CA_125
-  password: JIhN6rBKkaEboLNXVSv5rq
-  port: 80
-  server: ca225.vpnbook.com
-  type: ss
+  ws-opts:
+    headers:
+      Host: epcca.ambercc.filegear-sg.me
+    path: '%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw'
+- alterId: 0
+  cipher: auto
+  name: 28|加拿大 006
+  network: ws
+  port: 2082
+  server: s1.cn-db.top
+  tls: false
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  ws-opts:
+    headers:
+      Host: 100-150-51-99.s1.cn-db.top
+    path: /dabai.in172.64.27.73
 - alterId: 0
   cipher: auto
   name: 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
@@ -201,71 +165,6 @@ proxies:
     headers:
       Host: 51.79.102.253
     path: /IOebhLMhl1CTbFHbL95myfRX2
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 15| DE_133
-  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
-  port: 54075
-  server: beta.mattenadene.org
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇪DE_136
-  password: ZpNDDKRu9MagNvaf
-  port: 9015
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_139
-  password: aLpQtfEZe445QyHk
-  port: 9098
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_140
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_141
-  password: NvS8N4Vf8qAGPSCL
-  port: 9046
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_142
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_143
-  password: Sn5B7jTqr76aCJT8
-  port: 9097
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇪DE_144
-  password: 4R3hUfZ2FHhDmNcP
-  port: 9061
-  server: 80.92.204.106
-  type: ss
-- country: 🇩🇪DE
-  name: 15|🇩🇪DE_145
-  password: 665c944d-047d-4659-80d5-3eaac70241a9
-  port: 443
-  server: 139.162.158.172
-  skip-cert-verify: true
-  sni: de2-full.privateip.net
-  type: trojan
-  udp: true
 - name: 22|DEN_1
   network: ws
   password: Aimer
@@ -279,29 +178,6 @@ proxies:
     headers:
       host: epccd.ambercc.filegear-sg.me
     path: /?ed=2560&proxyip=ts.hpc.tw
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 FR
-  name: 15| FR_148
-  password: qXvO7zYU7KeaB0Md7DQLow
-  port: 1080
-  server: 51.195.119.47
-  type: ss
-- country: 🇫🇷FR
-  name: 15|🇷FR_156
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
-  port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 15|🇫🇷FR_157
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - name: 22|FRA_1
   network: ws
   password: Aimer
@@ -316,193 +192,19 @@ proxies:
       host: epcca.ambercc.filegear-sg.me
     path: /?ed=2560&proxyip=ts.hpc.tw
 - cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15| RU_245
-  password: uQS5ntVqC00sSKkeNzUiD3
-  port: 42090
-  server: 89.23.103.125
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15,21|俄罗斯(mibei77.com 米贝节点分享)
+  name: 21|俄罗斯(mibei77.com 米贝节点分享)
   password: RiPuKJJl18ZgvLpTjWxBwSfKiPkt9gzFKyxGCY8eHtOcDb2X
   port: 31348
   server: 5.189.201.250
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇷🇺 RU_247
-  password: LqlPI19oqnunGNSLMvdXyB
-  port: 16356
-  server: 147.45.60.33
+  ip-version: dual
+  name: 0,1,31,40,42|NL_speednode_0046
+  password: gpW0ffUApVv0u5q1NwGHAX
+  port: 4199
+  server: 212.34.150.176
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇷🇺 RU
-  name: 15|🇷🇺 RU_248
-  password: 0zyDRZ1XmNXaaCAN7KEA8a
-  port: 28825
-  server: 45.151.62.54
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 RU
-  name: 15|🇺 RU_249
-  password: WfmxKX2FBJRU0Ie9VLIYDL
-  port: 20012
-  server: 141.98.234.93
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇷🇺 RU
-  name: 15|🇷🇺 RU_250
-  password: CLphyEMQT8nbG8EImX0A2D
-  port: 45635
-  server: 5.35.47.122
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇷🇺 RU_251
-  network: tcp
-  port: 45245
-  server: ye.fxlcn.com
-  servername: ye.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇷🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇺 RU_252
-  network: tcp
-  port: 45215
-  server: fa.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- cipher: aes-256-cfb
-  country: 🇺RU
-  name: 15|🇷🇺RU_253
-  password: JdmRK9gMEqFgs8nP
-  port: 9003
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 15|🇺RU_255
-  password: PeHSHm5SqEjBuEXE
-  port: 9065
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 15|🇷RU_256
-  password: ZET59LF6DvCC8KVt
-  port: 9005
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 15|🇷🇺RU_257
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 45.89.52.66
-  type: ss
-- country: 🇺RU
-  name: 15|🇺RU_258
-  password: e299faed-cb72-4c62-bb2e-f0a218aed72a
-  port: 443
-  server: 194.246.114.54
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇺RU
-  name: 15|🇺RU_259
-  password: e299faed-cb72-4c62-bb2e-f0a218aed72a
-  port: 443
-  server: hk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 19,25|[VMess] 🇷🇺 俄罗斯 V2CROSS.COM
-  network: ws
-  port: 2095
-  server: 185.174.138.209
-  skip-cert-verify: true
-  tfo: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
-  ws-opts:
-    headers:
-      Host: yellow-paper-029c.yvonna.workers.dev
-    path: /az05.beyondy.cfd/link?/TM
-- alterId: 0
-  cipher: auto
-  name: 32|🇷🇺 俄罗斯-圣彼得堡-001-1B
-  network: ws
-  port: '22025'
-  server: 195.58.49.84
-  tls: false
-  type: vmess
-  uuid: ab72de63-798a-4947-83e0-3178efcb62c4
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 SE
-  name: 15|🇪 SE_261
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 45.154.206.192
-  type: ss
-- ip-version: dual
-  name: 0,1,31,41|14|GB_speednode_0044
-  password: '!!str 3828095943467868160'
-  port: 443
-  server: handy-sparrow.dolphin109.quest
-  skip-cert-verify: true
-  sni: handy-sparrow.dolphin109.quest
-  tls: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15| GB_158
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.239.250
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15|🇧 GB_159
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.253.227
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 15|🇧GB_163
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
-  type: ss
-- country: 🇧GB
-  name: 15|🇬🇧GB_165
-  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
-  port: 443
-  server: uk2-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
   udp: true
 proxy-groups:
 - name: 节点选择
@@ -516,56 +218,20 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 15|🇰 HK_167
-  - 15|🇺RU_259
-  - 15|🇰 HK_166
-  - 15| GB_158
-  - 15|🇬🇧GB_165
-  - 15|🇭🇰 HK_173
-  - 19,25|[VMess] 🇷🇺 俄罗斯 V2CROSS.COM
-  - 15|🇫🇷FR_157
-  - 15|🇩🇪DE_140
-  - 15|🇷RU_256
-  - 15|🇪DE_136
-  - 15|🇭🇰 HK_176
-  - 15|🇷🇺 RU_250
-  - 15|🇷FR_156
-  - 15|🇩🇪DE_143
-  - 15|🇧GB_163
-  - 15|🇷🇺RU_253
-  - 15|🇪DE_144
-  - 15|🇦CA_125
-  - 15|🇰 HK_168
-  - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
-  - 32|🇷🇺 俄罗斯-圣彼得堡-001-1B
-  - 15|🇷🇺 RU_248
-  - 15|🇭🇰 HK_179
-  - 15|🇩🇪DE_141
-  - 15|🇷🇺 RU_251
-  - 12|🇯🇵
-  - 15|🇭🇰 HK_170
-  - 15|🇧 GB_159
-  - 15| FR_148
-  - 15|🇷🇺 RU_247
-  - 22|DEN_1
   - 22|FRA_1
-  - 15,21|俄罗斯(mibei77.com 米贝节点分享)
-  - 15|SG_263
-  - 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
-  - 15|🇰 HK_169
-  - 15|🇪 SE_261
-  - 15|🇷🇺RU_257
-  - 15| RU_245
-  - 15|🇺RU_258
-  - 15|🇺 RU_249
-  - 15| DE_133
-  - 15|🇭🇰 HK_177
-  - 15|🇺RU_255
-  - 15|🇩🇪DE_139
-  - 15|🇺 RU_252
-  - 0,1,31,41|14|GB_speednode_0044
-  - 15|🇩🇪DE_145
-  - 15|🇩🇪DE_142
+  - 37,38|🇭🇰 香港2|@ripaojiedian
+  - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
+  - 0,1,31,40,42|NL_speednode_0046
+  - 21|俄罗斯(mibei77.com 米贝节点分享)
+  - 28|加拿大 006
+  - 14|🇯🇵 日本 | JPN 4
+  - 25|[Trojan] 🇭🇰 香港 数掘科技gfvps.cn数据中...
+  - 14|🇯🇵 日本 | JPN 5
+  - 22|HKG_3
+  - 12|🇯🇵
+  - 22|DEN_1
+  - 19|加拿大+V2CROSS.COM
+  - 22|HKG_7
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
