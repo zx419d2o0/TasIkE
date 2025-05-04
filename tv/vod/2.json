@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-05-04 07:12:21 <<<
+//      >>> 当前时间是：2025-05-05 07:12:25 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/G7jzf7OK.png;md5;b29aa6ae932e739c2d440717f84b72c5",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/8atbCY_q.png;md5;fb9d673a7e696bb48cfe7d168d11faee",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -94,6 +94,7 @@
 "timeout":15},
 {"key":"糖果搜","name":"🍬糖果┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"taichi":2},
 "timeout":15},
+{"key":"爱盘","name":"❤️‍🔥爱盘┃搜索","type":3,"api":"csp_AiPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":15},
 {"key":"盘搜","name":"🙀盘搜┃搜索","type":3,"api":"csp_PanSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":15},
 {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"api":"csp_QksoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":15},
 {"key":"影搜","name":"😼影子┃搜索","type":3,"api":"csp_YingSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":15},
