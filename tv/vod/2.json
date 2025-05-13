@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-05-13 07:13:15 <<<
+//      >>> 当前时间是：2025-05-14 07:13:25 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Qpd7N0_9.png;md5;1ff7c90d6f2e6ba1eda34e7aca753c5f",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/l4kjC6jt.png;md5;29ddd127ee20476bf2a78d688d442a8c",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -29,6 +29,7 @@
 {"key":"下饭","name":"🍚下饭┃4K","type":3,"api":"csp_XiaFanGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"小米","name":"🍄小米┃4K","type":3,"api":"csp_XiaoMiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"清影","name":"🌂清影┃4K","type":3,"api":"csp_QingYingGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"123分享","name":"🌂123┃4K","type":3,"api":"csp_Time123Guard","quickSearch":0,"changeable":0,"filterable":1,"timeout":25},
 {"key":"瓜子","name":"🍉瓜子┃App","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"热播","name":"📺热播┃直连","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
