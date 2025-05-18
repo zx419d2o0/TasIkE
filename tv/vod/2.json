@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-05-18 07:12:43 <<<
+//      >>> 当前时间是：2025-05-19 07:12:43 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://cc-im-kefu-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/hjSi0t-T.png;md5;0ad044124bb337886dd6b45558f7278a",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/BMKFB01P.png;md5;37b940f44140efc06ef85bfae7ed4608",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -105,6 +105,7 @@
 {"key":"聚盘","name":"🌻聚盘┃搜索","type":3,"api":"csp_PankuGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"云搜","name":"☁️云搜┃搜索","type":3,"api":"csp_YunPanPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"度搜","name":"🦈度搜┃搜索","type":3,"api":"csp_BdxdGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+{"key":"短剧123","name":"🌂短剧123┃搜索","type":3,"api":"csp_Dju123Guard","searchable":1,"filterable":0,"changeable":0,"timeout":25},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":0,"timeout":25}
 ],
 "parses":[
