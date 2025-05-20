@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-05-20 07:13:10 <<<
+//      >>> 当前时间是：2025-05-21 07:12:58 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/2jMSZE-n.png;md5;5552a49db94271a17a28d29081d30950",
+"spider":"https://cc-im-kefu-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/x7nvbhzb.png;md5;efccf223a6976e4dd29b6cc6ca5ea96f",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -30,6 +30,8 @@
 {"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"云集","name":"🍊云集┃4K","type":3,"api":"csp_YunJiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"盘他","name":"🎸盘他┃4K","type":3,"api":"csp_PantaGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"海绵","name":"🧽海绵┃4K","type":3,"api":"csp_HaiMianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"雷鲸","name":"🐳雷鲸┃4K","type":3,"api":"csp_LeiJingGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"瓜子","name":"🍉瓜子┃App","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"热播","name":"📺热播┃App","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
 "timeout":10},
