@@ -32,75 +32,6 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: aes-256-cfb
-  country: 🇰 HK
-  name: 15,20|🇷_KR_国
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.16.212
-  type: ss
-- cipher: chacha20-ietf
-  country: 🇭🇰 HK
-  name: 15|🇰 HK_169
-  password: asd123456
-  port: 8388
-  server: 103.36.91.23
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇭🇰 HK
-  name: 15|🇭🇰 HK_170
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 203.23.128.33
-  type: ss
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_171
-  network: ws
-  port: 80
-  server: 78eac4af-sv6hs0-swxjgn-1la2q.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 431026c8-7397-11ed-a8bf-f23c91cfbbc9
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_173
-  network: ws
-  port: 80
-  server: 5e4f31de-sv0xs0-sv0wpw-17xo8.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_174
-  network: ws
-  port: 80
-  server: cf6a54ef-sv2sg0-swxjgn-1la2q.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 431026c8-7397-11ed-a8bf-f23c91cfbbc9
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
 - cipher: aes-128-gcm
   name: 12|🇯🇵
   password: shadowsocks
@@ -110,15 +41,33 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 14|🇯🇵 日本 | JPN 2
+  name: 14|🇯🇵 日本 | JPN
   network: ws
   port: 443
-  server: bookmyshow.com
+  server: www.visa.com
   servername: jpv.xiaoqi555.xyz
+  skip-cert-verify: true
   tls: true
   type: vmess
   udp: true
-  uuid: c10f2e2b-ea4f-426e-a246-b1d4140dc699
+  uuid: 3ec262f1-91c0-4191-9366-f9cb13a30e4d
+  ws-opts:
+    headers:
+      Host: jpv.xiaoqi555.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 14|🇯🇵 日本 | JPN 4
+  network: ws
+  port: 443
+  server: time.is
+  servername: jpv.xiaoqi555.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 3ec262f1-91c0-4191-9366-f9cb13a30e4d
   ws-opts:
     headers:
       Host: jpv.xiaoqi555.xyz
@@ -129,63 +78,24 @@ proxies:
   name: 14|🇯🇵 日本 | JPN 5
   network: ws
   port: 443
-  server: time.is
+  server: bookmyshow.com
   servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
   tls: true
   type: vmess
   udp: true
-  uuid: c10f2e2b-ea4f-426e-a246-b1d4140dc699
+  uuid: 3ec262f1-91c0-4191-9366-f9cb13a30e4d
   ws-opts:
     headers:
       Host: jpv.xiaoqi555.xyz
     path: /
-- cipher: aes-256-gcm
-  country: 🇵 JP
-  name: 15| JP_178
-  password: tVPVlUgQhj9i7vHOHij3daCJEUZxctEQ9xoj0WT5A8w=
-  port: 11359
-  server: 139.162.106.142
-  type: ss
-- client-fingerprint: chrome
-  name: 24,34|🇯🇵 日本 东京Amazon数据中心
-  password: CpFKYCc9yO25F2e4CyaxIB38ZaRXYeAu3FD6B3DSlDgIp8e0lz3qYN330F7jDTpZO43SE
-  port: 28332
-  server: 13.112.39.1
-  skip-cert-verify: false
-  sni: infinity.meijireform.com
-  type: trojan
-  udp: true
 - cipher: aes-256-cfb
-  name: 40,42|KR_speednode_0076
+  ip-version: dual
+  name: 0,1,30|_KR_国
   password: f8f7aCzcPKbsF8p3
   port: 989
-  server: 154.90.63.177
+  server: 154.223.16.212
   type: ss
   udp: true
-- country: 🇬SG
-  name: 15|SG_249
-  password: d4bdfc72-7f0c-4ff0-aa4d-3530736f4088
-  port: 443
-  server: sg-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇬SG
-  name: 15|🇬SG_250
-  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
-  port: 443
-  server: sg2-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇦CA
-  name: 15|🇦CA_120
-  password: JIhN6rBKkaEboLNXVSv5rq
-  port: 80
-  server: ca225.vpnbook.com
-  type: ss
 - alterId: 0
   cipher: auto
   name: 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
@@ -201,62 +111,11 @@ proxies:
       Host: 51.79.102.253
     path: /IOebhLMhl1CTbFHbL95myfRX2
 - cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 15|🇪 DE_129
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
+  name: 21|DE德国(mibei77.com 米贝节点分享)
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.166
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 15|🇩🇪 DE_130
-  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
-  port: 54075
-  server: beta.mattenadene.org
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇪DE_131
-  password: aLpQtfEZe445QyHk
-  port: 9098
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇪DE_132
-  password: ZpNDDKRu9MagNvaf
-  port: 9015
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_135
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_136
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_137
-  password: XPtzA9sCug3SPR4c
-  port: 9025
-  server: 80.92.204.106
-  type: ss
-- country: 🇩🇪DE
-  name: 15|🇩🇪DE_140
-  password: 665c944d-047d-4659-80d5-3eaac70241a9
-  port: 443
-  server: 139.162.158.172
-  skip-cert-verify: true
-  sni: de2-full.privateip.net
-  type: trojan
   udp: true
 - name: 28|德国 001
   network: ws
@@ -269,136 +128,6 @@ proxies:
     headers:
       Host: icecream.955850.xyz
     path: /
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 FR
-  name: 15| FR_144
-  password: qXvO7zYU7KeaB0Md7DQLow
-  port: 1080
-  server: 51.195.119.47
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇫🇷FR
-  name: 15|🇷FR_148
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.185.174
-  type: ss
-- country: 🇷FR
-  name: 15|🇫🇷FR_149
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 15|🇷FR_150
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
-  port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 15|🇫🇷FR_151
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
-  port: 443
-  server: de-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 0,1,20,30|🇺_RU_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.231.233.112
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 RU
-  name: 15| RU_234
-  password: pV5BAzqLZosOfuIrkyoadT
-  port: 18660
-  server: 5.181.21.194
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇷🇺 RU_235
-  password: uQS5ntVqC00sSKkeNzUiD3
-  port: 42090
-  server: 89.23.103.125
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇺 RU_236
-  password: 0zyDRZ1XmNXaaCAN7KEA8a
-  port: 28825
-  server: 45.151.62.54
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇺 RU_237
-  password: RiPuKJJl18ZgvLpTjWxBwSfKiPkt9gzFKyxGCY8eHtOcDb2X
-  port: 31348
-  server: 5.189.201.250
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇷🇺 RU_238
-  network: tcp
-  port: 45245
-  server: ye.fxlcn.com
-  servername: ye.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇷🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇺 RU_239
-  network: tcp
-  port: 45215
-  server: fa.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- cipher: aes-256-cfb
-  country: 🇺RU
-  name: 15|🇷🇺RU_240
-  password: PeHSHm5SqEjBuEXE
-  port: 9065
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 15|🇷RU_241
-  password: JdmRK9gMEqFgs8nP
-  port: 9003
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 15|🇷🇺RU_242
-  password: ZET59LF6DvCC8KVt
-  port: 9005
-  server: 45.89.52.66
-  type: ss
-- country: 🇺RU
-  name: 15|🇺RU_245
-  password: e299faed-cb72-4c62-bb2e-f0a218aed72a
-  port: 443
-  server: 194.246.114.54
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - name: 28|俄罗斯 001
   network: ws
   password: 6884d714-d3c4-4b49-aa20-767ea92837d6
@@ -410,60 +139,11 @@ proxies:
     headers:
       Host: icecream.955850.xyz
     path: /proxyip=194.76.18.129:443
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 SE
-  name: 15| SE_247
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 45.154.206.192
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 SE
-  name: 15|🇪 SE_248
-  password: UDcjYQ6Z6AIWxViZpqyOmO
-  port: 44013
-  server: 46.246.98.155
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15|🇧 GB_154
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.255.22
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15|🇬🇧 GB_159
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.239.250
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧 GB
-  name: 15|🇬🇧 GB_160
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: 15|🇧GB_161
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.198
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 15|🇬🇧GB_162
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
-  type: ss
 - cipher: aes-256-cfb
-  name: 30|_GB_国
+  name: 30|🇺_RU_
   password: f8f7aCzcPKbsF8p3
   port: 989
-  server: 51.15.23.63
+  server: 185.231.233.112
   type: ss
 proxy-groups:
 - name: 节点选择
@@ -477,56 +157,16 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 40,42|KR_speednode_0076
-  - 15|🇩🇪 DE_130
-  - 15|🇷🇺RU_242
-  - 15|🇭🇰 HK_170
-  - 15| SE_247
-  - 15,20|🇷_KR_国
-  - 14|🇯🇵 日本 | JPN 5
-  - 15|🇩🇪DE_137
-  - 15|🇺RU_245
-  - 15|🇷🇺 RU_235
-  - 15|🇭🇰 HK_173
-  - 15|🇭🇰 HK_174
-  - 15|SG_249
-  - 15|🇷RU_241
-  - 15|🇷🇺 RU_238
-  - 15|🇫🇷FR_151
-  - 15|🇩🇪DE_140
-  - 15|🇺 RU_237
-  - 15|🇬🇧 GB_159
-  - 15|🇪 SE_248
-  - 0,1,20,30|🇺_RU_
-  - 15|🇬🇧GB_162
-  - 28|俄罗斯 001
-  - 15|🇷FR_148
-  - 15|🇷🇺RU_240
-  - 15|🇰 HK_171
-  - 15|🇧GB_161
-  - 15|🇦CA_120
-  - 15|🇪DE_132
-  - 15|🇪DE_131
+  - 14|🇯🇵 日本 | JPN
   - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
-  - 15|🇧 GB_154
-  - 15|🇪 DE_129
+  - 14|🇯🇵 日本 | JPN 4
+  - 28|俄罗斯 001
+  - 0,1,30|_KR_国
+  - 14|🇯🇵 日本 | JPN 5
+  - 30|🇺_RU_
   - 12|🇯🇵
-  - 15|🇺 RU_236
-  - 30|_GB_国
-  - 15|🇬🇧 GB_160
-  - 24,34|🇯🇵 日本 东京Amazon数据中心
-  - 15|🇺 RU_239
-  - 15|🇷FR_150
-  - 15| FR_144
-  - 15| JP_178
-  - 14|🇯🇵 日本 | JPN 2
-  - 15|🇰 HK_169
-  - 15|🇩🇪DE_136
-  - 15|🇫🇷FR_149
   - 28|德国 001
-  - 15| RU_234
-  - 15|🇩🇪DE_135
-  - 15|🇬SG_250
+  - 21|DE德国(mibei77.com 米贝节点分享)
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
