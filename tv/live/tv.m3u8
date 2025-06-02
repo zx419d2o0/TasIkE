@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",免费订阅：请勿贩卖...
 https://epg.iill.top/v/302.mp4
 
-#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20254-8#佛系维护...
+#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20255-20#佛系维护...
 https://epg.iill.top/v/301.mp4
 
 #EXTINF:-1 group-title="4K" tvg-id="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="LOVENATURE4K",LoveNature 4K
@@ -113,9 +113,6 @@ https://tv.iill.top/migu/zqfy
 
 #EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育",咪咕24小时体育台
 https://tv.iill.top/migu/mgty
-
-#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「国际马联场地障碍世界杯」16:00 第二比赛日 第二比赛日 清流播出
-https://tv.iill.top/Migu/qhjUDH
 
 #EXTINF:-1 group-title="港澳" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
 https://yang-1989.eu.org/live/TVB-Jade
@@ -610,19 +607,19 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 #EXTINF:-1 group-title="广东" tvg-id="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" tvg-name="广州综合台",广州综合
-https://tv.iill.top/gztv/zhonghe
+http://dns.yiandrive.com:13571/gztv/zhonghe
 
 #EXTINF:-1 group-title="广东" tvg-id="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" tvg-name="广州新闻",广州新闻
-https://tv.iill.top/gztv/xinwen
+http://dns.yiandrive.com:13571/gztv/xinwen
 
 #EXTINF:-1 group-title="广东" tvg-id="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" tvg-name="广州法治",广州法治
-https://tv.iill.top/gztv/fazhi
+http://dns.yiandrive.com:13571/gztv/fazhi
 
 #EXTINF:-1 group-title="广东" tvg-id="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" tvg-name="广州影视",广州影视
-https://tv.iill.top/gztv/yingshi
+http://dns.yiandrive.com:13571/gztv/yingshi
 
 #EXTINF:-1 group-title="广东" tvg-id="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" tvg-name="广州南国",广州南国都市
-https://tv.iill.top/gztv/shenghuo
+http://dns.yiandrive.com:13571/gztv/shenghuo
 
 #EXTINF:-1 group-title="特色" tvg-id="" tvg-logo="https://epg.iill.top/logo/虎牙.png" tvg-name="",斯诺克𝟙
 https://live.iill.top/huya/880214
@@ -5273,42 +5270,3 @@ http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Real Madrid TV 🇪🇸
 undefined
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/CCTV1.png" tvg-name="CCTV 1",CCTV1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=6e690989890839eefa93a601387c516e&ext_start_limit=1748902718&int_start_limit=1748902718&ts=1748902718&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-name="",凤凰卫视中文台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=3ff20a034469958e86324d830a9ee881&ext_start_limit=1748902719&int_start_limit=1748902719&ts=1748902719&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-name="",凤凰卫视资讯台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a25e05b760cfbf3cc40412c9380a6db7&ext_start_limit=1748902721&int_start_limit=1748902721&ts=1748902721&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-name="",凤凰卫视香港台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=01b9d9ef2c7b5baecb12c841ed721f27&ext_start_limit=1748902722&int_start_limit=1748902722&ts=1748902722&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=f31a01d5833643c820231f64b7ddc983&ext_start_limit=1748902724&int_start_limit=1748902724&ts=1748902724&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台4K
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=36e75259b10ee5ea26730a41fc47f20c&ext_start_limit=1748902725&int_start_limit=1748902725&ts=1748902725&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="",无线新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=351caaba6cac0f82d0dac00411dbdcb8&ext_start_limit=1748902726&int_start_limit=1748902726&ts=1748902726&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" tvg-name="",娱乐新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=3c86c80507c7e66fead440e58f6059c9&ext_start_limit=1748902728&int_start_limit=1748902728&ts=1748902728&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" tvg-name="",TVBplus
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=3254e21855fa9fc3596d2172218d74aa&ext_start_limit=1748902729&int_start_limit=1748902729&ts=1748902729&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",明珠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=0b2195c277a8366c1dff551fd9cedc18&ext_start_limit=1748902730&int_start_limit=1748902730&ts=1748902730&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CWIN" tvg-logo="" tvg-name="",SuperFree
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=5e79e106b0399152f37499949f9feeb2&ext_start_limit=1748902732&int_start_limit=1748902732&ts=1748902732&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" tvg-name="",黄金翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=c5337bbca55416d7408dab28c795a1cf&ext_start_limit=1748902733&int_start_limit=1748902733&ts=1748902733&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CRE" tvg-logo="" tvg-name="",创世电视
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=38966a420d675e858a75acbffefc7ed2&ext_start_limit=1748902734&int_start_limit=1748902734&ts=1748902734&c=850464580
