@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",免费订阅：请勿贩卖...
 https://epg.iill.top/v/302.mp4
 
-#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20255-20#佛系维护...
+#EXTINF:-1 group-title="温馨" tvg-id="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" tvg-name="免费订阅",维护时间：20256-4#佛系维护...
 https://epg.iill.top/v/301.mp4
 
 #EXTINF:-1 group-title="4K" tvg-id="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" tvg-name="LOVENATURE4K",LoveNature 4K
@@ -84,35 +84,131 @@ https://tv.iill.top/migu/cetv4
 #EXTINF:-1 group-title="咪咕" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-#EXTINF:-1 group-title="咪咕" tvg-id="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" tvg-name="江苏卫视",江苏卫视
-https://tv.iill.top/migu/jsws
-
 #EXTINF:-1 group-title="咪咕" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" tvg-name="东方卫视",东方卫视
 https://tv.iill.top/migu/dfws
 
-#EXTINF:-1 group-title="咪咕" tvg-id="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" tvg-name="东方影视",上视东方影视
+#EXTINF:-1 group-title="咪咕" tvg-id="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" tvg-name="江苏卫视",江苏卫视
+https://tv.iill.top/migu/jsws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" tvg-name="广东卫视",广东卫视
+https://tv.iill.top/migu/gdws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" tvg-name="江西卫视",江西卫视
+https://tv.iill.top/migu/jxws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="陕西卫视" tvg-logo="https://epg.iill.top/logo/陕西卫视.png" tvg-name="陕西卫视",陕西卫视
+https://tv.iill.top/migu/sxws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" tvg-name="湖北卫视",湖北卫视
+https://tv.iill.top/migu/hubws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" tvg-name="东南卫视",东南卫视
+https://tv.iill.top/migu/dnws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" tvg-name="海峡卫视",海峡卫视
+https://tv.iill.top/migu/hxws
+
+#EXTINF:-1 group-title="咪咕" tvg-id="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" tvg-name="上海新闻综合",上海新闻综合
+https://tv.iill.top/migu/shxw
+
+#EXTINF:-1 group-title="咪咕" tvg-id="上视东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" tvg-name="上视东方影视",上视东方影视
 https://tv.iill.top/migu/shys
 
+#EXTINF:-1 group-title="咪咕" tvg-id="CHC影迷电影" tvg-logo="https://epg.iill.top/logo/影迷电影.png" tvg-name="CHC影迷电影",CHC影迷电影
+https://tv.iill.top/migu/chcym
+
+#EXTINF:-1 group-title="咪咕" tvg-id="CHC动作电影" tvg-logo="https://epg.iill.top/logo/动作电影.png" tvg-name="CHC动作电影",CHC动作电影
+https://tv.iill.top/migu/chcdz
+
 #EXTINF:-1 group-title="咪咕" tvg-id="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" tvg-name="CHC家庭影院",CHC家庭影院
-https://tv.iill.top/migu/jtyy
+https://tv.iill.top/migu/chcjt
+
+#EXTINF:-1 group-title="咪咕" tvg-id="新片放映厅" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="新片放映厅",新片放映厅
+https://tv.iill.top/migu/xpfy
+
+#EXTINF:-1 group-title="咪咕" tvg-id="高清大片" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="高清大片",高清大片
+https://tv.iill.top/migu/gqdp
 
 #EXTINF:-1 group-title="咪咕" tvg-id="红色轮播台" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="红色轮播台",红色轮播台
 https://tv.iill.top/migu/hslb
 
-#EXTINF:-1 group-title="咪咕" tvg-id="金色剧场" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="金色剧场",金色剧场
-https://tv.iill.top/migu/jsjc
+#EXTINF:-1 group-title="咪咕" tvg-id="赛事最经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="赛事最经典",赛事最经典
+https://tv.iill.top/migu/sszjd
 
-#EXTINF:-1 group-title="咪咕" tvg-id="NBA经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="NBA经典",NBA经典
-https://tv.iill.top/migu/nba
+#EXTINF:-1 group-title="咪咕" tvg-id="掼蛋精英赛" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="掼蛋精英赛",掼蛋精英赛
+https://tv.iill.top/migu/gdjs
 
-#EXTINF:-1 group-title="咪咕" tvg-id="五大联赛经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="五大联赛经典",五大联赛经典
-https://tv.iill.top/migu/lsjd
+#EXTINF:-1 group-title="咪咕" tvg-id="体坛名栏汇" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="体坛名栏汇",体坛名栏汇
+https://tv.iill.top/migu/ttmh
 
-#EXTINF:-1 group-title="咪咕" tvg-id="足球风云" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="足球风云",中国足球风云
-https://tv.iill.top/migu/zqfy
-
-#EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育",咪咕24小时体育台
+#EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育台" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育台",咪咕24小时体育台
 https://tv.iill.top/migu/mgty
+
+#EXTINF:-1 group-title="咪咕" tvg-id="和美乡途轮播台" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="和美乡途轮播台",和美乡途轮播台
+https://tv.iill.top/migu/hmxt
+
+#EXTINF:-1 group-title="咪咕" tvg-id="中国航天" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="中国航天",中国航天"逆袭"之路
+https://tv.iill.top/migu/zght
+
+#EXTINF:-1 group-title="咪咕" tvg-id="深度对话" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="深度对话",深度对话
+https://tv.iill.top/migu/sddh
+
+#EXTINF:-1 group-title="咪咕" tvg-id="华语乐坛最强音" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="华语乐坛最强音",华语乐坛最强音
+https://tv.iill.top/migu/hylt
+
+#EXTINF:-1 group-title="咪咕" tvg-id="周杰伦现场" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="周杰伦现场",周杰伦现场
+https://tv.iill.top/migu/zjl
+
+#EXTINF:-1 group-title="咪咕" tvg-id="最强综艺趴" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="最强综艺趴",最强综艺趴
+https://tv.iill.top/migu/zqzyp
+
+#EXTINF:-1 group-title="咪咕" tvg-id="经典动画大集合" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="经典动画大集合",嘉佳卡通
+https://tv.iill.top/migu/jddh
+
+#EXTINF:-1 group-title="咪咕" tvg-id="新动解码在一线" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="新动解码在一线",新动解码在一线
+https://tv.iill.top/migu/xdjm
+
+#EXTINF:-1 group-title="咪咕" tvg-id="开封鼓楼" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="开封鼓楼",开封鼓楼
+https://tv.iill.top/migu/kfgl
+
+#EXTINF:-1 group-title="咪咕" tvg-id="钱塘江" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="钱塘江",钱塘江
+https://tv.iill.top/migu/qtj
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/NBA.png" tvg-name="",「NBA」09:55 《周刊》总决赛G1特别节目 《周刊》总决赛G1特别节目 清流播出
+https://tv.iill.top/NBA/xh2BZE
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「逐马计划」10:00 中国移动“全球通·逐马计划”发布会 中国移动“全球通·逐马计划”发布会 逐马计划: 20252026 中国移动 “全球通・逐马计划” 发布会
+https://tv.iill.top/Migu/sliYoA
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」13:40 杭州LGD.NBW vs 佛山DRG 杭州LGD.NBW vs 佛山DRG 官方解说
+https://tv.iill.top/Migu/V2REH7
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」13:50 全运会男篮资格赛B组浙江vs上海 全运会男篮资格赛B组-浙江vs上海 庄宁宇
+https://tv.iill.top/Migu/L58wi1
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」13:50 全运会男篮资格赛B组浙江vs上海 全运会男篮资格赛B组-浙江vs上海 现场原声
+https://tv.iill.top/Migu/qtGKL8
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「LPL」16:30 WE vs JDG WE vs JDG 官方解说
+https://tv.iill.top/Migu/yMumED
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」16:20 全运会男篮资格赛B组湖北vs河北 全运会男篮资格赛B组-湖北vs河北 周鹏
+https://tv.iill.top/Migu/IZyk3k
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」16:20 全运会男篮资格赛B组湖北vs河北 全运会男篮资格赛B组-湖北vs河北 现场原声
+https://tv.iill.top/Migu/45UOGs
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」17:00 重庆狼队 vs 济南RW侠 重庆狼队 vs 济南RW侠 官方解说
+https://tv.iill.top/Migu/4flq29
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」19:20 全运会男篮资格赛B组天津vs江苏 全运会男篮资格赛B组-天津vs江苏 刘圳展
+https://tv.iill.top/Migu/Cks4Lu
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「全运会」19:20 全运会男篮资格赛B组天津vs江苏 全运会男篮资格赛B组-天津vs江苏 现场原声
+https://tv.iill.top/Migu/GUSpbX
+
+#EXTINF:-1 group-title="咪咕" tvg-id="" tvg-logo="https://epg.iill.top/logo/咪咕.png" tvg-name="",「KPL」20:00 成都AG超玩会 vs 常山UUG 成都AG超玩会 vs 常山UUG 官方解说
+https://tv.iill.top/Migu/1rjv6i
 
 #EXTINF:-1 group-title="港澳" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
 https://yang-1989.eu.org/live/TVB-Jade
@@ -5270,42 +5366,3 @@ http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" tvg-name="",Real Madrid TV 🇪🇸
 undefined
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/CCTV1.png" tvg-name="CCTV 1",CCTV1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=2b01567a4a53c458792947cbd9b0c162&ext_start_limit=1749024763&int_start_limit=1749024763&ts=1749024763&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-name="",凤凰卫视中文台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=8560f6718c64b3a470defcc0e53c763a&ext_start_limit=1749024765&int_start_limit=1749024765&ts=1749024765&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-name="",凤凰卫视资讯台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=4c07d34b6a77d0a356fb7afbbc4c6deb&ext_start_limit=1749024766&int_start_limit=1749024766&ts=1749024766&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-name="",凤凰卫视香港台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=d40c5b0675b541ddf8a12867c3c4a63f&ext_start_limit=1749024768&int_start_limit=1749024768&ts=1749024768&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=de77013f3433b5bbf6380f65187fcb8c&ext_start_limit=1749024769&int_start_limit=1749024769&ts=1749024769&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",翡翠台4K
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=5c473656f9292bd7fa2c23a30fee41a0&ext_start_limit=1749024770&int_start_limit=1749024770&ts=1749024770&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="",无线新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=409d4674b7727ed254db9116ab8ca403&ext_start_limit=1749024772&int_start_limit=1749024772&ts=1749024772&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" tvg-name="",娱乐新闻台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=1ed949ec962fb4e4f478ef547d4e23b5&ext_start_limit=1749024773&int_start_limit=1749024773&ts=1749024773&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" tvg-name="",TVBplus
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=ec4896838b552507972bad24a58d9032&ext_start_limit=1749024774&int_start_limit=1749024774&ts=1749024774&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" tvg-name="",明珠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=532d9129c5824e16e6a3d2e24919fff3&ext_start_limit=1749024776&int_start_limit=1749024776&ts=1749024776&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CWIN" tvg-logo="" tvg-name="",SuperFree
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=647fb2a4848d1d2329a5f501f6ff023f&ext_start_limit=1749024777&int_start_limit=1749024777&ts=1749024777&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" tvg-name="",黄金翡翠台
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=24fee8a1c8cf9ad110b5b202067446d6&ext_start_limit=1749024779&int_start_limit=1749024779&ts=1749024779&c=850464580
-
-#EXTINF:-1 group-title="" tvg-id="CRE" tvg-logo="" tvg-name="",创世电视
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=dfc345ddcddf1fa075440c7f0aefb316&ext_start_limit=1749024780&int_start_limit=1749024780&ts=1749024780&c=850464580
