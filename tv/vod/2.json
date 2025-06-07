@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-06-07 07:13:26 <<<
+//      >>> 当前时间是：2025-06-08 07:14:54 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/janRkbfK.png;md5;ce78c93f567f605061d412b65ced91cf",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/UApSCWaj.png;md5;46664fd81fdd430b516138e69613fbc9",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -22,6 +22,7 @@
 {"key":"立播版","name":"🐰立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"表哥","name":"👨🏻‍🦱表哥┃4K","type":3,"api":"csp_DbgGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
@@ -75,6 +76,8 @@
 {"key":"快手直播","name":"😎快手┃直播","type":3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_HuyaGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
+"timeout":10},
+{"key":"瓜子看球","name":"⚽瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":1,"changeable":0,"style":{"type":"list"},
 "timeout":10},
 {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"},
 "timeout":10},
