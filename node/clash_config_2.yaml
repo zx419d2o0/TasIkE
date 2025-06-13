@@ -32,6 +32,130 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- cipher: chacha20-ietf-poly1305
+  country: 🇰 HK
+  name: 15| HK_144
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 203.23.128.33
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇰 HK
+  name: 15|🇰 HK_145
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.223.21.221
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇭🇰 HK
+  name: 15|🇰 HK_146
+  password: rGDbiF7gtx5TWt4r4VjneQ==
+  port: 552
+  server: 156.225.22.213
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇭🇰 HK
+  name: 15|🇭🇰 HK_148
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.223.16.212
+  type: ss
+- alterId: 2
+  cipher: auto
+  country: 🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇭🇰 HK_149
+  network: ws
+  port: 80
+  server: 3fa5b1b6-sv2sg0-sx8y86-uvgv.hk3.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: ee67070a-ceb2-11ed-bb7d-f23c913c8d2b
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇰 HK_150
+  network: ws
+  port: 80
+  server: 66500699-sv2sg0-sx8y86-uvgv.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: ee67070a-ceb2-11ed-bb7d-f23c913c8d2b
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇰 HK_151
+  network: ws
+  port: 80
+  server: a0ae8f27-sv4n40-sw5wi7-ufc0.hk3.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇭🇰 HK_152
+  network: ws
+  port: 80
+  server: 4f8acdc9-sv0xs0-sw5wi7-ufc0.hk3.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇭🇰 HK_153
+  network: ws
+  port: 80
+  server: 77d7b6e4-sv2sg0-sw5wi7-ufc0.hk3.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇭🇰 HK_154
+  network: ws
+  port: 80
+  server: d6e3d96a-sv6hs0-sw5wi7-ufc0.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
 - cipher: aes-128-gcm
   name: 12|🇯🇵
   password: shadowsocks
@@ -39,12 +163,38 @@ proxies:
   server: 149.22.87.240
   type: ss
 - cipher: aes-256-cfb
-  name: 40,42|KR_speednode_0028
+  country: 🇷 KR
+  name: 15| KR_157
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
   type: ss
+- cipher: aes-256-cfb
+  country: 🇷 KR
+  name: 15|🇰🇷 KR_158
+  password: qwerREWQ@@
+  port: 4652
+  server: p141.panda001.net
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 27,37,38,41|🇸🇬 新加坡4|@stairnode
+  port: 56051
+  server: 38.47.176.251
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
   udp: true
+  uuid: 2bca3569-0662-47f7-fdf8-421f30e71f44
+- cipher: chacha20-ietf-poly1305
+  country: 🇦CA
+  name: 15|🇦CA_109
+  password: JIhN6rBKkaEboLNXVSv5rq
+  port: 80
+  server: ca225.vpnbook.com
+  type: ss
 - alterId: 0
   cipher: auto
   name: 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
@@ -59,11 +209,97 @@ proxies:
     headers:
       Host: 51.79.102.253
     path: /IOebhLMhl1CTbFHbL95myfRX2
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 DE
+  name: 15| DE_117
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 92.118.205.228
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 DE
+  name: 15|🇩🇪 DE_118
+  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
+  port: 54075
+  server: beta.mattenadene.org
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇪DE_119
+  password: NvS8N4Vf8qAGPSCL
+  port: 9046
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇪DE_120
+  password: BwcAUZk8hUFAkDGN
+  port: 9031
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇪DE_121
+  password: Sn5B7jTqr76aCJT8
+  port: 9097
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_122
+  password: ZpNDDKRu9MagNvaf
+  port: 9015
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_124
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_125
+  password: XPtzA9sCug3SPR4c
+  port: 9025
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_126
+  password: 4R3hUfZ2FHhDmNcP
+  port: 9061
+  server: 80.92.204.106
+  type: ss
+- country: 🇪DE
+  name: 15|🇩🇪DE_127
+  password: 665c944d-047d-4659-80d5-3eaac70241a9
+  port: 443
+  server: 139.162.158.172
+  skip-cert-verify: true
+  sni: de2-full.privateip.net
+  type: trojan
+  udp: true
 - cipher: rc4-md5
   name: 20|_DE_国
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
   server: 193.108.119.230
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇷 FR
+  name: 15| FR_130
+  password: qXvO7zYU7KeaB0Md7DQLow
+  port: 1080
+  server: 51.195.119.47
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇫🇷FR
+  name: 15|🇷FR_131
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 195.154.185.174
   type: ss
 - name: 20|_FR_国
   network: tcp
@@ -73,6 +309,129 @@ proxies:
   skip-cert-verify: true
   sni: both-cramp-banjo.stark-industries.solutions
   type: trojan
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 15|🇺 RU_208
+  password: pV5BAzqLZosOfuIrkyoadT
+  port: 18660
+  server: 5.181.21.194
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 15|🇺 RU_209
+  password: RiPuKJJl18ZgvLpTjWxBwSfKiPkt9gzFKyxGCY8eHtOcDb2X
+  port: 31348
+  server: 5.189.201.250
+  type: ss
+- alterId: 0
+  cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 15|🇺 RU_211
+  network: tcp
+  port: 45215
+  server: fa.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- cipher: aes-256-cfb
+  country: 🇺RU
+  name: 15|🇺RU_212
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 15|🇺RU_213
+  password: JdmRK9gMEqFgs8nP
+  port: 9003
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 15|🇺RU_214
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 45.89.52.66
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 SE
+  name: 15| SE_215
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 45.154.206.192
+  type: ss
+- cipher: aes-128-cfb
+  country: 🇪 SE
+  name: 15|🇪 SE_216
+  obfs: http_post
+  password: $$Turb0VPN$$
+  port: 443
+  protocol: auth_aes128_md5
+  server: ssca.irundns.net
+  type: ssr
+- cipher: aes-128-gcm
+  country: 🇬🇧 GB
+  name: 15|🇧 GB_134
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 15|🇧 GB_136
+  password: Bog0ELmMM9DSxDdQ
+  port: 443
+  server: series-a2-me.samanehha.co
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 15|🇧 GB_137
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.47.253.227
+  type: ss
+- country: 🇬🇧 GB
+  name: 15|🇬🇧 GB_140
+  password: dd6dcb10-4683-11f0-ae79-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇬🇧 GB
+  name: 15|🇬🇧 GB_141
+  password: 255a0a50-3f10-11f0-b0d6-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: 15|🇬🇧GB_142
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.198
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: 15|🇬🇧GB_143
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.195
+  type: ss
+- country: 🇼 TW
+  name: 15| TW_219
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 443
+  server: taifo03a.kbservice.club
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 proxy-groups:
 - name: 节点选择
   type: select
@@ -85,11 +444,52 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
+  - 15|🇧 GB_137
+  - 15|🇰🇷 KR_158
+  - 15|🇺 RU_211
+  - 15|🇺RU_212
+  - 15| TW_219
+  - 15|🇺 RU_209
+  - 15|🇦CA_109
+  - 15| FR_130
+  - 15|🇭🇰 HK_153
+  - 15|🇺RU_213
+  - 15|🇩🇪DE_126
+  - 15|🇬🇧 GB_141
+  - 12|🇯🇵
+  - 15|🇪DE_119
+  - 15|🇰 HK_151
+  - 15|🇩🇪DE_125
+  - 20|_FR_国
+  - 15|🇺RU_214
+  - 15|🇩🇪DE_127
+  - 27,37,38,41|🇸🇬 新加坡4|@stairnode
   - 20|_DE_国
   - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
-  - 12|🇯🇵
-  - 40,42|KR_speednode_0028
-  - 20|_FR_国
+  - 15|🇩🇪DE_124
+  - 15|🇪DE_120
+  - 15|🇬🇧GB_143
+  - 15|🇩🇪 DE_118
+  - 15|🇬🇧 GB_140
+  - 15|🇪DE_121
+  - 15|🇭🇰 HK_152
+  - 15| HK_144
+  - 15|🇬🇧GB_142
+  - 15|🇰 HK_150
+  - 15|🇷FR_131
+  - 15|🇺 RU_208
+  - 15|🇭🇰 HK_148
+  - 15|🇩🇪DE_122
+  - 15| KR_157
+  - 15|🇪 SE_216
+  - 15|🇰 HK_145
+  - 15| DE_117
+  - 15|🇧 GB_136
+  - 15| SE_215
+  - 15|🇭🇰 HK_149
+  - 15|🇧 GB_134
+  - 15|🇰 HK_146
+  - 15|🇭🇰 HK_154
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
