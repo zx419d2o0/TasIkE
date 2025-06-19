@@ -32,251 +32,268 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: aes-256-cfb
-  country: 🇭🇰 HK
-  name: 15|🇰 HK_138
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.16.212
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇰 HK
-  name: 15|🇰 HK_139
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.21.221
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇭🇰 HK
-  name: 15|🇭🇰 HK_140
-  password: rGDbiF7gtx5TWt4r4VjneQ==
-  port: 552
-  server: 156.225.22.213
-  type: ss
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_142
+- name: 18|🇭🇰👖TG频道@stymei1丨1
   network: ws
-  port: 80
-  server: 75a5d1ab-sv2sg0-svr00o-1oxz4.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_143
-  network: ws
-  port: 80
-  server: d1ef6a4e-sv2sg0-svr00o-1oxz4.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇰 HK_144
-  network: ws
-  port: 80
-  server: 7764de92-sv0xs0-svr00o-1oxz4.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_145
-  network: ws
-  port: 80
-  server: 01b4291a-sv0xs0-sw2c3o-1thts.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: cb96c846-fd6d-11ef-a910-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_147
-  network: ws
-  port: 80
-  server: d5542df0-sv0xs0-sw2c3o-1thts.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: cb96c846-fd6d-11ef-a910-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇭🇰 HK_149
-  network: ws
-  port: 80
-  server: aa1d3b0f-sv0xs0-svr00o-1oxz4.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  flow: ''
-  name: 18,24,34|TG频道@stymei1丨14
-  network: ws
-  port: '443'
-  server: 66.179.48.171
-  servername: rs-sg3.lzjnb.shop
-  skip-cert-verify: false
-  sni: rs-sg3.lzjnb.shop
-  tls: true
-  type: vmess
-  uuid: 6337837a-2b47-4e0d-a695-75c5a4a8ad51
-  ws-opts:
-    headers:
-      Host: rs-sg3.lzjnb.shop
-    path: /lzjjjjjjj666666
-- alpn:
-  - http%2F1.1
-  name: 18|🇭🇰👖TG频道@stymei1丨18
-  network: ws
-  password: 512d9674-db12-44ca-a1b5-654244549b65
+  password: ttfang
   port: 443
-  server: cccvffgty.444752.xyz
-  servername: cccvffgty.444752.xyz
-  skip-cert-verify: true
-  sni: cccvffgty.444752.xyz
+  server: 198.41.221.0
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
   type: trojan
   ws-opts:
     headers:
-      Host: cccvffgty.444752.xyz
-    path: /HOi2k5ElZdeML7Ua7dX3JIrYk7zm
-- alpn:
-  - http%2F1.1
-  name: 18|🇭🇰👖TG频道@stymei1丨19
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨2
   network: ws
-  password: 512d9674-db12-44ca-a1b5-654244549b65
+  password: ttfang
   port: 443
-  server: sssxxcvfty.444752.xyz
-  servername: sssxxcvfty.444752.xyz
-  skip-cert-verify: true
-  sni: sssxxcvfty.444752.xyz
+  server: 198.41.221.1
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
   type: trojan
   ws-opts:
     headers:
-      Host: sssxxcvfty.444752.xyz
-    path: /HOi2k5ElZdeML7Ua7dX3JIrYk7zm
-- alpn:
-  - http%2F1.1
-  name: 18|🇭🇰👖TG频道@stymei1丨20
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨3
   network: ws
-  password: 512d9674-db12-44ca-a1b5-654244549b65
+  password: ttfang
   port: 443
-  server: gghui.4444936.xyz
-  servername: gghui.4444936.xyz
-  skip-cert-verify: true
-  sni: gghui.4444936.xyz
+  server: 198.41.221.2
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
   type: trojan
   ws-opts:
     headers:
-      Host: gghui.4444936.xyz
-    path: /HOi2k5ElZdeML7Ua7dX3JIrYk7zm
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨4
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.3
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨5
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.4
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨6
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.5
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨8
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.7
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨9
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.8
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨10
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.9
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
+- name: 18|🇭🇰👖TG频道@stymei1丨11
+  network: ws
+  password: ttfang
+  port: 443
+  server: 198.41.221.10
+  servername: ttfang.fange.me
+  skip-cert-verify: null
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560
 - cipher: aes-128-gcm
   name: 12|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- alterId: 64
-  cipher: auto
-  name: 34|🇸🇬 每天更新，请加电报群防止失联
-  network: tcp
-  port: '44883'
-  server: 198.2.218.216
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 24,27,37,38,40,41,42|NN_speednode_0066
+  password: b44864e5b56d
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: jplistv1.dashengjs.net
+    mode: websocket
+    mux: true
+    path: /ooojkqzttghm
+    tls: true
+  port: 443
+  server: 163.61.206.64
+  tfo: false
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 27,37,38,41|🇰🇷 韩国3|@stairnode
+  password: qwerREWQ@@
+  port: 5344
+  server: 125.141.26.14
+  tfo: false
+  type: ss
+  udp: true
+- country: 🇬SG
+  name: 15|SG_250
+  password: d4bdfc72-7f0c-4ff0-aa4d-3530736f4088
+  port: 443
+  server: sg-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇦CA
-  name: 15|CA_96
+  name: 15|🇦CA_127
   password: JIhN6rBKkaEboLNXVSv5rq
   port: 80
   server: ca225.vpnbook.com
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
+  network: ws
+  port: 80
+  server: 51.79.102.253
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
+  ws-opts:
+    headers:
+      Host: 51.79.102.253
+    path: /IOebhLMhl1CTbFHbL95myfRX2
 - cipher: chacha20-ietf-poly1305
   country: 🇪 DE
-  name: 15| DE_105
+  name: 15| DE_137
+  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
+  port: 54075
+  server: beta.mattenadene.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 DE
+  name: 15|🇪 DE_138
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 92.118.205.228
   type: ss
 - cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇪DE_107
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
+  country: 🇪DE
+  name: 15|🇪DE_139
+  password: BwcAUZk8hUFAkDGN
+  port: 9031
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
   country: 🇩🇪DE
-  name: 15|🇪DE_108
-  password: ZpNDDKRu9MagNvaf
-  port: 9015
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_109
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 15|🇩🇪DE_110
+  name: 15|🇪DE_140
   password: XPtzA9sCug3SPR4c
   port: 9025
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
   country: 🇩🇪DE
-  name: 15|🇩🇪DE_112
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
+  name: 15|🇩🇪DE_141
+  password: cp8pRSUAyLhTfVWH
+  port: 9064
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_142
+  password: NvS8N4Vf8qAGPSCL
+  port: 9046
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_143
+  password: FAdUvMJUq5vDgKEq
+  port: 9006
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_145
+  password: 4R3hUfZ2FHhDmNcP
+  port: 9061
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_146
+  password: ZpNDDKRu9MagNvaf
+  port: 9015
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 15|🇩🇪DE_147
+  password: aLpQtfEZe445QyHk
+  port: 9098
   server: 80.92.204.106
   type: ss
 - country: 🇪DE
-  name: 15|🇩🇪DE_114
+  name: 15|🇩🇪DE_148
   password: 665c944d-047d-4659-80d5-3eaac70241a9
   port: 443
   server: 139.162.158.172
@@ -286,164 +303,127 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇷 FR
-  name: 15| FR_117
+  name: 15| FR_152
   password: qXvO7zYU7KeaB0Md7DQLow
   port: 1080
   server: 51.195.119.47
   type: ss
 - cipher: aes-256-cfb
   country: 🇷FR
-  name: 15|🇷FR_118
+  name: 15|🇷FR_153
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 195.154.185.174
   type: ss
 - country: 🇷FR
-  name: 15|🇷FR_119
+  name: 15|🇫🇷FR_154
   password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
   server: uk-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
-- country: 🇫🇷FR
-  name: 15|🇷FR_120
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
-  port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇺 RU
-  name: 15| RU_190
-  password: pV5BAzqLZosOfuIrkyoadT
-  port: 18660
-  server: 5.181.21.194
+  name: 15| RU_236
+  password: 0zyDRZ1XmNXaaCAN7KEA8a
+  port: 28825
+  server: 45.151.62.54
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇺 RU_191
+  country: 🇷🇺 RU
+  name: 15|🇺 RU_239
   password: uQS5ntVqC00sSKkeNzUiD3
   port: 42090
   server: 89.23.103.125
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇺 RU_193
+  country: 🇷🇺 RU
+  name: 15|🇺 RU_240
   password: 360e21d21977dc11
   port: 57456
   server: 45.139.24.24
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 15|🇷🇺 RU_194
-  password: 0zyDRZ1XmNXaaCAN7KEA8a
-  port: 28825
-  server: 45.151.62.54
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇷🇺 RU_196
-  network: tcp
-  port: 45245
-  server: ye.fxlcn.com
-  servername: ye.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- alterId: 0
-  cipher: auto
   country: 🇷🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 15|🇺 RU_197
-  network: tcp
-  port: 45215
-  server: fa.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
+  name: 15|🇺 RU_241
+  password: pV5BAzqLZosOfuIrkyoadT
+  port: 18660
+  server: 5.181.21.194
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇺RU
+  name: 15|🇺RU_244
+  password: PeHSHm5SqEjBuEXE
+  port: 9065
+  server: 45.89.52.66
+  type: ss
 - cipher: aes-256-cfb
   country: 🇷🇺RU
-  name: 15|🇺RU_199
-  password: JdmRK9gMEqFgs8nP
-  port: 9003
+  name: 15|🇺RU_245
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇺RU
+  name: 15|🇺RU_246
+  password: M3t2ZEQcMGRWBjRa
+  port: 9011
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 15|🇷🇺RU_247
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 15|🇺RU_248
+  password: ZET59LF6DvCC8KVt
+  port: 9005
   server: 45.89.52.66
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇪 SE
-  name: 15| SE_201
+  name: 15| SE_249
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 45.154.206.192
   type: ss
-- cipher: aes-128-cfb
-  country: 🇪 SE
-  name: 15|🇪 SE_202
-  obfs: http_post
-  password: $$Turb0VPN$$
-  port: 443
-  protocol: auth_aes128_md5
-  server: ssca.irundns.net
-  type: ssr
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 15| GB_121
+  name: 15|🇧 GB_157
+  password: Bog0ELmMM9DSxDdQ
+  port: 443
+  server: 85.210.120.237
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 15|🇬🇧 GB_160
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.47.255.22
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15|🇧 GB_122
-  password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 15|🇧 GB_124
-  password: 2EmWRS1TkS3TkxKApnrihb3aHjDSXRvT1T1K9U2Bruxrnp5A8zmpTxwwTNje6BkVqmn9BgRF6pq8qoRHCfZdcah7BLbjrpT1
-  port: 55988
-  server: 185.5.38.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 15|🇬🇧 GB_126
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.253.227
-  type: ss
 - cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 15|🇧 GB_127
+  country: 🇬🇧 GB
+  name: 15|🇬🇧 GB_165
   password: shadowsocks
   port: 443
   server: 141.98.101.178
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇬🇧 GB
-  name: 15|🇧 GB_128
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.239.250
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 15|🇬🇧 GB_129
+  name: 15|🇧 GB_166
   password: oHOP1bWFMkQVx3PdbhRlOk
   port: 8315
   server: 77.239.116.76
   type: ss
 - cipher: aes-256-cfb
   country: 🇧 GB
-  name: 15,30|🇧_GB_英国_1
+  name: 15|🇬🇧 GB_167
   obfs: plain
   password: f8f7aCzcPKbsF8p3
   port: 989
@@ -451,7 +431,7 @@ proxies:
   server: 62.100.205.48
   type: ssr
 - country: 🇬🇧 GB
-  name: 15|🇧 GB_133
+  name: 15|🇧 GB_169
   password: dd6dcb10-4683-11f0-ae79-1239d0255272
   port: 443
   server: 51.38.65.155
@@ -459,7 +439,7 @@ proxies:
   type: trojan
   udp: true
 - country: 🇬🇧 GB
-  name: 15|🇬🇧 GB_134
+  name: 15|🇬🇧 GB_170
   password: 255a0a50-3f10-11f0-b0d6-1239d0255272
   port: 443
   server: 51.38.65.155
@@ -467,18 +447,25 @@ proxies:
   type: trojan
   udp: true
 - cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 15|🇬🇧GB_135
+  country: 🇧GB
+  name: 15|🇬🇧GB_171
   password: shadowsocks
   port: 443
   server: 212.102.53.195
   type: ss
 - cipher: aes-128-gcm
   country: 🇧GB
-  name: 15|🇬🇧GB_136
+  name: 15|🇬🇧GB_172
   password: shadowsocks
   port: 443
   server: 212.102.53.198
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇼 TW
+  name: 15| TW_252
+  password: 79739832-b888-415a-a454-8b53911c944a
+  port: 30332
+  server: vps.200566.xyz
   type: ss
 proxy-groups:
 - name: 节点选择
@@ -492,54 +479,56 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 15|🇰 HK_142
-  - 15|🇭🇰 HK_145
-  - 15|🇷FR_119
-  - 15|🇷FR_120
-  - 18,24,34|TG频道@stymei1丨14
-  - 15|🇪 SE_202
-  - 15|🇷FR_118
-  - 15|🇧 GB_122
-  - 15|🇬🇧 GB_129
-  - 15|🇭🇰 HK_140
-  - 18|🇭🇰👖TG频道@stymei1丨18
-  - 15|🇪DE_108
-  - 15|🇺RU_199
-  - 15|🇧 GB_133
-  - 15|🇧 GB_124
-  - 15|🇧 GB_127
-  - 15|🇬🇧GB_135
-  - 15,30|🇧_GB_英国_1
-  - 15|🇬🇧 GB_134
-  - 34|🇸🇬 每天更新，请加电报群防止失联
-  - 15|🇰 HK_138
-  - 15| GB_121
-  - 15|CA_96
-  - 15|🇬🇧GB_136
-  - 15|🇩🇪DE_112
-  - 15|🇬🇧 GB_126
-  - 15|🇷🇺 RU_194
-  - 15|🇧 GB_128
-  - 18|🇭🇰👖TG频道@stymei1丨19
-  - 15|🇭🇰 HK_149
-  - 15|🇰 HK_144
-  - 15|🇩🇪DE_109
-  - 15|🇺 RU_197
-  - 15|🇺 RU_193
-  - 15|🇷🇺 RU_196
-  - 15| FR_117
-  - 18|🇭🇰👖TG频道@stymei1丨20
-  - 15|🇩🇪DE_114
-  - 15|🇺 RU_191
-  - 15|🇩🇪DE_110
+  - 15|🇬🇧 GB_165
+  - 15|🇪 DE_138
+  - 15|🇪DE_139
+  - 15|🇷FR_153
+  - 15|🇬🇧 GB_170
+  - 15|🇩🇪DE_147
+  - 15|🇩🇪DE_143
+  - 15|🇩🇪DE_141
+  - 18|🇭🇰👖TG频道@stymei1丨3
+  - 18|🇭🇰👖TG频道@stymei1丨2
+  - 18|🇭🇰👖TG频道@stymei1丨11
+  - 15| SE_249
+  - 15|🇺 RU_239
+  - 15|🇺 RU_240
+  - 18|🇭🇰👖TG频道@stymei1丨9
+  - 18|🇭🇰👖TG频道@stymei1丨6
+  - 15|🇧 GB_169
+  - 15|🇺 RU_241
+  - 15|🇬🇧GB_172
+  - 15|🇩🇪DE_148
+  - 15|🇫🇷FR_154
+  - 15|🇩🇪DE_146
+  - 18|🇭🇰👖TG频道@stymei1丨5
+  - 15| RU_236
+  - 15|🇩🇪DE_145
+  - 15|🇩🇪DE_142
+  - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
   - 12|🇯🇵
-  - 15|🇭🇰 HK_147
-  - 15|🇰 HK_143
-  - 15|🇰 HK_139
-  - 15| SE_201
-  - 15| DE_105
-  - 15|🇪DE_107
-  - 15| RU_190
+  - 18|🇭🇰👖TG频道@stymei1丨1
+  - 18|🇭🇰👖TG频道@stymei1丨4
+  - 15|🇬🇧GB_171
+  - 15|🇧 GB_157
+  - 15|🇬🇧 GB_167
+  - 15|🇪DE_140
+  - 15| FR_152
+  - 15|🇺RU_246
+  - 15| TW_252
+  - 15|🇺RU_244
+  - 15|🇺RU_248
+  - 18|🇭🇰👖TG频道@stymei1丨8
+  - 24,27,37,38,40,41,42|NN_speednode_0066
+  - 27,37,38,41|🇰🇷 韩国3|@stairnode
+  - 15|🇬🇧 GB_160
+  - 15|🇷🇺RU_247
+  - 15|🇧 GB_166
+  - 18|🇭🇰👖TG频道@stymei1丨10
+  - 15|🇦CA_127
+  - 15|🇺RU_245
+  - 15|SG_250
+  - 15| DE_137
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
