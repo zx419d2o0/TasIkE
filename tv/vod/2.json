@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-06-20 07:14:01 <<<
+//      >>> 当前时间是：2025-06-21 07:14:13 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/NrbhCKlf.png;md5;90a9894976ed957c7219d2d556bd394e",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/QWoj0MRR.png;md5;f991ef38dbf83d5830cb3dd54a780665",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -47,6 +47,8 @@
 {"key":"晴天","name":"☀️晴天┃App","type":3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"小红","name":"🐷小红┃App","type":3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"仓鼠","name":"🐹仓鼠┃App","type":3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"雄鹰","name":"🦅雄鹰┃App","type":3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"榴莲","name":"🍋榴莲┃App","type":3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"韩圈","name":"🦄韩圈┃App","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"厂长","name":"🌸厂长┃直连","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"荐片","name":"⚔️荐片┃手机","type":3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
