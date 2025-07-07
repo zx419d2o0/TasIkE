@@ -230,14 +230,14 @@ proxies:
     path: /download
 - alterId: 0
   cipher: auto
-  name: 7|香港NO.2
+  name: 7,8|香港NO.2-1A-GPT
   port: 45051
   server: xdd.dashuai.cyou
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: b3218e5f-2ad8-4dcf-8191-7ace0a8a7c43
+  uuid: 81afb08d-503c-46a3-ad54-9357a59caf4a
 - alterId: 0
   cipher: auto
   name: 10|HK | 香港 LB-1V
@@ -375,111 +375,32 @@ proxies:
   server: gz.pddwdf.store
   type: ss
   udp: true
-- alterId: 2
-  cipher: auto
-  name: 19|香港 电讯盈科有限公司
-  network: ws
-  port: 80
-  server: hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: d70a9508-5477-11ef-bf61-f23c913c8d2b
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 64
-  cipher: auto
-  name: 21|US美国(mibei77.com 米贝节点分享) 18
-  port: 49597
-  server: 120.232.153.41
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 21|HK香港(mibei77.com 米贝节点分享) 2
-  port: 27013
-  server: a.lemonyun.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3e7d92de-76b0-3975-bb10-c0d35ce6f6ab
-- alterId: 0
-  cipher: auto
-  name: 21|HK香港(mibei77.com 米贝节点分享) 3
-  port: 27010
-  server: b.lemonyun.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3e7d92de-76b0-3975-bb10-c0d35ce6f6ab
-- alterId: 0
-  cipher: auto
-  name: 21|HK香港(mibei77.com 米贝节点分享) 4
-  port: 27001
-  server: a.lemonyun.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3e7d92de-76b0-3975-bb10-c0d35ce6f6ab
-- alterId: 64
-  cipher: auto
-  name: 21|HK香港(mibei77.com 米贝节点分享) 5
-  port: 52152
-  server: 120.232.153.40
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 21|HK香港(mibei77.com 米贝节点分享) 6
-  password: 2b1ed981-6547-4094-998b-06a3323d6f6c
-  port: 21332
-  server: xd-js.timiwc.com
-  skip-cert-verify: true
-  sni: xd-js.timiwc.com
-  type: trojan
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 21|HK香港(mibei77.com 米贝节点分享) 7
-  port: 27011
-  server: c.lemonyun.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3e7d92de-76b0-3975-bb10-c0d35ce6f6ab
 - cipher: aes-256-gcm
-  name: 27|🇭🇰 香港2|@ripaojiedian
-  password: 23d03aa704c7
-  port: 636
-  server: 156.251.179.181
+  name: 27|🇭🇰 香港|@ripaojiedian
+  password: 323537df-dbdf-4f7e-a4c7-6c290d8e53ff
+  port: 16007
+  server: hk007.dogsvip.site
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 27,38,41|🇭🇰 香港3|@stairnode
-  port: 59149
-  server: 43.247.134.201
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
+- cipher: aes-256-gcm
+  name: 27|🇭🇰 香港2|@ripaojiedian
+  password: 9bfdde71b4c0
+  port: 636
+  server: 103.103.245.158
+  type: ss
   udp: true
-  uuid: efbdabeb-68df-4cd0-959d-7d4f4b508609
+- cipher: aes-256-gcm
+  name: 27|🇭🇰 香港3|@ripaojiedian
+  password: 7HJO64Y69YP2L0KM
+  port: 15013
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   name: 27,34,38,41|🇭🇰 香港4|@stairnode
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 444
-  server: 36.151.192.61
+  port: 9141
+  server: 36.151.192.10
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -487,21 +408,36 @@ proxies:
 - client-fingerprint: chrome
   name: 27,34,38,41|🇭🇰 香港5|@stairnode
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 51083
-  server: 36.151.192.58
+  port: 50723
+  server: 36.151.251.24
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
   udp: true
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: '34|🇭🇰 香港3|@ripaojiedian #5'
-  network: tcp
-  port: '59149'
-  server: 43.247.134.201
+  client-fingerprint: chrome
+  name: 34,38,41|🇭🇰 香港3|@stairnode
+  network: ws
+  port: 80
+  server: hkt.gotochinatown.net
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
-  uuid: efbdabeb-68df-4cd0-959d-7d4f4b508609
+  uuid: a305ac08-d136-11ee-b6db-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- client-fingerprint: chrome
+  name: 34,38,41|🇭🇰 香港6|@stairnode
+  password: 0b9c9261-7209-4dcc-b268-2fa74f6cd536
+  port: 20220
+  server: q2.46322416.xyz
+  skip-cert-verify: true
+  sni: cdn.alibaba.com
+  type: trojan
 - alterId: 0
   cipher: auto
   name: '34|🇭🇰 香港v2|@ripaojiedian #2'
@@ -523,6 +459,14 @@ proxies:
   server: 107.149.254.26
   skip-cert-verify: true
   type: trojan
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 38,41|🇭🇰 香港|@stairnode
+  password: T47AM29B8DPD20RF
+  port: 15003
+  server: qh62onjn.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 3|🇯🇵 CM 隧道 日本 NO1
@@ -1113,14 +1057,6 @@ proxies:
   type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 13|🇳🇬 尼日利亚|LOS1
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 16496
-  server: 05w3bfqa176u15igufwgvhebwck0w0l3.08.01.ng.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
   name: 14|🇯🇵 日本 | JPN 2
   password: e51b4683-2191-419c-812a-b78218437ffd
   port: 28485
@@ -1142,6 +1078,15 @@ proxies:
   port: 47431
   server: gz.pddwdf.store
   type: ss
+  udp: true
+- name: 19,25,34|🇯🇵 日本 V2CROSS.COM
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 6668
+  server: 43.203.122.115
+  skip-cert-verify: false
+  sni: baidu.com
+  tfo: false
+  type: trojan
   udp: true
 - alterId: 2
   cipher: auto
@@ -1171,11 +1116,36 @@ proxies:
   ws-headers:
     Host: ocbc.com
   ws-path: /oooo
-- cipher: chacha20-ietf-poly1305
-  name: 21|JP日本(mibei77.com 米贝节点分享) 3
-  password: Nk9asglDzHzjktVzTkvhaA
-  port: 443
-  server: arxfw2b78fi2q9hzylhn.freesocks.work
+- cipher: aes-256-gcm
+  name: 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_38...
+  password: 70a0b8103356
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: jp5v1.lingjfjkm002.com
+    mode: websocket
+    mux: true
+    path: /bezradrqccl
+    skip-cert-verify: false
+    tls: true
+  port: 636
+  server: 137.220.142.139
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 24,27,38,41|🇯🇵 日本2|@stairnode
+  password: 823e135ed103
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: jp7v1.lingjfjkm002.com
+    mode: websocket
+    mux: true
+    path: /dchlbvrbbotc
+    skip-cert-verify: false
+    tls: true
+  port: 636
+  server: 137.220.191.40
+  tfo: false
   type: ss
   udp: true
 - alterId: 64
@@ -1202,62 +1172,62 @@ proxies:
 - client-fingerprint: chrome
   name: 27,34,38,41|🇯🇵 日本3|@stairnode
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 4445
-  server: 36.151.192.61
+  port: 21829
+  server: 36.151.251.58
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 27,34,38,41|🇯🇵 日本4|@stairnode
+  password: d0d08cddacc3190ea81b1b792e1b5fde
+  port: 19577
+  server: 36.151.251.33
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
   udp: true
 - cipher: aes-256-gcm
-  name: 27|🇯🇵 日本2|@ripaojiedian
-  password: 70a0b8103356
-  port: 636
-  server: 137.220.142.139
+  name: 27|🇯🇵 日本5|@ripaojiedian
+  password: CFH2Q2LTQ1LC9CRD
+  port: 18011
+  server: ti3hyra4.slashdevslashnetslashtun.net
   type: ss
   udp: true
-- name: 34|日期：07-04
-  password: Aimer
-  port: 45956
-  server: 154.26.181.30
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 27,34,38,41|🇯🇵 日本6|@stairnode
+  network: ws
+  port: 443
+  server: nmtow.hjdfghfc.asia
   skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
-- name: 34|🇯🇵 _日本
-  password: Aimer
-  port: 2083
-  server: 103.116.7.103
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇯🇵 _日本 #1'
-  password: Aimer
-  port: 2087
-  server: 103.116.7.100
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇯🇵 _日本 #2'
-  password: Aimer
-  port: 2096
-  server: 103.116.7.220
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇯🇵 _日本 #3'
-  password: Aimer
-  port: 2083
-  server: 103.116.7.133
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: '0,1,11,24,27,31|🇰🇷_KR_韩国 #2'
-  password: qwerREWQ@@
-  port: 15098
-  server: 125.141.31.72
-  type: ss
+  tfo: false
+  tls: false
+  type: vmess
   udp: true
+  uuid: 16f000d7-7805-459d-9130-200d00180b7c
+  ws-opts:
+    headers:
+      Host: file.dingtalk.com
+    path: /market?ed=512
+- alterId: 0
+  cipher: auto
+  name: '34|🇯🇵 日本v2|@ripaojiedian #2'
+  network: kcp
+  port: '7965'
+  server: 47.91.19.216
+  tls: false
+  type: vmess
+  uuid: 9a2e59c2-e8a1-4684-8df7-5a5ca5ae174a
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 38,41|🇯🇵 日本5|@stairnode
+  password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e
+  port: 19832
+  server: h.cm2.xiaomi-api.xyz
+  tfo: false
+  type: ss
 - name: 3|🇰🇷 韩国-三网优化2-1C
   password: b262e991-a233-4dfd-87e2-9c5898ecd4c2
   port: 44732
@@ -1420,6 +1390,128 @@ proxies:
     headers:
       Host: i1.hdslb.com
     path: /download
+- name: 7|韩国-三网优化2-1I
+  password: 27d4537b-5de8-475e-841d-70afef30024c
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1D
+  password: 4db6518b-7646-4890-b0bd-151aa6a51d6c
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1F
+  password: de26ead1-09a4-4b17-aa30-70912f3a4d11
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1H
+  password: be92ce45-ccec-40cc-9d0a-c060f25707d9
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1C
+  password: f89c4624-65de-44f2-bbbd-48d8a905ee0f
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1A
+  password: e51f6488-e69d-4e86-b9ea-6ac73a7d4f35
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 7|韩国 专线NO1
+  port: 45076
+  server: haa.dashuai.cyou
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 81afb08d-503c-46a3-ad54-9357a59caf4a
+- name: 7|韩国-三网优化2-1B
+  password: c90a041b-3bdb-4037-bd60-5b5d0e1a53d9
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1L
+  password: 7de81de6-5f3e-4c7a-aa66-c281bc607b49
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1G
+  password: 9c9fafc8-09e2-417a-af87-3f99ebd41f2c
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1E
+  password: 45bdfb9f-eb16-4242-beb5-4a06551a3715
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1K
+  password: 400e1355-8e6d-4e13-8ae7-755d5a41034d
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1M
+  password: 7dee9d81-5559-43b0-8473-61a0668599f0
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1N
+  password: a5123db2-ba60-4516-9549-a8cb2ca335a8
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
+- name: 7|韩国-三网优化2-1J
+  password: a141f175-9fb3-480b-8efa-ce93f4de0504
+  port: 44732
+  server: kr-qingyun.dwyun.me
+  skip-cert-verify: true
+  sni: kr-qingyun.dwyun.me
+  type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   name: 7|韩国 专线NO2
@@ -1429,24 +1521,13 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b3218e5f-2ad8-4dcf-8191-7ace0a8a7c43
-- alterId: 0
-  cipher: auto
-  name: 7,8|韩国 专线NO1-1A
-  port: 45076
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b3218e5f-2ad8-4dcf-8191-7ace0a8a7c43
-- name: 7|韩国-三网优化2
-  password: fb5459b5-0970-4b48-9040-e7250cd3d70e
-  port: 44732
-  server: kr-qingyun.dwyun.me
-  skip-cert-verify: true
-  sni: kr-qingyun.dwyun.me
-  type: trojan
+  uuid: 81afb08d-503c-46a3-ad54-9357a59caf4a
+- cipher: aes-256-cfb
+  name: 11,27|2 |  1.5MB/s|44%|Openai
+  password: qwerREWQ@@
+  port: 15098
+  server: 125.141.31.72
+  type: ss
   udp: true
 - cipher: aes-256-cfb
   name: 12|🇰🇷 KR, Incheon
@@ -1470,45 +1551,33 @@ proxies:
   server: gz.pddwdf.store
   type: ss
   udp: true
-- name: 21|KR韩国(mibei77.com 米贝节点分享)
-  password: Aimer
-  port: 50001
-  server: 118.43.90.224
-  skip-cert-verify: true
-  type: trojan
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 27,38,41|🇰🇷 韩国2|@stairnode
+  password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e
+  port: 19852
+  server: h.cm2.xiaomi-api.xyz
+  tfo: false
+  type: ss
   udp: true
-- client-fingerprint: chrome
-  name: 27,34,38,41|🇰🇷 韩国2|@stairnode
-  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
-  port: 6668
-  server: 15.165.19.79
-  skip-cert-verify: true
-  sni: baidu.com
-  type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 27,38,41|🇰🇷 韩国|@stairnode
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.90.63.177
+  tfo: false
+  type: ss
   udp: true
 - client-fingerprint: chrome
   name: 27,34,38,41|🇰🇷 韩国4|@stairnode
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 20615
-  server: 36.151.192.61
+  port: 45203
+  server: 36.151.251.61
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
   udp: true
-- name: 34|🇰🇷 _韩国
-  password: Aimer
-  port: 50000
-  server: 112.162.203.5
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇰🇷 _韩国 #1'
-  password: Aimer
-  port: 10201
-  server: 49.1.224.28
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
 - name: 35|韩国[01]
   password: 4568465a-a435-4569-b3ab-7f606018474f
   port: 443
@@ -1752,78 +1821,6 @@ proxies:
   type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG01
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 34781
-  server: bapss6r0ksj2is11odwsuqak1w9e0sk9.08.01.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG02
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 14556
-  server: hkzhikei6sxkexhg91sxtzzpqqa8ak1s.08.02.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG03
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 24219
-  server: crg6qcb8dptd8wlxckiecjjbtipee3zh.08.03.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG04
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 43885
-  server: 2f0oplec5f05yzzjf9dqvltj64qm2ltl.08.04.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG05
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 48641
-  server: g3lfv57lbqu5o1i17256wvwx0nv2e74x.08.05.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG06
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 26515
-  server: un3tv0v7z8rha5eqfrnmcobym3msnmpm.08.06.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG07
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 19310
-  server: 9r9jrm2szl2m9lch2s1yhbrk8hse514j.08.07.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG08
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 35197
-  server: n0yftbxv7dwy0daofr2gtrgr683b6w19.08.08.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|SG09
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 47558
-  server: z7gfq8utflizatg56x6ghg8pzrr0fio4.08.09.sg.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
   name: 14|🇸🇬 新加坡 | SGP
   password: e51b4683-2191-419c-812a-b78218437ffd
   port: 20692
@@ -1846,42 +1843,39 @@ proxies:
   server: gz.pddwdf.store
   type: ss
   udp: true
-- alterId: 0
-  name: 24|🟠_🇸🇬_💻_github.com/Ruk1ng001_36...
-  network: ws
-  password: ttfang
-  port: 9000
-  server: 47.245.91.197
-  skip-cert-verify: true
-  sni: ttfang.fange.me
-  tls: true
+- name: 24,27|🇸🇬 新加坡4|@ripaojiedian
+  network: tcp
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 6668
+  server: 13.215.50.90
+  skip-cert-verify: false
+  sni: baidu.com
   type: trojan
   udp: true
-- client-fingerprint: chrome
-  name: 27,34,38,41|🇸🇬 新加坡|@stairnode
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 7571
-  server: 36.151.192.60
-  skip-cert-verify: false
-  sni: www.baidu.com
-  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
+  password: Dfm20PJVnAjfzFoyAKTRcG
+  port: 49580
+  server: 178.128.63.62
+  tfo: false
+  type: ss
   udp: true
 - client-fingerprint: chrome
   name: 27,34,38,41|🇸🇬 新加坡2|@stairnode
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 40621
-  server: 36.151.192.60
-  skip-cert-verify: false
+  port: 7041
+  server: 36.151.251.61
+  skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
   udp: true
-- name: 34|🇸🇬 每天更新，请加电报群防止失联
-  password: Aimer
-  port: 50000
-  server: 121.178.51.126
+- name: 27|🇸🇬 新加坡5|@ripaojiedian
+  password: a0f7a422-7867-469c-946b-190d8fbc2a5d
+  port: 1531
+  server: 103.248.229.29
   skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
   type: trojan
+  udp: true
 - name: 35|新加坡[02]
   password: 4568465a-a435-4569-b3ab-7f606018474f
   port: 443
@@ -1937,14 +1931,6 @@ proxies:
   type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 13|🇨🇦 加拿大|CA1
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 19915
-  server: 70luslivsskpwm855plfjwgt5h2atwvf.08.01.ca.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
   name: 14|🇨🇦 加拿大 | CAN 3
   password: e51b4683-2191-419c-812a-b78218437ffd
   port: 25916
@@ -1957,20 +1943,6 @@ proxies:
   network: ws
   port: 30840
   server: 111.26.109.79
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-headers:
-    Host: api100-core-quic-lf.amemv.com
-  ws-path: /index
-- alterId: 0
-  cipher: auto
-  name: 21|CA加拿大(mibei77.com 米贝节点分享) 2
-  network: ws
-  port: 30840
-  server: v40.heduian.link
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -2091,6 +2063,18 @@ proxies:
   server: gz.pddwdf.store
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 20|_DE_
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 45.87.175.58
+  type: ss
+- cipher: rc4-md5
+  name: 30|_DE_国
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 193.108.119.230
+  type: ss
 - alterId: 0
   cipher: auto
   name: 3|🇫🇷 法国1
@@ -2126,14 +2110,6 @@ proxies:
   skip-cert-verify: false
   sni: asfsa01.paris.fr.sub-vip.site
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇫🇷 法国|PAR1
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 15715
-  server: ojrandvej2ruev8ejki2unopb5etrur3.08.01.fr.6l6.site
-  tfo: false
-  type: ss
 - cipher: aes-256-cfb
   name: 25|[SS] 🇫🇷 _FR_法国
   password: asdKkaskJKfnsa
@@ -2160,13 +2136,6 @@ proxies:
   password: Aimer
   port: 81
   server: 45.80.209.25
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇫🇷 _法国 #1'
-  password: Aimer
-  port: 8443
-  server: 141.11.203.191
   skip-cert-verify: false
   sni: epml.ambercc.filegear-sg.me
   type: trojan
@@ -2200,6 +2169,27 @@ proxies:
   type: vmess
   udp: true
   uuid: 000a0d18-02fe-4cda-a68e-96b55e067567
+- cipher: chacha20-ietf-poly1305
+  name: 25|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
+  password: oVfvPkqJFCjOEbBsbmOtIiAuqgmEFOEf332F26C8lwEwQng9
+  port: 31348
+  server: 213.156.138.138
+  tfo: false
+  type: ss
+  udp: true
+- name: '27,28,40,42|RU_speednode_0149 #3'
+  network: ws
+  password: Aimer
+  port: 8443
+  server: 46.254.93.243
+  skip-cert-verify: false
+  sni: epmk.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epmk.ambercc.filegear-sg.me
+    path: /
 - alterId: 0
   cipher: auto
   name: 28|俄罗斯 002
@@ -2216,48 +2206,17 @@ proxies:
     headers:
       Host: lax1.ibgfw.top
     path: /xrenvws
-- name: 34|🇷🇺 _俄罗斯
-  password: Aimer
-  port: 8443
-  server: 46.254.93.243
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇷🇺 _俄罗斯 #1'
-  password: Aimer
-  port: 443
-  server: 5.182.84.244
-  skip-cert-verify: false
-  sni: epml.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇷🇺 _俄罗斯 #2'
-  password: Aimer
-  port: 2053
-  server: 213.241.198.189
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇷🇺 _俄罗斯 #3'
-  password: Aimer
-  port: 2096
-  server: 5.182.85.255
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
-- name: '34|🇷🇺 _俄罗斯 #4'
+- name: 28|俄罗斯 003
+  network: ws
   password: Aimer
   port: 2087
   server: 46.254.92.142
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
+  sni: epml.ambercc.filegear-sg.me
   type: trojan
-- name: '34|🇷🇺 _俄罗斯 #5'
-  password: Aimer
-  port: 2053
-  server: 5.35.68.249
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
-  type: trojan
+  ws-opts:
+    headers:
+      Host: epml.ambercc.filegear-sg.me
+    path: /
 - alterId: 0
   cipher: auto
   name: 3|🇸🇪 IEPL专线 瑞典 NO1
@@ -2293,24 +2252,24 @@ proxies:
   uuid: 000a0d18-02fe-4cda-a68e-96b55e067567
 - alterId: 0
   cipher: auto
-  name: 7|英国2
-  port: 45067
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b3218e5f-2ad8-4dcf-8191-7ace0a8a7c43
-- alterId: 0
-  cipher: auto
-  name: 7|英国1
+  name: 7,8|英国1-1A
   port: 45066
   server: haa.dashuai.cyou
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: b3218e5f-2ad8-4dcf-8191-7ace0a8a7c43
+  uuid: 81afb08d-503c-46a3-ad54-9357a59caf4a
+- alterId: 0
+  cipher: auto
+  name: 7,8|英国2-1A
+  port: 45067
+  server: xdd.dashuai.cyou
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 81afb08d-503c-46a3-ad54-9357a59caf4a
 - client-fingerprint: chrome
   name: 13|🇬🇧 英国|COV2|T
   password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
@@ -2321,20 +2280,29 @@ proxies:
   type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 13|🇬🇧 英国|COV2
-  password: d9619e80-9c6f-4b9b-9af1-0c2eff2de795
-  port: 18127
-  server: r8tbhtn9jty9ebzesikuygvc8y0b2koq.08.02.uk.6l6.site
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
   name: 14|🇬🇧 英国 | GBR 4
   password: e51b4683-2191-419c-812a-b78218437ffd
   port: 31032
   server: sh.pddwdf.store
   type: ss
   udp: true
+- name: 19,25|[Trojan] 🇬🇧 英国 社会保险安全部
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 51.44.138.7
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  tfo: false
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  name: 30|_GB_国
+  obfs: plain
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  protocol: origin
+  server: 62.100.205.48
+  type: ssr
 - alterId: 0
   cipher: auto
   name: 34|VMESS-未知>英国-NF解锁波兰地区非自制剧-ChatG...
@@ -2349,30 +2317,19 @@ proxies:
     headers:
       Host: b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top
     path: /azumase.ren
-- alterId: 0
-  cipher: auto
-  name: 34|🇬🇧 江苏省宿迁市 蒲公英网络有限公司
-  network: tcp
-  port: '45237'
-  server: fa.fxlcn.com
-  tls: false
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-- name: 34|🇬🇧 _英国
-  password: Aimer
-  port: 8443
-  server: 176.53.144.206
-  skip-cert-verify: false
-  sni: epmk.ambercc.filegear-sg.me
+- ip-version: dual
+  name: '0,1,30,31|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
+  network: ws
+  password: fa050497-fc2a-45ee-89c0-96670c4ecb65
+  port: 443
+  server: 104.21.63.135
+  sni: Rrr4.8906004.xYZ
   type: trojan
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: '0,1,31|🇲🇩_MD_摩尔多瓦->🇯🇵_JP_日本 #2'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.153.197.5
-  type: ss
   udp: true
+  ws-opts:
+    headers:
+      host: rrr4.8906004.xyz
+    path: /DZxb5QZyWgQPuXTwt
 - cipher: chacha20-ietf-poly1305
   name: 3|🇸🇬 新加坡中转 02
   password: b103d104-bff0-4cee-b42a-85dad07e2036
@@ -5966,18 +5923,6 @@ proxies:
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
-- alterId: 2
-  cipher: auto
-  name: 20,24|🟡_🇨🇳_📶_github.com/Ruk1ng001_31...
-  network: ws
-  port: 30825
-  server: 111.26.109.79
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    path: /oooo
 - alterId: 0
   cipher: auto
   name: 25|[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国
@@ -6260,7 +6205,7 @@ proxy-groups:
   - 6|No.721_HK_x1.00_GCP_HK@pixia**...
   - 6|No.373_HK_x1.00_腾讯云_HK@loc_l**...
   - 6|🇭🇰 No.819_HK_x1.00_腾讯云_香港@be**...
-  - 7|香港NO.2
+  - 7,8|香港NO.2-1A-GPT
   - 10|HK | 香港 LB-1V
   - '11,27,34|1 |  1.8MB/s|15%|Disney|Yout..... #2'
   - 12|🇭🇰 HK, Kowloon
@@ -6277,22 +6222,17 @@ proxy-groups:
   - 14|🇭🇰 香港 | HKG
   - 14|🇭🇰 香港 | HKG 4
   - 14|🇭🇰 香港 | HKG 5
-  - 19|香港 电讯盈科有限公司
-  - 21|US美国(mibei77.com 米贝节点分享) 18
-  - 21|HK香港(mibei77.com 米贝节点分享) 2
-  - 21|HK香港(mibei77.com 米贝节点分享) 3
-  - 21|HK香港(mibei77.com 米贝节点分享) 4
-  - 21|HK香港(mibei77.com 米贝节点分享) 5
-  - 21|HK香港(mibei77.com 米贝节点分享) 6
-  - 21|HK香港(mibei77.com 米贝节点分享) 7
+  - 27|🇭🇰 香港|@ripaojiedian
   - 27|🇭🇰 香港2|@ripaojiedian
-  - 27,38,41|🇭🇰 香港3|@stairnode
+  - 27|🇭🇰 香港3|@ripaojiedian
   - 27,34,38,41|🇭🇰 香港4|@stairnode
   - 27,34,38,41|🇭🇰 香港5|@stairnode
-  - '34|🇭🇰 香港3|@ripaojiedian #5'
+  - 34,38,41|🇭🇰 香港3|@stairnode
+  - 34,38,41|🇭🇰 香港6|@stairnode
   - '34|🇭🇰 香港v2|@ripaojiedian #2'
   - 35|香港[01]
   - 35|香港[06]
+  - 38,41|🇭🇰 香港|@stairnode
   - 3|🇯🇵 CM 隧道 日本 NO1
   - 3|🇯🇵 日本01
   - 3|🇯🇵 日本02
@@ -6343,23 +6283,22 @@ proxy-groups:
   - 13|🇯🇵 日本|T08|T
   - 13|🇯🇵 日本|T09|T
   - 13|🇳🇬 尼日利亚|LOS1|T
-  - 13|🇳🇬 尼日利亚|LOS1
   - 14|🇯🇵 日本 | JPN 2
   - 14|🇯🇵 日本 | JPN 4
   - 14|🇯🇵 日本 | JPN 5
+  - 19,25,34|🇯🇵 日本 V2CROSS.COM
   - 21|JP日本(mibei77.com 米贝节点分享)
   - 21|JP日本(mibei77.com 米贝节点分享) 2
-  - 21|JP日本(mibei77.com 米贝节点分享) 3
+  - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_38...
+  - 24,27,38,41|🇯🇵 日本2|@stairnode
   - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_32...
   - 27|🇯🇵 日本|@ripaojiedian
   - 27,34,38,41|🇯🇵 日本3|@stairnode
-  - 27|🇯🇵 日本2|@ripaojiedian
-  - 34|日期：07-04
-  - 34|🇯🇵 _日本
-  - '34|🇯🇵 _日本 #1'
-  - '34|🇯🇵 _日本 #2'
-  - '34|🇯🇵 _日本 #3'
-  - '0,1,11,24,27,31|🇰🇷_KR_韩国 #2'
+  - 27,34,38,41|🇯🇵 日本4|@stairnode
+  - 27|🇯🇵 日本5|@ripaojiedian
+  - 27,34,38,41|🇯🇵 日本6|@stairnode
+  - '34|🇯🇵 日本v2|@ripaojiedian #2'
+  - 38,41|🇯🇵 日本5|@stairnode
   - 3|🇰🇷 韩国-三网优化2-1C
   - 3|🇰🇷 IEPL专线 韩国 NO1
   - 3|🇰🇷 韩国-三网优化2-1B
@@ -6374,17 +6313,29 @@ proxy-groups:
   - 6|🇰🇷 No.65_KR_x0.50_Oracle_首尔@m*...
   - 6|🇰🇷 No.188_KR_x0.50_Oracle_首尔[c...
   - 6|🇰🇷 No.543_KR_x0.80_Oracle_首尔_三...
+  - 7|韩国-三网优化2-1I
+  - 7|韩国-三网优化2-1D
+  - 7|韩国-三网优化2-1F
+  - 7|韩国-三网优化2-1H
+  - 7|韩国-三网优化2-1C
+  - 7|韩国-三网优化2-1A
+  - 7|韩国 专线NO1
+  - 7|韩国-三网优化2-1B
+  - 7|韩国-三网优化2-1L
+  - 7|韩国-三网优化2-1G
+  - 7|韩国-三网优化2-1E
+  - 7|韩国-三网优化2-1K
+  - 7|韩国-三网优化2-1M
+  - 7|韩国-三网优化2-1N
+  - 7|韩国-三网优化2-1J
   - 7|韩国 专线NO2
-  - 7,8|韩国 专线NO1-1A
-  - 7|韩国-三网优化2
+  - 11,27|2 |  1.5MB/s|44%|Openai
   - 12|🇰🇷 KR, Incheon
   - 14|🇰🇷 韩国 | KOR
   - 14|🇰🇷 韩国 | KOR 6
-  - 21|KR韩国(mibei77.com 米贝节点分享)
-  - 27,34,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国|@stairnode
   - 27,34,38,41|🇰🇷 韩国4|@stairnode
-  - 34|🇰🇷 _韩国
-  - '34|🇰🇷 _韩国 #1'
   - 35|韩国[01]
   - 3|🇸🇬 新加坡NO.1
   - 3|🇸🇬 新加坡NO.2
@@ -6408,32 +6359,21 @@ proxy-groups:
   - 13|🇸🇬 新加坡|SG07|T
   - 13|🇸🇬 新加坡|SG08|T
   - 13|🇸🇬 新加坡|SG09|T
-  - 13|🇸🇬 新加坡|SG01
-  - 13|🇸🇬 新加坡|SG02
-  - 13|🇸🇬 新加坡|SG03
-  - 13|🇸🇬 新加坡|SG04
-  - 13|🇸🇬 新加坡|SG05
-  - 13|🇸🇬 新加坡|SG06
-  - 13|🇸🇬 新加坡|SG07
-  - 13|🇸🇬 新加坡|SG08
-  - 13|🇸🇬 新加坡|SG09
   - 14|🇸🇬 新加坡 | SGP
   - 14|🇸🇬 新加坡 | SGP 5
   - 14|🇸🇬 新加坡 | SGP 8
-  - 24|🟠_🇸🇬_💻_github.com/Ruk1ng001_36...
-  - 27,34,38,41|🇸🇬 新加坡|@stairnode
+  - 24,27|🇸🇬 新加坡4|@ripaojiedian
+  - 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
   - 27,34,38,41|🇸🇬 新加坡2|@stairnode
-  - 34|🇸🇬 每天更新，请加电报群防止失联
+  - 27|🇸🇬 新加坡5|@ripaojiedian
   - 35|新加坡[02]
   - 3|🇨🇦 加拿大2
   - 3|🇨🇦 加拿大1
   - 3|🇨🇦 加拿大专线
   - 12|🇨🇦 CA, Vancouver
   - 13|🇨🇦 加拿大|CA1|T
-  - 13|🇨🇦 加拿大|CA1
   - 14|🇨🇦 加拿大 | CAN 3
   - 21|CA加拿大(mibei77.com 米贝节点分享)
-  - 21|CA加拿大(mibei77.com 米贝节点分享) 2
   - 25|[VMess] 🇨🇦 _CA_加拿大
   - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
   - 25|[SS] 🇨🇭 _CH_瑞士
@@ -6443,37 +6383,33 @@ proxy-groups:
   - 6|No.392_DE_x0.50_Unesty_DE@5431...
   - '11,27,34|5 |  1.4MB/s|0%|Youtube|Open..... #2'
   - 14|德國 2
+  - 20|_DE_
+  - 30|_DE_国
   - 3|🇫🇷 法国1
   - 3|🇫🇷 CM 隧道 法国 NO1
   - 3|🇫🇷 法国2
   - 13|🇫🇷 法国|PAR1|T
-  - 13|🇫🇷 法国|PAR1
   - 25|[SS] 🇫🇷 _FR_法国
   - 34|VMESS-未知>法国-ChatGPT-1a2d514b-3...
   - 34|🇫🇷 _法国
-  - '34|🇫🇷 _法国 #1'
   - 35|法国[01]
   - 3|🇷🇺 莫斯科专线
   - 3|🇷🇺 IEPL专线 俄罗斯 NO1
+  - 25|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
+  - '27,28,40,42|RU_speednode_0149 #3'
   - 28|俄罗斯 002
-  - 34|🇷🇺 _俄罗斯
-  - '34|🇷🇺 _俄罗斯 #1'
-  - '34|🇷🇺 _俄罗斯 #2'
-  - '34|🇷🇺 _俄罗斯 #3'
-  - '34|🇷🇺 _俄罗斯 #4'
-  - '34|🇷🇺 _俄罗斯 #5'
+  - 28|俄罗斯 003
   - 3|🇸🇪 IEPL专线 瑞典 NO1
   - 3|🇬🇧 伦敦专线
   - 3|🇬🇧 IEPL专线 英国 NO1
-  - 7|英国2
-  - 7|英国1
+  - 7,8|英国1-1A
+  - 7,8|英国2-1A
   - 13|🇬🇧 英国|COV2|T
-  - 13|🇬🇧 英国|COV2
   - 14|🇬🇧 英国 | GBR 4
+  - 19,25|[Trojan] 🇬🇧 英国 社会保险安全部
+  - 30|_GB_国
   - 34|VMESS-未知>英国-NF解锁波兰地区非自制剧-ChatG...
-  - 34|🇬🇧 江苏省宿迁市 蒲公英网络有限公司
-  - 34|🇬🇧 _英国
-  - '0,1,31|🇲🇩_MD_摩尔多瓦->🇯🇵_JP_日本 #2'
+  - '0,1,30,31|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
   - 3|🇸🇬 新加坡中转 02
   - 3|🇬🇧 英国中转 03
   - 3|🇭🇰 香港中转 02
@@ -6985,7 +6921,6 @@ proxy-groups:
   - 9|日本中转 03-1A
   - 9|英国中转 苏州001 2x-1C
   - 9|日本中转 05-1O
-  - 20,24|🟡_🇨🇳_📶_github.com/Ruk1ng001_31...
   - 25|[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国
   - 25|[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国
   - 25|[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1
@@ -7029,7 +6964,7 @@ proxy-groups:
   - 6|No.721_HK_x1.00_GCP_HK@pixia**...
   - 6|No.373_HK_x1.00_腾讯云_HK@loc_l**...
   - 6|🇭🇰 No.819_HK_x1.00_腾讯云_香港@be**...
-  - 7|香港NO.2
+  - 7,8|香港NO.2-1A-GPT
   - 10|HK | 香港 LB-1V
   - '11,27,34|1 |  1.8MB/s|15%|Disney|Yout..... #2'
   - 12|🇭🇰 HK, Kowloon
@@ -7046,22 +6981,17 @@ proxy-groups:
   - 14|🇭🇰 香港 | HKG
   - 14|🇭🇰 香港 | HKG 4
   - 14|🇭🇰 香港 | HKG 5
-  - 19|香港 电讯盈科有限公司
-  - 21|US美国(mibei77.com 米贝节点分享) 18
-  - 21|HK香港(mibei77.com 米贝节点分享) 2
-  - 21|HK香港(mibei77.com 米贝节点分享) 3
-  - 21|HK香港(mibei77.com 米贝节点分享) 4
-  - 21|HK香港(mibei77.com 米贝节点分享) 5
-  - 21|HK香港(mibei77.com 米贝节点分享) 6
-  - 21|HK香港(mibei77.com 米贝节点分享) 7
+  - 27|🇭🇰 香港|@ripaojiedian
   - 27|🇭🇰 香港2|@ripaojiedian
-  - 27,38,41|🇭🇰 香港3|@stairnode
+  - 27|🇭🇰 香港3|@ripaojiedian
   - 27,34,38,41|🇭🇰 香港4|@stairnode
   - 27,34,38,41|🇭🇰 香港5|@stairnode
-  - '34|🇭🇰 香港3|@ripaojiedian #5'
+  - 34,38,41|🇭🇰 香港3|@stairnode
+  - 34,38,41|🇭🇰 香港6|@stairnode
   - '34|🇭🇰 香港v2|@ripaojiedian #2'
   - 35|香港[01]
   - 35|香港[06]
+  - 38,41|🇭🇰 香港|@stairnode
   - 3|🇯🇵 CM 隧道 日本 NO1
   - 3|🇯🇵 日本01
   - 3|🇯🇵 日本02
@@ -7112,23 +7042,22 @@ proxy-groups:
   - 13|🇯🇵 日本|T08|T
   - 13|🇯🇵 日本|T09|T
   - 13|🇳🇬 尼日利亚|LOS1|T
-  - 13|🇳🇬 尼日利亚|LOS1
   - 14|🇯🇵 日本 | JPN 2
   - 14|🇯🇵 日本 | JPN 4
   - 14|🇯🇵 日本 | JPN 5
+  - 19,25,34|🇯🇵 日本 V2CROSS.COM
   - 21|JP日本(mibei77.com 米贝节点分享)
   - 21|JP日本(mibei77.com 米贝节点分享) 2
-  - 21|JP日本(mibei77.com 米贝节点分享) 3
+  - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_38...
+  - 24,27,38,41|🇯🇵 日本2|@stairnode
   - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_32...
   - 27|🇯🇵 日本|@ripaojiedian
   - 27,34,38,41|🇯🇵 日本3|@stairnode
-  - 27|🇯🇵 日本2|@ripaojiedian
-  - 34|日期：07-04
-  - 34|🇯🇵 _日本
-  - '34|🇯🇵 _日本 #1'
-  - '34|🇯🇵 _日本 #2'
-  - '34|🇯🇵 _日本 #3'
-  - '0,1,11,24,27,31|🇰🇷_KR_韩国 #2'
+  - 27,34,38,41|🇯🇵 日本4|@stairnode
+  - 27|🇯🇵 日本5|@ripaojiedian
+  - 27,34,38,41|🇯🇵 日本6|@stairnode
+  - '34|🇯🇵 日本v2|@ripaojiedian #2'
+  - 38,41|🇯🇵 日本5|@stairnode
   - 3|🇰🇷 韩国-三网优化2-1C
   - 3|🇰🇷 IEPL专线 韩国 NO1
   - 3|🇰🇷 韩国-三网优化2-1B
@@ -7143,17 +7072,29 @@ proxy-groups:
   - 6|🇰🇷 No.65_KR_x0.50_Oracle_首尔@m*...
   - 6|🇰🇷 No.188_KR_x0.50_Oracle_首尔[c...
   - 6|🇰🇷 No.543_KR_x0.80_Oracle_首尔_三...
+  - 7|韩国-三网优化2-1I
+  - 7|韩国-三网优化2-1D
+  - 7|韩国-三网优化2-1F
+  - 7|韩国-三网优化2-1H
+  - 7|韩国-三网优化2-1C
+  - 7|韩国-三网优化2-1A
+  - 7|韩国 专线NO1
+  - 7|韩国-三网优化2-1B
+  - 7|韩国-三网优化2-1L
+  - 7|韩国-三网优化2-1G
+  - 7|韩国-三网优化2-1E
+  - 7|韩国-三网优化2-1K
+  - 7|韩国-三网优化2-1M
+  - 7|韩国-三网优化2-1N
+  - 7|韩国-三网优化2-1J
   - 7|韩国 专线NO2
-  - 7,8|韩国 专线NO1-1A
-  - 7|韩国-三网优化2
+  - 11,27|2 |  1.5MB/s|44%|Openai
   - 12|🇰🇷 KR, Incheon
   - 14|🇰🇷 韩国 | KOR
   - 14|🇰🇷 韩国 | KOR 6
-  - 21|KR韩国(mibei77.com 米贝节点分享)
-  - 27,34,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国|@stairnode
   - 27,34,38,41|🇰🇷 韩国4|@stairnode
-  - 34|🇰🇷 _韩国
-  - '34|🇰🇷 _韩国 #1'
   - 35|韩国[01]
   - 3|🇸🇬 新加坡NO.1
   - 3|🇸🇬 新加坡NO.2
@@ -7177,32 +7118,21 @@ proxy-groups:
   - 13|🇸🇬 新加坡|SG07|T
   - 13|🇸🇬 新加坡|SG08|T
   - 13|🇸🇬 新加坡|SG09|T
-  - 13|🇸🇬 新加坡|SG01
-  - 13|🇸🇬 新加坡|SG02
-  - 13|🇸🇬 新加坡|SG03
-  - 13|🇸🇬 新加坡|SG04
-  - 13|🇸🇬 新加坡|SG05
-  - 13|🇸🇬 新加坡|SG06
-  - 13|🇸🇬 新加坡|SG07
-  - 13|🇸🇬 新加坡|SG08
-  - 13|🇸🇬 新加坡|SG09
   - 14|🇸🇬 新加坡 | SGP
   - 14|🇸🇬 新加坡 | SGP 5
   - 14|🇸🇬 新加坡 | SGP 8
-  - 24|🟠_🇸🇬_💻_github.com/Ruk1ng001_36...
-  - 27,34,38,41|🇸🇬 新加坡|@stairnode
+  - 24,27|🇸🇬 新加坡4|@ripaojiedian
+  - 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
   - 27,34,38,41|🇸🇬 新加坡2|@stairnode
-  - 34|🇸🇬 每天更新，请加电报群防止失联
+  - 27|🇸🇬 新加坡5|@ripaojiedian
   - 35|新加坡[02]
   - 3|🇨🇦 加拿大2
   - 3|🇨🇦 加拿大1
   - 3|🇨🇦 加拿大专线
   - 12|🇨🇦 CA, Vancouver
   - 13|🇨🇦 加拿大|CA1|T
-  - 13|🇨🇦 加拿大|CA1
   - 14|🇨🇦 加拿大 | CAN 3
   - 21|CA加拿大(mibei77.com 米贝节点分享)
-  - 21|CA加拿大(mibei77.com 米贝节点分享) 2
   - 25|[VMess] 🇨🇦 _CA_加拿大
   - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
   - 25|[SS] 🇨🇭 _CH_瑞士
@@ -7212,37 +7142,33 @@ proxy-groups:
   - 6|No.392_DE_x0.50_Unesty_DE@5431...
   - '11,27,34|5 |  1.4MB/s|0%|Youtube|Open..... #2'
   - 14|德國 2
+  - 20|_DE_
+  - 30|_DE_国
   - 3|🇫🇷 法国1
   - 3|🇫🇷 CM 隧道 法国 NO1
   - 3|🇫🇷 法国2
   - 13|🇫🇷 法国|PAR1|T
-  - 13|🇫🇷 法国|PAR1
   - 25|[SS] 🇫🇷 _FR_法国
   - 34|VMESS-未知>法国-ChatGPT-1a2d514b-3...
   - 34|🇫🇷 _法国
-  - '34|🇫🇷 _法国 #1'
   - 35|法国[01]
   - 3|🇷🇺 莫斯科专线
   - 3|🇷🇺 IEPL专线 俄罗斯 NO1
+  - 25|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
+  - '27,28,40,42|RU_speednode_0149 #3'
   - 28|俄罗斯 002
-  - 34|🇷🇺 _俄罗斯
-  - '34|🇷🇺 _俄罗斯 #1'
-  - '34|🇷🇺 _俄罗斯 #2'
-  - '34|🇷🇺 _俄罗斯 #3'
-  - '34|🇷🇺 _俄罗斯 #4'
-  - '34|🇷🇺 _俄罗斯 #5'
+  - 28|俄罗斯 003
   - 3|🇸🇪 IEPL专线 瑞典 NO1
   - 3|🇬🇧 伦敦专线
   - 3|🇬🇧 IEPL专线 英国 NO1
-  - 7|英国2
-  - 7|英国1
+  - 7,8|英国1-1A
+  - 7,8|英国2-1A
   - 13|🇬🇧 英国|COV2|T
-  - 13|🇬🇧 英国|COV2
   - 14|🇬🇧 英国 | GBR 4
+  - 19,25|[Trojan] 🇬🇧 英国 社会保险安全部
+  - 30|_GB_国
   - 34|VMESS-未知>英国-NF解锁波兰地区非自制剧-ChatG...
-  - 34|🇬🇧 江苏省宿迁市 蒲公英网络有限公司
-  - 34|🇬🇧 _英国
-  - '0,1,31|🇲🇩_MD_摩尔多瓦->🇯🇵_JP_日本 #2'
+  - '0,1,30,31|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
   - 3|🇸🇬 新加坡中转 02
   - 3|🇬🇧 英国中转 03
   - 3|🇭🇰 香港中转 02
@@ -7754,7 +7680,6 @@ proxy-groups:
   - 9|日本中转 03-1A
   - 9|英国中转 苏州001 2x-1C
   - 9|日本中转 05-1O
-  - 20,24|🟡_🇨🇳_📶_github.com/Ruk1ng001_31...
   - 25|[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国
   - 25|[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国
   - 25|[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1
@@ -7795,7 +7720,7 @@ proxy-groups:
   - 6|No.721_HK_x1.00_GCP_HK@pixia**...
   - 6|No.373_HK_x1.00_腾讯云_HK@loc_l**...
   - 6|🇭🇰 No.819_HK_x1.00_腾讯云_香港@be**...
-  - 7|香港NO.2
+  - 7,8|香港NO.2-1A-GPT
   - 10|HK | 香港 LB-1V
   - '11,27,34|1 |  1.8MB/s|15%|Disney|Yout..... #2'
   - 12|🇭🇰 HK, Kowloon
@@ -7812,22 +7737,17 @@ proxy-groups:
   - 14|🇭🇰 香港 | HKG
   - 14|🇭🇰 香港 | HKG 4
   - 14|🇭🇰 香港 | HKG 5
-  - 19|香港 电讯盈科有限公司
-  - 21|US美国(mibei77.com 米贝节点分享) 18
-  - 21|HK香港(mibei77.com 米贝节点分享) 2
-  - 21|HK香港(mibei77.com 米贝节点分享) 3
-  - 21|HK香港(mibei77.com 米贝节点分享) 4
-  - 21|HK香港(mibei77.com 米贝节点分享) 5
-  - 21|HK香港(mibei77.com 米贝节点分享) 6
-  - 21|HK香港(mibei77.com 米贝节点分享) 7
+  - 27|🇭🇰 香港|@ripaojiedian
   - 27|🇭🇰 香港2|@ripaojiedian
-  - 27,38,41|🇭🇰 香港3|@stairnode
+  - 27|🇭🇰 香港3|@ripaojiedian
   - 27,34,38,41|🇭🇰 香港4|@stairnode
   - 27,34,38,41|🇭🇰 香港5|@stairnode
-  - '34|🇭🇰 香港3|@ripaojiedian #5'
+  - 34,38,41|🇭🇰 香港3|@stairnode
+  - 34,38,41|🇭🇰 香港6|@stairnode
   - '34|🇭🇰 香港v2|@ripaojiedian #2'
   - 35|香港[01]
   - 35|香港[06]
+  - 38,41|🇭🇰 香港|@stairnode
   - 3|🇯🇵 CM 隧道 日本 NO1
   - 3|🇯🇵 日本01
   - 3|🇯🇵 日本02
@@ -7878,23 +7798,22 @@ proxy-groups:
   - 13|🇯🇵 日本|T08|T
   - 13|🇯🇵 日本|T09|T
   - 13|🇳🇬 尼日利亚|LOS1|T
-  - 13|🇳🇬 尼日利亚|LOS1
   - 14|🇯🇵 日本 | JPN 2
   - 14|🇯🇵 日本 | JPN 4
   - 14|🇯🇵 日本 | JPN 5
+  - 19,25,34|🇯🇵 日本 V2CROSS.COM
   - 21|JP日本(mibei77.com 米贝节点分享)
   - 21|JP日本(mibei77.com 米贝节点分享) 2
-  - 21|JP日本(mibei77.com 米贝节点分享) 3
+  - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_38...
+  - 24,27,38,41|🇯🇵 日本2|@stairnode
   - 24|🟡_🇯🇵_💻_github.com/Ruk1ng001_32...
   - 27|🇯🇵 日本|@ripaojiedian
   - 27,34,38,41|🇯🇵 日本3|@stairnode
-  - 27|🇯🇵 日本2|@ripaojiedian
-  - 34|日期：07-04
-  - 34|🇯🇵 _日本
-  - '34|🇯🇵 _日本 #1'
-  - '34|🇯🇵 _日本 #2'
-  - '34|🇯🇵 _日本 #3'
-  - '0,1,11,24,27,31|🇰🇷_KR_韩国 #2'
+  - 27,34,38,41|🇯🇵 日本4|@stairnode
+  - 27|🇯🇵 日本5|@ripaojiedian
+  - 27,34,38,41|🇯🇵 日本6|@stairnode
+  - '34|🇯🇵 日本v2|@ripaojiedian #2'
+  - 38,41|🇯🇵 日本5|@stairnode
   - 3|🇰🇷 韩国-三网优化2-1C
   - 3|🇰🇷 IEPL专线 韩国 NO1
   - 3|🇰🇷 韩国-三网优化2-1B
@@ -7909,17 +7828,29 @@ proxy-groups:
   - 6|🇰🇷 No.65_KR_x0.50_Oracle_首尔@m*...
   - 6|🇰🇷 No.188_KR_x0.50_Oracle_首尔[c...
   - 6|🇰🇷 No.543_KR_x0.80_Oracle_首尔_三...
+  - 7|韩国-三网优化2-1I
+  - 7|韩国-三网优化2-1D
+  - 7|韩国-三网优化2-1F
+  - 7|韩国-三网优化2-1H
+  - 7|韩国-三网优化2-1C
+  - 7|韩国-三网优化2-1A
+  - 7|韩国 专线NO1
+  - 7|韩国-三网优化2-1B
+  - 7|韩国-三网优化2-1L
+  - 7|韩国-三网优化2-1G
+  - 7|韩国-三网优化2-1E
+  - 7|韩国-三网优化2-1K
+  - 7|韩国-三网优化2-1M
+  - 7|韩国-三网优化2-1N
+  - 7|韩国-三网优化2-1J
   - 7|韩国 专线NO2
-  - 7,8|韩国 专线NO1-1A
-  - 7|韩国-三网优化2
+  - 11,27|2 |  1.5MB/s|44%|Openai
   - 12|🇰🇷 KR, Incheon
   - 14|🇰🇷 韩国 | KOR
   - 14|🇰🇷 韩国 | KOR 6
-  - 21|KR韩国(mibei77.com 米贝节点分享)
-  - 27,34,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国2|@stairnode
+  - 27,38,41|🇰🇷 韩国|@stairnode
   - 27,34,38,41|🇰🇷 韩国4|@stairnode
-  - 34|🇰🇷 _韩国
-  - '34|🇰🇷 _韩国 #1'
   - 35|韩国[01]
   - 3|🇸🇬 新加坡NO.1
   - 3|🇸🇬 新加坡NO.2
@@ -7943,32 +7874,21 @@ proxy-groups:
   - 13|🇸🇬 新加坡|SG07|T
   - 13|🇸🇬 新加坡|SG08|T
   - 13|🇸🇬 新加坡|SG09|T
-  - 13|🇸🇬 新加坡|SG01
-  - 13|🇸🇬 新加坡|SG02
-  - 13|🇸🇬 新加坡|SG03
-  - 13|🇸🇬 新加坡|SG04
-  - 13|🇸🇬 新加坡|SG05
-  - 13|🇸🇬 新加坡|SG06
-  - 13|🇸🇬 新加坡|SG07
-  - 13|🇸🇬 新加坡|SG08
-  - 13|🇸🇬 新加坡|SG09
   - 14|🇸🇬 新加坡 | SGP
   - 14|🇸🇬 新加坡 | SGP 5
   - 14|🇸🇬 新加坡 | SGP 8
-  - 24|🟠_🇸🇬_💻_github.com/Ruk1ng001_36...
-  - 27,34,38,41|🇸🇬 新加坡|@stairnode
+  - 24,27|🇸🇬 新加坡4|@ripaojiedian
+  - 25|[SS] 🇸🇬 新加坡 DigitalOcean数据中心
   - 27,34,38,41|🇸🇬 新加坡2|@stairnode
-  - 34|🇸🇬 每天更新，请加电报群防止失联
+  - 27|🇸🇬 新加坡5|@ripaojiedian
   - 35|新加坡[02]
   - 3|🇨🇦 加拿大2
   - 3|🇨🇦 加拿大1
   - 3|🇨🇦 加拿大专线
   - 12|🇨🇦 CA, Vancouver
   - 13|🇨🇦 加拿大|CA1|T
-  - 13|🇨🇦 加拿大|CA1
   - 14|🇨🇦 加拿大 | CAN 3
   - 21|CA加拿大(mibei77.com 米贝节点分享)
-  - 21|CA加拿大(mibei77.com 米贝节点分享) 2
   - 25|[VMess] 🇨🇦 _CA_加拿大
   - 34|VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGP...
   - 25|[SS] 🇨🇭 _CH_瑞士
@@ -7978,37 +7898,33 @@ proxy-groups:
   - 6|No.392_DE_x0.50_Unesty_DE@5431...
   - '11,27,34|5 |  1.4MB/s|0%|Youtube|Open..... #2'
   - 14|德國 2
+  - 20|_DE_
+  - 30|_DE_国
   - 3|🇫🇷 法国1
   - 3|🇫🇷 CM 隧道 法国 NO1
   - 3|🇫🇷 法国2
   - 13|🇫🇷 法国|PAR1|T
-  - 13|🇫🇷 法国|PAR1
   - 25|[SS] 🇫🇷 _FR_法国
   - 34|VMESS-未知>法国-ChatGPT-1a2d514b-3...
   - 34|🇫🇷 _法国
-  - '34|🇫🇷 _法国 #1'
   - 35|法国[01]
   - 3|🇷🇺 莫斯科专线
   - 3|🇷🇺 IEPL专线 俄罗斯 NO1
+  - 25|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
+  - '27,28,40,42|RU_speednode_0149 #3'
   - 28|俄罗斯 002
-  - 34|🇷🇺 _俄罗斯
-  - '34|🇷🇺 _俄罗斯 #1'
-  - '34|🇷🇺 _俄罗斯 #2'
-  - '34|🇷🇺 _俄罗斯 #3'
-  - '34|🇷🇺 _俄罗斯 #4'
-  - '34|🇷🇺 _俄罗斯 #5'
+  - 28|俄罗斯 003
   - 3|🇸🇪 IEPL专线 瑞典 NO1
   - 3|🇬🇧 伦敦专线
   - 3|🇬🇧 IEPL专线 英国 NO1
-  - 7|英国2
-  - 7|英国1
+  - 7,8|英国1-1A
+  - 7,8|英国2-1A
   - 13|🇬🇧 英国|COV2|T
-  - 13|🇬🇧 英国|COV2
   - 14|🇬🇧 英国 | GBR 4
+  - 19,25|[Trojan] 🇬🇧 英国 社会保险安全部
+  - 30|_GB_国
   - 34|VMESS-未知>英国-NF解锁波兰地区非自制剧-ChatG...
-  - 34|🇬🇧 江苏省宿迁市 蒲公英网络有限公司
-  - 34|🇬🇧 _英国
-  - '0,1,31|🇲🇩_MD_摩尔多瓦->🇯🇵_JP_日本 #2'
+  - '0,1,30,31|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
   - 3|🇸🇬 新加坡中转 02
   - 3|🇬🇧 英国中转 03
   - 3|🇭🇰 香港中转 02
@@ -8520,7 +8436,6 @@ proxy-groups:
   - 9|日本中转 03-1A
   - 9|英国中转 苏州001 2x-1C
   - 9|日本中转 05-1O
-  - 20,24|🟡_🇨🇳_📶_github.com/Ruk1ng001_31...
   - 25|[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国
   - 25|[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国
   - 25|[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1
