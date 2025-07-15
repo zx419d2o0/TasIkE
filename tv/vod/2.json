@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-07-04 07:13:53 <<<
+//      >>> 当前时间是：2025-07-16 07:14:03 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/RcGBx7_P.png;md5;906ce6c31d1cd77bf4cbc5b2318b1e08",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XzWYuCoI.png;md5;bbf1cb84522bf22049e7345040384d4d",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -31,6 +31,7 @@
 {"key":"云集","name":"🍊云集┃4K","type":3,"api":"csp_YunJiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"盘他","name":"🎸盘他┃4K","type":3,"api":"csp_PantaGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"雷鲸","name":"🐳雷鲸┃4K","type":3,"api":"csp_LeiJingGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"123分享","name":"🌂123┃4K","type":3,"api":"csp_Time123Guard","quickSearch":0,"changeable":0,"filterable":1,"timeout":25},
 {"key":"瓜子","name":"🍉瓜子┃App","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"热播","name":"📺热播┃App","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},
 "timeout":10},
@@ -41,12 +42,11 @@
 {"key":"浪酷版","name":"👓浪酷┃秒播","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":2},
 "timeout":10},
 {"key":"小苹果","name":"🍎苹果┃直连","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"零零","name":"🐰零零┃App","type":3,"api":"csp_ZeroTvGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"素白白","name":"🐇白白┃直连","type":3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"小红","name":"🐷小红┃App","type":3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"雄鹰","name":"🦅雄鹰┃App","type":3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{"key":"时常","name":"🐥时常┃App","type":3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"咖啡","name":"🍫咖啡┃App","type":3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{"key":"晴天","name":"☀️晴天┃App","type":3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"仓鼠","name":"🐹仓鼠┃App","type":3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"榴莲","name":"🍋榴莲┃App","type":3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"韩圈","name":"🦄韩圈┃App","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
@@ -70,6 +70,8 @@
 "style":{"type":"list"},
 "timeout":30},
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"黑木耳","name":"🌻木耳┃无广","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","quickSearch":1,"searchable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=","header":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"},
+"categories":["国产剧","国产动漫","日本动漫","港剧","韩剧","欧美剧","国产综艺"]},
 {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1,"timeout":10},
@@ -147,7 +149,6 @@
 ],
 "ads":["mozai.4gtv.tv"],
 "lives":[
-{"name":"爱直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/owXrpU7F.bmp","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":2,"timeout":10},
 {"name":"综合","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt","playerType":2,"timeout":10},
 {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"国内Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt","playerType":2,"timeout":10,"catchup":{"type":"append","source":"&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},

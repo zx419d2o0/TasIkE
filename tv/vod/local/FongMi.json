@@ -218,7 +218,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://woggpan.xxooo.cf/",
+        "siteUrl": "http://woggpan.wogg.lol/",
         "filter": "./json/wogg.json"
       }
     },
@@ -262,8 +262,17 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.tianyiso.com",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
+    },
+    {
+      "key": "賤賤",
+      "name": "賤賤",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/jianpian.json"
     },
     {
       "key": "lf_live10_min",
