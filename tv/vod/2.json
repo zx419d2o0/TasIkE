@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-07-16 07:14:03 <<<
+//      >>> 当前时间是：2025-07-17 07:14:27 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XzWYuCoI.png;md5;bbf1cb84522bf22049e7345040384d4d",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/JnXjdgBu.png;md5;775249ad229c1b8e981787c286ebd7ed",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -21,7 +21,6 @@
 {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
-{"key":"表哥","name":"👨🏻‍🦱表哥┃4K","type":3,"api":"csp_DbgGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
@@ -118,11 +117,10 @@
 {"key":"糖果搜","name":"🍬糖果┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"taichi":2},
 "timeout":25},
 {"key":"爱盘","name":"❤️爱盘┃搜索","type":3,"api":"csp_AiPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
-{"key":"盘搜","name":"🙀盘搜┃搜索","type":3,"api":"csp_PanSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"影搜","name":"😼影子┃搜索","type":3,"api":"csp_YingSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"云搜","name":"☁️云搜┃搜索","type":3,"api":"csp_YunPanPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"度搜","name":"🦈度搜┃搜索","type":3,"api":"csp_BdxdGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
-{"key":"逸搜","name":"🌧逸搜┃搜索","type":3,"api":"csp_TianYiSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+{"key":"找盘","name":"🎾找盘┃搜索","type":3,"api":"csp_V2PanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":0,"timeout":25}
 ],
 "parses":[
