@@ -32,58 +32,263 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- cipher: aes-256-cfb
+  country: 🇭🇰 HK
+  name: 14|🇰 HK_76
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.223.16.212
+  type: ss
+- cipher: chacha20-ietf
+  country: 🇭🇰 HK
+  name: 14|🇭🇰 HK_77
+  password: asd123456
+  port: 8388
+  server: 103.36.91.23
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇭🇰 HK
+  name: 14|🇰 HK_78
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 203.23.128.33
+  type: ss
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 34,37|🇯🇵 日本2|@stairnode
-  password: 823e135ed103
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: jp7v1.lingjfjkm002.com
-    mode: websocket
-    mux: true
-    path: /dchlbvrbbotc
-    skip-cert-verify: false
-    tls: true
-  port: 636
-  server: 137.220.191.40
-  tfo: false
+- name: 26|日本 001
+  network: ws
+  password: trojan
+  port: 443
+  server: 91.193.58.0
+  sni: wahaha.yingyangkuaixian.dpdns.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: wahaha.yingyangkuaixian.dpdns.org
+    path: /
+- cipher: aes-256-cfb
+  name: 27|_KR_国
+  password: qwerREWQ@@
+  port: 15098
+  server: p222.panda001.net
   type: ss
 - cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 22,34,37|🇸🇬 新加坡3|@stairnode
-  password: 24Wk2NSszrfHn22zem1lYV
-  port: 37708
-  server: 188.166.220.70
-  tfo: false
+  country: 🇪 DE
+  name: 14|🇪 DE_56
+  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
+  port: 54075
+  server: beta.mattenadene.org
   type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 DE
+  name: 14|🇪 DE_57
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 92.118.205.228
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 14|🇪DE_58
+  password: ZpNDDKRu9MagNvaf
+  port: 9015
+  server: 80.92.204.106
+  type: ss
+- country: 🇩🇪DE
+  name: 14|🇪DE_59
+  password: 665c944d-047d-4659-80d5-3eaac70241a9
+  port: 443
+  server: 139.162.158.172
+  skip-cert-verify: true
+  sni: de2-full.privateip.net
+  type: trojan
+  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 19|_DE_国
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 45.87.175.22
   type: ss
+- cipher: aes-256-cfb
+  country: 🇷FR
+  name: 14|🇫🇷FR_63
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 195.154.185.174
+  type: ss
+- country: 🇷FR
+  name: 14|🇷FR_64
+  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
+  port: 443
+  server: fr-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇷FR
+  name: 14|🇷FR_65
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  port: 443
+  server: 198.244.190.189
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 36,38|GB_speednode_0106
-  port: 8080
-  server: 185.189.58.195
-  skip-cert-verify: false
-  tls: false
+  name: 30|🇫🇷 VMESS-未知>法国-ChatGPT-1a2d514...
+  network: ws
+  port: '443'
+  server: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
+  tls: true
   type: vmess
+  uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
+  ws-opts:
+    headers:
+      Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
+    path: /azumase.ren
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 14| RU_143
+  password: qscavF5UviIL-8V-E4raBA
+  port: 2222
+  server: 194.87.71.228
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇺 RU
+  name: 14|🇷🇺 RU_144
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 185.153.197.5
+  type: ss
+- alterId: 0
+  cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇷 RU_146
+  network: tcp
+  port: 45215
+  server: fa.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  country: 🇷🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇺 RU_147
+  network: tcp
+  port: 45245
+  server: ye.fxlcn.com
+  servername: ye.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14| GB_66
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.47.255.22
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇧 GB_67
+  password: Bog0ELmMM9DSxDdQ
+  port: 443
+  server: 85.210.120.237
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇧 GB
+  name: 14|🇧 GB_68
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇧 GB_69
+  password: 1xO2cqPazqjGfCfd
+  port: 443
+  server: freakconfig13.felafel.org
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_70
+  obfs: plain
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  protocol: origin
+  server: 62.100.205.48
+  type: ssr
+- country: 🇬🇧 GB
+  name: 14|🇧 GB_71
+  password: dd6dcb10-4683-11f0-ae79-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
   udp: true
-  uuid: 0d1da504-fd3d-5192-8a52-90c87bc5e5ca
+- country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_72
+  password: 255a0a50-3f10-11f0-b0d6-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: 14|🇬🇧GB_73
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.195
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: 14|🇬🇧GB_74
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.198
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
+  network: ws
+  port: '443'
+  server: b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top
+  tls: true
+  type: vmess
+  uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
+  ws-opts:
+    headers:
+      Host: b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top
+    path: /azumase.ren
+- cipher: aes-256-cfb
+  name: 19|_GB_国->_NL_
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 51.15.23.63
+  type: ss
 - cipher: aes-256-cfb
   name: 19|🇬🇧_GB_英国->🇸_US_美国
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 51.15.17.169
   type: ss
+- country: ' TW'
+  name: 14|🇹 TW_151
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 443
+  server: taifo03a.kbservice.club
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 proxy-groups:
 - name: 节点选择
   type: select
@@ -96,12 +301,38 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 22,34,37|🇸🇬 新加坡3|@stairnode
-  - 19|🇬🇧_GB_英国->🇸_US_美国
   - 19|_DE_国
-  - 36,38|GB_speednode_0106
-  - 34,37|🇯🇵 日本2|@stairnode
+  - 14|🇰 HK_76
+  - 14|🇧 GB_67
+  - 19|🇬🇧_GB_英国->🇸_US_美国
+  - 14|🇫🇷FR_63
+  - 14| RU_143
+  - 14|🇬🇧GB_73
+  - 26|日本 001
+  - 14|🇬🇧GB_74
+  - 14|🇧 GB_69
+  - 27|_KR_国
+  - 30|🇫🇷 VMESS-未知>法国-ChatGPT-1a2d514...
+  - 14|🇧 GB_68
+  - 14| GB_66
+  - 14|🇪 DE_56
+  - 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
+  - 14|🇹 TW_151
+  - 14|🇷🇺 RU_144
+  - 14|🇭🇰 HK_77
+  - 14|🇧 GB_71
+  - 14|🇬🇧 GB_72
+  - 14|🇷 RU_146
   - 11|🇯🇵
+  - 14|🇪 DE_57
+  - 14|🇬🇧 GB_70
+  - 14|🇷FR_64
+  - 14|🇺 RU_147
+  - 14|🇪DE_58
+  - 19|_GB_国->_NL_
+  - 14|🇪DE_59
+  - 14|🇰 HK_78
+  - 14|🇷FR_65
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
