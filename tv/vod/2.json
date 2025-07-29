@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-07-29 07:15:09 <<<
+//      >>> 当前时间是：2025-07-30 07:14:41 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/4z-Wzc5k.png;md5;2599be56d86d5d951facf8b0a393094f",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YTTT0FzN.png;md5;a12d0795efd65a3410c3dca087390882",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -21,6 +21,7 @@
 {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"百家","name":"💒百家┃4K","type":3,"api":"csp_BaijiaGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
