@@ -75,6 +75,26 @@ proxies:
     headers:
       Host: b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top
     path: /azumase.ren
+- name: 30|🇩🇪_DE_德国->🇦🇺_AU_澳大利亚
+  password: 3aIMXgxQ3F
+  port: 1935
+  server: x1-germany-linode-v2-jk001.devefun.org
+  skip-cert-verify: true
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 30|🇺🇸_US_美国->🇦🇺_AU_澳大利亚
+  network: ws
+  port: 8080
+  server: 104.24.66.175
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 31209e40-be60-4d60-ad48-9765a0c5d087
+  ws-opts:
+    headers:
+      Host: cfphdde1.reachheadphones.com
+    path: /ws2/nextlife
 proxy-groups:
 - name: 节点选择
   type: select
@@ -87,10 +107,12 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 26|俄罗斯 005
   - 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
-  - 11|🇯🇵
   - 30|🇫🇷 VMESS-未知>法国-ChatGPT-1a2d514...
+  - 30|🇩🇪_DE_德国->🇦🇺_AU_澳大利亚
+  - 30|🇺🇸_US_美国->🇦🇺_AU_澳大利亚
+  - 11|🇯🇵
+  - 26|俄罗斯 005
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
