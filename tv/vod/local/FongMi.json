@@ -223,6 +223,32 @@
       }
     },
     {
+      "key": "玩偶虎斑",
+      "name": "玩偶 | 虎斑",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://103.45.162.207:20720/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "玩偶虎斑2",
+      "name": "玩偶 | 虎斑2",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://xsayang.fun:12512",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
       "key": "星剧社",
       "name": "网盘 | 星剧社",
       "type": 3,
@@ -338,6 +364,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl": "https://www.leijing1.com/",
+        "cookie": "JSESSIONID=B24E6992236274BD6A636FE8EAA2FDA; cms_token=25968d70e1c64c3fa475c5bb15946443; cms_accessToken=8c67340ebecb46b88f9c85492bfe1cf1; cms_refreshToken=0af0ab743ae243be99b29c2af5b449a",
         "commonConfig": "./json/peizhi.json"
       }
     },
