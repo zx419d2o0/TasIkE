@@ -32,61 +32,197 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- alterId: 2
-  cipher: auto
-  name: 18,23|[VMess] 🇭🇰 香港 电讯盈科有限公司 2
+- name: 36,38|HK_speednode_0061
   network: ws
-  port: 80
-  server: 9d99030e-sv8cg0-syx1ku-1o8ak.hk.p5pv.com
+  password: Aimer
+  port: 2087
+  server: 154.211.8.227
   skip-cert-verify: true
-  tfo: false
-  tls: false
-  type: vmess
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
   udp: true
-  uuid: 8bb68d04-6973-11ee-b518-f23c9164ca5d
   ws-opts:
     headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 18,23|[VMess] 🇭🇰 香港 电讯盈科有限公司 3
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|HK_speednode_0062
   network: ws
-  port: 80
-  server: 2f692aa9-sv2sg0-svs488-n09f.hk.p5pv.com
+  password: Aimer
+  port: 2096
+  server: 154.211.8.150
   skip-cert-verify: true
-  tfo: false
-  tls: false
-  type: vmess
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
   udp: true
-  uuid: 89b0ea8c-806b-11ed-94ba-f23c913c8d2b
   ws-opts:
     headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 22,25,34,37|🇯🇵 日本2|@stairnode
-  password: 823e135ed103
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: jp7v1.lingjfjkm002.com
-    mode: websocket
-    mux: true
-    path: /dchlbvrbbotc
-    skip-cert-verify: false
-    tls: true
-  port: 636
-  server: 137.220.191.40
-  tfo: false
-  type: ss
+- name: 36,38|JP_speednode_0067
+  network: ws
+  password: Aimer
+  port: 8080
+  server: 34.85.77.183
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
   udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|JP_speednode_0069
+  network: ws
+  password: Aimer
+  port: 2083
+  server: 103.116.7.67
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|SG_speednode_0171
+  network: ws
+  password: Aimer
+  port: 2096
+  server: 92.243.74.23
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|SG_speednode_0173
+  network: ws
+  password: Aimer
+  port: 2053
+  server: 27.50.49.37
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|SG_speednode_0174
+  network: ws
+  password: Aimer
+  port: 443
+  server: 27.50.49.136
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 23,36,38|SG_speednode_0175
+  network: ws
+  password: Aimer
+  port: 8443
+  server: 92.243.74.239
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  tfo: false
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 23,36,38|SG_speednode_0172
+  network: ws
+  password: Aimer
+  port: 8443
+  server: 92.243.74.3
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  tfo: false
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 23,36,38|RU_speednode_0159
+  network: ws
+  password: Aimer
+  port: 2087
+  server: 46.254.93.251
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  tfo: false
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|RU_speednode_0157
+  network: ws
+  password: Aimer
+  port: 2087
+  server: 46.254.92.142
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|RU_speednode_0160
+  network: ws
+  password: Aimer
+  port: 2053
+  server: 176.124.223.40
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|RU_speednode_0161
+  network: ws
+  password: Aimer
+  port: 2096
+  server: 5.182.84.50
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
+- name: 36,38|RU_speednode_0163
+  network: ws
+  password: Aimer
+  port: 2053
+  server: 46.254.93.211
+  skip-cert-verify: true
+  sni: epgb.aimercc.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epgb.aimercc.dpdns.org
+    path: /?ed=2560
 - alterId: 0
   cipher: auto
   name: 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
@@ -100,16 +236,6 @@ proxies:
     headers:
       Host: b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top
     path: /azumase.ren
-- alterId: 0
-  cipher: auto
-  name: 30|🇦🇹_AT_奥地利->🇫🇷_FR_法国
-  network: tcp
-  port: 59956
-  server: 46.29.34.205
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ca0c9937-58a6-44ea-9111-a6abac267d0f
 proxy-groups:
 - name: 节点选择
   type: select
@@ -124,10 +250,20 @@ proxy-groups:
   proxies: &id001
   - 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
   - 11|🇯🇵
-  - 30|🇦🇹_AT_奥地利->🇫🇷_FR_法国
-  - 18,23|[VMess] 🇭🇰 香港 电讯盈科有限公司 3
-  - 18,23|[VMess] 🇭🇰 香港 电讯盈科有限公司 2
-  - 22,25,34,37|🇯🇵 日本2|@stairnode
+  - 36,38|JP_speednode_0067
+  - 23,36,38|SG_speednode_0175
+  - 36,38|HK_speednode_0061
+  - 36,38|RU_speednode_0163
+  - 23,36,38|RU_speednode_0159
+  - 23,36,38|SG_speednode_0172
+  - 36,38|RU_speednode_0161
+  - 36,38|RU_speednode_0160
+  - 36,38|RU_speednode_0157
+  - 36,38|SG_speednode_0173
+  - 36,38|JP_speednode_0069
+  - 36,38|SG_speednode_0174
+  - 36,38|SG_speednode_0171
+  - 36,38|HK_speednode_0062
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
