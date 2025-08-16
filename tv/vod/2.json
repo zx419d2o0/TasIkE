@@ -1,5 +1,5 @@
 
-//      >>> 当前时间是：2025-08-16 07:13:52 <<<
+//      >>> 当前时间是：2025-08-17 07:12:53 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
@@ -146,14 +146,14 @@
 ],
 "ads":["mozai.4gtv.tv"],
 "lives":[
-{"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.0"},
+{"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.1"},
 {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
 {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"ua":"okhttp/3.15","timeout":10},
 {"name":"江苏移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt","playerType":2,"timeout":10},
-{"name":"肥羊虎牙一起看","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.0"},
-{"name":"肥羊B站直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.0"},
-{"name":"肥羊斗鱼一起看","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.0"},
-{"name":"肥羊YY轮播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.0"}
+{"name":"肥羊虎牙一起看","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.1"},
+{"name":"肥羊B站直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.1"},
+{"name":"肥羊斗鱼一起看","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.1"},
+{"name":"肥羊YY轮播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.0.1"}
 ],
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
