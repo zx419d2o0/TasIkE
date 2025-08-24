@@ -1,5 +1,5 @@
 ```text
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.修复最强直播中的FYLive线路，并增加自定义UA支持在网盘配置-》直播配置》FYLiveUA设置
+1.增加网盘缓存自动备份到webdavsim，在网盘设置中设置备份地址，可以多端实时同步网盘token/cookie
 ```
 
