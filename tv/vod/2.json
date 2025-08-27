@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-08-27 07:12:28 <<<
+//      >>> 当前时间是：2025-08-28 07:12:35 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/SBcZSsKA.png;md5;b3249d225e1e720653fc6dbf6fde21e6",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/ubL_sdYi.png;md5;df37cbf496aabc22c6e721722fc56659",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -100,13 +100,13 @@
 "ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749876146622/bilixp.txt"},
 "timeout":20},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec8251e772b"}},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/dXwud0cD.bmp"}},
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec82537772c"}},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/KQ75Lxp5.bmp"}},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec824cc7729"}},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/43ZKwmf_.bmp"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec824fd772a"}},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mf6984kQ.bmp"}},
 {"key":"csp_AListGuard","name":"🦋AList","type":3,"api":"csp_AListGuard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},
 "ext":"file://TV/alist.json","timeout":15},
 {"key":"csp_QuPanSouGuard","name":"🤓趣盘┃搜索","type":3,"api":"csp_QuPanSouGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
