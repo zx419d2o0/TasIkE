@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-08-31 07:12:19 <<<
+//      >>> 当前时间是：2025-09-01 07:12:30 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/2GZ4fzur.png;md5;df521baa498b5a193ca5e883680f333e",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/VveciD1r.png;md5;e1eb1eac49cc02687e5fbf724ab7e867",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -48,6 +48,7 @@
 {"key":"云云","name":"☁️云云┃App","type":3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"雄鹰","name":"🦅雄鹰┃App","type":3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"咖啡","name":"🍫咖啡┃App","type":3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"仓鼠","name":"🐹仓鼠┃App","type":3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"韩圈","name":"🦄韩圈┃App","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"厂长","name":"🌸厂长┃直连","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"荐片","name":"⚔️荐片┃手机","type":3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
