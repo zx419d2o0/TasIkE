@@ -32,106 +32,82 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- cipher: chacha20-ietf-poly1305
+  country: 🇰 HK
+  name: 14| HK_60
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 203.23.128.33
+  type: ss
 - cipher: aes-256-cfb
   country: 🇰 HK
-  name: 14| HK_65
+  name: 14|🇰 HK_61
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 154.223.16.212
   type: ss
 - alterId: 2
   cipher: auto
-  country: 🇭🇰 HK
+  country: 🇰 HK
   h2-opts: {}
   http-opts: {}
-  name: 14|🇭🇰 HK_68
+  name: 14|🇰 HK_62
   network: ws
   port: 80
-  server: hkt.gotochinatown.net
+  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
   skip-cert-verify: true
   type: vmess
   uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
   ws-path: /
 - alterId: 0
   cipher: auto
-  name: 36,38|HK_speednode_0009
-  port: 24229
-  server: 203.184.246.7
-  skip-cert-verify: false
-  tls: false
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇰 HK_64
+  network: ws
+  port: 80
+  server: c004e6fe-t1i9s0-tm53cm-1ol97.hkt.tcpbbr.net
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
   type: vmess
-  udp: true
-  uuid: 50b9297e-c728-46c0-de4b-36ddf8948007
-- alterId: 0
-  cipher: auto
-  name: 36,38|HK_speednode_0010
-  port: 51043
-  server: 203.184.246.211
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c05b241c-0de2-4959-b3a0-ec3df5bfda99
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 36,38|JP_speednode_0014
-  port: 50414
-  server: 103.13.19.254
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aacec49a-c6eb-43a0-b14a-e3b4302e5f1a
-- country: 🇷 KR
-  name: 14|🇷 KR_80
-  password: '!!str 0588'
-  port: 50000
-  server: 175.203.30.93
+- country: 🇬SG
+  name: 14|SG_138
+  password: d4bdfc72-7f0c-4ff0-aa4d-3530736f4088
+  port: 443
+  server: sg-full.privateip.net
   skip-cert-verify: true
-  sni: 888.uskm.dpdns.org
   type: trojan
   udp: true
-- name: 26|新加坡 001
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 185.18.184.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
 - cipher: chacha20-ietf-poly1305
   country: 🇪 DE
-  name: 14|🇪 DE_48
-  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
-  port: 54075
-  server: beta.mattenadene.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 14|🇪 DE_49
+  name: 14|🇪 DE_43
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 92.118.205.228
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇩🇪 DE
-  name: 14|🇪 DE_50
-  password: qscavF5UviIL-8V-E4raBA
-  port: 2222
-  server: 185.245.107.61
+  name: 14|🇪 DE_44
+  password: 5ZQh4pssSk4aK1JG1XhBRg
+  port: 1080
+  server: 84.200.91.228
   type: ss
 - country: 🇪DE
-  name: 14|🇩🇪DE_51
+  name: 14|🇩🇪DE_46
   password: 665c944d-047d-4659-80d5-3eaac70241a9
   port: 443
   server: 139.162.158.172
@@ -151,79 +127,53 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|德国 002
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 185.135.9.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
 - cipher: chacha20-ietf-poly1305
   country: 🇷 FR
-  name: 14| FR_53
+  name: 14| FR_48
   password: qXvO7zYU7KeaB0Md7DQLow
   port: 1080
   server: 51.195.119.47
   type: ss
 - cipher: aes-256-cfb
   country: 🇷FR
-  name: 14|🇷FR_54
+  name: 14|🇷FR_49
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 195.154.185.174
   type: ss
-- country: 🇷FR
-  name: 14|🇷FR_55
+- country: 🇫🇷FR
+  name: 14|🇷FR_50
   password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
-  server: 198.244.190.189
+  server: uk-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
-- country: 🇷FR
-  name: 14|🇷FR_56
+- country: 🇫🇷FR
+  name: 14|🇷FR_51
   password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
   port: 443
   server: de-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14| RU_131
-  password: qscavF5UviIL-8V-E4raBA
-  port: 2222
-  server: 2.59.163.104
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14|🇺 RU_132
-  password: eUh4lSpi7nOYj0vSrqLUh0
-  port: 8506
-  server: 95.163.176.37
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14|🇺 RU_134
-  password: mSQiuT5jR17nyWgcXOPrTW
-  port: 8594
-  server: 77.105.166.12
-  type: ss
+- country: 🇷FR
+  name: 14|🇫🇷FR_52
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  port: 443
+  server: 198.244.190.189
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   country: 🇺 RU
   h2-opts: {}
   http-opts: {}
-  name: 14|🇷🇺 RU_135
+  name: 14|🇺 RU_132
   network: tcp
-  port: 45245
-  server: ye.fxlcn.com
-  servername: ye.fxlcn.com
+  port: 45215
+  server: fa.fxlcn.com
   skip-cert-verify: true
   type: vmess
   uuid: 469e0b31-30c3-4dab-800d-711232634ce1
@@ -233,15 +183,16 @@ proxies:
   country: 🇷🇺 RU
   h2-opts: {}
   http-opts: {}
-  name: 14|🇺 RU_136
+  name: 14|🇺 RU_133
   network: tcp
-  port: 45215
-  server: fa.fxlcn.com
+  port: 45245
+  server: ye.fxlcn.com
+  servername: ye.fxlcn.com
   skip-cert-verify: true
   type: vmess
   uuid: 469e0b31-30c3-4dab-800d-711232634ce1
   ws-path: /
-- name: 26|俄罗斯 001
+- name: 26|俄罗斯 002
   network: ws
   password: slch2024
   port: 2096
@@ -253,19 +204,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 002
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 213.219.247.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 003
+- name: 26|俄罗斯 004
   network: ws
   password: slch2024
   port: 2096
@@ -277,7 +216,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 004
+- name: 26|俄罗斯 005
   network: ws
   password: slch2024
   port: 2096
@@ -289,7 +228,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 005
+- name: 26|俄罗斯 006
   network: ws
   password: slch2024
   port: 2096
@@ -301,7 +240,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 006
+- name: 26|俄罗斯 007
   network: ws
   password: slch2024
   port: 2096
@@ -313,31 +252,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 007
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 193.233.132.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 008
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 193.233.21.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 009
+- name: 26|俄罗斯 010
   network: ws
   password: slch2024
   port: 2096
@@ -349,7 +264,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 010
+- name: 26|俄罗斯 011
   network: ws
   password: slch2024
   port: 2096
@@ -361,73 +276,30 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 011
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 185.221.160.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 012
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 185.174.138.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 013
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 185.59.218.195
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- cipher: aes-128-gcm
-  country: 🇬🇧 GB
-  name: 14|🇬🇧 GB_59
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 14|🇧 GB_60
+  name: 14| GB_53
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.47.253.227
   type: ss
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-128-gcm
   country: 🇧 GB
-  name: 14|🇬🇧 GB_61
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
+  name: 14|🇬🇧 GB_56
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
   type: ss
 - cipher: aes-128-gcm
   country: 🇬🇧GB
-  name: 14|🇧GB_63
+  name: 14|🇧GB_58
   password: shadowsocks
   port: 443
   server: 212.102.53.198
   type: ss
 - cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_64
+  country: 🇧GB
+  name: 14|🇬🇧GB_59
   password: shadowsocks
   port: 443
   server: 212.102.53.195
@@ -516,24 +388,21 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
+- cipher: chacha20-ietf-poly1305
+  country: 🇼 TW
+  name: 14| TW_139
+  password: fb941bcb-a777-47c9-958d-f01178bef303
+  port: 10081
+  server: 125.228.180.250
+  type: ss
 - country: 🇼 TW
-  name: 14|🇼 TW_141
+  name: 14|🇼 TW_142
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 443
   server: taifo03a.kbservice.club
   skip-cert-verify: true
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 36,38|TW_speednode_0017
-  port: 35034
-  server: 165.154.195.38
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
 proxy-groups:
 - name: 节点选择
   type: select
@@ -546,56 +415,43 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 26|英国 001
-  - 14|🇷🇺 RU_135
-  - 26|英国 003
-  - 26|俄罗斯 007
-  - 26|新加坡 001
-  - 26|俄罗斯 008
-  - 14| RU_131
-  - 14|🇬🇧 GB_59
-  - 14|🇺 RU_134
-  - 14| HK_65
-  - 26|俄罗斯 012
-  - 26|俄罗斯 010
-  - 26|英国 004
-  - 14|🇪 DE_50
-  - 14|🇧 GB_60
+  - 14| GB_53
+  - 14|🇼 TW_142
+  - 14| HK_60
+  - 14|🇺 RU_133
+  - 14| FR_48
   - 26|英国 007
-  - 14|🇷 KR_80
-  - 14|🇪 DE_48
-  - 14|🇼 TW_141
-  - 26|俄罗斯 004
-  - 14|🇺 RU_132
-  - 14|🇬🇧 GB_61
-  - 14|🇪 DE_49
-  - 14| FR_53
-  - 14|🇭🇰 HK_68
-  - 26|俄罗斯 013
-  - 26|俄罗斯 001
-  - 14|🇷FR_56
-  - 26|俄罗斯 006
-  - 14|🇷FR_54
-  - 36,38|HK_speednode_0009
-  - 36,38|HK_speednode_0010
-  - 14|🇬🇧GB_64
-  - 26|俄罗斯 002
-  - 14|🇷FR_55
-  - 14|🇩🇪DE_51
-  - 26|俄罗斯 009
-  - 14|🇧GB_63
-  - 11|🇯🇵
-  - 36,38|JP_speednode_0014
+  - 14|SG_138
+  - 14|🇰 HK_62
+  - 14|🇷FR_51
+  - 26|俄罗斯 007
+  - 14|🇬🇧 GB_56
+  - 14|🇬🇧GB_59
   - 26|英国 006
-  - 26|德国 002
-  - 26|德国 001
-  - 26|俄罗斯 005
+  - 14| TW_139
+  - 26|俄罗斯 002
   - 26|英国 002
-  - 26|俄罗斯 003
   - 26|英国 005
+  - 14|🇰 HK_64
+  - 26|德国 001
+  - 14|🇷FR_49
+  - 26|俄罗斯 005
+  - 14|🇪 DE_44
+  - 26|英国 004
+  - 14|🇧GB_58
+  - 14|🇫🇷FR_52
+  - 14|🇷FR_50
+  - 26|英国 001
+  - 14|🇰 HK_61
   - 26|俄罗斯 011
-  - 36,38|TW_speednode_0017
-  - 14|🇺 RU_136
+  - 26|英国 003
+  - 14|🇩🇪DE_46
+  - 26|俄罗斯 004
+  - 14|🇪 DE_43
+  - 26|俄罗斯 006
+  - 14|🇺 RU_132
+  - 11|🇯🇵
+  - 26|俄罗斯 010
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
