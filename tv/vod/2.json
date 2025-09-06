@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-09-06 07:12:27 <<<
+//      >>> 当前时间是：2025-09-07 07:11:23 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/3qZBUiIN.png;md5;0800886674caf6a3201b34385fec9da4",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/9oaCW8Hz.png;md5;53e2ad9c296c9c23e948337ae858c115",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -89,16 +89,16 @@
 {"key":"bilimd","name":"🅱哔哩┃影视","type":3,"api":"csp_BilimdGuard","searchable":1,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"bili","name":"🅱哔哩┃合集","type":3,"api":"csp_BiliGuard","searchable":1,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
-"ext":{"json":"https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:13/1720581193094/76165316/bili.txt"},
+"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"},
 "timeout":20},
 {"key":"biliych","name":"🅱哔哩┃歌曲","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
-"ext":{"json":"https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:09/1720581189679/3486246/biliych.txt"},
+"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/DLYuzBTJ.bmp"},
 "timeout":20},
 {"key":"bilixs","name":"🅱哔哩┃相声","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
-"ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749876001518/bilixs.txt"},
+"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1JTNmUos.bmp"},
 "timeout":20},
 {"key":"bilixp","name":"🅱哔哩┃小品","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
-"ext":{"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749876146622/bilixp.txt"},
+"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/iO5IVxTF.bmp"},
 "timeout":20},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/dXwud0cD.bmp"}},
