@@ -32,60 +32,151 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- alterId: 2
+- cipher: aes-256-cfb
+  country: 🇰 HK
+  name: 14| HK_65
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.223.16.212
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇰 HK
+  name: 14|🇰 HK_66
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 203.23.128.33
+  type: ss
+- alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 25,30,33,34,36,37,38|HK_speednode_0022
+  country: 🇭🇰 HK
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇰 HK_68
   network: ws
   port: 80
-  server: hkt.gotochinatown.net
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: hkt.gotochinatown.net
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 36,38|HK_speednode_0020
-  network: ws
-  port: 80
-  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+  server: c004e6fe-t1i9s0-tm53cm-1ol97.hkt.tcpbbr.net
   servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: false
-  tls: false
+  skip-cert-verify: true
+  type: vmess
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-headers:
+    HOST: broadcastlv.chat.bilibili.com
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 36,38|HK_speednode_0031
+  port: 16586
+  server: 103.242.15.203
+  servername: a.haofan456.sbs
+  skip-cert-verify: true
+  tls: true
   type: vmess
   udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-    path: /
+  uuid: fdc06424-65da-4133-953a-51e33e3e6d37
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- name: 26|俄罗斯 005
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 195.13.54.195
-  skip-cert-verify: false
-  sni: ocost-dy.wmlefl.cc
+- country: 🇬SG
+  name: 14|SG_138
+  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
+  port: 443
+  server: sg2-full.privateip.net
+  skip-cert-verify: true
   type: trojan
   udp: true
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: /Telegram🇨🇳
-- name: 26|俄罗斯 006
+- cipher: chacha20-ietf-poly1305
+  country: 🇪 DE
+  name: 14|🇪 DE_47
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 92.118.205.228
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇩🇪 DE
+  name: 14|🇪 DE_48
+  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
+  port: 54075
+  server: beta.mattenadene.org
+  type: ss
+- country: 🇪DE
+  name: 14|🇪DE_49
+  password: 665c944d-047d-4659-80d5-3eaac70241a9
+  port: 443
+  server: 139.162.158.172
+  skip-cert-verify: true
+  sni: de2-full.privateip.net
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  country: 🇷FR
+  name: 14|🇷FR_52
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 195.154.185.174
+  type: ss
+- country: 🇫🇷FR
+  name: 14|🇷FR_53
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  port: 443
+  server: uk-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇫🇷FR
+  name: 14|🇷FR_54
+  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
+  port: 443
+  server: fr-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇫🇷FR
+  name: 14|🇫🇷FR_55
+  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
+  port: 443
+  server: de-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇷FR
+  name: 14|🇫🇷FR_56
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  port: 443
+  server: 198.244.190.189
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇺 RU_133
+  network: tcp
+  port: 45215
+  server: fa.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  country: 🇷🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇺 RU_134
+  network: tcp
+  port: 45245
+  server: ye.fxlcn.com
+  servername: ye.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- name: 26|俄罗斯 008
   network: ws
   password: slch2024
   port: 2096
@@ -98,7 +189,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: /Telegram🇨🇳
-- name: 26|俄罗斯 007
+- name: 26|俄罗斯 009
   network: ws
   password: slch2024
   port: 2096
@@ -110,19 +201,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 008
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 195.13.54.87
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 009
+- name: 26|俄罗斯 011
   network: ws
   password: slch2024
   port: 2096
@@ -134,19 +213,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 010
-  network: ws
-  password: slch2024
-  port: 2096
-  server: 195.13.44.87
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: Telegram🇨🇳
-- name: 26|俄罗斯 011
+- name: 26|俄罗斯 012
   network: ws
   password: slch2024
   port: 2096
@@ -158,7 +225,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 012
+- name: 26|俄罗斯 013
   network: ws
   password: slch2024
   port: 2096
@@ -170,7 +237,7 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
-- name: 26|俄罗斯 013
+- name: 26|俄罗斯 014
   network: ws
   password: slch2024
   port: 2096
@@ -182,6 +249,49 @@ proxies:
     headers:
       Host: ocost-dy.wmlefl.cc
     path: Telegram🇨🇳
+- cipher: aes-128-gcm
+  country: 🇧 GB
+  name: 14|🇧 GB_58
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇧 GB_59
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.126.239.250
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 14|🇧 GB_60
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.47.255.22
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: 14|🇧GB_62
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.195
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: 14|🇬🇧GB_63
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.198
+  type: ss
+- country: 🇧GB
+  name: 14|🇬🇧GB_64
+  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
+  port: 443
+  server: uk2-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - name: 26|英国 006
   network: ws
   password: slch2024
@@ -243,19 +353,32 @@ proxies:
   uuid: f13143a7-542d-49ec-9428-098142b6977c
 - alterId: 64
   cipher: auto
-  name: 0,1,28,30|US_189
+  country: 🇺🇸 US
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,14,28,30|US_189
   network: tcp
   port: '30002'
   server: 38.12.83.217
+  servername: loosely.freetrade.link
+  skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: aes-256-cfb
-  name: 27|_GB_国->🇷_FR_国
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 51.15.23.63
-  type: ss
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  country: 🇼 TW
+  h2-opts: {}
+  http-opts: {}
+  name: 14| TW_140
+  network: ws
+  port: 20521
+  server: 103.61.139.137
+  skip-cert-verify: true
+  type: vmess
+  uuid: f8d93cfb-3d5d-447c-a697-16496dd74697
+  ws-path: /
 proxy-groups:
 - name: 节点选择
   type: select
@@ -268,25 +391,41 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 26|英国 009
-  - 0,1,28,30|XX(AzadNet.t.me) (17)
-  - 26|俄罗斯 005
-  - 26|俄罗斯 012
-  - 36,38|HK_speednode_0020
-  - 26|英国 007
-  - 26|俄罗斯 008
-  - 11|🇯🇵
-  - 26|俄罗斯 009
-  - 26|俄罗斯 013
-  - 27|_GB_国->🇷_FR_国
-  - 25,30,33,34,36,37,38|HK_speednode_0022
-  - 26|英国 008
-  - 26|英国 006
-  - 26|俄罗斯 010
-  - 26|俄罗斯 007
+  - 14|🇬🇧GB_63
   - 26|俄罗斯 011
-  - 26|俄罗斯 006
-  - 0,1,28,30|US_189
+  - 26|俄罗斯 013
+  - 14|🇰 HK_66
+  - 14|🇧 GB_59
+  - 26|英国 007
+  - 14| TW_140
+  - 26|英国 008
+  - 14|🇪 DE_47
+  - 26|英国 009
+  - 14|🇫🇷FR_55
+  - 11|🇯🇵
+  - 0,1,28,30|XX(AzadNet.t.me) (17)
+  - 26|俄罗斯 008
+  - 14|SG_138
+  - 14|🇧GB_62
+  - 14|🇧 GB_60
+  - 14|🇷FR_53
+  - 26|俄罗斯 014
+  - 36,38|HK_speednode_0031
+  - 14| HK_65
+  - 26|俄罗斯 012
+  - 14|🇬🇧GB_64
+  - 26|英国 006
+  - 14|🇰 HK_68
+  - 14|🇪DE_49
+  - 14|🇷FR_52
+  - 14|🇷FR_54
+  - 26|俄罗斯 009
+  - 14|🇧 GB_58
+  - 14|🇪 DE_48
+  - 14|🇫🇷FR_56
+  - 14|🇺 RU_134
+  - 0,1,14,28,30|US_189
+  - 14|🇺 RU_133
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
