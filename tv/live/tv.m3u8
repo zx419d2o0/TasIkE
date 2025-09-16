@@ -114,13 +114,13 @@ https://tv.iill.top/migu/shys
 #EXTINF:-1 group-title="咪咕" tvg-id="CHC影迷电影" tvg-logo="https://epg-1.iill.top/logo/影迷电影.png" tvg-name="CHC影迷电影",CHC影迷电影
 https://tv.iill.top/migu/chcym
 
-#EXTINF:-1 group-title="咪咕" tvg-id="新片放映" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="新片放映",新片放映
+#EXTINF:-1 group-title="咪咕" tvg-id="新片放映厅" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="新片放映厅",新片放映
 https://tv.iill.top/migu/xpfy
 
 #EXTINF:-1 group-title="咪咕" tvg-id="高清大片" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="高清大片",高清大片
 https://tv.iill.top/migu/gqdp
 
-#EXTINF:-1 group-title="咪咕" tvg-id="高能悬疑" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="高能悬疑",高能悬疑
+#EXTINF:-1 group-title="咪咕" tvg-id="高能悬疑 推理时刻" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="高能悬疑 推理时刻",高能悬疑
 https://tv.iill.top/migu/gnxy
 
 #EXTINF:-1 group-title="咪咕" tvg-id="经典香港电影" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="经典香港电影",经典香港电影
@@ -129,10 +129,10 @@ https://tv.iill.top/migu/hkdy
 #EXTINF:-1 group-title="咪咕" tvg-id="抗战经典影片" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="抗战经典影片",抗战经典影片
 https://tv.iill.top/migu/kzjd
 
-#EXTINF:-1 group-title="咪咕" tvg-id="红色轮播" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="红色轮播",血色山河·抗日战争影像志
+#EXTINF:-1 group-title="咪咕" tvg-id="血色山河·抗日战争影像志" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="血色山河·抗日战争影像志",血色山河·抗日战争影像志
 https://tv.iill.top/migu/xssh
 
-#EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育",咪咕24小时体育
+#EXTINF:-1 group-title="咪咕" tvg-id="咪咕24小时体育台" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="咪咕24小时体育台",咪咕24小时体育
 https://tv.iill.top/migu/mgty
 
 #EXTINF:-1 group-title="咪咕" tvg-id="五环传奇" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="五环传奇",五环传奇
@@ -147,7 +147,7 @@ https://tv.iill.top/migu/gdjs
 #EXTINF:-1 group-title="咪咕" tvg-id="体坛名栏汇" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="体坛名栏汇",体坛名栏汇
 https://tv.iill.top/migu/ttmh
 
-#EXTINF:-1 group-title="咪咕" tvg-id="和美乡途轮播" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="和美乡途轮播",和美乡途轮播
+#EXTINF:-1 group-title="咪咕" tvg-id="和美乡途轮播台" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="和美乡途轮播台",和美乡途轮播
 https://tv.iill.top/migu/hmxt
 
 #EXTINF:-1 group-title="咪咕" tvg-id="最强综艺趴" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" tvg-name="最强综艺趴",最强综艺趴
@@ -243,7 +243,7 @@ https://tv.iill.top/x/szws
 #EXTINF:-1 group-title="央卫" tvg-id="四川卫视" tvg-logo="https://epg-1.iill.top/logo/四川卫视.png" tvg-name="四川卫视",四川卫视
 https://tv.iill.top/x/scws
 
-#EXTINF:-1 group-title="央卫" tvg-id="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" tvg-name="重庆卫视",
+#EXTINF:-1 group-title="央卫" tvg-id="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" tvg-name="重庆卫视",重庆卫视
 https://tv.iill.top/x/cqws
 
 #EXTINF:-1 group-title="央卫" tvg-id="海南卫视" tvg-logo="https://epg-1.iill.top/logo/海南卫视.png" tvg-name="海南卫视",海南卫视
