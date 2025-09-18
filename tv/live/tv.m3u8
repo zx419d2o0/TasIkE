@@ -516,7 +516,7 @@ https://tv.iill.top/litv/litv-longturn18
 #EXTINF:-1 group-title="台湾" tvg-id="龍華影劇" tvg-logo="https://epg-1.iill.top/logo/龍華日韓台.png" tvg-name="龍華影劇",龍華日韓
 https://tv.iill.top/litv/litv-longturn11
 
-#EXTINF:-1 group-title="台湾" tvg-id="龍華洋片" tvg-logo="https://epg-1.iill.top/logo/龍華日韓台.png" tvg-name="龍華洋片",龍華洋片
+#EXTINF:-1 group-title="台湾" tvg-id="龍華洋片台" tvg-logo="https://epg-1.iill.top/logo/龍華日韓台.png" tvg-name="龍華洋片台",龍華洋片
 https://tv.iill.top/litv/litv-longturn02
 
 #EXTINF:-1 group-title="台湾" tvg-id="龍華經典" tvg-logo="https://epg-1.iill.top/logo/龍華經典台.png" tvg-name="龍華經典",龍華經典
@@ -826,19 +826,19 @@ http://r.jdshipin.com/LiYdg
 http://r.jdshipin.com/sE5vO
 
 #EXTINF:-1 group-title="广东" tvg-id="广州综合台" tvg-logo="https://epg-1.iill.top/logo/广州综合.png" tvg-name="广州综合台",广州综合
-http://dns.yiandrive.com:13571/gztv/zhonghe
+http://i.iill.top:12838/gztv/zhonghe
 
 #EXTINF:-1 group-title="广东" tvg-id="广州新闻" tvg-logo="https://epg-1.iill.top/logo/广州新闻.png" tvg-name="广州新闻",广州新闻
-http://dns.yiandrive.com:13571/gztv/xinwen
+http://i.iill.top:12838/gztv/xinwen
 
 #EXTINF:-1 group-title="广东" tvg-id="广州法治" tvg-logo="https://epg-1.iill.top/logo/广州法治.png" tvg-name="广州法治",广州法治
-http://dns.yiandrive.com:13571/gztv/fazhi
+http://i.iill.top:12838/gztv/fazhi
 
 #EXTINF:-1 group-title="广东" tvg-id="广州影视" tvg-logo="https://epg-1.iill.top/logo/广州影视.png" tvg-name="广州影视",广州影视
-http://dns.yiandrive.com:13571/gztv/yingshi
+http://i.iill.top:12838/gztv/yingshi
 
 #EXTINF:-1 group-title="广东" tvg-id="南国都市4K" tvg-logo="https://epg-1.iill.top/logo/广州南国.png" tvg-name="南国都市4K",广州南国都市
-http://dns.yiandrive.com:13571/gztv/shenghuo
+http://i.iill.top:12838/gztv/shenghuo
 
 #EXTINF:-1 group-title="大街" tvg-id="第一财经" tvg-logo="https://epg-1.iill.top/logo/第一财经.png" tvg-name="第一财经",第一财经
 https://cdn3.163189.xyz/163189/dycj
