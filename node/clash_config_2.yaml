@@ -34,14 +34,21 @@ dns:
 proxies:
 - cipher: chacha20-ietf-poly1305
   country: 🇰 HK
-  name: 14| HK_71
+  name: 14| HK_73
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 203.23.128.33
   type: ss
-- cipher: aes-256-cfb
+- cipher: chacha20-ietf
   country: 🇰 HK
-  name: 14|🇰 HK_73
+  name: 14|🇰 HK_74
+  password: asd123456
+  port: 8388
+  server: 103.149.182.191
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇭🇰 HK
+  name: 14|🇰 HK_75
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 154.223.16.212
@@ -51,7 +58,7 @@ proxies:
   country: 🇰 HK
   h2-opts: {}
   http-opts: {}
-  name: 14|🇰 HK_74
+  name: 14|🇰 HK_76
   network: ws
   port: 80
   server: hkt.gotochinatown.net
@@ -59,43 +66,12 @@ proxies:
   type: vmess
   uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
   ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_75
-  network: ws
-  port: 80
-  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- country: 🇬SG
-  name: 14|SG_151
-  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
-  port: 443
-  server: sg2-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- name: 25,33|SG_speednode_0022
-  password: 9e76767d-4bfa-4f04-a800-42e2f63afed2
-  port: 443
-  server: de.viefast.net
-  skip-cert-verify: true
-  sni: csapp.catch.net.tw
-  type: trojan
 - cipher: chacha20-ietf-poly1305
   country: 🇪 DE
   name: 14|🇪 DE_52
@@ -104,14 +80,22 @@ proxies:
   server: beta.mattenadene.org
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 14|🇪 DE_53
+  country: 🇩🇪 DE
+  name: 14|🇩🇪 DE_54
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 92.118.205.228
   type: ss
-- country: 🇪DE
-  name: 14|🇪DE_54
+- country: 🇪 DE
+  name: 14|🇪 DE_56
+  password: 4732adfa16c6450bbef87264e41332db
+  port: 443
+  server: 165.22.74.230
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇩🇪DE
+  name: 14|🇪DE_57
   password: 665c944d-047d-4659-80d5-3eaac70241a9
   port: 443
   server: 139.162.158.172
@@ -119,30 +103,48 @@ proxies:
   sni: de2-full.privateip.net
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 26|德国 001
+  network: tcp
+  port: 10534
+  server: 94.136.185.230
+  skip-cert-verify: true
+  tfo: true
+  type: vmess
+  udp: true
+  uuid: b01c7ef9-33ec-41f6-bfbf-77ddc4d21649
+- cipher: chacha20-ietf-poly1305
+  name: 36,38|DE_speednode_0005
+  password: O3k5u79Rzc8fAcwLf2cQy3
+  port: 80
+  server: 142.93.166.6
+  type: ss
+  udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇷 FR
-  name: 14| FR_56
+  name: 14| FR_59
   password: qXvO7zYU7KeaB0Md7DQLow
   port: 1080
   server: 51.195.119.47
   type: ss
 - cipher: aes-256-cfb
   country: 🇷FR
-  name: 14|🇷FR_57
+  name: 14|🇷FR_60
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 195.154.185.174
   type: ss
-- country: 🇷FR
-  name: 14|🇷FR_58
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
+- country: 🇫🇷FR
+  name: 14|🇷FR_62
+  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
   port: 443
-  server: fr-full.privateip.net
+  server: de-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
 - country: 🇷FR
-  name: 14|🇷FR_59
+  name: 14|🇫🇷FR_63
   password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
   server: 198.244.190.189
@@ -150,29 +152,23 @@ proxies:
   type: trojan
   udp: true
 - country: 🇫🇷FR
-  name: 14|🇫🇷FR_61
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
+  name: 14|🇫🇷FR_64
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
-  server: de-full.privateip.net
+  server: uk-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
-- alterId: 1
-  cipher: auto
-  name: 30|🇫🇷 法国 国际航空电讯集团公司(SITA)
-  network: ws
-  port: '443'
-  server: serkat.org
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: serkat.org
-    path: linkvws
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 14| RU_150
+  password: 360e21d21977dc11
+  port: 57456
+  server: 45.139.24.24
+  type: ss
 - cipher: aes-256-cfb
   country: 🇷 RU
-  name: 14,35|Shadow_Proxy
+  name: 14,22,35|Shadow_Proxy
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 185.153.197.5
@@ -180,17 +176,30 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇺 RU
-  name: 14|🇷🇺 RU_146
+  name: 14|🇺 RU_152
   password: eUh4lSpi7nOYj0vSrqLUh0
   port: 8506
   server: 95.163.176.37
   type: ss
 - alterId: 0
   cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇺 RU_153
+  network: tcp
+  port: 45215
+  server: fa.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
+- alterId: 0
+  cipher: auto
   country: 🇷🇺 RU
   h2-opts: {}
   http-opts: {}
-  name: 14|🇺 RU_148
+  name: 14|🇺 RU_154
   network: tcp
   port: 45245
   server: ye.fxlcn.com
@@ -199,71 +208,64 @@ proxies:
   type: vmess
   uuid: 469e0b31-30c3-4dab-800d-711232634ce1
   ws-path: /
-- cipher: aes-256-gcm
-  name: 23|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
-  password: wioMkgwpRIt5jb7I
-  port: 8388
-  server: 212.192.15.40
-  tfo: false
+- cipher: aes-256-cfb
+  country: 🇺RU
+  name: 14|🇺RU_155
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 45.89.52.66
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 26|俄罗斯 009
+  network: tcp
+  port: 11052
+  server: 45.67.230.79
+  skip-cert-verify: true
+  tfo: true
+  type: vmess
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14| GB_62
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
-  type: ss
+  uuid: 314185f7-931d-4656-922d-0857e7afd224
 - cipher: aes-128-gcm
   country: 🇧 GB
-  name: 14|🇧 GB_63
+  name: 14|🇧 GB_66
   password: shadowsocks
   port: 443
   server: 141.98.101.178
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_64
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.239.250
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_65
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.255.22
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧 GB
-  name: 14|🇬🇧 GB_66
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.253.227
-  type: ss
 - cipher: aes-128-gcm
   country: 🇧GB
-  name: 14|🇧GB_68
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: 14|🇬🇧GB_69
+  name: 14|🇧GB_70
   password: shadowsocks
   port: 443
   server: 212.102.53.198
   type: ss
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: 14|🇬🇧GB_71
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.195
+  type: ss
 - country: 🇧GB
-  name: 14|🇬🇧GB_70
+  name: 14|🇬🇧GB_72
   password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
   port: 443
   server: uk2-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 26|英国 001
+  network: tcp
+  port: 443
+  server: 89.31.120.192
+  skip-cert-verify: true
+  tfo: true
+  type: vmess
+  udp: true
+  uuid: 44537595-9ccc-4b83-8936-5f9ad3229019
 proxy-groups:
 - name: 节点选择
   type: select
@@ -276,34 +278,34 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇪 DE_52
-  - 14|🇬🇧 GB_66
+  - 14|🇬🇧GB_71
+  - 14|🇷FR_60
+  - 36,38|DE_speednode_0005
+  - 14|🇧GB_70
   - 14|🇰 HK_75
-  - 14|SG_151
-  - 14|🇫🇷FR_61
-  - 14|🇧 GB_63
-  - 14|🇪 DE_53
-  - 14|🇬🇧GB_70
-  - 14|🇺 RU_148
-  - 14| GB_62
+  - 14|🇧 GB_66
+  - 14|🇺 RU_152
+  - 26|英国 001
+  - 14| FR_59
+  - 14|🇺 RU_154
+  - 14|🇪 DE_52
+  - 14|🇩🇪 DE_54
+  - 14|🇬🇧GB_72
+  - 14|🇪DE_57
+  - 14|🇷FR_62
+  - 14|🇺 RU_153
+  - 14|🇫🇷FR_63
+  - 14|🇪 DE_56
+  - 14|🇺RU_155
+  - 26|俄罗斯 009
+  - 14|🇫🇷FR_64
+  - 26|德国 001
+  - 14| HK_73
   - 14|🇰 HK_74
-  - 14| HK_71
-  - 14|🇧 GB_65
-  - 25,33|SG_speednode_0022
-  - 14|🇷🇺 RU_146
-  - 23|[SS] 🇷🇺 俄罗斯 V2CROSS.COM
-  - 14,35|Shadow_Proxy
-  - 14|🇰 HK_73
-  - 14|🇷FR_57
-  - 14|🇧 GB_64
-  - 14|🇷FR_58
-  - 30|🇫🇷 法国 国际航空电讯集团公司(SITA)
-  - 14|🇬🇧GB_69
-  - 14|🇷FR_59
+  - 14,22,35|Shadow_Proxy
+  - 14| RU_150
   - 11|🇯🇵
-  - 14|🇪DE_54
-  - 14| FR_56
-  - 14|🇧GB_68
+  - 14|🇰 HK_76
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
