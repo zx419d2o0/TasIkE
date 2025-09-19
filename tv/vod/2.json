@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-09-19 07:13:04 <<<
+//      >>> 当前时间是：2025-09-20 07:12:18 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/2C68AC7_773_okpng_20250916105726607newMediaFile.png;md5;db6175cac1cae69b6cbb74e617eb9c45",
+"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/5EE1360_773_okpng_20250919184254519newMediaFile.png;md5;4675eeed7adff0f35976ab076da9f1de",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -19,14 +19,13 @@
 {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
-{"key":"百家","name":"💒百家┃4K","type":3,"api":"csp_BaijiaGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"小飒","name":"💒小飒┃4K","type":3,"api":"csp_XsayangGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"SeedHub","name":"🍀种子┃4K","type":3,"api":"csp_SeedHubGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"百度趣盘","name":"🤪度趣┃4K","type":3,"api":"csp_BaiduQuPanGuard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},
 "timeout":25},
-{"key":"校长","name":"💮小章┃4K","type":3,"api":"csp_XiaoZhangGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 {"key":"光影","name":"🎥光影┃4K","type":3,"api":"csp_GuanyingGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 {"key":"云集","name":"🍊云集┃4K","type":3,"api":"csp_YunJiGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"key":"极狐","name":"🦊极狐┃4K","type":3,"api":"csp_Fox4kGuard","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
