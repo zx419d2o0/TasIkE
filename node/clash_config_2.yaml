@@ -32,65 +32,45 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: chacha20-ietf-poly1305
-  country: 🇰 HK
-  name: 14|🇰 HK_70
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 203.23.128.33
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇭🇰 HK_74
-  network: ws
-  port: 80
-  server: c004e6fe-t1i9s0-tm53cm-1ol97.hkt.tcpbbr.net
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 14|🇪 DE_49
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇩🇪 DE
-  name: 14|🇪 DE_50
-  password: 5ZQh4pssSk4aK1JG1XhBRg
-  port: 1080
-  server: 84.200.91.228
-  type: ss
-- country: 🇪 DE
-  name: 14|🇪 DE_52
-  password: 4732adfa16c6450bbef87264e41332db
-  port: 443
-  server: 165.22.74.230
+- cipher: aes-256-gcm
+  name: 17|Japan
+  password: 0690659746980c46
+  port: 50101
+  server: 103.115.18.36
   skip-cert-verify: true
-  type: trojan
+  tfo: false
+  type: ss
   udp: true
-- country: 🇩🇪DE
-  name: 14|🇪DE_53
-  password: 665c944d-047d-4659-80d5-3eaac70241a9
-  port: 443
-  server: 139.162.158.172
+- cipher: aes-256-cfb
+  name: 17|🇰🇷 韩国家宽 01-165
+  password: qwerREWQ@@
+  port: 2520
+  server: 121.170.203.147
   skip-cert-verify: true
-  sni: de2-full.privateip.net
-  type: trojan
+  tfo: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 17|South Korea
+  password: 017c7384fc99638d
+  port: 20281
+  server: 167.17.183.59
+  skip-cert-verify: true
+  tfo: false
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 36,38|KR_speednode_0030
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.90.62.168
+  type: ss
   udp: true
 - alterId: 0
   cipher: auto
@@ -103,153 +83,28 @@ proxies:
   type: vmess
   udp: true
   uuid: b01c7ef9-33ec-41f6-bfbf-77ddc4d21649
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 FR
-  name: 14| FR_55
-  password: qXvO7zYU7KeaB0Md7DQLow
-  port: 1080
-  server: 51.195.119.47
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷FR
-  name: 14|🇷FR_56
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.185.174
-  type: ss
-- country: 🇷FR
-  name: 14|🇷FR_58
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: 198.244.190.189
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14|🇫🇷FR_59
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
-  port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14|🇫🇷FR_60
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14| RU_143
-  password: eUh4lSpi7nOYj0vSrqLUh0
-  port: 8506
-  server: 95.163.176.37
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇺 RU
-  name: 14,22,35|Shadow_Proxy
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.153.197.5
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 RU
-  name: 14|🇷🇺 RU_146
-  password: 360e21d21977dc11
-  port: 57456
-  server: 45.139.24.24
-  type: ss
 - alterId: 0
   cipher: auto
-  country: 🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇺 RU_147
-  network: tcp
-  port: 45215
-  server: fa.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- cipher: aes-256-cfb
-  country: 🇺RU
-  name: 14|🇺RU_148
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-gcm
-  name: 23|[SS] 🇷🇺 俄罗斯 莫斯科JustHost
-  password: 7ae4e68cf77f6089
-  port: 30102
-  server: 45.140.169.26
-  tfo: false
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14| GB_61
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.239.250
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 14|🇬🇧 GB_63
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_64
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 14|🇧GB_66
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.195
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_67
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.198
-  type: ss
-- country: 🇧GB
-  name: 14|🇬🇧GB_68
-  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
-  port: 443
-  server: uk2-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- alterId: 1
-  cipher: auto
-  name: 18,23|[VMess] 🇬🇧 英国 V2CROSS.COM
+  name: 26|法国 002
   network: ws
   port: 443
-  server: jamekk.org
-  skip-cert-verify: true
-  tfo: false
+  server: 51.75.161.102
   tls: true
   type: vmess
-  udp: true
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  uuid: 1805c3ae-ed84-4e7e-8ca2-fe9acd0897b0
   ws-opts:
     headers:
-      Host: jamekk.org
-    path: linkvws
+      Host: bLAZe-UK-102.bLaZESErvErS1.Site
+    path: /linkvkwss
+- cipher: aes-256-gcm
+  name: 17|Russia
+  password: 9ca2803c16de72cd
+  port: 20291
+  server: 45.135.135.89
+  skip-cert-verify: true
+  tfo: false
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 26|英国 001
@@ -273,33 +128,15 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 11|🇯🇵
-  - 14|🇧 GB_64
-  - 23|[SS] 🇷🇺 俄罗斯 莫斯科JustHost
-  - 14| GB_61
-  - 14|🇫🇷FR_59
+  - 17|South Korea
   - 26|德国 001
-  - 14|🇫🇷FR_60
-  - 14|🇺 RU_147
-  - 14,22,35|Shadow_Proxy
-  - 14|🇺RU_148
+  - 17|Japan
   - 26|英国 001
-  - 14|🇬🇧GB_68
-  - 14|🇪DE_53
-  - 18,23|[VMess] 🇬🇧 英国 V2CROSS.COM
-  - 14|🇰 HK_70
-  - 14|🇷🇺 RU_146
-  - 14|🇪 DE_52
-  - 14|🇭🇰 HK_74
-  - 14|🇪 DE_49
-  - 14|🇧GB_66
-  - 14| RU_143
-  - 14|🇷FR_56
-  - 14| FR_55
-  - 14|🇬🇧 GB_63
-  - 14|🇷FR_58
-  - 14|🇪 DE_50
-  - 14|🇬🇧GB_67
+  - 17|🇰🇷 韩国家宽 01-165
+  - 11|🇯🇵
+  - 36,38|KR_speednode_0030
+  - 17|Russia
+  - 26|法国 002
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
