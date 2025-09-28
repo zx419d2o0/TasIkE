@@ -54,7 +54,7 @@
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
-        "channelUsername": "xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
         "commonConfig": "./json/peizhi.json",
         "filter": "./json/douban.json"
       }
@@ -97,14 +97,33 @@
       }
     },
     {
-      "key": "游戏 | 直播",
-      "name": "游戏 | 直播",
+      "key": "肥牛",
+      "name": "Emby肥牛",
       "type": 3,
-      "api": "csp_Living",
+      "api": "csp_Emby",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+//        "server": "https://emby.feiniu.lol:443",
+        //emby需要梯子的，配置代理头
+        "server": "http://127.0.0.1:9966/api/proxy/https://emby.feiniu.lol:443",
+        "username":"123",
+        "password":"2232",
+        "ua":"",
+        "commonConfig": "./json/peizhi.json"
+      },
+      "changeable": 1
     },
+//    {
+//      "key": "游戏 | 直播",
+//      "name": "游戏 | 直播",
+//      "type": 3,
+//      "api": "csp_Living",
+//      "searchable": 1,
+//      "changeable": 0,
+//      "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
+//    },
 //    {
 //      "key": "玩偶 | 清影",
 //      "name": "玩偶 | 清影",
@@ -192,20 +211,20 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://www.goimg.asia/",
+        "siteUrl": "http://www.labi88.sbs/",
         "filter": "./json/wogg.json"
       }
     },
     {
-      "key": "玩偶 | 木偶",
-      "name": "玩偶 | 木偶",
+      "key": "玩偶 | 讴歌",
+      "name": "玩偶 | 讴歌",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://127.0.0.1:9966/api/proxy/http://123.666291.xyz/",
+        "siteUrl": "https://woog.nxog.eu.org/",
         "filter": "./json/wogg.json"
       }
     },
@@ -337,7 +356,7 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "channelUsername": "leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
         "commonConfig": "./json/peizhi.json"
       }
     },
