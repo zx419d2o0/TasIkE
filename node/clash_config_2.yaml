@@ -32,50 +32,46 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: chacha20-ietf-poly1305
-  country: 🇭🇰 HK
-  name: 14|🇰 HK_55
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 203.23.128.33
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇭🇰 HK
-  name: 14|🇰 HK_56
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.16.212
-  type: ss
+- alterId: 2
+  cipher: auto
+  name: 38|HK_speednode_0010
+  network: ws
+  port: 80
+  server: 697dc551-t1i9s0-tm53cm-1ol97.hk3.p5pv.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: 697dc551-t1i9s0-tm53cm-1ol97.hk3.p5pv.com
+    path: /
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- country: 🇬SG
-  name: 14|SG_132
-  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
-  port: 443
-  server: sg2-full.privateip.net
+- alterId: 0
+  cipher: auto
+  name: 26|日本 004
+  network: tcp
+  port: 49795
+  server: 103.236.227.7
   skip-cert-verify: true
-  type: trojan
+  tfo: true
+  type: vmess
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 14|🇪 DE_38
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
-- country: 🇩🇪DE
-  name: 14|🇪DE_40
-  password: 665c944d-047d-4659-80d5-3eaac70241a9
-  port: 443
-  server: 139.162.158.172
-  skip-cert-verify: true
-  sni: de2-full.privateip.net
+  uuid: a9024f1d-77a1-4c56-87c7-eeee5398667e
+- name: 26|日本 011
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 409
+  server: 153.121.51.29
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: 26|德国 001
@@ -89,7 +85,7 @@ proxies:
   uuid: b01c7ef9-33ec-41f6-bfbf-77ddc4d21649
 - alterId: 0
   cipher: auto
-  name: 26|德国 049
+  name: 26|德国 054
   network: tcp
   port: 28011
   server: 62.146.235.193
@@ -98,182 +94,43 @@ proxies:
   uuid: cfc5a87f-3c13-4e25-b556-176cdd6b5c6a
 - alterId: 0
   cipher: auto
-  name: 26|德国 050
+  name: 30|🇫🇷 VMESS-未知>法国-ChatGPT-1a2d514...
   network: ws
-  port: 443
-  server: 141.94.155.228
-  skip-cert-verify: true
+  port: '443'
+  server: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
   tls: true
   type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
   ws-opts:
     headers:
-      Host: kampong.org
-    path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 26|德国 059
-  network: tcp
-  port: 40878
-  server: 85.195.101.122
+      Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
+    path: /azumase.ren
+- name: 26|俄罗斯 027
+  network: ws
+  password: wb6368
+  port: 2087
+  server: 92.243.75.49
   skip-cert-verify: true
-  type: vmess
-  uuid: f3d4167e-b15e-4e46-82e9-9286ef93fda7
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 FR
-  name: 14| FR_42
-  password: qXvO7zYU7KeaB0Md7DQLow
-  port: 1080
-  server: 51.195.119.47
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇫🇷FR
-  name: 14|🇷FR_44
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.185.174
-  type: ss
-- country: 🇷FR
-  name: 14|🇷FR_45
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
+  sni: hsdgbuys.pages.dev
+  tfo: true
   type: trojan
   udp: true
-- country: 🇷FR
-  name: 14|🇷FR_46
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
-  port: 443
-  server: de-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇷FR
-  name: 14|🇫🇷FR_47
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: 198.244.190.189
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 26|法国 051
-  network: ws
-  port: 443
-  server: serkat.org
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
   ws-opts:
     headers:
-      Host: serkat.org
-    path: linkvws
+      Host: hsdgbuys.pages.dev
+    path: /
 - alterId: 0
   cipher: auto
-  name: 26|法国 053
-  network: ws
-  port: 443
-  server: 91.134.8.92
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: yichueng.org
-    path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 26|法国 054
-  network: ws
-  port: 443
-  server: 91.134.8.102
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: serkat.org
-    path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 26|法国 055
-  network: ws
-  port: 443
-  server: 146.59.118.250
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: lammaland.org
-    path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 26|法国 056
-  network: ws
-  port: 443
-  server: yichueng.org
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: yichueng.org
-    path: linkvws
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14| RU_126
-  password: eUh4lSpi7nOYj0vSrqLUh0
-  port: 8506
-  server: 95.163.176.37
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇺 RU
-  name: 14,22,35|Shadow_Proxy
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.153.197.5
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14|🇺 RU_128
-  password: 360e21d21977dc11
-  port: 57456
-  server: 45.139.24.24
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 26|俄罗斯 055
+  name: 26|俄罗斯 064
   network: tcp
   port: 11052
   server: 45.67.230.79
   skip-cert-verify: true
   type: vmess
   uuid: 314185f7-931d-4656-922d-0857e7afd224
-- cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 14|🇬🇧 GB_50
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: aes-256-cfb
-  name: 19|_GB_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 51.15.17.169
-  type: ss
 - alterId: 0
   cipher: auto
-  name: 26|英国 001
+  name: 26|英国 003
   network: tcp
   port: 443
   server: 89.31.120.192
@@ -284,13 +141,22 @@ proxies:
   uuid: 44537595-9ccc-4b83-8936-5f9ad3229019
 - alterId: 0
   cipher: auto
-  name: 26|英国 015
+  name: 26|英国 017
   network: tcp
   port: 39674
   server: 82.197.69.131
   skip-cert-verify: true
   type: vmess
   uuid: 5a89386a-827b-4f54-8778-2f1b5122c6ef
+- alterId: 0
+  cipher: auto
+  name: 26|英国 019
+  network: tcp
+  port: 50394
+  server: 46.250.243.56
+  skip-cert-verify: true
+  type: vmess
+  uuid: a75f3f95-ad4e-4498-fc72-dd740dd02bfc
 proxy-groups:
 - name: 节点选择
   type: select
@@ -303,34 +169,18 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇷FR_46
-  - 14|🇷FR_45
-  - 14|🇫🇷FR_47
-  - 14|SG_132
-  - 11|🇯🇵
-  - 26|俄罗斯 055
-  - 26|法国 055
-  - 26|法国 051
-  - 26|英国 001
-  - 14|🇪DE_40
-  - 26|德国 049
-  - 26|法国 053
-  - 14|🇰 HK_55
-  - 14|🇬🇧 GB_50
+  - 26|日本 011
+  - 26|英国 019
+  - 26|英国 017
+  - 30|🇫🇷 VMESS-未知>法国-ChatGPT-1a2d514...
+  - 38|HK_speednode_0010
   - 26|德国 001
-  - 14|🇪 DE_38
-  - 14,22,35|Shadow_Proxy
-  - 14|🇷FR_44
-  - 14| FR_42
-  - 26|法国 054
-  - 26|英国 015
-  - 14| RU_126
-  - 19|_GB_
-  - 26|法国 056
-  - 26|德国 050
-  - 26|德国 059
-  - 14|🇺 RU_128
-  - 14|🇰 HK_56
+  - 11|🇯🇵
+  - 26|德国 054
+  - 26|英国 003
+  - 26|俄罗斯 064
+  - 26|日本 004
+  - 26|俄罗斯 027
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
