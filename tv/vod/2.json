@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-10-04 07:11:59 <<<
+//      >>> 当前时间是：2025-10-05 07:12:02 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fly.qingyuji.cn/f/KwQZtw/oo.png;md5;51f99b9091f72617786d4c90bdb87d06",
+"spider":"https://fly.qingyuji.cn/f/mXAVFn/kkk.png;md5;b3249d225e1e720653fc6dbf6fde21e6",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -66,6 +66,7 @@
 "timeout":30},
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"电影天堂","name":"🎞️天堂┃采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+{"key":"锦鲤短剧","name":"🐟锦鲤┃短剧","type":3,"api":"csp_JinliGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1,"timeout":10},
