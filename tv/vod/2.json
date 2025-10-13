@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-10-13 07:12:02 <<<
+//      >>> 当前时间是：2025-10-14 07:12:13 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e",
+"spider":"https://pan.qingyuji.cn/f/pr7rsr/kk.png;md5;733fcee4e7b0e4c6563335eacf17bab1",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -74,10 +74,10 @@
 {"key":"yhdm","name":"🌸樱花┃动漫","type":3,"api":"csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":15},
 {"key":"动漫巴士","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6vGuard","searchable":1,"changeable":0,"timeout":20},
-{"key":"聚合直播","name":"📽️聚合┃直播","type":3,"api":"csp_LivingGuard","searchable":1,"quickSearch":0,"filterable":1,"timeout":10},
-{"key":"快手直播","name":"😎快手┃直播","type":3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
+{"key":"聚合直播","name":"📽️聚合┃直播","type":3,"api":"csp_LivingGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10},
+{"key":"快手直播","name":"😎快手┃直播","type":3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
-{"key":"虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_HuyaGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
+{"key":"虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_HuyaGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"瓜子看球","name":"⚽瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":0,"changeable":0,"style":{"type":"list"},
 "timeout":10},
