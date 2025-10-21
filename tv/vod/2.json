@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-10-21 07:12:50 <<<
+//      >>> 当前时间是：2025-10-22 07:13:30 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://pan.qingyuji.cn/f/J0Lxuy/o.png;md5;4db770c191a1e87a13ed9dd79756dc61",
+"spider":"https://pan.qingyuji.cn/f/nmpocy/k.png;md5;ed8b305c689e8ec87515911225703894",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -60,9 +60,6 @@
 {"key":"我的115","name":"🌷我的┃115","type":3,"api":"csp_My115Guard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},
 "timeout":30},
 {"key":"我的阿里","name":"🐱我的┃阿里","type":3,"api":"csp_MyAliGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},
-"timeout":30},
-{"key":"阿里合集","name":"🦋阿里┃合集","type":3,"api":"csp_AliShareGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"ext":{"share":"file://TV/阿里集合.json"},
-"style":{"type":"list"},
 "timeout":30},
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"电影天堂","name":"🎞️天堂┃采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
