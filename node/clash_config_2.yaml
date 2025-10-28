@@ -32,58 +32,71 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: aes-256-cfb
-  country: 🇰 HK
-  name: 14| HK_57
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.16.212
-  type: ss
 - cipher: chacha20-ietf
   country: 🇰 HK
-  name: 14|🇰 HK_58
+  name: 14| HK_49
   password: asd123456
   port: 8388
   server: 103.36.91.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇰 HK
-  name: 14|🇰 HK_59
+  country: 🇭🇰 HK
+  name: 14|🇰 HK_50
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 203.23.128.33
   type: ss
+- cipher: aes-256-cfb
+  country: 🇰 HK
+  name: 14|🇰 HK_51
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.223.16.212
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 30|🇭🇰 HK香港(mibei77.com 米贝节点分享)
+  network: tcp
+  port: '10055'
+  server: node2.mangging.com
+  tls: true
+  type: vmess
+  uuid: c37d64e0-da4d-4bb6-8a48-82a592d5b96a
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- name: 26|日本 062
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 1331
-  server: 160.16.138.24
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- country: 🇬SG
-  name: 14|🇸🇬SG_153
-  password: d4bdfc72-7f0c-4ff0-aa4d-3530736f4088
+- alterId: 0
+  cipher: auto
+  name: 26|新加坡 009
+  network: ws
   port: 443
-  server: sg-full.privateip.net
+  server: waifu.kurumi.biz.id
   skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇪 DE
-  name: 14|🇪 DE_40
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
+  tls: true
+  type: vmess
+  uuid: 3393cc9e-7498-4942-9bc4-c6da73080fd9
+  ws-opts:
+    headers:
+      Host: discord.com
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 26|新加坡 010
+  network: ws
+  port: 80
+  server: waifu.kurumi.biz.id
+  skip-cert-verify: true
+  type: vmess
+  uuid: 3393cc9e-7498-4942-9bc4-c6da73080fd9
+  ws-opts:
+    headers:
+      Host: discord.com
+    path: /vmess
 - country: 🇪DE
-  name: 14|🇪DE_41
+  name: 14|DE_34
   password: 665c944d-047d-4659-80d5-3eaac70241a9
   port: 443
   server: 139.162.158.172
@@ -126,17 +139,6 @@ proxies:
   uuid: f3d4167e-b15e-4e46-82e9-9286ef93fda7
 - alterId: 0
   cipher: auto
-  name: 26|德国 012
-  network: tcp
-  port: 550
-  server: 62.146.235.12
-  skip-cert-verify: true
-  tfo: true
-  type: vmess
-  udp: true
-  uuid: 48b986d8-7da2-47a2-85de-2306c9259953
-- alterId: 0
-  cipher: auto
   name: 26|德国 051
   network: ws
   port: 443
@@ -149,30 +151,15 @@ proxies:
     headers:
       Host: pelang.org
     path: linkvws
-- cipher: chacha20-ietf-poly1305
-  country: 🇷 FR
-  name: 14| FR_45
-  password: qXvO7zYU7KeaB0Md7DQLow
-  port: 1080
-  server: 51.195.119.47
-  type: ss
 - cipher: aes-256-cfb
   country: 🇫🇷FR
-  name: 14|🇷FR_46
+  name: 14|🇷FR_39
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 195.154.185.174
   type: ss
 - country: 🇷FR
-  name: 14|🇷FR_47
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14|🇷FR_48
+  name: 14|🇷FR_40
   password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
   port: 443
   server: de-full.privateip.net
@@ -180,31 +167,13 @@ proxies:
   type: trojan
   udp: true
 - country: 🇷FR
-  name: 14|🇫🇷FR_49
+  name: 14|🇷FR_41
   password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
   server: 198.244.190.189
   skip-cert-verify: true
   type: trojan
   udp: true
-- cipher: aes-256-cfb
-  name: 22,36,38|FR_speednode_0001
-  password: amazonskr05
-  port: 443
-  server: 15.237.118.240
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 26|法国 018
-  network: tcp
-  port: 550
-  server: 51.38.191.100
-  skip-cert-verify: true
-  tfo: true
-  type: vmess
-  udp: true
-  uuid: 96db7e57-5314-4560-b708-2446670dfa29
 - alterId: 0
   cipher: auto
   name: 26|法国 140
@@ -233,78 +202,84 @@ proxies:
     headers:
       Host: pelang.org
     path: linkvws
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 14| RU_133
+  password: c40641c1f89e7acb
+  port: 57456
+  server: tr.vpnsparta.pro
+  type: ss
 - cipher: aes-256-cfb
   country: 🇺 RU
-  name: 14,19,22,27|_MD_->🇺_RU_
+  name: 14,22,27|_MD_->🇺_RU_
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 185.153.197.5
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇺 RU
-  name: 14|🇷 RU_142
+  name: 14|🇺 RU_135
   password: eUh4lSpi7nOYj0vSrqLUh0
   port: 8506
   server: 95.163.176.37
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇷 RU
-  name: 14|🇷🇺 RU_144
+  country: 🇷🇺 RU
+  name: 14|🇺 RU_136
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 45.159.250.190
   type: ss
-- cipher: aes-256-cfb
-  country: 🇺RU
-  name: 14|🇺RU_146
-  password: PeHSHm5SqEjBuEXE
-  port: 9065
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇷🇺RU
-  name: 14|🇺RU_147
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 45.89.52.66
-  type: ss
+- alterId: 0
+  cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇺 RU_137
+  network: tcp
+  port: 45215
+  server: fa.fxlcn.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
+  ws-path: /
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 14| GB_50
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_51
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.47.253.227
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 14|🇬🇧 GB_52
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_53
+  name: 14| GB_42
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.126.239.250
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 14|🇧 GB_54
+  name: 14|🇧 GB_43
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.47.255.22
   type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_44
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.47.253.227
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_45
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.126.237.38
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_46
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.178
+  type: ss
 - country: 🇧GB
-  name: 14|🇧GB_56
+  name: 14|🇧GB_48
   password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
   port: 443
   server: uk2-full.privateip.net
@@ -373,43 +348,38 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇧 GB_54
-  - 14| FR_45
   - 26|德国 011
-  - 14|🇫🇷FR_49
-  - 14|🇪 DE_40
-  - 11|🇯🇵
-  - 14|🇪DE_41
-  - 14|🇷 RU_142
-  - 22,36,38|FR_speednode_0001
-  - 14|🇬🇧 GB_52
-  - 14|🇷🇺 RU_144
-  - 26|德国 007
-  - 14|🇷FR_46
-  - 14|🇧 GB_51
-  - 14|🇰 HK_59
-  - 26|英国 007
-  - 14|🇸🇬SG_153
-  - 26|日本 062
-  - 26|德国 012
-  - 26|英国 006
-  - 26|英国 001
-  - 14|🇺RU_147
-  - 14|🇰 HK_58
-  - 14| GB_50
-  - 14| HK_57
   - 26|德国 008
-  - 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
-  - 14|🇷FR_47
-  - 14|🇺RU_146
-  - 26|法国 141
-  - 14|🇷FR_48
-  - 26|法国 018
-  - 26|德国 051
-  - 14,19,22,27|_MD_->🇺_RU_
+  - 14|🇰 HK_50
+  - 14|🇷FR_40
+  - 14|🇬🇧 GB_46
+  - 14| RU_133
+  - 14|🇧GB_48
+  - 26|德国 007
+  - 30|🇭🇰 HK香港(mibei77.com 米贝节点分享)
+  - 14|🇺 RU_135
+  - 14,22,27|_MD_->🇺_RU_
+  - 26|英国 007
+  - 14|🇷FR_41
+  - 26|新加坡 009
+  - 14|DE_34
+  - 26|新加坡 010
+  - 14|🇰 HK_51
+  - 26|英国 001
+  - 14|🇺 RU_136
+  - 11|🇯🇵
+  - 14|🇷FR_39
+  - 14|🇬🇧 GB_44
+  - 14| GB_42
+  - 14|🇬🇧 GB_45
+  - 14| HK_49
+  - 26|英国 006
   - 26|法国 140
-  - 14|🇧 GB_53
-  - 14|🇧GB_56
+  - 26|法国 141
+  - 26|德国 051
+  - 14|🇺 RU_137
+  - 30|🇬🇧 VMESS-未知>英国-NF解锁波兰地区非自制剧-Ch...
+  - 14|🇧 GB_43
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
