@@ -1653,6 +1653,12 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="海外" tvg-id="Ch U (HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" tvg-name="Ch U (HD)",ChannelU
 http://cdn6.163189.xyz/163189/chu
 
+#EXTINF:-1 group-title="海外" tvg-id="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" tvg-name="五星体育",五星体育
+https://cdn3.163189.xyz/163189/wxty
+
+#EXTINF:-1 group-title="海外" tvg-id="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" tvg-name="上海第一财经",第一财经
+https://cdn3.163189.xyz/163189/dycj
+
 #EXTINF:-1 group-title="地方" tvg-id="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" tvg-name="广东体育",广东体育
 http://r.jdshipin.com/LiYdg
 
@@ -1671,11 +1677,29 @@ http://i.iill.top:12838/gztv/fazhi
 #EXTINF:-1 group-title="地方" tvg-id="南国都市4K" tvg-logo="https://epg.iill.top/logo/广州南国.png" tvg-name="南国都市4K",广州南国都市
 http://i.iill.top:12838/gztv/shenghuo
 
+#EXTINF:-1 group-title="地方" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" tvg-name="东方卫视",东方卫视
+http://i.iill.top:12838/sh/dfws
+
 #EXTINF:-1 group-title="地方" tvg-id="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" tvg-name="五星体育",五星体育
-https://cdn3.163189.xyz/163189/wxty
+http://i.iill.top:12838/sh/wxty
 
 #EXTINF:-1 group-title="地方" tvg-id="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" tvg-name="上海第一财经",第一财经
-https://cdn3.163189.xyz/163189/dycj
+http://i.iill.top:12838/sh/dycj
+
+#EXTINF:-1 group-title="地方" tvg-id="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" tvg-name="上海新闻综合",上海新闻综合
+http://i.iill.top:12838/sh/xwzh
+
+#EXTINF:-1 group-title="地方" tvg-id="上海都市频道" tvg-logo="https://epg.iill.top/logo/上海都市.png" tvg-name="上海都市频道",上海都市
+http://i.iill.top:12838/sh/dspd
+
+#EXTINF:-1 group-title="地方" tvg-id="新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" tvg-name="新纪实",新纪实
+http://i.iill.top:12838/sh/xjs
+
+#EXTINF:-1 group-title="地方" tvg-id="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" tvg-name="魔都眼",魔都眼
+http://i.iill.top:12838/sh/mdy
+
+#EXTINF:-1 group-title="地方" tvg-id="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" tvg-name="爱上海",爱上海
+http://i.iill.top:12838/sh/ash
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」热门赛事
 https://live.iill.top/bilibili/10
