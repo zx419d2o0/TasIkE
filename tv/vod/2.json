@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-11-04 07:12:44 <<<
+//      >>> 当前时间是：2025-11-05 07:13:18 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://pan.qingyuji.cn/f/dKDxIa/k.png;md5;09f101808cc609c676923725c8bfb31e",
+"spider":"https://pan.qingyuji.cn/f/QmLaFr/o.png;md5;492b6ac1b5abf9509b10a20ac3abfe89",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -46,7 +46,7 @@
 {"key":"一起","name":"📺一起┃秒播","type":3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"仓鼠","name":"🐹仓鼠┃App","type":3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"韩圈","name":"🦄韩圈┃App","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
-{"key":"厂长","name":"📘厂长┃直连","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+{"key":"厂长","name":"📔厂长┃直连","type":3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"荐片","name":"⚔️荐片┃手机","type":3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"我的夸克","name":"🗽我的┃夸克","type":3,"api":"csp_MyQuarkGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},
 "timeout":30},
