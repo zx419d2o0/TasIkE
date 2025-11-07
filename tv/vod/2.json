@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-11-07 07:13:07 <<<
+//      >>> 当前时间是：2025-11-08 07:12:34 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://pan.qingyuji.cn/f/Q4z6hr/kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",
+"spider":"https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -68,7 +68,6 @@
 {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1,"timeout":10},
-{"key":"csp_Ddys","name":"🍄低端┃在线","type":3,"api":"csp_DdysGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":30},
 {"key":"yhdm","name":"🌸樱花┃动漫","type":3,"api":"csp_YHDMGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":15},
 {"key":"动漫巴士","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6vGuard","searchable":1,"quickSearch":1,"changeable":0,"timeout":20},
