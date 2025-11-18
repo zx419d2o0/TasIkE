@@ -1,6 +1,5 @@
 ```text
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.优化豆瓣排序。
-2.优化趣盘搜结果。
+1.Bili的Cookie加入webdavsim自动备份
 ```
 
