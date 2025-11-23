@@ -118,7 +118,11 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://pansou-latest-hv4k.onrender.com"
+        "siteUrl": "https://pansou-latest-hv4k.onrender.com",
+        "filter": {
+          "include": ["HDR","高码"],
+          "exclude": ["预告", "花絮"]
+        }
       }
     },
     {
@@ -172,7 +176,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://api.muxia.fun",
+        "siteUrl": "https://f1.qilin8.com/api",
         "commonConfig": "./json/peizhi.json"
       }
     },
