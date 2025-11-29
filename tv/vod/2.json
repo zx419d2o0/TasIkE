@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-11-29 07:13:39 <<<
+//      >>> 当前时间是：2025-11-30 07:13:28 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/9ByZ_wXa.png;md5;a43deb94b9f7e3bf8f562b27cc52229d",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -139,8 +139,8 @@
 ],
 "ads":["mozai.4gtv.tv"],
 "lives":[
-{"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"timeout":10},
 {"name":"MIGU","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue","playerType":2,"timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
+{"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"timeout":10},
 {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"ua":"okhttp/3.15","timeout":10},
 {"name":"江苏移动","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt","playerType":2,"timeout":10},
 {"name":"一起看","type":3,"api":"csp_HuyaGuard","url":"yqk","playerType":2,"timeout":10},
@@ -180,7 +180,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-"proxy":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*","iill.top"],"rules":[
+"proxy":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*","188766.xyz","4gtv.tv","iill.top"],"rules":[
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
