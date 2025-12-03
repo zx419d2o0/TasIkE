@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-12-03 07:13:54 <<<
+//      >>> 当前时间是：2025-12-04 07:13:55 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yYQtqZoL.png;md5;847ca9e1e8e2334dda2ab531cb037c24",
+"spider":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -64,6 +64,7 @@
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"电影天堂","name":"🎞️天堂┃采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"锦鲤短剧","name":"🐟锦鲤┃短剧","type":3,"api":"csp_JinliGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+{"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_HeMaGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"yhdm","name":"🌸樱花┃动漫","type":3,"api":"csp_YHDMGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":15},
@@ -113,6 +114,7 @@
 {"key":"云搜","name":"☁️云搜┃搜索","type":3,"api":"csp_YunPanPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"度搜","name":"🦈度搜┃搜索","type":3,"api":"csp_BdxdGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"找盘","name":"🎾找盘┃搜索","type":3,"api":"csp_V2PanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+{"key":"djps","name":"🔍短剧┃搜索","type":3,"api":"csp_DjpsGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"filterable":0,"changeable":0,"timeout":25}
 ],
 "parses":[
