@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-12-12 07:14:34 <<<
+//      >>> 当前时间是：2025-12-13 07:14:31 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://ok321.top/ok
 
 {
-"spider":"https://10352.kstore.vip/202512100930.png;md5;91872c1a416d0e78d5784a8529da8a87",
+"spider":"https://10352.kstore.vip/202512120850.png;md5;68060405b6dfe95cc44a905a76678b34",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -12,6 +12,8 @@
 {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_LocalGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"list"},
 "timeout":5},
 {"key":"二小","name":"🦢二小┃4K","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{"key":"双星","name":"🤩双星┃4K","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},
+"timeout":25},
 {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 {"key":"立播版","name":"🌟立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
