@@ -80,7 +80,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://www.jiabaide.cn",
+        "site": "https://www.ksnnhbj.com",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -176,7 +176,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://f1.qilin8.com/api",
+        "siteUrl": "https://bt.muxia.fun/api",
         "commonConfig": "./json/peizhi.json"
       }
     },
