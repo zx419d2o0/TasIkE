@@ -32,8 +32,15 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- cipher: chacha20-ietf-poly1305
+  country: 🇰 HK
+  name: 14| HK_58
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 203.23.128.33
+  type: ss
 - cipher: chacha20-ietf
-  country: 🇭🇰 HK
+  country: 🇰 HK
   name: 14|🇰 HK_59
   password: asd123456
   port: 8388
@@ -41,100 +48,37 @@ proxies:
   type: ss
 - cipher: aes-256-cfb
   country: 🇭🇰 HK
-  name: 14|🇭🇰 HK_60
+  name: 14|🇰 HK_60
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 154.223.16.212
   type: ss
-- alterId: 2
-  cipher: auto
-  country: 🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_62
-  network: ws
-  port: 80
-  server: d6732c26-sv8cg0-sxxbmq-1szgv.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 448aff24-b2e6-11ef-97e0-f23c9164ca5d
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_63
-  network: ws
-  port: 80
-  server: f42f46ca-sv0xs0-sv37gm-81nv.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 47e91fb6-25b8-df52-bc18-3cdc8548192f
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_65
-  network: ws
-  port: 80
-  server: 64309899-t15b40-t2c3sq-1spnr.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 127e3f92-f714-11ef-bbb0-f23c91cfbbc9
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇭🇰 HK_69
-  network: none
-  port: 13852
-  server: 45.207.157.29
-  skip-cert-verify: true
-  type: vmess
-  uuid: 845764df-ecb3-4b13-bed2-bf1551b68e9a
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇭🇰 HK_70
-  network: ws
-  port: 80
-  server: b8ffcda3-sv2sg0-sv37gm-81nv.hk3.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 47e91fb6-25b8-df52-bc18-3cdc8548192f
-  ws-headers:
-    HOST: broadcastlv.chat.bilibili.com
-  ws-path: /
-- cipher: chacha20-ietf-poly1305
-  name: 25|[SS] 🇯🇵 JP SS-96 | free-nodes
-  password: xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6
+- cipher: chacha20-ietf
+  name: 36,38|HK_speednode_0004
+  password: asd123456
+  port: 8388
+  server: 103.149.183.200
+  type: ss
+  udp: true
+- cipher: chacha20-ietf
+  name: 36,38|HK_speednode_0007
+  password: asd123456
+  port: 8388
+  server: 103.149.182.79
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 11|🇯🇵
+  password: shadowsocks
   port: 443
-  server: 5.253.41.46
+  server: 149.22.87.240
   type: ss
 - alterId: 0
   cipher: auto
   country: 🇬 SG
   h2-opts: {}
   http-opts: {}
-  name: 14| SG_153
+  name: 14| SG_144
   network: ws
   port: 58607
   server: 68.183.178.131
@@ -146,47 +90,58 @@ proxies:
   ws-headers:
     HOST: www.12333.monster
   ws-path: /
-- cipher: chacha20-ietf-poly1305
-  name: 25|[SS] 🇸🇬 SG SS-74 | free-nodes
-  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-  port: 990
-  server: 95.173.218.203
-  type: ss
-- name: 25|[Trojan] 未知 TROJAN-1981 | free...
-  password: 76d630f2af6619c4a5de0ef953df3c6a
-  port: 3145
-  server: 160.16.153.13
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: 25|[SS] 🇩🇪 DE SS-138 | free-nodes
-  password: JGv616hMWdjfuZ00jYfq7XkBHJZrOBrg
+- alterId: 0
+  cipher: auto
+  country: 🇸🇬 SG
+  h2-opts: {}
+  http-opts: {}
+  name: 14|🇬 SG_145
+  network: none
+  port: 52752
+  server: 8.218.105.196
+  skip-cert-verify: true
+  type: vmess
+  uuid: 925bdbf5-72be-4437-bebf-441c61089f6b
+  ws-path: /
+- country: 🇪DE
+  name: 14|🇪DE_40
+  password: 665c944d-047d-4659-80d5-3eaac70241a9
   port: 443
-  server: 87.121.162.249
-  type: ss
+  server: 139.162.158.172
+  skip-cert-verify: true
+  sni: de2-full.privateip.net
+  type: trojan
+  udp: true
 - country: 🇷FR
-  name: 14,25|[Trojan] 未知 TROJAN-2053 | free...
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
+  name: 14|🇷FR_44
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: false
+  server: 198.244.190.189
+  skip-cert-verify: true
   type: trojan
   udp: true
-- country: 🇫🇷FR
-  name: 14,25|[Trojan] 未知 TROJAN-2030 | free...
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
-  port: 443
-  server: de-full.privateip.net
-  skip-cert-verify: false
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14,25|[Trojan] 未知 TROJAN-1928 | free...
+- country: 🇷FR
+  name: 14|🇷FR_45
   password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
   server: uk-full.privateip.net
-  skip-cert-verify: false
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇫🇷FR
+  name: 14|🇫🇷FR_46
+  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
+  port: 443
+  server: de-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇫🇷FR
+  name: 14|🇫🇷FR_47
+  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
+  port: 443
+  server: fr-full.privateip.net
+  skip-cert-verify: true
   type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
@@ -196,6 +151,13 @@ proxies:
   server: 95.111.222.113
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 14| RU_139
+  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+  port: 990
+  server: 45.159.250.190
+  type: ss
 - cipher: aes-256-cfb
   country: 🇺 RU
   name: 14,22,27|_MD_->🇺_RU_
@@ -203,19 +165,12 @@ proxies:
   port: 989
   server: 185.153.197.5
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14|🇺 RU_150
-  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-  port: 990
-  server: 45.159.250.190
-  type: ss
 - alterId: 0
   cipher: auto
   country: 🇺 RU
   h2-opts: {}
   http-opts: {}
-  name: 14|🇺 RU_151
+  name: 14|🇺 RU_141
   network: tcp
   port: 45245
   server: ye.fxlcn.com
@@ -224,9 +179,24 @@ proxies:
   type: vmess
   uuid: 469e0b31-30c3-4dab-800d-711232634ce1
   ws-path: /
+- country: 🇺RU
+  name: 14|🇺RU_142
+  password: e299faed-cb72-4c62-bb2e-f0a218aed72a
+  port: 443
+  server: hk-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 36,38|RU_speednode_0017
+  password: cPzFh2p9MWXvVYWs5hX55e5BZFty7ke-
+  port: 1234
+  server: 91.221.37.30
+  type: ss
+  udp: true
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 14,25|[SS] 未知 SS-104 | free-nodes
+  name: 14| GB_48
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.47.253.227
@@ -239,18 +209,18 @@ proxies:
   server: 141.98.101.178
   type: ss
 - cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
+  country: 🇬🇧 GB
   name: 14|🇧 GB_50
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.179
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_51
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 185.47.255.22
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_51
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.179
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇬🇧 GB
@@ -259,21 +229,16 @@ proxies:
   port: 990
   server: 185.126.237.38
   type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇧 GB
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇬🇧 GB_53
-  network: tcp
-  port: 180
-  server: 82.198.246.97
-  skip-cert-verify: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  ws-path: /
 - country: 🇬🇧 GB
-  name: 14|🇧 GB_55
+  name: 14|🇧 GB_54
+  password: 255a0a50-3f10-11f0-b0d6-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_55
   password: dd6dcb10-4683-11f0-ae79-1239d0255272
   port: 443
   server: 51.38.65.155
@@ -300,33 +265,33 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇰 HK_63
-  - 25|[Trojan] 未知 TROJAN-1981 | free...
-  - 14|🇰 HK_65
-  - 25|[SS] 🇸🇬 SG SS-74 | free-nodes
-  - 14|🇰 HK_59
-  - 20|FR法国(mibei77.com 米贝节点分享)
-  - 14|🇺 RU_150
-  - 14|🇺 RU_151
-  - 14| SG_153
-  - 14,25|[Trojan] 未知 TROJAN-2053 | free...
-  - 14|🇰 HK_62
-  - 14|🇭🇰 HK_69
-  - 14|🇭🇰 HK_70
-  - 14,25|[Trojan] 未知 TROJAN-2030 | free...
-  - 25|[SS] 🇯🇵 JP SS-96 | free-nodes
-  - 14|🇧 GB_52
-  - 14|🇧 GB_50
-  - 14,22,27|_MD_->🇺_RU_
-  - 25|[SS] 🇩🇪 DE SS-138 | free-nodes
-  - 14,25|[Trojan] 未知 TROJAN-1928 | free...
+  - 14|🇷FR_45
   - 14|🇬🇧GB_56
-  - 14|🇭🇰 HK_60
-  - 14|🇧 GB_55
-  - 14,25|[SS] 未知 SS-104 | free-nodes
+  - 14|🇫🇷FR_46
+  - 36,38|RU_speednode_0017
+  - 11|🇯🇵
+  - 14| HK_58
+  - 14|🇰 HK_59
+  - 36,38|HK_speednode_0004
+  - 20|FR法国(mibei77.com 米贝节点分享)
+  - 14|🇫🇷FR_47
+  - 14|🇺RU_142
+  - 14|🇺 RU_141
+  - 36,38|HK_speednode_0007
+  - 14|🇧 GB_52
+  - 14|🇬 SG_145
+  - 14| SG_144
+  - 14,22,27|_MD_->🇺_RU_
+  - 14| RU_139
+  - 14|🇪DE_40
+  - 14|🇧 GB_50
+  - 14|🇷FR_44
+  - 14|🇰 HK_60
+  - 14|🇬🇧 GB_51
+  - 14|🇧 GB_54
+  - 14|🇬🇧 GB_55
+  - 14| GB_48
   - 14|🇧 GB_49
-  - 14|🇬🇧 GB_53
-  - 14|🇧 GB_51
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
