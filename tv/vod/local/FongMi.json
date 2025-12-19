@@ -85,6 +85,33 @@
       }
     },
     {
+      "key": "聚合短剧",
+      "name": "聚合短剧",
+      "type": 3,
+      "api": "csp_JuheShortDrama",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "host": {
+          "百度": "https://api.jkyai.top",
+          "甜圈": "https://mov.cenguigui.cn",
+          "锦鲤": "https://api.jinlidj.com",
+          "番茄": "https://reading.snssdk.com",
+          "番茄2": "https://fqgo.52dns.cc",
+          "星芽": "https://app.whjzjx.cn",
+          "星芽登录": "https://u.shytkjgs.com",
+          "西饭": "https://xifan-api-cn.youlishipin.com",
+          "七猫": "https://api-store.qmplaylet.com",
+          "七猫详情": "https://api-read.qmplaylet.com",
+          "围观": "https://api.drama.9ddm.com",
+          "碎片": "https://free-api.bighotwind.cc",
+          "碎片图片": "https://speed.hiknz.com"
+        },
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
       "key": "网盘集合",
       "name": "网盘集合 | 4K",
       "type": 3,
@@ -122,7 +149,8 @@
         "filter": {
           "include": ["HDR","高码"],
           "exclude": ["预告", "花絮"]
-        }
+        },
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -228,7 +256,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://erxiaofn.click/",
+        "siteUrl": "https://wexwp.cc/",
         "filter": "./json/wogg.json"
       }
     },
