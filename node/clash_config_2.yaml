@@ -32,16 +32,9 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: aes-256-cfb
-  country: 🇰 HK
-  name: 14| HK_56
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.223.16.212
-  type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇰 HK
-  name: 14|🇰 HK_57
+  name: 14| HK_57
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 203.23.128.33
@@ -51,7 +44,7 @@ proxies:
   country: 🇰 HK
   h2-opts: {}
   http-opts: {}
-  name: 14|🇰 HK_58
+  name: 14|🇰 HK_59
   network: none
   port: 13852
   server: 45.207.157.29
@@ -61,38 +54,33 @@ proxies:
   ws-path: /
 - alterId: 2
   cipher: auto
-  country: 🇰 HK
+  country: 🇭🇰 HK
   h2-opts: {}
   http-opts: {}
-  name: 14|🇰 HK_59
+  name: 14|🇰 HK_60
   network: ws
   port: 80
   server: hkt.gotochinatown.net
+  servername: hkt.gotochinatown.net
   skip-cert-verify: true
   type: vmess
-  uuid: d70a9508-5477-11ef-bf61-f23c913c8d2b
+  uuid: 0de37cdc-abff-11ef-b7c6-f23c913c8d2b
+  ws-headers:
+    HOST: hkt.gotochinatown.net
   ws-path: /
-- cipher: aes-256-cfb
-  name: 28|🇰🇷_KR_韩国
-  password: qwerREWQ@@
-  port: 4652
-  server: 218.237.185.230
+- cipher: chacha20-ietf-poly1305
+  name: 20,39|95.164.116.33_Claude
+  password: pQmnC03JObbPhdh5FBJHgD6jnTLchsRA
+  port: 443
+  server: 95.164.116.33
   type: ss
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 36,38|KR_speednode_0014
-  network: http
-  port: 80
-  server: 152.70.92.69
-  skip-cert-verify: false
-  tls: false
-  type: vmess
   udp: true
-  uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
+- cipher: aes-128-gcm
+  name: 11|🇯🇵
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.240
+  type: ss
 - country: 🇪DE
   name: 14|🇪DE_37
   password: 665c944d-047d-4659-80d5-3eaac70241a9
@@ -104,14 +92,22 @@ proxies:
   udp: true
 - country: 🇷FR
   name: 14|🇷FR_44
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
   port: 443
-  server: 198.244.190.189
+  server: de-full.privateip.net
   skip-cert-verify: true
   type: trojan
   udp: true
-- country: 🇷FR
+- country: 🇫🇷FR
   name: 14|🇷FR_45
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  port: 443
+  server: uk-full.privateip.net
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇫🇷FR
+  name: 14|🇫🇷FR_46
   password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
   port: 443
   server: fr-full.privateip.net
@@ -119,40 +115,32 @@ proxies:
   type: trojan
   udp: true
 - country: 🇷FR
-  name: 14|🇫🇷FR_46
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
+  name: 14|🇫🇷FR_47
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
   port: 443
-  server: de-full.privateip.net
+  server: 198.244.190.189
   skip-cert-verify: true
   type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 0,1,28,39|194.246.114.101_Gemini
+  password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk
+  port: 443
+  server: 194.246.114.101
+  type: ss
+- cipher: chacha20-ietf-poly1305
   country: 🇺 RU
-  name: 14| RU_134
-  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-  port: 990
-  server: 45.159.250.190
+  name: 14|🇺 RU_137
+  password: YQCSKoCF3QazW8YlvDBWA4
+  port: 56689
+  server: 109.71.246.210
   type: ss
 - alterId: 0
   cipher: auto
   country: 🇺 RU
   h2-opts: {}
   http-opts: {}
-  name: 14,22,30|🇸🇬 俄罗斯 新西伯利亚justhost
-  network: none
-  port: '34895'
-  server: 2.56.242.210
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 6fe6b62a-dfbe-4753-d795-e02f2561edea
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇷🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇺 RU_136
+  name: 14|🇺 RU_138
   network: tcp
   port: 45215
   server: fa.fxlcn.com
@@ -160,50 +148,57 @@ proxies:
   type: vmess
   uuid: 469e0b31-30c3-4dab-800d-711232634ce1
   ws-path: /
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14| GB_47
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
-  type: ss
 - cipher: aes-128-gcm
-  country: 🇬🇧 GB
-  name: 14|🇧 GB_48
+  country: 🇧 GB
+  name: 14| GB_48
   password: shadowsocks
   port: 443
   server: 141.98.101.178
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇧 GB
-  name: 14|🇬🇧 GB_50
+  name: 14|🇧 GB_49
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 185.126.237.38
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇧 GB_50
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.179
   type: ss
-- country: 🇧 GB
-  name: 14|🇧 GB_52
-  password: dd6dcb10-4683-11f0-ae79-1239d0255272
-  port: 443
-  server: 51.38.65.155
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - country: 🇬🇧 GB
-  name: 14|🇬🇧 GB_53
+  name: 14|🇧 GB_53
   password: 255a0a50-3f10-11f0-b0d6-1239d0255272
   port: 443
   server: 51.38.65.155
   skip-cert-verify: true
   type: trojan
   udp: true
+- country: 🇬🇧 GB
+  name: 14|🇧 GB_54
+  password: dd6dcb10-4683-11f0-ae79-1239d0255272
+  port: 443
+  server: 51.38.65.155
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - country: 🇧GB
-  name: 14|🇬🇧GB_54
+  name: 14|🇬🇧GB_55
   password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
   port: 443
   server: uk2-full.privateip.net
   skip-cert-verify: true
   type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 20,39|CA_Toronto_Tangram Canada Inc....
+  password: S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm
+  port: 443
+  server: 193.203.203.66
+  type: ss
   udp: true
 proxy-groups:
 - name: 节点选择
@@ -217,25 +212,26 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
+  - 14|🇺 RU_138
+  - 14|🇧 GB_49
+  - 20,39|95.164.116.33_Claude
+  - 14| HK_57
   - 14|🇷FR_45
-  - 14|🇧 GB_48
-  - 14,22,30|🇸🇬 俄罗斯 新西伯利亚justhost
-  - 14|🇬🇧 GB_53
-  - 14|🇰 HK_59
-  - 14|🇫🇷FR_46
-  - 14|🇷FR_44
-  - 14| RU_134
-  - 14|🇰 HK_57
-  - 14|🇬🇧GB_54
-  - 14|🇺 RU_136
-  - 14| GB_47
-  - 36,38|KR_speednode_0014
-  - 28|🇰🇷_KR_韩国
-  - 14|🇧 GB_52
-  - 14|🇰 HK_58
+  - 14|🇺 RU_137
   - 14|🇪DE_37
-  - 14|🇬🇧 GB_50
-  - 14| HK_56
+  - 14|🇰 HK_59
+  - 0,1,28,39|194.246.114.101_Gemini
+  - 14|🇬🇧GB_55
+  - 14|🇫🇷FR_46
+  - 14|🇫🇷FR_47
+  - 14|🇷FR_44
+  - 14| GB_48
+  - 14|🇧 GB_54
+  - 14|🇧 GB_53
+  - 14|🇰 HK_60
+  - 14|🇧 GB_50
+  - 11|🇯🇵
+  - 20,39|CA_Toronto_Tangram Canada Inc....
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
