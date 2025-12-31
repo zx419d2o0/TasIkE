@@ -33,166 +33,38 @@ dns:
     - 0.0.0.0/32
 proxies:
 - cipher: chacha20-ietf-poly1305
-  country: 🇰 HK
-  name: 14| HK_57
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 203.23.128.33
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_59
-  network: none
-  port: 13852
-  server: 45.207.157.29
-  skip-cert-verify: true
-  type: vmess
-  uuid: 845764df-ecb3-4b13-bed2-bf1551b68e9a
-  ws-path: /
-- alterId: 2
-  cipher: auto
-  country: 🇭🇰 HK
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇰 HK_60
-  network: ws
-  port: 80
-  server: hkt.gotochinatown.net
-  servername: hkt.gotochinatown.net
-  skip-cert-verify: true
-  type: vmess
-  uuid: 0de37cdc-abff-11ef-b7c6-f23c913c8d2b
-  ws-headers:
-    HOST: hkt.gotochinatown.net
-  ws-path: /
-- cipher: chacha20-ietf-poly1305
   name: 20,39|95.164.116.33_Claude
   password: pQmnC03JObbPhdh5FBJHgD6jnTLchsRA
   port: 443
   server: 95.164.116.33
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 20|HK香港(mibei77.com 米贝节点分享) 6
+  network: ws
+  port: 443
+  server: n1761214907.74qxv.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4c17399f-c93d-4527-8ace-5bdc2f0901f3
+  ws-headers:
+    Host: n1761214907.74qxv.top
+  ws-path: /
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
-- country: 🇪DE
-  name: 14|🇪DE_37
-  password: 665c944d-047d-4659-80d5-3eaac70241a9
-  port: 443
-  server: 139.162.158.172
-  skip-cert-verify: true
-  sni: de2-full.privateip.net
-  type: trojan
-  udp: true
-- country: 🇷FR
-  name: 14|🇷FR_44
-  password: d86c421f-dbfe-4507-a864-f8f9e29d80e4
-  port: 443
-  server: de-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14|🇷FR_45
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: uk-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇫🇷FR
-  name: 14|🇫🇷FR_46
-  password: 6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3
-  port: 443
-  server: fr-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇷FR
-  name: 14|🇫🇷FR_47
-  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
-  port: 443
-  server: 198.244.190.189
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0,1,28,39|194.246.114.101_Gemini
   password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk
   port: 443
   server: 194.246.114.101
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇺 RU
-  name: 14|🇺 RU_137
-  password: YQCSKoCF3QazW8YlvDBWA4
-  port: 56689
-  server: 109.71.246.210
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: 🇺 RU
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇺 RU_138
-  network: tcp
-  port: 45215
-  server: fa.fxlcn.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 469e0b31-30c3-4dab-800d-711232634ce1
-  ws-path: /
-- cipher: aes-128-gcm
-  country: 🇧 GB
-  name: 14| GB_48
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_49
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 185.126.237.38
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14|🇧 GB_50
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.179
-  type: ss
-- country: 🇬🇧 GB
-  name: 14|🇧 GB_53
-  password: 255a0a50-3f10-11f0-b0d6-1239d0255272
-  port: 443
-  server: 51.38.65.155
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇬🇧 GB
-  name: 14|🇧 GB_54
-  password: dd6dcb10-4683-11f0-ae79-1239d0255272
-  port: 443
-  server: 51.38.65.155
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇧GB
-  name: 14|🇬🇧GB_55
-  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
-  port: 443
-  server: uk2-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 20,39|CA_Toronto_Tangram Canada Inc....
   password: S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm
@@ -212,26 +84,11 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇺 RU_138
-  - 14|🇧 GB_49
+  - 20|HK香港(mibei77.com 米贝节点分享) 6
   - 20,39|95.164.116.33_Claude
-  - 14| HK_57
-  - 14|🇷FR_45
-  - 14|🇺 RU_137
-  - 14|🇪DE_37
-  - 14|🇰 HK_59
-  - 0,1,28,39|194.246.114.101_Gemini
-  - 14|🇬🇧GB_55
-  - 14|🇫🇷FR_46
-  - 14|🇫🇷FR_47
-  - 14|🇷FR_44
-  - 14| GB_48
-  - 14|🇧 GB_54
-  - 14|🇧 GB_53
-  - 14|🇰 HK_60
-  - 14|🇧 GB_50
   - 11|🇯🇵
   - 20,39|CA_Toronto_Tangram Canada Inc....
+  - 0,1,28,39|194.246.114.101_Gemini
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
