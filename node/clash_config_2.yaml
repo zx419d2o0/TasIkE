@@ -32,47 +32,174 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- cipher: aes-128-gcm
-  name: 11|🇯🇵
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.240
-  type: ss
-- alterId: 0
+- alterId: 2
   cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 38|KR_speednode_0012
-  network: http
-  port: 80
-  server: 152.70.92.69
-  skip-cert-verify: true
+  name: 33|HK314｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 8a441d34-t6r5s0-taj9mo-1tco3.hkt.gotochinatown.net
   tls: false
   type: vmess
+  uuid: e29de954-ea01-11ef-a271-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: 8a441d34-t6r5s0-taj9mo-1tco3.hkt.gotochinatown.net
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK315｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 82efdbb6-t8pj40-t9eu8q-tlhh.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: bdf3e15e-c64c-11ea-82ef-f23c9164ca5d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK316｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 1c13c28a-t8nog0-thntyd-1f596.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: e3975a05-b89e-11ec-a50d-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: 1c13c28a-t8nog0-thntyd-1f596.hkt.gotochinatown.net
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK318｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 0bba3742-t8nog0-tlvq5w-1jcwu.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: f93486ce-cc84-11ed-9e98-f23c913c8d2b
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK319｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 2712f088-t8nog0-tnqudu-1mim2.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 6e3ee1de-381f-11ee-87f9-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK321｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: a2ec8dbd-t8pj40-tgl02u-1jr1u.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 2c01eae6-0b6a-11ee-a058-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK323｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 9ef7d9d8-t8pj40-tr9h64-1f1f1.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 61c4be90-6235-11ec-a8bf-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK325｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 847c03b2-0a9d-11eb-a8bf-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: hkt.gotochinatown.net
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK326｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: e542f5ac-t8pj40-td95qh-1isea.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: d6abdbda-fe9d-11ec-bb74-f23c9164ca5d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK328｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: e6c543b9-t8pj40-tan99f-1rdqg.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK329｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 4b5ef466-t8pj40-tbicd9-1go3q.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 33|HK331｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 4dbbf66c-t70f40-tifnix-1ro8s.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: a18ef18e-293a-11ef-b76e-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: 4dbbf66c-t70f40-tifnix-1ro8s.hkt.gotochinatown.net
+    path: /
+- cipher: rc4-md5
+  name: 36,38|SG_speednode_0009
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 68.183.227.4
+  type: ss
   udp: true
-  uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
 - cipher: chacha20-ietf-poly1305
   name: 19|法国(yudou789.top 玉豆免费节点)_6
   password: 5bbe7bf7a282ad8b
   port: 11201
   server: 51.178.114.93
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 22,36|RU_903c6_0016
-  password: 7ae4e68cf77f6089
-  port: 1012
-  server: 195.133.5.38
-  tfo: true
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 27|_MD_->🇺_RU_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.153.197.5
   type: ss
 proxy-groups:
 - name: 节点选择
@@ -86,11 +213,20 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 11|🇯🇵
-  - 22,36|RU_903c6_0016
-  - 27|_MD_->🇺_RU_
-  - 38|KR_speednode_0012
+  - 33|HK323｜家宽｜非常安全
+  - 33|HK321｜家宽｜非常安全
+  - 33|HK325｜家宽｜非常安全
+  - 33|HK316｜家宽｜非常安全
+  - 33|HK319｜家宽｜非常安全
+  - 33|HK329｜家宽｜非常安全
+  - 33|HK318｜家宽｜非常安全
+  - 36,38|SG_speednode_0009
+  - 33|HK331｜家宽｜非常安全
+  - 33|HK315｜家宽｜非常安全
+  - 33|HK314｜家宽｜非常安全
   - 19|法国(yudou789.top 玉豆免费节点)_6
+  - 33|HK326｜家宽｜非常安全
+  - 33|HK328｜家宽｜非常安全
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
