@@ -32,51 +32,13 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 36,38|HK_speednode_0019
-  network: http
-  port: 54732
-  server: 8.217.13.74
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d7c8da9f-d9ff-4198-8543-3983a6bfe5e6
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 36,38|HK_speednode_0020
-  network: http
-  port: 32975
-  server: 47.242.225.0
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: ebaad525-e2cf-4c18-8ae9-41af29ac4b9c
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 36,38|HK_speednode_0021
-  network: http
-  port: 25351
-  server: 8.218.1.23
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a6dbf509-5293-4005-b86c-c0fca609a1af
+- name: 33|HK3｜家宽｜非常安全
+  password: BxceQaOe
+  port: 443
+  server: 58.152.53.45
+  skip-cert-verify: true
+  sni: t.me%25252Fripaojiedian
+  type: trojan
 - cipher: aes-128-gcm
   name: 11|🇯🇵
   password: shadowsocks
@@ -85,45 +47,23 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /x
-  name: 36,38|KR_speednode_0023
-  network: http
-  port: 52850
-  server: 49.128.219.21
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 8dc4a51e-9c44-48a5-9e21-ff65a9343c8f
-- alterId: 0
-  cipher: auto
-  name: 30|SG_236 | 2.05Mb
-  network: tcp
-  port: '31769'
-  server: 8.217.13.74
-  tls: false
-  type: vmess
-  uuid: cf1ad6c7-5987-4314-82bb-b4399040d047
-- alterId: 0
-  cipher: auto
-  name: 18,20,36,38|GB_speednode_0013
-  network: ''
+  name: 20|GB英国(mibei77.com 米贝节点分享) 7
   port: 180
   server: 82.198.246.97
-  skip-cert-verify: false
+  skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- cipher: aes-256-cfb
-  name: 27|_MD_->🇺_RU_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.153.197.5
-  type: ss
+- alterId: 0
+  cipher: auto
+  name: 30|🇬🇧 英国 V2CROSS.COM
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 proxy-groups:
 - name: 节点选择
   type: select
@@ -136,14 +76,10 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 36,38|KR_speednode_0023
-  - 36,38|HK_speednode_0021
-  - 30|SG_236 | 2.05Mb
-  - 36,38|HK_speednode_0020
-  - 27|_MD_->🇺_RU_
-  - 36,38|HK_speednode_0019
+  - 33|HK3｜家宽｜非常安全
   - 11|🇯🇵
-  - 18,20,36,38|GB_speednode_0013
+  - 20|GB英国(mibei77.com 米贝节点分享) 7
+  - 30|🇬🇧 英国 V2CROSS.COM
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
