@@ -69,18 +69,6 @@ https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 group-title="體育" tvg-id="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png" tvg-name="Eurosport 2",Eurosport 2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 
-#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" tvg-name="TNT Sports 1 HD",TNT Sport 1
-https://hls.iill.top/api/TNT-Sports-1/index.m3u8
-
-#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" tvg-name="TNT Sports 2 HD",TNT Sport 2
-https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-
-#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" tvg-name="TNT Sports 3 HD",TNT Sport 3
-https://hls.iill.top/api/TNT-Sports-3/index.m3u8
-
-#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" tvg-name="TNT Sports 4 HD",TNT Sport 4
-https://hls.iill.top/api/TNT-Sports-4/index.m3u8
-
 #EXTINF:-1 group-title="體育" tvg-id="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" tvg-name="beIN Sports HD",beINSports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 
@@ -146,9 +134,6 @@ https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 
 #EXTINF:-1 group-title="體育" tvg-id="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" tvg-name="FIGHT SPORTS HD",FightSports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
-
-#EXTINF:-1 group-title="體育" tvg-id="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA.png" tvg-name="NBA TV HD",NBA TV
-https://hls.iill.top/api/NBA/index.m3u8
 
 #EXTINF:-1 group-title="體育" tvg-id="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" tvg-name="SPOTV",Spotv1
 https://hls.iill.top/api/Spotv-1/index.m3u8
@@ -246,6 +231,15 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳" tvg-id="澳视综艺" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" tvg-name="澳视综艺",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
+#EXTINF:-1 group-title="台湾" tvg-id="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" tvg-name="中天新聞台",中天新聞
+https://tv.iill.top/4gtv/4gtv-4gtv009
+
+#EXTINF:-1 group-title="台湾" tvg-id="中視" tvg-logo="https://epg.iill.top/logo/中視.png" tvg-name="中視",中視
+https://tv.iill.top/4gtv/4gtv-4gtv040
+
+#EXTINF:-1 group-title="台湾" tvg-id="中視新聞" tvg-logo="https://epg.iill.top/logo/中視新聞.png" tvg-name="中視新聞",中視新聞
+https://tv.iill.top/4gtv/4gtv-4gtv074
+
 #EXTINF:-1 group-title="台湾" tvg-id="東森新聞台" tvg-logo="https://epg.iill.top/logo/東森新聞台.png" tvg-name="東森新聞台",東森新聞
 https://tv.iill.top/4gtv/4gtv-4gtv152
 
@@ -263,15 +257,6 @@ https://tv.iill.top/4gtv/4gtv-4gtv068
 
 #EXTINF:-1 group-title="台湾" tvg-id="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采台.png" tvg-name="TVBS精采台",TVBS 精采
 https://tv.iill.top/4gtv/4gtv-4gtv067
-
-#EXTINF:-1 group-title="台湾" tvg-id="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" tvg-name="中天新聞台",中天新聞
-https://tv.iill.top/4gtv/4gtv-4gtv009
-
-#EXTINF:-1 group-title="台湾" tvg-id="中視" tvg-logo="https://epg.iill.top/logo/中視.png" tvg-name="中視",中視
-https://tv.iill.top/4gtv/4gtv-4gtv040
-
-#EXTINF:-1 group-title="台湾" tvg-id="中視新聞" tvg-logo="https://epg.iill.top/logo/中視新聞.png" tvg-name="中視新聞",中視新聞
-https://tv.iill.top/4gtv/4gtv-4gtv074
 
 #EXTINF:-1 group-title="台湾" tvg-id="KLT-靖天國際台" tvg-logo="https://epg.iill.top/logo/KLT-靖天國際台.png" tvg-name="KLT-靖天國際台",靖天國際
 https://tv.iill.top/4gtv/4gtv-4gtv063
