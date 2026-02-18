@@ -9,17 +9,11 @@ https://epg.iill.top/v/301.mp4
 #EXTINF:-1 group-title="溫馨" tvg-id="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" tvg-name="免费订阅",建議使用：請保持个人觀看 請勿頻繁切換
 https://epg-1.iill.top/v/301.mp4
 
-#EXTINF:-1 group-title="春节联欢晚会" tvg-id="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" tvg-name="春节联欢晚会",2026春节联欢晚会
-https://snap.iill.top/youtube/@CCTVGala/index.m3u8
+#EXTINF:-1 group-title="綜合" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
+https://hls.iill.top/api/TVB-Jade/index.m3u8
 
-#EXTINF:-1 group-title="春节联欢晚会" tvg-id="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" tvg-name="春节联欢晚会",2026春节联欢晚会
-http://dxa.yiandrive.com:39191/bilibili/1922214722
-
-#EXTINF:-1 group-title="春节联欢晚会" tvg-id="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" tvg-name="春节联欢晚会",2026春节联欢晚会
-https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
-
-#EXTINF:-1 group-title="春节联欢晚会" tvg-id="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" tvg-name="春节联欢晚会",2026春节联欢晚会
-http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
+#EXTINF:-1 group-title="綜合" tvg-id="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" tvg-name="無綫新聞台",無綫新聞台
+https://hls.iill.top/api/TVB-News/index.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" tvg-name="BBC Earth",BBCEarth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
