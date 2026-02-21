@@ -139,13 +139,13 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 https://hls.iill.top/api/Spotv-2/index.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視·中文
-https://tv.iill.top/phenix/fhzw
+http://dxa.yiandrive.com:39191/phenix/fhzw
 
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" tvg-name="鳳凰衛視資訊台",鳳凰衛視·資訊
-https://tv.iill.top/phenix/fhzx
+http://dxa.yiandrive.com:39191/phenix/fhzx
 
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" tvg-name="鳳凰衛視香港台",鳳凰衛視·香港
-https://tv.iill.top/phenix/fhhk
+http://dxa.yiandrive.com:39191/phenix/fhhk
 
 #EXTINF:-1 group-title="港澳" tvg-id="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" tvg-name="商業電台 雷霆881",雷霆881
 https://881.touch-u.fun/playlist.m3u8
