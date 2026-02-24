@@ -66,6 +66,18 @@ https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 group-title="體育" tvg-id="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png" tvg-name="Eurosport 2",Eurosport 2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 
+#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" tvg-name="TNT Sports 1 HD",TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" tvg-name="TNT Sports 2 HD",TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+
+#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" tvg-name="TNT Sports 3 HD",TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+
+#EXTINF:-1 group-title="體育" tvg-id="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" tvg-name="TNT Sports 4 HD",TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+
 #EXTINF:-1 group-title="體育" tvg-id="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" tvg-name="beIN Sports HD",beINSports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 
@@ -712,28 +724,28 @@ http://dxa.yiandrive.com:39191/gztv/fazhi
 http://dxa.yiandrive.com:39191/gztv/shenghuo
 
 #EXTINF:-1 group-title="地方" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" tvg-name="东方卫视",东方卫视4K
-https://tv.iill.top/kdf/dfws
+https://tv.iill.top/kdf/2030
 
 #EXTINF:-1 group-title="地方" tvg-id="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" tvg-name="五星体育",五星体育
-https://tv.iill.top/kdf/wxty
+https://tv.iill.top/kdf/1605
 
 #EXTINF:-1 group-title="地方" tvg-id="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" tvg-name="上海第一财经",第一财经
-https://tv.iill.top/kdf/dycj
+https://tv.iill.top/kdf/21
 
 #EXTINF:-1 group-title="地方" tvg-id="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" tvg-name="上海新闻综合",上海新闻综合
-https://tv.iill.top/kdf/xwzh
+https://tv.iill.top/kdf/20
 
-#EXTINF:-1 group-title="地方" tvg-id="上海都市频道" tvg-logo="https://epg.iill.top/logo/上海都市.png" tvg-name="上海都市频道",上海都市
-https://tv.iill.top/kdf/dspd
-
-#EXTINF:-1 group-title="地方" tvg-id="新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" tvg-name="新纪实",新纪实
-https://tv.iill.top/kdf/xjs
+#EXTINF:-1 group-title="地方" tvg-id="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" tvg-name="上海都市",上海都市
+https://tv.iill.top/kdf/18
 
 #EXTINF:-1 group-title="地方" tvg-id="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" tvg-name="魔都眼",魔都眼
-https://tv.iill.top/kdf/mdy
+https://tv.iill.top/kdf/1601
+
+#EXTINF:-1 group-title="地方" tvg-id="新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" tvg-name="新纪实",新纪实
+https://tv.iill.top/kdf/1600
 
 #EXTINF:-1 group-title="地方" tvg-id="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" tvg-name="爱上海",爱上海
-https://tv.iill.top/kdf/ash
+https://tv.iill.top/kdf/2029
 
 #EXTINF:-1 group-title="地方" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
