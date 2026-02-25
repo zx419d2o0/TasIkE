@@ -216,12 +216,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 #EXTINF:-1 group-title="港澳" tvg-id="RTHK35" tvg-logo="https://epg.iill.top/logo/RTHK35.png" tvg-name="RTHK35",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="港澳" tvg-id="RTHK36" tvg-logo="https://epg.iill.top/logo/RTHK36.png" tvg-name="RTHK36",RTHK36
-https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-
-#EXTINF:-1 group-title="港澳" tvg-id="莲花卫视" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" tvg-name="莲花卫视",澳門蓮花
-https://tv.iill.top/mo/lotustv
-
 #EXTINF:-1 group-title="港澳" tvg-id="澳門衛星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" tvg-name="澳門衛星",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 
@@ -729,7 +723,7 @@ https://tv.iill.top/kdf/2030
 #EXTINF:-1 group-title="地方" tvg-id="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" tvg-name="五星体育",五星体育
 https://tv.iill.top/kdf/1605
 
-#EXTINF:-1 group-title="地方" tvg-id="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" tvg-name="上海第一财经",第一财经
+#EXTINF:-1 group-title="地方" tvg-id="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" tvg-name="第一财经",第一财经
 https://tv.iill.top/kdf/21
 
 #EXTINF:-1 group-title="地方" tvg-id="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" tvg-name="上海新闻综合",上海新闻综合
