@@ -234,6 +234,36 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳" tvg-id="澳門綜藝" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" tvg-name="澳門綜藝",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
+#EXTINF:-1 group-title="台湾" tvg-id="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" tvg-name="博斯無限台",博斯無限 一
+https://tv-1.iill.top/FainTV/129
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" tvg-name="博斯無限二台",博斯無限 二
+https://tv-1.iill.top/FainTV/418
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯運動一台" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" tvg-name="博斯運動一台",博斯運動 一
+https://tv-1.iill.top/FainTV/102
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯運動二台" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" tvg-name="博斯運動二台",博斯運動 二
+https://tv-1.iill.top/FainTV/124
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/斯高球台.png" tvg-name="博斯高球台",博斯高球 一
+https://tv-1.iill.top/FainTV/108
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" tvg-name="博斯高球二台",博斯高球 二
+https://tv-1.iill.top/FainTV/125
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" tvg-name="博斯網球台",博斯網球
+https://tv-1.iill.top/FainTV/53
+
+#EXTINF:-1 group-title="台湾" tvg-id="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" tvg-name="博斯魅力台",博斯魅力
+https://tv-1.iill.top/FainTV/135
+
+#EXTINF:-1 group-title="台湾" tvg-id="MOMO運動綜合台" tvg-logo="https://epg-1.iill.top/logo/MOMO運動綜合台.png" tvg-name="MOMO運動綜合台",MOMO運動綜合
+https://tv.iill.top/FainTV/14009
+
+#EXTINF:-1 group-title="台湾" tvg-id="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" tvg-name="中天亞洲台",中天亞洲
+https://tv-1.iill.top/FainTV/121
+
 #EXTINF:-1 group-title="台湾" tvg-id="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" tvg-name="中天新聞台",中天新聞
 https://tv.iill.top/4gtv/4gtv-4gtv009
 
@@ -558,7 +588,7 @@ https://tv.iill.top/4gtv/4gtv-live122
 #EXTINF:-1 group-title="台湾" tvg-id="幸福空間居家台" tvg-logo="https://epg.iill.top/logo/幸福空間居家台.png" tvg-name="幸福空間居家台",幸福空間居家
 https://tv.iill.top/4gtv/4gtv-live206
 
-#EXTINF:-1 group-title="台湾" tvg-id="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷TV.png" tvg-name="車迷TV",車迷TV
+#EXTINF:-1 group-title="台湾" tvg-id="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷TV.png" tvg-name="車迷TV",車迷
 https://tv.iill.top/4gtv/4gtv-live201
 
 #EXTINF:-1 group-title="台湾" tvg-id="金光布袋戲" tvg-logo="https://epg.iill.top/logo/金光布袋戲.png" tvg-name="金光布袋戲",金光布袋戲
@@ -573,11 +603,17 @@ https://tv.iill.top/4gtv/4gtv-4gtv043
 #EXTINF:-1 group-title="台湾" tvg-id="人間衛視" tvg-logo="https://epg.iill.top/logo/人間衛視.png" tvg-name="人間衛視",人間衛視
 https://tv.iill.top/4gtv/4gtv-live008
 
-#EXTINF:-1 group-title="台湾" tvg-id="國會頻道1" tvg-logo="https://epg.iill.top/logo/國會頻道1.png" tvg-name="國會頻道1",國會頻道1
-https://tv.iill.top/4gtv/4gtv-4gtv084
+#EXTINF:-1 group-title="台湾" tvg-id="ETtoday綜合台" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" tvg-name="ETtoday綜合台",ETtoday綜合
+https://tv.iill.top/FainTV/148
 
-#EXTINF:-1 group-title="台湾" tvg-id="國會頻道2" tvg-logo="https://epg.iill.top/logo/國會頻道2.png" tvg-name="國會頻道2",國會頻道2
-https://tv.iill.top/4gtv/4gtv-4gtv085
+#EXTINF:-1 group-title="台湾" tvg-id="歡樂看新聞" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" tvg-name="歡樂看新聞",歡樂看新聞
+https://tv.iill.top/FainTV/19670
+
+#EXTINF:-1 group-title="台湾" tvg-id="歡樂兒童台" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" tvg-name="歡樂兒童台",歡樂兒童
+https://tv.iill.top/FainTV/22768
+
+#EXTINF:-1 group-title="台湾" tvg-id="台灣啟示錄" tvg-logo="https://epg-1.iill.top/logo/台灣啟示錄.jpg" tvg-name="台灣啟示錄",台灣啟示錄
+https://tv.iill.top/FainTV/18254
 
 #EXTINF:-1 group-title="台湾" tvg-id="大愛電視" tvg-logo="https://epg.iill.top/logo/大愛電視.png" tvg-name="大愛電視",大愛電視
 https://tv.iill.top/4gtv/4gtv-live007
@@ -590,6 +626,12 @@ https://tv.iill.top/4gtv/litv-ftv16
 
 #EXTINF:-1 group-title="台湾" tvg-id="好消息2台" tvg-logo="https://epg.iill.top/logo/好消息2台.png" tvg-name="好消息2台",好消息2
 https://tv.iill.top/4gtv/litv-ftv17
+
+#EXTINF:-1 group-title="台湾" tvg-id="國會頻道1" tvg-logo="https://epg.iill.top/logo/國會頻道1.png" tvg-name="國會頻道1",國會頻道1
+https://tv.iill.top/4gtv/4gtv-4gtv084
+
+#EXTINF:-1 group-title="台湾" tvg-id="國會頻道2" tvg-logo="https://epg.iill.top/logo/國會頻道2.png" tvg-name="國會頻道2",國會頻道2
+https://tv.iill.top/4gtv/4gtv-4gtv085
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森購物一台" tvg-logo="https://epg.iill.top/logo/東森購物.png" tvg-name="東森購物一台",東森購物一
 https://tv.iill.top/4gtv/4gtv-live047
