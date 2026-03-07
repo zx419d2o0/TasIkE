@@ -846,24 +846,6 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="Juli " tvg-id="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" tvg-name="Channel U",ChannelU
 http://cdn6.163189.xyz/163189/ch
 
-#EXTINF:-1 group-title="Juli " tvg-id="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" tvg-name="鳳凰衛視資訊台",鳳凰衛視·資訊
-https://ytb.178.indevs.in/?id=fN9uYWCjQaw
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" tvg-name="CCTV 4",CCTV4
-https://ytb.178.indevs.in/?id=7j92Myu2wzg
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4美洲.png" tvg-name="CCTV 4",CCTV4
-https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
-
-#EXTINF:-1 group-title="Juli " tvg-id="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" tvg-name="CGTN",CGTN
-https://ytb.178.indevs.in/?id=BOy2xDU1LC8
-
-#EXTINF:-1 group-title="Juli " tvg-id="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" tvg-name="中天新聞台",中天新聞
-https://ytb.178.indevs.in/?id=vr3XyVCR4T0
-
-#EXTINF:-1 group-title="Juli " tvg-id="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" tvg-name="TVBS",TVBS
-https://ytb.178.indevs.in/?id=o_-hSMgpAzs
-
 #EXTINF:-1 group-title="地方" tvg-id="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" tvg-name="广东体育",广东体育
 http://r.jdshipin.com/LiYdg
 
@@ -871,16 +853,16 @@ http://r.jdshipin.com/LiYdg
 http://r.jdshipin.com/sE5vO
 
 #EXTINF:-1 group-title="地方" tvg-id="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" tvg-name="广州综合",广州综合
-http://dxa.yiandrive.com:19063/gztv/zhonghe
+http://dxa.yiandrive.com:38657/gztv/zhonghe
 
 #EXTINF:-1 group-title="地方" tvg-id="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" tvg-name="广州新闻",广州新闻
-http://dxa.yiandrive.com:19063/gztv/xinwen
+http://dxa.yiandrive.com:38657/gztv/xinwen
 
 #EXTINF:-1 group-title="地方" tvg-id="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" tvg-name="广州法治",广州法治
-http://dxa.yiandrive.com:19063/gztv/fazhi
+http://dxa.yiandrive.com:38657/gztv/fazhi
 
 #EXTINF:-1 group-title="地方" tvg-id="南国都市4K" tvg-logo="https://epg.iill.top/logo/广州南国.png" tvg-name="南国都市4K",广州南国都市
-http://dxa.yiandrive.com:19063/gztv/shenghuo
+http://dxa.yiandrive.com:38657/gztv/shenghuo
 
 #EXTINF:-1 group-title="地方" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" tvg-name="东方卫视",东方卫视4K
 https://tv.iill.top/kdf/2030
