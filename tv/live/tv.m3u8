@@ -219,6 +219,9 @@ https://hls.iill.top/api/VL-Drama/index.m3u8
 #EXTINF:-1 group-title="台湾" tvg-id="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" tvg-name="緯來育樂台",緯來育樂
 https://hls.iill.top/api/VL-E/index.m3u8
 
+#EXTINF:-1 group-title="台湾" tvg-id="年代新聞台" tvg-logo="https://epg.iill.top/logo/年代新聞台.png" tvg-name="年代新聞台",年代新聞
+https://hls.iill.top/api/Era-News/index.m3u8
+
 #EXTINF:-1 group-title="台湾" tvg-id="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" tvg-name="中天亞洲台",中天亞洲
 https://tv.iill.top/FainTV/121
 
