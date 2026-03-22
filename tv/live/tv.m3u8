@@ -82,13 +82,16 @@ https://tv.iill.top/CGTN/cgtn_espanol
 https://tv.iill.top/CGTN/cgtn_arabic
 
 #EXTINF:-1 group-title="港澳" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://hls.iill.top/api/TVB-Jade/index.m3u8
+https://test.tvbjack.de5.net/proxy/282e188ba6928331
 
 #EXTINF:-1 group-title="港澳" tvg-id="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" tvg-name="TVB Plus",TVBPlus
-https://hls.iill.top/api/TVB-Plus/index.m3u8
+https://test.tvbjack.de5.net/proxy/a8587523ddf2f847
 
 #EXTINF:-1 group-title="港澳" tvg-id="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" tvg-name="無綫新聞台",無綫新聞台
-https://hls.iill.top/api/TVB-News/index.m3u8
+https://test.tvbjack.de5.net/proxy/7138a9dbc960df99
+
+#EXTINF:-1 group-title="港澳" tvg-id="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" tvg-name="明珠台",明珠台
+https://test.tvbjack.de5.net/proxy/52c770320d636c50
 
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視·中文
 https://tv.iill.top/phenix/fhzw
@@ -181,22 +184,22 @@ https://hls.iill.top/api/Sports-Network/index.m3u8
 https://hls.iill.top/api/Football-Channel/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" tvg-name="博斯無限台",博斯無限 一
-https://live.iill.top/FainTV/129
+https://ha.msbot.dpdns.org/hlk.php?id=129
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" tvg-name="博斯無限二台",博斯無限 二
-https://live.iill.top/FainTV/418
+https://ha.msbot.dpdns.org/hlk.php?id=418
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" tvg-name="博斯高球台",博斯高球 一
-https://live.iill.top/FainTV/108
+https://ha.msbot.dpdns.org/hlk.php?id=108
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" tvg-name="博斯高球二台",博斯高球 二
-https://live.iill.top/FainTV/125
+https://ha.msbot.dpdns.org/hlk.php?id=125
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" tvg-name="博斯網球台",博斯網球
-https://live.iill.top/FainTV/53
+https://ha.msbot.dpdns.org/hlk.php?id=53
 
 #EXTINF:-1 group-title="台湾" tvg-id="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" tvg-name="博斯魅力台",博斯魅力
-https://live.iill.top/FainTV/135
+https://ha.msbot.dpdns.org/hlk.php?id=135
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" tvg-name="",緯來日本
 https://tv.iill.top/api/VL-Japan/index.m3u8
@@ -220,7 +223,7 @@ https://tv.iill.top/api/VL-E/index.m3u8
 https://tv.iill.top/api/Era-News/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" tvg-name="中天亞洲台",中天亞洲
-https://live.iill.top/FainTV/121
+https://ha.msbot.dpdns.org/hlk.php?id=121
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" tvg-name="中天綜合台",中天綜合
 https://tv.iill.top/api/Cti-K/index.m3u8
@@ -598,19 +601,19 @@ https://tv.iill.top/4gtv/4gtv-4gtv043
 https://tv.iill.top/4gtv/4gtv-live008
 
 #EXTINF:-1 group-title="台湾" tvg-id="ETtoday綜合台" tvg-logo="https://epg-1.iill.top/logo/ETtoday綜合台.png" tvg-name="ETtoday綜合台",ETtoday綜合
-https://live.iill.top/FainTV/146
+https://ha.msbot.dpdns.org/hlk.php?id=146
 
 #EXTINF:-1 group-title="台湾" tvg-id="MOMO運動綜合台" tvg-logo="https://epg-1.iill.top/logo/MOMO運動綜合台.png" tvg-name="MOMO運動綜合台",MOMO運動綜合
-https://live.iill.top/FainTV/14009
+https://ha.msbot.dpdns.org/hlk.php?id=14009
 
 #EXTINF:-1 group-title="台湾" tvg-id="歡樂看新聞" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" tvg-name="歡樂看新聞",歡樂看新聞
-https://live.iill.top/FainTV/19670
+https://ha.msbot.dpdns.org/hlk.php?id=19670
 
 #EXTINF:-1 group-title="台湾" tvg-id="歡樂兒童台" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" tvg-name="歡樂兒童台",歡樂兒童
-https://live.iill.top/FainTV/22768
+https://ha.msbot.dpdns.org/hlk.php?id=22768
 
 #EXTINF:-1 group-title="台湾" tvg-id="台灣啟示錄" tvg-logo="https://epg-1.iill.top/logo/台灣啟示錄.jpg" tvg-name="台灣啟示錄",台灣啟示錄
-https://live.iill.top/FainTV/18254
+https://ha.msbot.dpdns.org/hlk.php?id=18254
 
 #EXTINF:-1 group-title="台湾" tvg-id="大愛電視" tvg-logo="https://epg.iill.top/logo/大愛電視.png" tvg-name="大愛電視",大愛電視
 https://tv.iill.top/4gtv/4gtv-live007
