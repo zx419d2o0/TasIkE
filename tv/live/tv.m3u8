@@ -82,16 +82,13 @@ https://tv.iill.top/CGTN/cgtn_espanol
 https://tv.iill.top/CGTN/cgtn_arabic
 
 #EXTINF:-1 group-title="港澳" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://test.tvbjack.de5.net/proxy/282e188ba6928331
+https://hls.iill.top/api/TVB-Jade/index.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" tvg-name="TVB Plus",TVBPlus
-https://test.tvbjack.de5.net/proxy/a8587523ddf2f847
+https://hls.iill.top/api/TVB-Plus/index.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" tvg-name="無綫新聞台",無綫新聞台
-https://test.tvbjack.de5.net/proxy/7138a9dbc960df99
-
-#EXTINF:-1 group-title="港澳" tvg-id="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" tvg-name="明珠台",明珠台
-https://test.tvbjack.de5.net/proxy/52c770320d636c50
+https://hls.iill.top/api/TVB-News/index.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視·中文
 https://tv.iill.top/phenix/fhzw
@@ -395,6 +392,9 @@ https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" tvg-name="LS Time電影台",龍祥時代
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台" tvg-name="CATCHPLAY電影台",Catchplay
+https://tv.iill.top/api/Catchplay/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" tvg-name="CINEMAX",CINEMAX
 https://tv.iill.top/api/Cinemax/index.m3u8
