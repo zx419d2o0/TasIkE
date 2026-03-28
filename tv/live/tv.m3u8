@@ -852,23 +852,14 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="Juli " tvg-id="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" tvg-name="Channel U",ChannelU
 http://cdn6.163189.xyz/163189/ch
 
+#EXTINF:-1 group-title="地方" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
 #EXTINF:-1 group-title="地方" tvg-id="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" tvg-name="广东体育",广东体育
 http://r.jdshipin.com/LiYdg
 
 #EXTINF:-1 group-title="地方" tvg-id="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" tvg-name="广东珠江",广东珠江
 http://r.jdshipin.com/sE5vO
-
-#EXTINF:-1 group-title="地方" tvg-id="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png" tvg-name="广州综合",广州综合
-http://dxa.yiandrive.com:27385/gztv/zhonghe
-
-#EXTINF:-1 group-title="地方" tvg-id="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" tvg-name="广州新闻",广州新闻
-http://dxa.yiandrive.com:27385/gztv/xinwen
-
-#EXTINF:-1 group-title="地方" tvg-id="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" tvg-name="广州法治",广州法治
-http://dxa.yiandrive.com:27385/gztv/fazhi
-
-#EXTINF:-1 group-title="地方" tvg-id="南国都市4K" tvg-logo="https://epg.iill.top/logo/广州南国.png" tvg-name="南国都市4K",广州南国都市
-http://dxa.yiandrive.com:27385/gztv/shenghuo
 
 #EXTINF:-1 group-title="地方" tvg-id="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" tvg-name="东方卫视",东方卫视4K
 https://tv.iill.top/kdf/2030
@@ -893,27 +884,6 @@ https://tv.iill.top/kdf/1600
 
 #EXTINF:-1 group-title="地方" tvg-id="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" tvg-name="爱上海",爱上海
 https://tv.iill.top/kdf/2029
-
-#EXTINF:-1 group-title="地方" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-
-#EXTINF:-1 group-title="地方" tvg-id="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视4K
-http://play-qukan.cztv.com/live/1758879019692345.m3u8
-
-#EXTINF:-1 group-title="地方" tvg-id="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" tvg-name="湖南卫视",湖南卫视
-https://tv.iill.top/migu/hnws
-
-#EXTINF:-1 group-title="地方" tvg-id="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" tvg-name="辽宁卫视",辽宁卫视
-https://tv.iill.top/migu/lnws
-
-#EXTINF:-1 group-title="地方" tvg-id="CHC影迷电影" tvg-logo="https://epg.iill.top/logo/影迷电影.png" tvg-name="CHC影迷电影",CHC影迷电影
-https://tv.iill.top/migu/chcym
-
-#EXTINF:-1 group-title="地方" tvg-id="CHC动作电影" tvg-logo="https://epg.iill.top/logo/动作电影.png" tvg-name="CHC动作电影",CHC动作电影
-https://tv.iill.top/migu/chcdz
-
-#EXTINF:-1 group-title="地方" tvg-id="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" tvg-name="CHC家庭影院",CHC家庭影院
-https://tv.iill.top/migu/chcjt
 
 #EXTINF:-1 group-title="游戏" tvg-id="" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" tvg-name="",「B站」热门赛事
 https://live.iill.top/bilibili/10
