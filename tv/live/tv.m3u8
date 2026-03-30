@@ -57,12 +57,6 @@ https://tv.iill.top/api/CCTV14/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-id="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" tvg-name="CCTV 15",CCTV15
 https://tv.iill.top/api/CCTV15/index.m3u8
 
-#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" tvg-name="CCTV 16",CCTV16
-https://tv.iill.top/api/CCTV16/index.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-id="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" tvg-name="CCTV 17",CCTV17
-https://tv.iill.top/api/CCTV17/index.m3u8
-
 #EXTINF:-1 group-title="央視" tvg-id="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" tvg-name="CGTN",CGTN
 https://tv.iill.top/CGTN/cgtn
 
@@ -395,9 +389,6 @@ https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" tvg-name="LS Time電影台",龍祥時代
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-
-#EXTINF:-1 group-title="台湾" tvg-id="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台.png" tvg-name="CATCHPLAY電影台",CATCHPLAY電影
-https://tv.iill.top/api/Catchplay/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" tvg-name="CINEMAX",CINEMAX
 https://tv.iill.top/api/Cinemax/index.m3u8
