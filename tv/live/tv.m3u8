@@ -75,15 +75,6 @@ https://tv.iill.top/CGTN/cgtn_espanol
 #EXTINF:-1 group-title="央視" tvg-id="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" tvg-name="CGTN阿拉伯语",CGTNالعربية
 https://tv.iill.top/CGTN/cgtn_arabic
 
-#EXTINF:-1 group-title="港澳" tvg-id="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" tvg-name="翡翠台",翡翠台
-https://hls.iill.top/api/TVB-Jade/index.m3u8
-
-#EXTINF:-1 group-title="港澳" tvg-id="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" tvg-name="TVB Plus",TVBPlus
-https://hls.iill.top/api/TVB-Plus/index.m3u8
-
-#EXTINF:-1 group-title="港澳" tvg-id="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" tvg-name="無綫新聞台",無綫新聞台
-https://hls.iill.top/api/TVB-News/index.m3u8
-
 #EXTINF:-1 group-title="港澳" tvg-id="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" tvg-name="鳳凰衛視中文台",鳳凰衛視·中文
 https://tv.iill.top/phenix/fhzw
 
@@ -214,7 +205,7 @@ https://tv.iill.top/api/VL-E/index.m3u8
 https://tv.iill.top/api/Era-News/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" tvg-name="中天亞洲台",中天亞洲
-https://tv.iill.top/FainTV/121
+https://tv.iill.top/api/Cti-I/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" tvg-name="中天綜合台",中天綜合
 https://tv.iill.top/api/Cti-K/index.m3u8
