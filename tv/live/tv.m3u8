@@ -10,52 +10,52 @@ https://epg.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
-https://tv.iill.top/api/CCTV1/index.m3u8
+https://smt.iill.top/smt/710
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" tvg-name="CCTV 2",CCTV2
-https://tv.iill.top/api/CCTV2/index.m3u8
+https://smt.iill.top/smt/711
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" tvg-name="CCTV 3",CCTV3
-https://tv.iill.top/api/CCTV3/index.m3u8
+https://smt.iill.top/smt/712
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" tvg-name="CCTV 4",CCTV4
 https://snap.iill.top/youtube/@LiveNow24H/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" tvg-name="CCTV 5",CCTV5
-https://tv.iill.top/api/CCTV5/index.m3u8
+https://smt.iill.top/smt/1631
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" tvg-name="CCTV 5+",CCTV5+
-https://tv.iill.top/api/CCTV5+/index.m3u8
+https://smt.iill.top/smt/890
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" tvg-name="CCTV 6",CCTV6
-https://tv.iill.top/api/CCTV6/index.m3u8
+https://smt.iill.top/smt/501
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" tvg-name="CCTV 7",CCTV7
-https://tv.iill.top/api/CCTV7/index.m3u8
+https://smt.iill.top/smt/717
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" tvg-name="CCTV 8",CCTV8
-https://tv.iill.top/api/CCTV8/index.m3u8
+https://smt.iill.top/smt/718
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" tvg-name="CCTV 9",CCTV9
-https://tv.iill.top/api/CCTV9/index.m3u8
+https://smt.iill.top/smt/719
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" tvg-name="CCTV 10",CCTV10
-https://tv.iill.top/api/CCTV10/index.m3u8
+https://smt.iill.top/smt/720
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" tvg-name="CCTV 11",CCTV11
-https://tv.iill.top/api/CCTV11/index.m3u8
+https://smt.iill.top/smt/721
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" tvg-name="CCTV 12",CCTV12
-https://tv.iill.top/api/CCTV12/index.m3u8
+https://smt.iill.top/smt/722
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" tvg-name="CCTV 13",CCTV13
-https://tv.iill.top/api/CCTV13/index.m3u8
+https://smt.iill.top/smt/723
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" tvg-name="CCTV 14",CCTV14
-https://tv.iill.top/api/CCTV14/index.m3u8
+https://smt.iill.top/smt/2013
 
 #EXTINF:-1 group-title="央视" tvg-id="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" tvg-name="CCTV 15",CCTV15
-https://tv.iill.top/api/CCTV15/index.m3u8
+https://smt.iill.top/smt/726
 
 #EXTINF:-1 group-title="央視" tvg-id="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" tvg-name="CGTN",CGTN
 https://tv.iill.top/CGTN/cgtn
@@ -184,34 +184,34 @@ https://tv.iill.top/FainTV/53
 https://tv.iill.top/FainTV/135
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" tvg-name="",緯來日本
-https://tv.iill.top/api/VL-Japan/index.m3u8
+https://smt.iill.top/smt/2048
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" tvg-name="緯來體育台",緯來體育
-https://tv.iill.top/api/VL-Sports/index.m3u8
+https://smt.iill.top/smt/2051
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" tvg-name="緯來電影台",緯來電影
-https://tv.iill.top/api/VL-Movies/index.m3u8
+https://smt.iill.top/smt/2049
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" tvg-name="緯來綜合台",緯來綜合
-https://tv.iill.top/api/VL-ONTV/index.m3u8
+https://smt.iill.top/smt/2053
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來戲劇台" tvg-logo="https://epg.iill.top/logo/緯來戲劇.png" tvg-name="緯來戲劇台",緯來戲劇
-https://tv.iill.top/api/VL-Drama/index.m3u8
+https://smt.iill.top/smt/2472
 
 #EXTINF:-1 group-title="台湾" tvg-id="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" tvg-name="緯來育樂台",緯來育樂
-https://tv.iill.top/api/VL-E/index.m3u8
+https://smt.iill.top/smt/2470
 
 #EXTINF:-1 group-title="台湾" tvg-id="年代新聞台" tvg-logo="https://epg.iill.top/logo/年代新聞台.png" tvg-name="年代新聞台",年代新聞
-https://tv.iill.top/api/Era-News/index.m3u8
+https://smt.iill.top/smt/825
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" tvg-name="中天亞洲台",中天亞洲
-https://tv.iill.top/api/Cti-I/index.m3u8
+https://smt.iill.top/smt/1967
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" tvg-name="中天綜合台",中天綜合
-https://tv.iill.top/api/Cti-K/index.m3u8
+https://smt.iill.top/smt/741
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" tvg-name="中天娛樂台",中天娛樂
-https://tv.iill.top/api/Cti-E/index.m3u8
+https://smt.iill.top/smt/529
 
 #EXTINF:-1 group-title="台湾" tvg-id="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" tvg-name="中天新聞台",中天新聞
 https://tv.iill.top/4gtv/4gtv-4gtv009
@@ -229,19 +229,19 @@ https://tv.iill.top/4gtv/4gtv-4gtv152
 https://tv.iill.top/4gtv/4gtv-4gtv153
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" tvg-name="東森電影台",東森電影
-https://tv.iill.top/api/ET-Movie/index.m3u8
+https://smt.iill.top/smt/924
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" tvg-name="東森洋片台",東森洋片
-https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
+https://smt.iill.top/smt/763
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森綜合台" tvg-logo="https://epg.iill.top/logo/東森綜合台.png" tvg-name="東森綜合台",東森綜合
-https://tv.iill.top/api/ET-Variety-Channel/index.m3u8
+https://smt.iill.top/smt/118
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森戲劇台" tvg-logo="https://epg.iill.top/logo/東森戲劇台.png" tvg-name="東森戲劇台",東森戲劇
-https://tv.iill.top/api/ET-Drama-Channel/index.m3u8
+https://smt.iill.top/smt/546
 
 #EXTINF:-1 group-title="台湾" tvg-id="東森幼幼台" tvg-logo="https://epg.iill.top/logo/東森幼幼台.png" tvg-name="東森幼幼台",東森幼幼
-https://tv.iill.top/api/YoYo-TV/index.m3u8
+https://smt.iill.top/smt/969
 
 #EXTINF:-1 group-title="台湾" tvg-id="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" tvg-name="TVBS",TVBS
 https://tv.iill.top/4gtv/media-live073
@@ -319,7 +319,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv034
 https://tv.iill.top/4gtv/4gtv-4gtv039
 
 #EXTINF:-1 group-title="台湾" tvg-id="台視" tvg-logo="https://epg.iill.top/logo/台視.png" tvg-name="台視",台視
-https://tv.iill.top/api/TTV/index.m3u8
+https://smt.iill.top/smt/744
 
 #EXTINF:-1 group-title="台湾" tvg-id="台視新聞" tvg-logo="https://epg.iill.top/logo/台視新聞.png" tvg-name="台視新聞",台視新聞
 https://tv.iill.top/ofiii/4gtv-4gtv051
@@ -372,20 +372,14 @@ https://tv.iill.top/4gtv/4gtv-live207
 #EXTINF:-1 group-title="台湾" tvg-id="三立新聞iNEWS" tvg-logo="https://epg.iill.top/logo/三立新聞iNEWS.png" tvg-name="三立新聞iNEWS",三立新聞iNEWS
 https://tv.iill.top/4gtv/4gtv-live089
 
-#EXTINF:-1 group-title="台湾" tvg-id="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" tvg-name="動物星球",動物星球
-https://tv.iill.top/api/Animal-Planet/index.m3u8
-
 #EXTINF:-1 group-title="台湾" tvg-id="好萊塢電影台" tvg-logo="https://epg.iill.top/logo/好萊塢電影台.png" tvg-name="好萊塢電影台",好萊塢電影
-https://tv.iill.top/api/Hollywood-Movie/index.m3u8
+https://smt.iill.top/smt/278
 
 #EXTINF:-1 group-title="台湾" tvg-id="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" tvg-name="LS Time電影台",龍祥時代
-https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-
-#EXTINF:-1 group-title="台湾" tvg-id="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" tvg-name="CINEMAX",CINEMAX
-https://tv.iill.top/api/Cinemax/index.m3u8
+https://smt.iill.top/smt/2024
 
 #EXTINF:-1 group-title="台湾" tvg-id="MTV" tvg-logo="https://epg.iill.top/logo/MTV.png" tvg-name="MTV",MTVLive
-https://tv.iill.top/api/MTV-Live/index.m3u8
+https://smt.iill.top/smt/2046
 
 #EXTINF:-1 group-title="台湾" tvg-id="愛爾達娛樂台" tvg-logo="https://epg.iill.top/logo/愛爾達娛樂台.png" tvg-name="愛爾達娛樂台",愛爾達娛樂
 https://tv.iill.top/4gtv/4gtv-4gtv070
@@ -721,22 +715,19 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 https://hls.iill.top/api/Spotv-2/index.m3u8
 
 #EXTINF:-1 group-title="體育" tvg-id="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" tvg-name="SkySp Cricket",SkySports Cricket
-https://tv.iill.top/api/Sky-Sports-Cricket/index.m3u8
+https://smt.iill.top/smt/2861
 
 #EXTINF:-1 group-title="體育" tvg-id="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" tvg-name="SkySp PL HD",SkySports Premier League
-https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
+https://smt.iill.top/smt/2862
 
 #EXTINF:-1 group-title="體育" tvg-id="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" tvg-name="SkySp F1",SkySports F1
-https://tv.iill.top/api/Sky-Sports-F1/index.m3u8
+https://smt.iill.top/smt/2863
 
 #EXTINF:-1 group-title="體育" tvg-id="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" tvg-name="SkySp Mix HD",SkySports Mix
-https://tv.iill.top/api/Sky-Sports-Mix/index.m3u8
+https://smt.iill.top/smt/2866
 
 #EXTINF:-1 group-title="體育" tvg-id="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" tvg-name="SkySp Racing HD",SkySports Racing
-https://tv.iill.top/api/Sky-Sports-Racing/index.m3u8
-
-#EXTINF:-1 group-title="體育" tvg-id="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" tvg-name="FIGHT SPORTS HD",FightSports
-https://hls.iill.top/api/Fight-Sports/index.m3u8
+https://smt.iill.top/smt/2867
 
 #EXTINF:-1 group-title="綜合" tvg-id="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" tvg-name="Red Bull TV",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
