@@ -9,6 +9,9 @@ https://epg.iill.top/v/301.mp4
 #EXTINF:-1 group-title="溫馨" tvg-id="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" tvg-name="免费订阅",建議使用：請保持个人觀看 請勿頻繁切換
 https://epg-1.iill.top/v/301.mp4
 
+#EXTINF:-1 group-title="測試" tvg-id="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" tvg-name="HBO HD",HBO
+https://hls.iill.top/test/HBO/index.m3u8
+
 #EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" tvg-name="CCTV 1",CCTV1
 https://v.iill.top/api/CCTV1/index.m3u8
 
@@ -106,10 +109,10 @@ https://tv.iill.top/phenix/fhzx
 https://tv.iill.top/phenix/fhhk
 
 #EXTINF:-1 group-title="港澳" tvg-id="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" tvg-name="商業電台 雷霆881",雷霆881
-https://881.touch-u.fun/playlist.m3u8
+https://rd.167.de5.net/radio/881hd/chunks.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" tvg-name="商業電台 叱咤903",叱咤903
-https://903.touch-u.fun/playlist.m3u8
+https://rd.167.de5.net/radio/903hd/chunks.m3u8
 
 #EXTINF:-1 group-title="港澳" tvg-id="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" tvg-name="Now新聞台",Now新聞台
 https://t.ttvb.eu.org/tvb/now-332/index.m3u8
@@ -746,9 +749,6 @@ https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" tvg-name="Discovery HD",Discovery
 https://hls.iill.top/api/Discovery/index.m3u8
-
-#EXTINF:-1 group-title="綜合" tvg-id="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" tvg-name="HBO HD",HBO
-https://hls.iill.top/api/HBO/index.m3u8
 
 #EXTINF:-1 group-title="綜合" tvg-id="HBO Hits HD" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" tvg-name="HBO Hits HD",HBOHits
 https://hls.iill.top/api/HBO-Hits/index.m3u8
