@@ -263,7 +263,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://wexwp.cc/",
+        "siteUrl": ["https://www.2xiaopan.top/","https://www.wexwp.cc"],
         "filter": "./json/wogg.json"
       }
     },
@@ -328,7 +328,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://woggpan.wogg.lol/",
+        "siteUrl": ["https://wogg.xxooo.cf","https://www.wogg.net","https://wogg.333232.xyz","https://wogg4k.333232.xyz"],
         "filter": "./json/wogg.json"
       }
     },
