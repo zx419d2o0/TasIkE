@@ -38,7 +38,7 @@ jobs:
           mv gao/jar/* tv/vod/jar/
           md5sum tv/vod/jar/XBPQ.jar | cut -d ' ' -f 1 > tv/vod/jar/XBPQ.jar.md5
           arr=(
-            "http://www.饭太硬.com/tv/,true"
+            "http://www.饭太硬.net/tv/,true"
             "https://mpanso.me/DEMO.json,true"
             "http://ok321.top/ok,true"
             "http://肥猫.com,true"
@@ -52,7 +52,7 @@ jobs:
             IFS=',' read -r url flag <<< "${arr[i]}"
             
             if [[ "$flag" == "true" ]]; then
-              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "https://www.xn--sss604efuw.com/jm/jiemi.php?url=$url"
+              curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "https://www.xn--sss604efuw.net/jm/jiemi.php?url=$url"
             else
               curl -A "okhttp/4.1.9" -o "tv/vod/$i.json" "$url" || touch "tv/vod/$i.json"
             fi
