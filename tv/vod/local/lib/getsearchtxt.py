@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import os
 import re
 import json
 import requests
@@ -58,11 +59,17 @@ def getlist(w,shareid, fileid,morepage):
         getlist(w,shareid,fileid,True)
 
 def main():
+    base = os.path.realpath(os.getcwd())
+    safe_name = os.path.basename(sys.argv[1])
+    if not safe_name:
+        print("Error: invalid path argument", file=sys.stderr)
+        sys.exit(1)
+    arg = os.path.join(base, safe_name)
     try:
-        f = gzip.open(sys.argv[1]+".raw.gz",mode="rt",encoding="utf-8")
+        f = gzip.open(arg+".raw.gz",mode="rt",encoding="utf-8")
         if f is not None:
-            print(f"found gz raw file:{sys.argv[1]}.raw.gz, extract it",file=sys.stderr)
-            with(open(sys.argv[1]+".raw","w",encoding="utf-8")) as w:
+            print(f"found gz raw file:{arg}.raw.gz, extract it",file=sys.stderr)
+            with(open(arg+".raw","w",encoding="utf-8")) as w:
                 while(True):
                     lines = f.readlines()
                     if len(lines)<=0:
@@ -74,7 +81,7 @@ def main():
     except:
         traceback.print_exc()
         try:
-            f = open(sys.argv[1]+".raw","r",encoding="utf-8")
+            f = open(arg+".raw","r",encoding="utf-8")
         except:
             f = None
     if f is not None:
@@ -98,8 +105,8 @@ def main():
         print(f"old raw file record:{len(sharedict)}")
     else:
         print("no old raw file")
-    with(open(sys.argv[1]+".raw","a+",encoding="utf-8")) as w:
-        with(open(sys.argv[1],"r",encoding="utf-8")) as f:
+    with(open(arg+".raw","a+",encoding="utf-8")) as w:
+        with(open(arg,"r",encoding="utf-8")) as f:
             j = json.load(f)
             for c in j:
                 shareid=c.get("type_id")
