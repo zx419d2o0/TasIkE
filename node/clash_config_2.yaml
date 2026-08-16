@@ -32,116 +32,395 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- client-fingerprint: chrome
-  name: 26|日本 001
-  network: tcp
-  password: ND91608427
+- cipher: chacha20-ietf-poly1305
+  country: 🇵 JP
+  name: 14| JP_69
+  password: uTBjZhDmOMwBVAJI
+  port: 8388
+  server: 45.32.16.53
+  type: ss
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_70
+  password: AE62539071
   port: 443
-  server: 13.231.232.184
-  skip-cert-verify: false
-  sni: better-molly.rooster465.autos
-  type: trojan
-  udp: true
-- name: 39|JP_Tokyo_Amazon.com, Inc._Clau...
-  password: ND91608427
-  port: 443
-  server: definite-sturgeon.rooster465.autos
-  skip-cert-verify: false
-  sni: definite-sturgeon.rooster465.autos
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: 27|🇩🇪_DE_德国
-  port: 38998
-  server: 178.83.45.29
+  server: maximum-elk.rooster465.autos
   skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 48422300-458f-4dbb-b0f5-96f45450ab9f
-- client-fingerprint: chrome
-  name: 26|俄罗斯 001
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: dynamic-grubworm.rooster465.autos
-  skip-cert-verify: false
-  sni: dynamic-grubworm.rooster465.autos
   type: trojan
   udp: true
-- client-fingerprint: chrome
-  name: 26|俄罗斯 002
-  network: tcp
-  password: ND91608427
+- country: 🇵 JP
+  name: 14|🇵 JP_71
+  password: AE62539071
   port: 443
-  server: 91.199.84.120
-  skip-cert-verify: false
-  sni: dynamic-grubworm.rooster465.autos
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 26|俄罗斯 003
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: relaxed-gull.rooster465.autos
+  server: fun-poodle.rooster465.autos
   skip-cert-verify: true
-  sni: relaxed-gull.rooster465.autos
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 19|英
-  port: 180
-  server: 82.198.246.37
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: 0
-  cipher: auto
-  name: 19,28|🇺🇸_US_美国_1
-  port: 180
-  server: 82.198.246.250
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- grpc-opts:
-    grpc-service-name: /50779/NQmry9z8yR
-  name: 26|英国 001
-  network: grpc
-  password: 32b2m2w7hsdd93z7
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_72
+  password: AE62539071
   port: 443
-  server: 31.76.11.46.cdn-one.org
-  skip-cert-verify: false
-  sni: 31.76.11.46.cdn-one.org
-  tls: true
-  type: trojan
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: /50779/NQmry9z8yR
-  name: 26|英国 002
-  network: grpc
-  password: 581e14a5fcc14107b9326cc54f047891
-  port: 443
-  server: 31.76.11.46
-  skip-cert-verify: false
-  sni: 31.76.11.46.cdn-one.org
-  tls: true
+  server: central-jawfish.rooster465.autos
+  skip-cert-verify: true
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 26|英国 028
-  network: tcp
-  port: 180
-  server: 82.198.246.233
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_73
+  password: AE62539071
+  port: 443
+  server: charmed-fly.rooster465.autos
   skip-cert-verify: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_74
+  password: AE62539071
+  port: 443
+  server: inviting-burro.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_75
+  password: FH72359861
+  port: 443
+  server: flying-swift.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇵 JP_76
+  password: AE62539071
+  port: 443
+  server: polished-imp.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_77
+  password: AE62539071
+  port: 443
+  server: grateful-crawdad.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_78
+  password: FH72359861
+  port: 443
+  server: grateful-crawdad.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_79
+  password: FH72359861
+  port: 443
+  server: welcome-owl.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_80
+  password: AE62539071
+  port: 443
+  server: premium-weevil.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_81
+  password: AE62539071
+  port: 443
+  server: sweeping-parakeet.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_82
+  password: AE62539071
+  port: 443
+  server: evolving-kangaroo.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_83
+  password: AE62539071
+  port: 443
+  server: whole-grub.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_84
+  password: AE62539071
+  port: 443
+  server: current-barnacle.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_85
+  password: AE62539071
+  port: 443
+  server: better-molly.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_86
+  password: AE62539071
+  port: 443
+  server: exciting-grizzly.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_87
+  password: AE62539071
+  port: 443
+  server: new-eagle.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_88
+  password: AE62539071
+  port: 443
+  server: definite-hen.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_89
+  password: AE62539071
+  port: 443
+  server: together-mayfly.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_90
+  password: AE62539071
+  port: 443
+  server: pleased-pelican.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_91
+  password: AE62539071
+  port: 443
+  server: superb-dory.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_92
+  password: AE62539071
+  port: 443
+  server: outgoing-ladybird.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_93
+  password: AE62539071
+  port: 443
+  server: glowing-iguana.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_94
+  password: AE62539071
+  port: 443
+  server: frank-frog.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_95
+  password: AE62539071
+  port: 443
+  server: supreme-lobster.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_96
+  password: AE62539071
+  port: 443
+  server: pure-kodiak.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_97
+  password: AE62539071
+  port: 443
+  server: clear-killdeer.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇵 JP_99
+  password: AE62539071
+  port: 443
+  server: coherent-newt.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_100
+  password: AE62539071
+  port: 443
+  server: social-mutt.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_101
+  password: AE62539071
+  port: 443
+  server: fun-salmon.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇵 JP
+  name: 14|🇯🇵 JP_102
+  password: AE62539071
+  port: 443
+  server: helpful-possum.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_103
+  password: AE62539071
+  port: 443
+  server: clear-snail.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵 JP
+  name: 14|🇯🇵 JP_104
+  password: AE62539071
+  port: 443
+  server: balanced-goat.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵JP
+  name: 14|🇯🇵JP_105
+  password: AE62539071
+  port: 443
+  server: clear-heron.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵JP
+  name: 14|🇯🇵JP_106
+  password: FH72359861
+  port: 443
+  server: great-wasp.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇯🇵JP
+  name: 14|🇯🇵JP_107
+  password: IL37892054
+  port: 443
+  server: engaging-toucan.rooster465.autos
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: 🇷🇺RU
+  name: 14|🇺RU_118
+  password: '!!str 1234567890'
+  port: 443
+  server: 194.87.77.91
+  skip-cert-verify: true
+  sni: kfm-bn0.pages.dev
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14| GB_24
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.179
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇧 GB_25
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.202
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_27
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.191
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_28
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.187
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_29
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.189
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧 GB
+  name: 14|🇬🇧 GB_30
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.210
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_31
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.217
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧 GB
+  name: 14|🇬🇧 GB_32
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.205
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧GB
+  name: 14|🇧GB_35
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.10
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇧GB
+  name: 14|🇬🇧GB_36
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.219
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇬🇧GB
+  name: 14|🇬🇧GB_37
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.15
+  type: ss
 proxy-groups:
 - name: 节点选择
   type: select
@@ -154,17 +433,56 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 39|JP_Tokyo_Amazon.com, Inc._Clau...
-  - 27|🇩🇪_DE_德国
-  - 26|英国 002
-  - 26|俄罗斯 001
-  - 26|俄罗斯 003
-  - 26|俄罗斯 002
-  - 19|英
-  - 26|英国 001
-  - 26|英国 028
-  - 26|日本 001
-  - 19,28|🇺🇸_US_美国_1
+  - 14|🇯🇵 JP_94
+  - 14|🇯🇵 JP_89
+  - 14|🇯🇵 JP_87
+  - 14|🇯🇵 JP_88
+  - 14|🇯🇵 JP_81
+  - 14|🇯🇵 JP_96
+  - 14|🇯🇵 JP_91
+  - 14|🇯🇵 JP_82
+  - 14|🇯🇵 JP_97
+  - 14|🇯🇵 JP_90
+  - 14|🇵 JP_99
+  - 14|🇯🇵 JP_92
+  - 14|🇯🇵 JP_100
+  - 14|🇯🇵 JP_75
+  - 14|🇯🇵 JP_79
+  - 14|🇯🇵 JP_101
+  - 14|🇬🇧 GB_32
+  - 14|🇯🇵 JP_70
+  - 14| GB_24
+  - 14| JP_69
+  - 14|🇯🇵 JP_80
+  - 14|🇯🇵 JP_84
+  - 14|🇯🇵 JP_77
+  - 14|🇯🇵 JP_78
+  - 14|🇬🇧GB_37
+  - 14|🇺RU_118
+  - 14|🇯🇵 JP_83
+  - 14|🇬🇧 GB_31
+  - 14|🇯🇵 JP_104
+  - 14|🇯🇵JP_107
+  - 14|🇯🇵 JP_102
+  - 14|🇬🇧GB_36
+  - 14|🇯🇵JP_106
+  - 14|🇬🇧 GB_29
+  - 14|🇯🇵JP_105
+  - 14|🇬🇧 GB_28
+  - 14|🇧 GB_25
+  - 14|🇧GB_35
+  - 14|🇬🇧 GB_30
+  - 14|🇵 JP_71
+  - 14|🇯🇵 JP_93
+  - 14|🇯🇵 JP_103
+  - 14|🇬🇧 GB_27
+  - 14|🇯🇵 JP_72
+  - 14|🇯🇵 JP_74
+  - 14|🇯🇵 JP_95
+  - 14|🇯🇵 JP_86
+  - 14|🇯🇵 JP_73
+  - 14|🇯🇵 JP_85
+  - 14|🇵 JP_76
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
