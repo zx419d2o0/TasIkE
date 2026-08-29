@@ -32,6 +32,82 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
+- alpn:
+  - http/1.1
+  name: 20|GB国(mibei77.com 米贝节点分享)
+  password: humanity
+  port: 443
+  server: 104.18.23.63
+  skip-cert-verify: true
+  sni: www.ignitelimit.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_9a628848
+  password: HOrViv
+  port: 18293
+  server: 209.248.32.117
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_ff6b300c
+  password: ljqdalu13..
+  port: 8319
+  server: 13.231.190.140
+  type: ss
+  udp: true
+- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_97160f25
+  password: HOrViv
+  port: 28106
+  server: 209.248.32.116
+  skip-cert-verify: true
+  sni: download.windowsupdate.com
+  type: trojan
+- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_71027ffe
+  password: HOrViv
+  port: 28133
+  server: 209.248.32.116
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
+- name: 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_3db6efb4
+  password: HOrViv
+  port: 28126
+  server: 209.248.32.117
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
+- name: 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_1e768562
+  password: HOrViv
+  port: 28122
+  server: 209.248.32.116
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
+- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_d7e7e8f1
+  password: HOrViv
+  port: 28104
+  server: 209.248.32.117
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
+- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_6226255c
+  password: HOrViv
+  port: 28110
+  server: 209.248.32.117
+  skip-cert-verify: true
+  sni: download.windowsupdate.com
+  type: trojan
+- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_570bed90
+  password: HOrViv
+  port: 28105
+  server: 209.248.32.117
+  skip-cert-verify: true
+  sni: ctldl.windowsupdate.com
+  type: trojan
 - alterId: 0
   cipher: auto
   name: 26|韩国 001
@@ -41,13 +117,29 @@ proxies:
   skip-cert-verify: true
   type: vmess
   uuid: 41a7089a-040b-4538-8b8d-010902405bde
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 22|D🔴🇫🇷[🎬🤖📺🎭]_dokng.com_71fcaef8
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.15.230
+  sni: www.ignitelimit.com
+  type: trojan
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/65.0.3325.162 Safari/537.36
+    path: /assignment
 - alterId: 0
   cipher: auto
-  name: 30|🇫🇷 法国 ONLINE S.A.S.数据中心
+  name: 26|法国 003
   network: ws
-  port: '23388'
+  port: 23388
   server: 62.210.127.120
-  tls: false
+  skip-cert-verify: true
   type: vmess
   uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a
   ws-opts:
@@ -55,16 +147,15 @@ proxies:
       Host: engage.cloudflareclient.com
     path: /github.com/Alvin9999-newpac/fanqiang
 - cipher: aes-256-cfb
-  name: 22,27|🇬🇧_GB_英国_2
+  name: 22|C🟠🇬🇧[🎬📺🎭🎪]_dokng.com_b2e4fa42
   password: amazonskr05
   port: 443
-  server: 18.175.227.220
-  skip-cert-verify: true
+  server: 18.170.37.90
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 26|英国 005
+  name: 26|英国 002
   network: tcp
   port: 180
   server: 82.198.246.250
@@ -73,21 +164,21 @@ proxies:
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - alterId: 0
   cipher: auto
-  name: 26|英国 006
+  name: 26|英国 004
   network: tcp
   port: 180
   server: 82.198.246.37
   skip-cert-verify: true
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- cipher: aes-256-cfb
-  name: 27|🇬🇧_GB_英国
-  password: amazonskr05
-  port: 443
-  server: 13.135.252.176
-  skip-cert-verify: true
-  type: ss
-  udp: true
+- alterId: '0'
+  cipher: auto
+  name: 22|A🟢🇹🇼[🤖📺🎭🎪]_dokng.com_80c508b5
+  network: tcp
+  port: 10001
+  server: 106.52.57.86
+  type: vmess
+  uuid: f56b9a92-47d4-4d6e-b828-1aa3e96dae65
 proxy-groups:
 - name: 节点选择
   type: select
@@ -100,12 +191,23 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 22,27|🇬🇧_GB_英国_2
-  - 27|🇬🇧_GB_英国
-  - 30|🇫🇷 法国 ONLINE S.A.S.数据中心
-  - 26|英国 005
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_d7e7e8f1
+  - 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_1e768562
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_6226255c
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_71027ffe
+  - 26|法国 003
+  - 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_9a628848
+  - 22|C🟠🇬🇧[🎬📺🎭🎪]_dokng.com_b2e4fa42
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_ff6b300c
+  - 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_3db6efb4
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_97160f25
+  - 26|英国 004
+  - 22|D🔴🇫🇷[🎬🤖📺🎭]_dokng.com_71fcaef8
+  - 26|英国 002
   - 26|韩国 001
-  - 26|英国 006
+  - 22|A🟢🇹🇼[🤖📺🎭🎪]_dokng.com_80c508b5
+  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_570bed90
+  - 20|GB国(mibei77.com 米贝节点分享)
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
