@@ -45,140 +45,95 @@ proxies:
   udp: true
   ws-opts:
     path: /assignment
-- name: 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_9a628848
-  password: HOrViv
-  port: 18293
-  server: 209.248.32.117
+- name: 22|A🟢🇭🇰[🎬🧠📺🎭]_dokng.com_a1b6c46a
+  password: 302cf77d-6fb7-4ac8-ae61-88e286340d59
+  port: 52224
+  server: hk04.qianmoip.win
   skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
+  sni: taobao.com
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_ff6b300c
-  password: ljqdalu13..
-  port: 8319
-  server: 13.231.190.140
-  type: ss
-  udp: true
-- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_97160f25
-  password: HOrViv
-  port: 28106
-  server: 209.248.32.116
+- name: 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_6598b91f
+  password: 302cf77d-6fb7-4ac8-ae61-88e286340d59
+  port: 50222
+  server: hk03.qianmoip.win
   skip-cert-verify: true
-  sni: download.windowsupdate.com
+  sni: taobao.com
   type: trojan
-- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_71027ffe
-  password: HOrViv
-  port: 28133
-  server: 209.248.32.116
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 22|A🟢🇭🇰[🎬📺🎭🎪]_dokng.com_c970db79
+  network: ws
+  password: 0f3963f9-0530-434d-be2c-87e9b61143c8
+  port: 28443
+  server: 58.152.46.127
   skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
+  sni: vpn-node.internal
   type: trojan
-- name: 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_3db6efb4
-  password: HOrViv
-  port: 28126
-  server: 209.248.32.117
-  skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
-  type: trojan
-- name: 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_1e768562
-  password: HOrViv
-  port: 28122
-  server: 209.248.32.116
-  skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
-  type: trojan
-- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_d7e7e8f1
-  password: HOrViv
-  port: 28104
-  server: 209.248.32.117
-  skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
-  type: trojan
-- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_6226255c
-  password: HOrViv
-  port: 28110
-  server: 209.248.32.117
-  skip-cert-verify: true
-  sni: download.windowsupdate.com
-  type: trojan
-- name: 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_570bed90
-  password: HOrViv
-  port: 28105
-  server: 209.248.32.117
-  skip-cert-verify: true
-  sni: ctldl.windowsupdate.com
-  type: trojan
+  ws-opts:
+    headers:
+      Host: vpn-node.internal
+    path: /xVpnTrojanWsSvc7f3a
 - alterId: 0
   cipher: auto
-  name: 26|韩国 001
+  name: 26|韩国 003
   network: tcp
   port: 443
   server: 140.238.2.250
   skip-cert-verify: true
   type: vmess
   uuid: 41a7089a-040b-4538-8b8d-010902405bde
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  name: 22|D🔴🇫🇷[🎬🤖📺🎭]_dokng.com_71fcaef8
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.18.15.230
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/65.0.3325.162 Safari/537.36
-    path: /assignment
 - alterId: 0
   cipher: auto
-  name: 26|法国 003
-  network: ws
-  port: 23388
-  server: 62.210.127.120
+  name: 22|C🟠🇸🇬[🎬🤖📺🎭]_dokng.com_af7b1aad
+  network: none
+  port: 29521
+  server: 47.236.207.245
+  tls: false
+  type: vmess
+  uuid: f1bb29bf-a342-44d4-9ac5-5ca4566a216a
+- alterId: 0
+  cipher: auto
+  name: 26|新加坡 004
+  network: tcp
+  port: 8443
+  server: 13.250.114.194
   skip-cert-verify: true
   type: vmess
-  uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a
-  ws-opts:
-    headers:
-      Host: engage.cloudflareclient.com
-    path: /github.com/Alvin9999-newpac/fanqiang
+  uuid: 9dcb8d73-cc0b-4fcc-a12d-d7affb56267c
 - cipher: aes-256-cfb
-  name: 22|C🟠🇬🇧[🎬📺🎭🎪]_dokng.com_b2e4fa42
+  name: 22|C🟠🇬🇧[🎬🤖📺🎭]_dokng.com_54894c69
   password: amazonskr05
   port: 443
-  server: 18.170.37.90
+  server: 35.179.104.254
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 26|英国 002
+  name: 26|英国 006
+  network: tcp
+  port: 180
+  server: 82.198.246.233
+  skip-cert-verify: true
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- alterId: 0
+  cipher: auto
+  name: 26|英国 008
   network: tcp
   port: 180
   server: 82.198.246.250
   skip-cert-verify: true
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: 0
-  cipher: auto
-  name: 26|英国 004
-  network: tcp
-  port: 180
-  server: 82.198.246.37
+- cipher: aes-256-cfb
+  name: 27|🇬🇧_GB_英国
+  password: amazonskr05
+  port: 443
+  server: 18.133.240.229
   skip-cert-verify: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: '0'
-  cipher: auto
-  name: 22|A🟢🇹🇼[🤖📺🎭🎪]_dokng.com_80c508b5
-  network: tcp
-  port: 10001
-  server: 106.52.57.86
-  type: vmess
-  uuid: f56b9a92-47d4-4d6e-b828-1aa3e96dae65
+  type: ss
+  udp: true
 proxy-groups:
 - name: 节点选择
   type: select
@@ -191,23 +146,17 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_d7e7e8f1
-  - 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_1e768562
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_6226255c
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_71027ffe
-  - 26|法国 003
-  - 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_9a628848
-  - 22|C🟠🇬🇧[🎬📺🎭🎪]_dokng.com_b2e4fa42
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_ff6b300c
-  - 22|D🔴🇯🇵[🎬🤖📺🎭]_dokng.com_3db6efb4
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_97160f25
-  - 26|英国 004
-  - 22|D🔴🇫🇷[🎬🤖📺🎭]_dokng.com_71fcaef8
-  - 26|英国 002
-  - 26|韩国 001
-  - 22|A🟢🇹🇼[🤖📺🎭🎪]_dokng.com_80c508b5
-  - 22|C🟠🇯🇵[🎬🤖📺🎭]_dokng.com_570bed90
+  - 22|C🟠🇸🇬[🎬🤖📺🎭]_dokng.com_af7b1aad
+  - 26|韩国 003
+  - 22|C🟠🇬🇧[🎬🤖📺🎭]_dokng.com_54894c69
   - 20|GB国(mibei77.com 米贝节点分享)
+  - 22|A🟢🇭🇰[🎬📺🎭🎪]_dokng.com_c970db79
+  - 22|D🔴🇭🇰[🎬🧠📺🎭]_dokng.com_6598b91f
+  - 22|A🟢🇭🇰[🎬🧠📺🎭]_dokng.com_a1b6c46a
+  - 27|🇬🇧_GB_英国
+  - 26|新加坡 004
+  - 26|英国 008
+  - 26|英国 006
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
