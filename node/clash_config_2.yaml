@@ -32,388 +32,68 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 26|日本 020
-  network: tcp
-  port: 4433
-  server: 45.32.57.118
-  skip-cert-verify: true
-  type: vmess
-  uuid: 35b89832-0a7c-48dd-8d1c-a2891b522195
-- alterId: 0
-  cipher: auto
-  name: 26|韩国 007
-  network: tcp
+- alpn:
+  - http/1.1
+  name: 20|GB英国(mibei77.com 米贝节点分享)_1
+  password: humanity
   port: 443
-  server: 140.238.2.250
+  server: 104.18.23.63
   skip-cert-verify: true
-  type: vmess
-  uuid: 41a7089a-040b-4538-8b8d-010902405bde
-- country: 🇷FR
-  name: 14|FR_42
-  password: AE62539071
-  port: 443
-  server: tough-hermit.rooster465.autos
-  skip-cert-verify: true
+  sni: www.ignitelimit.com
   type: trojan
   udp: true
-- country: 🇷FR
-  name: 14|🇷FR_43
-  password: NQ26071394
+  ws-opts:
+    path: /assignment
+- cipher: aes-256-cfb
+  name: 22,27|🇬🇧_GB_英国_1
+  password: amazonskr05
   port: 443
-  server: chief-cricket.rooster465.autos
+  server: 35.179.104.218
   skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇷FR
-  name: 14|🇷FR_44
-  password: NQ26071394
-  port: 443
-  server: ready-kangaroo.rooster465.autos
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇷FR
-  name: 14|🇫🇷FR_45
-  password: XG59623478
-  port: 443
-  server: new-antelope.rooster465.autos
-  skip-cert-verify: true
-  type: trojan
+  type: ss
   udp: true
 - cipher: aes-256-cfb
-  name: 27|🇫🇷_FR_法国
-  password: 7eadc6dbe2ae
-  port: 65443
-  server: 95.170.13.47
+  name: 22,27|🇬🇧 英国 | GBR 2
+  password: amazonskr05
+  port: 443
+  server: 35.178.181.116
   skip-cert-verify: true
   type: ss
   udp: true
-- country: 🇺RU
-  name: 14|RU_165
-  password: WF42809561
-  port: 443
-  server: nearby-muskrat.rooster465.autos
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇧 GB
-  name: 14| GB_46
-  password: ma6zc4JoLRJA
-  port: 8388
-  server: 176.97.73.215
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇧GB_47
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.155
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_48
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.176
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_49
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.34
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_50
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 443
-  server: 82.38.31.36
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧GB
-  name: 14|🇬🇧GB_51
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.49
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_52
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.174
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_53
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.202
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧GB
-  name: 14|🇬🇧GB_54
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.10
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧GB
-  name: 14|🇬🇧GB_55
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.48
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_56
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.218
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_57
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.46
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_59
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.214
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: 14|🇬🇧GB_60
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.181
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇧GB_61
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.189
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_62
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.199
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧GB
-  name: 14|🇬🇧GB_63
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 443
-  server: 82.38.31.57
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_64
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.217
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇧GB
-  name: 14|🇬🇧GB_65
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.210
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_66
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.205
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_67
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.82
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_68
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.66
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_69
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.62
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_70
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.61
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_71
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.192
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_72
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.149
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14,19|_NLyoyapai.com
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 443
-  server: 82.38.31.35
-  skip-cert-verify: false
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_74
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.208
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_75
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.191
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_76
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.187
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_77
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.186
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_78
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.2
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_79
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 443
-  server: 82.38.31.15
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_80
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 82.38.31.16
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_81
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.216
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: 🇬🇧GB
-  name: 14|🇬🇧GB_82
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.219
-  type: ss
 - alterId: 0
   cipher: auto
-  country: 🇧GB
-  h2-opts: {}
-  http-opts: {}
-  name: 14,26|英国 009
-  network: tcp
-  port: 180
-  server: 82.198.246.37
-  skip-cert-verify: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  country: 🇬🇧GB
-  h2-opts: {}
-  http-opts: {}
-  name: 14|🇧GB_85
+  name: 26|英国 009
   network: tcp
   port: 180
   server: 82.198.246.233
   skip-cert-verify: true
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  ws-path: /
 - alterId: 0
   cipher: auto
-  country: 🇬🇧GB
-  h2-opts: {}
-  http-opts: {}
-  name: 14,26|英国 008
+  name: 26|英国 010
   network: tcp
   port: 180
   server: 82.198.246.250
   skip-cert-verify: true
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  ws-path: /
-- country: 🇧GB
-  name: 14|🇬🇧GB_88
-  password: IL37892054
-  port: 443
-  server: upright-rhino.rooster465.autos
+- alterId: 0
+  cipher: auto
+  name: 26|英国 011
+  network: tcp
+  port: 180
+  server: 82.198.246.37
   skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇧GB
-  name: 14|🇧GB_89
-  password: PD07395842
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- cipher: aes-256-cfb
+  name: 27|🇬🇧_GB_英国_2
+  password: amazonskr05
   port: 443
-  server: pro-crane.rooster465.autos
+  server: 3.8.209.170
   skip-cert-verify: true
-  type: trojan
-  udp: true
-- country: 🇧GB
-  name: 14|🇧GB_90
-  password: LSS6HLnp7IeEEJUcox
-  port: 443
-  server: nl-1.tr202607.com
-  skip-cert-verify: true
-  type: trojan
+  type: ss
   udp: true
 proxy-groups:
 - name: 节点选择
@@ -427,56 +107,13 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 14|🇬🇧GB_78
-  - 26|韩国 007
-  - 14|🇬🇧GB_77
-  - 14|RU_165
-  - 14,19|_NLyoyapai.com
-  - 14|🇧GB_85
-  - 14|🇬🇧GB_64
-  - 14|🇬🇧GB_51
-  - 14|🇬🇧GB_71
-  - 14|🇬🇧GB_68
-  - 14|🇬🇧GB_48
-  - 14|🇬🇧GB_55
-  - 14|🇬🇧GB_79
-  - 14|🇬🇧GB_72
-  - 14|🇬🇧GB_49
-  - 14|🇬🇧GB_66
-  - 14|🇬🇧GB_74
-  - 14|🇧GB_61
-  - 14|🇬🇧GB_69
-  - 14|🇧GB_89
-  - 14|🇷FR_44
-  - 14|🇬🇧GB_53
-  - 14| GB_46
-  - 14|🇬🇧GB_63
-  - 14|🇬🇧GB_54
-  - 14|🇬🇧GB_50
-  - 14|🇧GB_90
-  - 14|🇬🇧GB_52
-  - 14|🇬🇧GB_81
-  - 14|🇬🇧GB_82
-  - 14|🇬🇧GB_67
-  - 27|🇫🇷_FR_法国
-  - 14|🇬🇧GB_70
-  - 14|🇬🇧GB_59
-  - 14|🇬🇧GB_88
-  - 14|🇬🇧GB_60
-  - 14|🇬🇧GB_65
-  - 14,26|英国 009
-  - 14|🇬🇧GB_75
-  - 14|🇬🇧GB_57
-  - 26|日本 020
-  - 14|🇬🇧GB_76
-  - 14|🇧GB_47
-  - 14|FR_42
-  - 14|🇫🇷FR_45
-  - 14|🇬🇧GB_56
-  - 14|🇷FR_43
-  - 14|🇬🇧GB_80
-  - 14|🇬🇧GB_62
-  - 14,26|英国 008
+  - 22,27|🇬🇧_GB_英国_1
+  - 26|英国 011
+  - 22,27|🇬🇧 英国 | GBR 2
+  - 26|英国 009
+  - 27|🇬🇧_GB_英国_2
+  - 26|英国 010
+  - 20|GB英国(mibei77.com 米贝节点分享)_1
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
