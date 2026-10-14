@@ -22,10 +22,10 @@ const dynamic_url = async () => {
     let data = new FormData()
     data.append('fileName', '星视界')
     data.append('uuid', 'abcdefgh-abcd-abcdefg12345')
-    const xsj_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
+    const xsj_52sw = await fetch('https://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
         .then(async response => {return await response.json()})
     data.set('fileName', '星视界2线')
-    const xsj2_52sw = await fetch('http://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
+    const xsj2_52sw = await fetch('https://www.52sw.top:678/play/oj1381/save_to_database.php', {method: 'POST', body: data})
       .then(async response => {return await response.json()}) // 'https://histar.zapi.us.kg/?list'
     result = [... await get_txt_list(xsj_52sw.url), ... await get_txt_list(xsj2_52sw.url)]
 
