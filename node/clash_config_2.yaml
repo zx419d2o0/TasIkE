@@ -32,30 +32,22 @@ dns:
     - 240.0.0.0/4
     - 0.0.0.0/32
 proxies:
-- name: 27|🇰🇷 韩国 | KOR
-  password: Trojan@82164024
-  port: 443
-  server: kr.tronsg.com
-  skip-cert-verify: true
-  sni: kr.tronsg.com
-  type: trojan
-  udp: true
-- cipher: aes-256-gcm
-  name: 22|A🟢🇸🇬res[🎬📺🎪]_dokng.com_cccad1b...
-  password: H3epGAIO5GGkhNJB
-  port: 8388
-  server: 103.136.68.30
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇸🇬[www.v2nodes.com] ss-SG-1581...
-  password: 9epp3o9ng8ej59uv
-  port: 14249
-  server: 45.128.12.20
-  type: ss
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 39|C🟠🇰🇷hos[📺🎞️]_dokng.com_3012d41...
+  network: http
+  port: 123
+  server: 43.108.103.167
+  tls: false
+  type: vmess
+  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
 - alpn:
   - http/1.1
-  name: 20|US美国(mibei77.com 米贝节点分享)_16
+  name: 37|US美国(mibei77.com 米贝节点分享)_16
   password: mitivpn
   port: 443
   server: 167.82.76.7
@@ -67,36 +59,22 @@ proxies:
     headers:
       Host: mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net
     path: /
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇩🇪[www.v2nodes.com] ss-DE-1592...
-  password: NcAXc0UZI6yQJE1p8QmOv8
-  port: 8388
-  server: 57.129.113.16
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇫🇷[www.v2nodes.com] ss-FR-1536...
-  password: BqnqToih0PbU
-  port: 8388
-  server: 51.255.13.232
-  type: ss
-- cipher: aes-256-cfb
-  name: 22|C🟠🇬🇧hos[🎬🤖🎭🎪]_dokng.com_cadeee...
-  password: amazonskr05
-  port: 443
-  server: 13.135.199.253
-  type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: 27|🇬🇧[www.v2nodes.com] ss-GB-1292...
+  name: 48|🇬🇧[www.v2nodes.com] ss-GB-1292...
   password: g5h5jleTRSyO3Rk4
-  port: 80
+  port: 443
   server: 149.102.132.184
   type: ss
-- cipher: aes-256-gcm
-  name: 27|🇬🇧[www.v2nodes.com] ss-GB-1247...
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 94.156.250.148
+- cipher: aes-256-cfb
+  name: 71|GB_London_Amazon Technologies ...
+  password: amazonskr05
+  plugin: none
+  plugin-opts:
+    obfs: plain
+    proto: origin
+    udp: '1'
+  port: 443
+  server: 13.40.23.129
   type: ss
 proxy-groups:
 - name: 节点选择
@@ -110,15 +88,10 @@ proxy-groups:
   type: url-test
   exclude-filter: (?i)中国|China|CN|电信|移动|联通
   proxies: &id001
-  - 27|🇸🇬[www.v2nodes.com] ss-SG-1581...
-  - 22|C🟠🇬🇧hos[🎬🤖🎭🎪]_dokng.com_cadeee...
-  - 27|🇩🇪[www.v2nodes.com] ss-DE-1592...
-  - 22|A🟢🇸🇬res[🎬📺🎪]_dokng.com_cccad1b...
-  - 27|🇬🇧[www.v2nodes.com] ss-GB-1247...
-  - 27|🇬🇧[www.v2nodes.com] ss-GB-1292...
-  - 27|🇰🇷 韩国 | KOR
-  - 27|🇫🇷[www.v2nodes.com] ss-FR-1536...
-  - 20|US美国(mibei77.com 米贝节点分享)_16
+  - 39|C🟠🇰🇷hos[📺🎞️]_dokng.com_3012d41...
+  - 37|US美国(mibei77.com 米贝节点分享)_16
+  - 71|GB_London_Amazon Technologies ...
+  - 48|🇬🇧[www.v2nodes.com] ss-GB-1292...
   url: http://www.pinterest.com
   interval: 300
   tolerance: 50
